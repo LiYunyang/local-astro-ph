@@ -95,7 +95,8 @@ def format_output(matched_records):
     for p in matched_records:
         out_str.append(f"- **{p['title']}**")
         out_str.append(f"[{p['link']}]")
-        _ += '; '.join([f"  + {a} ({idx}th author, {role})" for (a, idx, role) in p['local_match']])
+        
+        _ = '; '.join([f"  + {a} ({idx}th author, {role})" for (a, idx, role) in p['local_match']])
         _ += '\n'
         out_str.append(_)
     return '\n'.join(out_str)
