@@ -1,10 +1,11 @@
 # KICP astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct  7 05:10:42 UTC 2024)
+## Latest Astro-ph Papers (Generated on Mon Oct  7 05:12:22 UTC 2024)
 
 - **Connecting Lyman-$\alpha$ and ionizing photon escape in the Sunburst Arc**
 [https://arxiv.org/abs/2410.03660]
-  + Michael D. Gladders (9th author, Professor);   + Michael Gladders (9th author, Senior Member)
+  + Michael D. Gladders (9th author, Professor)
+  + Michael Gladders (9th author, Senior Member)
 
 - **JWST/NIRISS reveals the water-rich "steam world" atmosphere of GJ 9827 d**
 [https://arxiv.org/abs/2410.03527]
@@ -24,7 +25,8 @@
 
 - **All the Little Things in Abell 2744: $>$1000 Gravitationally Lensed Dwarf Galaxies at $z=0-9$ from JWST NIRCam Grism Spectroscopy**
 [https://arxiv.org/abs/2410.01874]
-  + Alexander Ji (21th author, Senior Member);   + Harley Katz (23th author, Senior Member)
+  + Alexander Ji (21th author, Senior Member)
+  + Harley Katz (23th author, Senior Member)
 
 - **Cosmological constraints using Minkowski functionals from the first year data of the Hyper Suprime-Cam**
 [https://arxiv.org/abs/2410.00401]
@@ -36,7 +38,8 @@
 
 - **The Compositions of Rocky Planets in Close-in Orbits Tend to be Earth-Like**
 [https://arxiv.org/abs/2410.00213]
-  + Jacob L. Bean (11th author, Professor);   + Madison Brady (13th author, Graduate Student)
+  + Jacob L. Bean (11th author, Professor)
+  + Madison Brady (13th author, Graduate Student)
 
 - **Where has all the $r$-process gone? Timescales for GRB-Kilonovae to Enrich their Host Galaxies**
 [https://arxiv.org/abs/2410.00095]
