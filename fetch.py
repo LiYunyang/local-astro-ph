@@ -115,8 +115,17 @@ def format_output(matched_records):
     for p in matched_records:
         out_str.append(f"- **{p['title']}**")
         out_str.append(f"[{p['link']}]")
-        _ = '\n'.join([f"  + {a} ({idx}th author, {role})" for (a, idx, role) in p['local_match']])
-        _ += '\n'.join([f"  + {a}? ({idx}th author, {role})" for (a, idx, role) in p['local_match_fuzzy']])
+        _  = list()
+        existing_idx = []
+        for (a, idx, role) in p['local_match']:
+            if idx not in existing_idx:
+                _.append(f"  + {a} ({idx}th author, {role})")
+                existing_idx.append(idx)
+        for (a, idx, role) in p['local_match_fuzzy']:
+            if idx not in existing_idx:
+                _.append(f"  + {a}? ({idx}th author, {role})")
+                existing_idx.append(idx)
+        _ = '\n'.join(_)
         _ += '\n'
         out_str.append(_)
     return '\n'.join(out_str)
