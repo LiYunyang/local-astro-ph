@@ -1,4 +1,4 @@
-name: Update README with Script Output
+name: Update New arXiv Papers
 
 on:
   push:
@@ -40,7 +40,7 @@ jobs:
       # Step 5: Update the README.md file with the script output
       - name: Update README.md
         run: |
-          echo "# KICP astro-ph listing" > README.md  # Add your static content
+          echo "# KICP/A&A astro-ph listing" > README.md  # Add your static content
           echo "" >> README.md
           echo "## Latest Astro-ph Papers (Generated on $(date))" >> README.md
           echo "" >> README.md
