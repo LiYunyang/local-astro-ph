@@ -14,7 +14,6 @@ def fetch_kicp():
     people = dict()
     for li in soup.find_all('li', class_='mix'):
         if 'staff' not in li['class']:  
-
             name = li.find('span').get_text(strip=True) if li.find('span') else 'No name available.'
             role = li.find('b').get_text(strip=True) if li.find('b') else 'No role available.'
             role = role.rstrip(', KICP')
@@ -92,12 +91,11 @@ def format_output(matched_records):
     date = datetime.datetime.now().strftime("%Y-%m-%d")
     out_str = []
     
-    out_str.append(f"Local authors matched with astro-ph papers on {date}")
-    
     for p in matched_records:
-        out_str.append(f"{p['title']}\n[{p['link']}]")
+        out_str.append(f"- **{p['title']}**")
+        out_str.append(f"[{p['link']}]")
         _ = "By: "
-        _ += ';'.join([f"{a} ({idx}th author, {role})" for (a, idx, role) in p['local_match']])
+        _ += '; '.join([f"{a} ({idx}th author, {role})" for (a, idx, role) in p['local_match']])
         _ += '\n'
         out_str.append(_)
     
