@@ -4,25 +4,25 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import unicodedata
-import datetime
 
 def fetch_kicp():
-    response = requests.get('https://kavlicosmo.uchicago.edu/people/')
-    response.raise_for_status()  # Check for HTTP errors
-    soup = BeautifulSoup(response.content, 'html.parser')
-
     people = dict()
-    for li in soup.find_all('li', class_='mix'):
-        if 'staff' not in li['class']:  
-            name = li.find('span').get_text(strip=True) if li.find('span') else 'No name available.'
-            role = li.find('b').get_text(strip=True) if li.find('b') else 'No role available.'
-            role = role.rstrip(', KICP')
-            name = re.sub(r'\s*\(.*?\)\s*', ' ', name).strip()
-            name = unicodedata.normalize('NFD', name)
-            name = ''.join(c for c in name if unicodedata.category(c) != 'Mn')
-            people[name] = role
-        else:
-            pass
+    for url in ['https://kavlicosmo.uchicago.edu/people/', 'https://astrophysics.uchicago.edu/people/']:
+        response = requests.get(url)
+        response.raise_for_status()  # Check for HTTP errors
+        soup = BeautifulSoup(response.content, 'html.parser')    
+        for li in soup.find_all('li', class_='mix'):
+            if 'staff' not in li['class']:  
+                name = li.find('span').get_text(strip=True) if li.find('span') else 'No name available.'
+                role = li.find('b').get_text(strip=True) if li.find('b') else 'No role available.'
+                role = role.split(',')[0]
+                name = re.sub(r'\s*\(.*?\)\s*', ' ', name).strip()
+                name = unicodedata.normalize('NFD', name)
+                name = ''.join(c for c in name if unicodedata.category(c) != 'Mn')
+                if name not in people:
+                    people[name] = role
+            else:
+                pass
     return people
 
 def get_local_authors(update=False):
@@ -35,6 +35,8 @@ def get_local_authors(update=False):
         authors = fetch_kicp()
         with open(fname, 'w') as f:
             yaml.dump(authors, f)
+        return authors
+
 
 def fetch_recent_astro_ph_papers():
     url = "https://arxiv.org/list/astro-ph/recent?skip=0&show=2000"
@@ -88,7 +90,6 @@ def match_local_authors(records, authors):
     return out
 
 def format_output(matched_records):
-    date = datetime.datetime.now().strftime("%Y-%m-%d")
     out_str = []
     
     for p in matched_records:
@@ -98,7 +99,6 @@ def format_output(matched_records):
         _ += '; '.join([f"{a} ({idx}th author, {role})" for (a, idx, role) in p['local_match']])
         _ += '\n'
         out_str.append(_)
-    
     return '\n'.join(out_str)
 
 if __name__ == '__main__':
