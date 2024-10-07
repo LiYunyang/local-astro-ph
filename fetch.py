@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import unicodedata
+import sys
 
 def fetch_kicp():
     people = dict()
@@ -17,6 +18,8 @@ def fetch_kicp():
                 role = li.find('b').get_text(strip=True) if li.find('b') else 'No role available.'
                 role = role.split(',')[0]
                 name = re.sub(r'\s*\(.*?\)\s*', ' ', name).strip()
+                name = re.sub(r'\s*\".*?\"\s*', ' ', name).strip()
+                name = re.sub(r'\s*\'.*?\'\s*', ' ', name).strip()
                 name = unicodedata.normalize('NFD', name)
                 name = ''.join(c for c in name if unicodedata.category(c) != 'Mn')
                 if name not in people:
@@ -26,12 +29,14 @@ def fetch_kicp():
     return people
 
 def get_local_authors(update=False):
+    
     fname = 'kicp-members.yaml'
     if os.path.exists(fname) and not update:
         with open(fname, 'r') as f:
             authors = yaml.load(f, Loader=yaml.FullLoader)
             return authors
     else:
+        print("updating local authors...")
         authors = fetch_kicp()
         with open(fname, 'w') as f:
             yaml.dump(authors, f)
@@ -68,24 +73,39 @@ def fetch_recent_astro_ph_papers():
 
 
 def name_match(n1, n2):
+    def is_first_initial(ns):
+        return len(ns[0]) == 2 and ns[0][-1]=='.'
+            
     n1s = n1.split(' ')
     n2s = n2.split(' ')
-    return n1s[0].lower()==n2s[0].lower() and n1s[-1].lower()==n2s[-1].lower()
+    last_same = n1s[-1].lower()==n2s[-1].lower()
+    if is_first_initial(n1s) or is_first_initial(n2s):
+        return n1s[0][0].lower()==n2s[0][0].lower() and last_same, True
+    return n1s[0].lower()==n2s[0].lower() and last_same, False
 
 def match_local_authors(records, authors):
     out = list()
     for p in records:
         _authors = p['authors'].split(', ')
         matched_authors = list()
+        matched_authors_fuzzy = list()
         for idx, a1 in enumerate(_authors):
             for a2, role in authors.items():
-                if name_match(a1, a2):
-                    matched_authors.append((a2, idx+1, role))
-                    continue
-        if matched_authors:
+                matched, fuzzy = name_match(a1, a2)
+                if matched:
+                    if not fuzzy:
+                        item = (a2, idx+1, role)
+                        matched_authors.append(item)
+                        if item in matched_authors_fuzzy:
+                            matched_authors_fuzzy.remove(item)
+                        continue
+                    if fuzzy:
+                        matched_authors_fuzzy.append((a2, idx+1, role))
+        if matched_authors or matched_authors_fuzzy:
             _ = p.copy()
             _.pop('authors')
             _['local_match'] = matched_authors
+            _['local_match_fuzzy'] = matched_authors_fuzzy
             out.append(_)
     return out
 
@@ -96,12 +116,16 @@ def format_output(matched_records):
         out_str.append(f"- **{p['title']}**")
         out_str.append(f"[{p['link']}]")
         _ = '\n'.join([f"  + {a} ({idx}th author, {role})" for (a, idx, role) in p['local_match']])
+        _ += '\n'.join([f"  + {a}? ({idx}th author, {role})" for (a, idx, role) in p['local_match_fuzzy']])
         _ += '\n'
         out_str.append(_)
     return '\n'.join(out_str)
 
 if __name__ == '__main__':
-    authors = get_local_authors()
+    update = False
+    if len(sys.argv) == 2:
+        update = sys.argv[1]=='-u'
+    authors = get_local_authors(update=update)
     records = fetch_recent_astro_ph_papers()
     matched_records = match_local_authors(records, authors)
     out = format_output(matched_records)
