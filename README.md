@@ -1,11 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct  7 18:17:07 UTC 2024)
+## Latest Astro-ph Papers (Generated on Mon Oct  7 18:25:10 UTC 2024)
 
 - **Connecting Lyman-$\alpha$ and ionizing photon escape in the Sunburst Arc**
 [https://arxiv.org/abs/2410.03660]
   + Michael D. Gladders (9th author, Professor)
-  + Michael Gladders (9th author, Senior Member)
 
 - **JWST/NIRISS reveals the water-rich "steam world" atmosphere of GJ 9827 d**
 [https://arxiv.org/abs/2410.03527]
