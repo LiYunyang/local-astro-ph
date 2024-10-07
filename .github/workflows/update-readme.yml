@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */6 * * *'  # Runs every day at midnight (adjust the cron expression if needed)
+    - cron: '0 */12 * * *'  # Runs every day at midnight (adjust the cron expression if needed)
 
 permissions:
   contents: write  # This grants write access to the repository contents
