@@ -1,4 +1,3 @@
 PyYAML
 requests
 bs4
-unicodedata
