@@ -88,24 +88,26 @@ def match_local_authors(records, authors):
             out.append(_)
     return out
 
-def format_and_print(matched_records):
+def format_output(matched_records):
     date = datetime.datetime.now().strftime("%Y-%m-%d")
-    print(f"Local authors matched with astro-ph papers on {date}")
-    print('=============================================')
+    out_str = []
+    
+    out_str.append(f"Local authors matched with astro-ph papers on {date}")
     
     for p in matched_records:
-        print(f"{p['title']}\n[{p['link']}]")
-        print("By: ", end='')
-        for j, (a, idx, role) in enumerate(p['local_match']):
-            print(f"{a} ({idx}th author, {role})", end='; ' if j<len(p['local_match'])-1 else '')
-        print()
-        print()
+        out_str.append(f"{p['title']}\n[{p['link']}]")
+        _ = "By: "
+        _ += ';'.join([f"{a} ({idx}th author, {role})" for (a, idx, role) in p['local_match']])
+        _ += '\n'
+        out_str.append(_)
+    
+    return '\n'.join(out_str)
 
 if __name__ == '__main__':
     authors = get_local_authors()
     records = fetch_recent_astro_ph_papers()
     matched_records = match_local_authors(records, authors)
-    format_and_print(matched_records)
-    
+    out = format_output(matched_records)
+    print(out)
     
     

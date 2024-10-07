@@ -1,0 +1,53 @@
+name: Update README with Script Output
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight (adjust the cron expression if needed)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # Step 3: Install dependencies (if you have any in a requirements.txt file)
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # Step 4: Run the script and capture its output
+      - name: Run the script
+        id: run-script
+        run: |
+          python fetch.py > output.txt  
+          cat output.txt
+
+      # Step 5: Update the README.md file with the script output
+      - name: Update README.md
+        run: |
+          echo "# KICP astro-ph listing" > README.md  # Add your static content
+          echo "" >> README.md
+          echo "## Latest Astro-ph Papers (Generated on $(date))" >> README.md
+          echo "" >> README.md
+          cat output.txt >> README.md
+
+      # Step 6: Commit and push the updated README.md
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with latest script output"
+          git push
