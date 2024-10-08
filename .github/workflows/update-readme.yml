@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */12 * * *'  # Runs every day at midnight (adjust the cron expression if needed)
+    - cron: '30 1,2 * * *'  
 
 permissions:
   contents: write  # This grants write access to the repository contents
@@ -30,16 +30,11 @@ jobs:
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # Step 4: Run the script and capture its output
-      - name: Run the script
-        id: run-script
+      - name: Update new listings
+        env:
+          TZ: America/Chicago  # Set your desired timezone here
         run: |
           python fetch.py > output.txt  
-          cat output.txt
-
-      # Step 5: Update the README.md file with the script output
-      - name: Update README.md
-        run: |
           echo "# KICP/A&A astro-ph listing" > README.md  # Add your static content
           echo "" >> README.md
           echo "## Latest Astro-ph Papers (Generated on $(date))" >> README.md
@@ -52,5 +47,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update README with latest script output"
+          git commit -m "[action] astro-ph auto update"
           git push
