@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct  7 21:57:47 CDT 2024)
+## Latest Astro-ph Papers (Generated on Tue Oct  8 21:07:44 CDT 2024)
+
+- **Gravitational Particle Production of Scalars: Analytic and Numerical Approaches Including Early Reheating**
+[https://arxiv.org/abs/2410.03938]
+  + Leah Jenks (1th author, KICP Fellow)
+  + Edward Kolb (2th author, Senior Member)
 
 - **Connecting Lyman-$\alpha$ and ionizing photon escape in the Sunburst Arc**
 [https://arxiv.org/abs/2410.03660]
@@ -56,8 +61,4 @@
 - **On Energization and Loss of the Ionized Heavy Atom and Molecule in Mars' Atmosphere**
 [https://arxiv.org/abs/2410.00832]
   + Juliang Li? (8th author, Postdoctoral Scholar)
-
-- **Promise and Peril: Stellar Contamination and Strict Limits on the Atmosphere Composition of TRAPPIST-1c from JWST NIRISS Transmission Spectra**
-[https://arxiv.org/abs/2409.19333]
-  + Michael Radica (1th author, Postdoctoral Scholar)
 
