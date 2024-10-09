@@ -42,7 +42,6 @@ def get_local_authors(update=False):
             yaml.dump(authors, f)
         return authors
 
-
 def fetch_recent_astro_ph_papers():
     url = "https://arxiv.org/list/astro-ph/recent?skip=0&show=2000"
 
@@ -59,11 +58,9 @@ def fetch_recent_astro_ph_papers():
         authors_div = article.find('div', class_='list-authors')
         authors = ', '.join([a.get_text() for a in authors_div.find_all('a')])
         
-        # Extract the corresponding link
         link_dt = article.find_previous('dt')
         link = "https://arxiv.org" + link_dt.find('a', title='Abstract')['href'] if link_dt and link_dt.find('a', title='Abstract') else 'No link available.'
 
-        # Append extracted data to records
         records.append({
             'title': title,
             'authors': authors,
@@ -139,5 +136,3 @@ if __name__ == '__main__':
     matched_records = match_local_authors(records, authors)
     out = format_output(matched_records)
     print(out)
-    
-    
