@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct  8 21:36:27 CDT 2024)
+## Latest Astro-ph Papers (Generated on Wed Oct  9 21:45:59 CDT 2024)
 
 - **Gravitational Particle Production of Scalars: Analytic and Numerical Approaches Including Early Reheating**
 [https://arxiv.org/abs/2410.03938]
