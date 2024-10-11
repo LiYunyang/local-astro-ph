@@ -1,6 +1,60 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct  9 21:45:59 CDT 2024)
+## Latest Astro-ph Papers (Generated on Thu Oct 10 21:32:55 CDT 2024)
+
+- **JWST-TST DREAMS: A Super-Solar Metallicity in WASP-17 b Dayside Atmosphere from NIRISS SOSS Eclipse Spectroscopy**
+[https://arxiv.org/abs/2410.08149]
+  + Michael Radica (8th author, Postdoctoral Scholar)
+
+- **BOWIE-ALIGN: JWST reveals hints of planetesimal accretion and complex sulphur chemistry in the atmosphere of the misaligned hot Jupiter WASP-15b**
+[https://arxiv.org/abs/2410.08116]
+  + Diana Powell (8th author, Assistant Professor)
+
+- **$\texttt{21cmLSTM}$: A Fast Memory-based Emulator of the Global 21 cm Signal with Unprecedented Accuracy**
+[https://arxiv.org/abs/2410.07619]
+  + Joann Jones? (1th author, Graduate Student)
+
+- **First Very Long Baseline Interferometry Detections at 870{\mu}m**
+[https://arxiv.org/abs/2410.07453]
+  + Bradford A. Benson (54th author, Associate Professor)
+  + John Carlstrom (64th author, Senior Member)
+  + Thomas Crawford (76th author, Senior Researcher)
+
+- **Energetic Particles from Quasi-Separatrix Layers and Current Sheets at the Sun**
+[https://arxiv.org/abs/2410.07420]
+  + Matthew Young (5th author, Associate Fellow)
+
+- **Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe**
+[https://arxiv.org/abs/2410.07307]
+  + Sunil Simha (3th author, Northwestern - UChicago Brinson Postdoctoral Fellow)
+
+- **Optical and near-infrared photometry of 94 type II supernovae from the Carnegie Supernova Project**
+[https://arxiv.org/abs/2410.06738]
+  + Barry Madore? (33th author, Associate)
+
+- **A multi-channel silicon package for large-scale skipper-CCD experiments**
+[https://arxiv.org/abs/2410.06417]
+  + Ana Martina Botti? (1th author, Associate Fellow)
+  + Guillermo Fernandez-Moroni? (12th author, CASE Associate)
+  + Juan  Estrada? (13th author, Senior Associate)
+
+- **Cherenkov Photon Background for Low-Noise Silicon Detectors in Space**
+[https://arxiv.org/abs/2410.06261]
+  + Alex Drlica-Wagner (3th author, Senior Member)
+  + Guillermo Fernandez-Moroni (4th author, CASE Associate)
+  + Juan  Estrada (9th author, Senior Associate)
+
+- **Ultrahigh-energy neutrinos as a probe of espresso-shear acceleration in jets of Centaurus A**
+[https://arxiv.org/abs/2410.05696]
+  + Damiano Caprioli (2th author, Associate Professor)
+
+- **Whole-disk sampling of molecular clouds in M83**
+[https://arxiv.org/abs/2410.05424]
+  + Barry Madore (16th author, Associate)
+
+- **A long spin period for a sub-Neptune-mass exoplanet**
+[https://arxiv.org/abs/2410.05408]
+  + Leslie Rogers (4th author, Associate Professor)
 
 - **Gravitational Particle Production of Scalars: Analytic and Numerical Approaches Including Early Reheating**
 [https://arxiv.org/abs/2410.03938]
@@ -35,30 +89,4 @@
 - **Study of magnetic reconnection at low-$\beta$ using laser-powered capacitor coils**
 [https://arxiv.org/abs/2410.02138]
   + Kenichi Sakai? (4th author, Research Scientist)
-
-- **Discovery and Spectroscopic Confirmation of Aquarius III: A Low-Mass Milky Way Satellite Galaxy**
-[https://arxiv.org/abs/2410.00981]
-  + Anirudh Chiti? (2th author, Brinson Prize Fellow)
-  + Alex Drlica-Wagner? (5th author, Senior Member)
-
-- **Cosmological constraints using Minkowski functionals from the first year data of the Hyper Suprime-Cam**
-[https://arxiv.org/abs/2410.00401]
-  + Gabriela Marques (2th author, Associate Fellow)
-
-- **Cross Correlating the Unresolved Gamma-Ray Background with Cosmic Large-Scale Structure from DESI: Implications for Astrophysics and Dark Matter**
-[https://arxiv.org/abs/2410.00375]
-  + Bei Zhou (1th author, Associate Fellow)
-
-- **The Compositions of Rocky Planets in Close-in Orbits Tend to be Earth-Like**
-[https://arxiv.org/abs/2410.00213]
-  + Jacob L. Bean (11th author, Professor)
-  + Madison Brady (13th author, Graduate Student)
-
-- **Where has all the $r$-process gone? Timescales for GRB-Kilonovae to Enrich their Host Galaxies**
-[https://arxiv.org/abs/2410.00095]
-  + Alexander Ji (2th author, Senior Member)
-
-- **On Energization and Loss of the Ionized Heavy Atom and Molecule in Mars' Atmosphere**
-[https://arxiv.org/abs/2410.00832]
-  + Juliang Li? (8th author, Postdoctoral Scholar)
 
