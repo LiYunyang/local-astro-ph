@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Oct 11 21:59:16 CDT 2024)
+## Latest Astro-ph Papers (Generated on Sat Oct 12 21:37:48 CDT 2024)
 
 - **JWST-TST DREAMS: A Super-Solar Metallicity in WASP-17 b Dayside Atmosphere from NIRISS SOSS Eclipse Spectroscopy**
 [https://arxiv.org/abs/2410.08149]
