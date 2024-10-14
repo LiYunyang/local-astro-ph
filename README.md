@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct 13 21:36:49 CDT 2024)
+## Latest Astro-ph Papers (Generated on Sun Oct 13 22:05:43 CDT 2024)
 
 - **Eridanus III and DELVE 1: Carbon-rich Primordial Star Clusters or the Smallest Dwarf Galaxies?**
 [https://arxiv.org/abs/2410.08276]
