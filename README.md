@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct 12 22:05:31 CDT 2024)
+## Latest Astro-ph Papers (Generated on Sun Oct 13 21:36:49 CDT 2024)
+
+- **Eridanus III and DELVE 1: Carbon-rich Primordial Star Clusters or the Smallest Dwarf Galaxies?**
+[https://arxiv.org/abs/2410.08276]
+  + Alexander Ji (3th author, Senior Member)
+  + Alex Drlica-Wagner (9th author, Senior Member)
 
 - **JWST-TST DREAMS: A Super-Solar Metallicity in WASP-17 b Dayside Atmosphere from NIRISS SOSS Eclipse Spectroscopy**
 [https://arxiv.org/abs/2410.08149]
@@ -68,25 +73,4 @@
 - **JWST/NIRISS reveals the water-rich "steam world" atmosphere of GJ 9827 d**
 [https://arxiv.org/abs/2410.03527]
   + Michael Radica (3th author, Postdoctoral Scholar)
-
-- **BEBOP VI. Enabling the detection of circumbinary planets orbiting double-lined binaries with the DOLBY method of radial-velocity extraction**
-[https://arxiv.org/abs/2410.02573]
-  + David Martin (11th author, Graduate Student)
-
-- **Optical galaxy cluster mock catalogs with realistic projection effects: validations with the SDSS redMaPPer clusters**
-[https://arxiv.org/abs/2410.02497]
-  + Chun-Hao To (9th author, Associate Fellow)
-
-- **The spatially resolved relation between dust, gas, and metal abundance with the TYPHOON survey**
-[https://arxiv.org/abs/2410.02222]
-  + Barry Madore (7th author, Associate)
-
-- **All the Little Things in Abell 2744: $>$1000 Gravitationally Lensed Dwarf Galaxies at $z=0-9$ from JWST NIRCam Grism Spectroscopy**
-[https://arxiv.org/abs/2410.01874]
-  + Alexander Ji (21th author, Senior Member)
-  + Harley Katz (23th author, Senior Member)
-
-- **Study of magnetic reconnection at low-$\beta$ using laser-powered capacitor coils**
-[https://arxiv.org/abs/2410.02138]
-  + Kenichi Sakai? (4th author, Research Scientist)
 
