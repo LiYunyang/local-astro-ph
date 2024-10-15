@@ -1,7 +1,18 @@
 # KICP/A&A astro-ph listing
 
+## Latest Astro-ph Papers (Generated on Mon Oct 14 22:40:07 CDT 2024)
 
-## Latest Astro-ph Papers (Generated on Mon Oct 14 22:03:29 CDT 2024)
+- **Lens Modeling of STRIDES Strongly Lensed Quasars using Neural Posterior Estimation**
+[https://arxiv.org/abs/2410.10123]
+  + Anowar Shajib (10th author, KICP and Einstein Fellow)
+
+- **Follow-up timing of 12 pulsars discovered in Commensal Radio Astronomy FAST Survey**
+[https://arxiv.org/abs/2410.09518]
+  + Yunyang Li? (37th author, KICP Fellow)
+
+- **Measuring Star Formation Histories from Asymptotic Giant Branch Stars: A Demonstration in M31**
+[https://arxiv.org/abs/2410.09256]
+  + Abigail Lee (1th author, Graduate Student)
 
 - **Eridanus III and DELVE 1: Carbon-rich Primordial Star Clusters or the Smallest Dwarf Galaxies?**
 [https://arxiv.org/abs/2410.08276]
@@ -66,12 +77,4 @@
 [https://arxiv.org/abs/2410.03938]
   + Leah Jenks (1th author, KICP Fellow)
   + Edward Kolb (2th author, Senior Member)
-
-- **Connecting Lyman-$\alpha$ and ionizing photon escape in the Sunburst Arc**
-[https://arxiv.org/abs/2410.03660]
-  + Michael D. Gladders (9th author, Professor)
-
-- **JWST/NIRISS reveals the water-rich "steam world" atmosphere of GJ 9827 d**
-[https://arxiv.org/abs/2410.03527]
-  + Michael Radica (3th author, Postdoctoral Scholar)
 
