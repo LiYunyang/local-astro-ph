@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 14 22:40:07 CDT 2024)
+## Latest Astro-ph Papers (Generated on Tue Oct 15 21:36:24 CDT 2024)
+
+- **The Thermal Emission Spectrum of the Nearby Rocky Exoplanet LTT 1445A b from JWST MIRI/LRS**
+[https://arxiv.org/abs/2410.10987]
+  + Michael Zhang (6th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Qiao Xue (7th author, Graduate Student)
 
 - **Lens Modeling of STRIDES Strongly Lensed Quasars using Neural Posterior Estimation**
 [https://arxiv.org/abs/2410.10123]
@@ -72,9 +77,4 @@
 - **A long spin period for a sub-Neptune-mass exoplanet**
 [https://arxiv.org/abs/2410.05408]
   + Leslie Rogers (4th author, Associate Professor)
-
-- **Gravitational Particle Production of Scalars: Analytic and Numerical Approaches Including Early Reheating**
-[https://arxiv.org/abs/2410.03938]
-  + Leah Jenks (1th author, KICP Fellow)
-  + Edward Kolb (2th author, Senior Member)
 
