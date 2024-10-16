@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 15 21:36:24 CDT 2024)
+## Latest Astro-ph Papers (Generated on Tue Oct 15 22:04:26 CDT 2024)
 
 - **The Thermal Emission Spectrum of the Nearby Rocky Exoplanet LTT 1445A b from JWST MIRI/LRS**
 [https://arxiv.org/abs/2410.10987]
