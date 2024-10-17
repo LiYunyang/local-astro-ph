@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 16 21:34:18 CDT 2024)
+## Latest Astro-ph Papers (Generated on Wed Oct 16 22:02:16 CDT 2024)
 
 - **BICEP/Keck XVIII: Measurement of BICEP3 polarization angles and consequences for constraining cosmic birefringence and inflation**
 [https://arxiv.org/abs/2410.12089]
