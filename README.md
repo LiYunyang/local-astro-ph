@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 15 22:04:26 CDT 2024)
+## Latest Astro-ph Papers (Generated on Wed Oct 16 21:34:18 CDT 2024)
+
+- **BICEP/Keck XVIII: Measurement of BICEP3 polarization angles and consequences for constraining cosmic birefringence and inflation**
+[https://arxiv.org/abs/2410.12089]
+  + Abigail Vieregg? (75th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (81th author, KICP Fellow)
 
 - **The Thermal Emission Spectrum of the Nearby Rocky Exoplanet LTT 1445A b from JWST MIRI/LRS**
 [https://arxiv.org/abs/2410.10987]
@@ -49,32 +54,4 @@
 - **Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe**
 [https://arxiv.org/abs/2410.07307]
   + Sunil Simha (3th author, Northwestern - UChicago Brinson Postdoctoral Fellow)
-
-- **Optical and near-infrared photometry of 94 type II supernovae from the Carnegie Supernova Project**
-[https://arxiv.org/abs/2410.06738]
-  + Barry Madore? (33th author, Associate)
-
-- **A multi-channel silicon package for large-scale skipper-CCD experiments**
-[https://arxiv.org/abs/2410.06417]
-  + Ana Martina Botti? (1th author, Associate Fellow)
-  + Guillermo Fernandez-Moroni? (12th author, CASE Associate)
-  + Juan  Estrada? (13th author, Senior Associate)
-
-- **Cherenkov Photon Background for Low-Noise Silicon Detectors in Space**
-[https://arxiv.org/abs/2410.06261]
-  + Alex Drlica-Wagner (3th author, Senior Member)
-  + Guillermo Fernandez-Moroni (4th author, CASE Associate)
-  + Juan  Estrada (9th author, Senior Associate)
-
-- **Ultrahigh-energy neutrinos as a probe of espresso-shear acceleration in jets of Centaurus A**
-[https://arxiv.org/abs/2410.05696]
-  + Damiano Caprioli (2th author, Associate Professor)
-
-- **Whole-disk sampling of molecular clouds in M83**
-[https://arxiv.org/abs/2410.05424]
-  + Barry Madore (16th author, Associate)
-
-- **A long spin period for a sub-Neptune-mass exoplanet**
-[https://arxiv.org/abs/2410.05408]
-  + Leslie Rogers (4th author, Associate Professor)
 
