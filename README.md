@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Oct 18 22:01:01 CDT 2024)
+## Latest Astro-ph Papers (Generated on Sat Oct 19 21:39:49 CDT 2024)
 
 - **Wavelet analysis of low-frequency quasi-periodic oscillations in MAXI J1803$-$298 observed with Insight-HXMT and NICER**
 [https://arxiv.org/abs/2410.13367]
