@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct 19 22:07:30 CDT 2024)
+## Latest Astro-ph Papers (Generated on Sun Oct 20 21:37:14 CDT 2024)
+
+- **First results from the JWST Early Release Science Program Q3D: The Fast Outflow in a Red Quasar at z=0.44**
+[https://arxiv.org/abs/2410.14291]
+  + Hsiao-Wen Chen (14th author, Senior Member)
+
+- **Black Holes Inside and Out 2024: visions for the future of black hole physics**
+[https://arxiv.org/abs/2410.14414]
+  + Robert Wald (30th author, Senior Member)
 
 - **Wavelet analysis of low-frequency quasi-periodic oscillations in MAXI J1803$-$298 observed with Insight-HXMT and NICER**
 [https://arxiv.org/abs/2410.13367]
@@ -31,9 +39,4 @@
 - **Measuring Star Formation Histories from Asymptotic Giant Branch Stars: A Demonstration in M31**
 [https://arxiv.org/abs/2410.09256]
   + Abigail Lee (1th author, Graduate Student)
-
-- **Eridanus III and DELVE 1: Carbon-rich Primordial Star Clusters or the Smallest Dwarf Galaxies?**
-[https://arxiv.org/abs/2410.08276]
-  + Alexander Ji (3th author, Senior Member)
-  + Alex Drlica-Wagner (9th author, Senior Member)
 
