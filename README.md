@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct 20 22:06:07 CDT 2024)
+## Latest Astro-ph Papers (Generated on Mon Oct 21 21:34:38 CDT 2024)
 
 - **First results from the JWST Early Release Science Program Q3D: The Fast Outflow in a Red Quasar at z=0.44**
 [https://arxiv.org/abs/2410.14291]
