@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 22 21:33:56 CDT 2024)
+## Latest Astro-ph Papers (Generated on Tue Oct 22 22:01:59 CDT 2024)
 
 - **Cosmic Ray Mediated Thermal Fronts in the Warm-Hot Circumgalactic Medium**
 [https://arxiv.org/abs/2410.17252]
