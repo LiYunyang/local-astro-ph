@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 21 22:50:52 CDT 2024)
+## Latest Astro-ph Papers (Generated on Tue Oct 22 21:33:56 CDT 2024)
+
+- **Cosmic Ray Mediated Thermal Fronts in the Warm-Hot Circumgalactic Medium**
+[https://arxiv.org/abs/2410.17252]
+  + Hanjue Zhu (1th author, Graduate Student)
+  + Nickolay Gnedin (3th author, Senior Member)
+
+- **AEOS: Star-by-Star Cosmological Simulations of Early Chemical Enrichment and Galaxy Formation**
+[https://arxiv.org/abs/2410.16366]
+  + Alexander Ji (4th author, Senior Member)
+
+- **A Novel high-z submm Galaxy Efficient Line Survey in ALMA bands 3 through 8 -- An ANGELS Pilot**
+[https://arxiv.org/abs/2410.16351]
+  + Katie Harrington? (12th author, Senior Associate)
+
+- **Domain-Adaptive Neural Posterior Estimation for Strong Gravitational Lens Analysis**
+[https://arxiv.org/abs/2410.16347]
+  + Brian Nord (4th author, Senior Associate)
 
 - **Early Bright Galaxies from Helium Enhancements in High-Redshift Star Clusters**
 [https://arxiv.org/abs/2410.14846]
@@ -37,9 +54,4 @@
 [https://arxiv.org/abs/2410.12089]
   + Abigail Vieregg? (75th author, David N. Schramm Director and Senior Member)
   + Cyndia Yu? (81th author, KICP Fellow)
-
-- **The Thermal Emission Spectrum of the Nearby Rocky Exoplanet LTT 1445A b from JWST MIRI/LRS**
-[https://arxiv.org/abs/2410.10987]
-  + Michael Zhang (6th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Qiao Xue (7th author, Graduate Student)
 
