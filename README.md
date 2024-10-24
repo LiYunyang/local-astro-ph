@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 23 21:33:47 CDT 2024)
+## Latest Astro-ph Papers (Generated on Wed Oct 23 22:01:46 CDT 2024)
 
 - **Under the magnifying glass: A combined 3D model applied to cloudy warm Saturn type exoplanets around M-dwarfs**
 [https://arxiv.org/abs/2410.17716]
