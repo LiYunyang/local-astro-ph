@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 22 22:01:59 CDT 2024)
+## Latest Astro-ph Papers (Generated on Wed Oct 23 21:33:47 CDT 2024)
+
+- **Under the magnifying glass: A combined 3D model applied to cloudy warm Saturn type exoplanets around M-dwarfs**
+[https://arxiv.org/abs/2410.17716]
+  + Dominic Samra (3th author, Postdoctoral Scholar)
+
+- **Chemical Abundances in the Leiptr Stellar Stream: A Disrupted Ultra-faint Dwarf Galaxy?**
+[https://arxiv.org/abs/2410.17312]
+  + Alexander Ji (3th author, Senior Member)
 
 - **Cosmic Ray Mediated Thermal Fronts in the Warm-Hot Circumgalactic Medium**
 [https://arxiv.org/abs/2410.17252]
@@ -49,9 +57,4 @@
 - **The Affleck-Dine Curvaton**
 [https://arxiv.org/abs/2410.13712]
   + Gordan Krnjaic (2th author, Senior Member)
-
-- **BICEP/Keck XVIII: Measurement of BICEP3 polarization angles and consequences for constraining cosmic birefringence and inflation**
-[https://arxiv.org/abs/2410.12089]
-  + Abigail Vieregg? (75th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (81th author, KICP Fellow)
 
