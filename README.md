@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 23 22:01:46 CDT 2024)
+## Latest Astro-ph Papers (Generated on Thu Oct 24 21:35:29 CDT 2024)
+
+- **SENSEI at SNOLAB: Single-Electron Event Rate and Implications for Dark Matter**
+[https://arxiv.org/abs/2410.18716]
+  + Ana Martina Botti (2th author, Associate Fellow)
+  + Alex Drlica-Wagner (8th author, Senior Member)
+  + Juan  Estrada (10th author, Senior Associate)
+  + Nathan Saffold (20th author, Associate Fellow)
+  + Edgar Marrufo Villalpando (26th author, Graduate Student)
+
+- **Architecture of TOI-561 planetary system**
+[https://arxiv.org/abs/2410.18169]
+  + Rafael Luque? (14th author, Postdoctoral Scholar)
 
 - **Under the magnifying glass: A combined 3D model applied to cloudy warm Saturn type exoplanets around M-dwarfs**
 [https://arxiv.org/abs/2410.17716]
@@ -49,12 +61,4 @@
 - **Black Holes Inside and Out 2024: visions for the future of black hole physics**
 [https://arxiv.org/abs/2410.14414]
   + Robert Wald (30th author, Senior Member)
-
-- **Wavelet analysis of low-frequency quasi-periodic oscillations in MAXI J1803$-$298 observed with Insight-HXMT and NICER**
-[https://arxiv.org/abs/2410.13367]
-  + Hanjue Zhu? (3th author, Graduate Student)
-
-- **The Affleck-Dine Curvaton**
-[https://arxiv.org/abs/2410.13712]
-  + Gordan Krnjaic (2th author, Senior Member)
 
