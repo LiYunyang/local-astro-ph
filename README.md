@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Oct 24 21:35:29 CDT 2024)
+## Latest Astro-ph Papers (Generated on Thu Oct 24 22:04:37 CDT 2024)
 
 - **SENSEI at SNOLAB: Single-Electron Event Rate and Implications for Dark Matter**
 [https://arxiv.org/abs/2410.18716]
