@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct 27 21:39:05 CDT 2024)
+## Latest Astro-ph Papers (Generated on Sun Oct 27 22:07:11 CDT 2024)
 
 - **Cold day-side winds shape large leading streams in evaporating exoplanet atmospheres**
 [https://arxiv.org/abs/2410.19381]
