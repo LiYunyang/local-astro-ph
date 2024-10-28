@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct 26 22:06:35 CDT 2024)
+## Latest Astro-ph Papers (Generated on Sun Oct 27 21:39:05 CDT 2024)
+
+- **Cold day-side winds shape large leading streams in evaporating exoplanet atmospheres**
+[https://arxiv.org/abs/2410.19381]
+  + Zhuowen Zhang? (6th author, Graduate Student)
+
+- **Observed Gravitational-Wave Populations**
+[https://arxiv.org/abs/2410.19145]
+  + Thomas Callister? (1th author, KICP and Schmidt Fellow)
+
+- **The Roasting Marshmallows Program with IGRINS on Gemini South II -- WASP-121 b has super-stellar C/O and refractory-to-volatile ratios**
+[https://arxiv.org/abs/2410.19017]
+  + Jacob L. Bean (10th author, Professor)
 
 - **SENSEI at SNOLAB: Single-Electron Event Rate and Implications for Dark Matter**
 [https://arxiv.org/abs/2410.18716]
@@ -12,7 +24,7 @@
 
 - **Architecture of TOI-561 planetary system**
 [https://arxiv.org/abs/2410.18169]
-  + Rafael Luque? (14th author, Postdoctoral Scholar)
+  + Rafael Luque? (16th author, Postdoctoral Scholar)
 
 - **Under the magnifying glass: A combined 3D model applied to cloudy warm Saturn type exoplanets around M-dwarfs**
 [https://arxiv.org/abs/2410.17716]
@@ -53,12 +65,4 @@
 [https://arxiv.org/abs/2410.16086]
   + LianTao Wang? (12th author, Senior Member)
   + LianTao Wang? (14th author, Senior Member)
-
-- **First results from the JWST Early Release Science Program Q3D: The Fast Outflow in a Red Quasar at z=0.44**
-[https://arxiv.org/abs/2410.14291]
-  + Hsiao-Wen Chen (14th author, Senior Member)
-
-- **Black Holes Inside and Out 2024: visions for the future of black hole physics**
-[https://arxiv.org/abs/2410.14414]
-  + Robert Wald (30th author, Senior Member)
 
