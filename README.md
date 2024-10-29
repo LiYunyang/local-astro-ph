@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 28 21:36:21 CDT 2024)
+## Latest Astro-ph Papers (Generated on Mon Oct 28 22:04:21 CDT 2024)
+
+- **Analysis of the possible detection of the pulsar wind nebulae of PSR J1208-6238, J1341-6220, J1838-0537 and J1844-0346**
+[https://arxiv.org/abs/2410.21038]
+  + Juliang Li? (4th author, Postdoctoral Scholar)
+
+- **Revised Masses for Low Density Planets Orbiting the Disordered M-dwarf System TOI-1266**
+[https://arxiv.org/abs/2410.20282]
+  + Jacob L. Bean (6th author, Professor)
+  + Madison Brady (7th author, Graduate Student)
+  + Rafael Luque (8th author, Postdoctoral Scholar)
+
+- **Improving Galaxy Cluster Selection with the Outskirt Stellar Mass of Galaxies**
+[https://arxiv.org/abs/2410.20205]
+  + Joshua A. Frieman? (28th author, Chair)
+  + Marco Gatti? (30th author, KICP Fellow)
+  + Giulia Giannini? (32th author, Associate Fellow)
 
 - **Cold day-side winds shape large leading streams in evaporating exoplanet atmospheres**
 [https://arxiv.org/abs/2410.19381]
@@ -50,19 +66,4 @@
 - **Domain-Adaptive Neural Posterior Estimation for Strong Gravitational Lens Analysis**
 [https://arxiv.org/abs/2410.16347]
   + Brian Nord (4th author, Senior Associate)
-
-- **Early Bright Galaxies from Helium Enhancements in High-Redshift Star Clusters**
-[https://arxiv.org/abs/2410.14846]
-  + Harley Katz (1th author, Senior Member)
-  + Alexander Ji (2th author, Senior Member)
-
-- **Resolving turbulence drivers in luminous obscured quasars with JWST/NIRSpec IFU**
-[https://arxiv.org/abs/2410.14785]
-  + Mandy Chen (1th author, Graduate Student)
-  + Hsiao-Wen Chen (2th author, Senior Member)
-
-- **Enhanced $S$-factor for the $^{14}$N$(p,\gamma)^{15}$O reaction and its impact on the solar composition problem**
-[https://arxiv.org/abs/2410.16086]
-  + LianTao Wang? (12th author, Senior Member)
-  + LianTao Wang? (14th author, Senior Member)
 
