@@ -1,6 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 28 22:04:21 CDT 2024)
+## Latest Astro-ph Papers (Generated on Tue Oct 29 21:35:21 CDT 2024)
+
+- **Dark Energy Survey Year 3: Blue Shear**
+[https://arxiv.org/abs/2410.22272]
+  + Scott Dodelson? (10th author, Senior Associate)
+  + Alex Drlica-Wagner? (18th author, Senior Member)
+  + Chihway Chang? (31th author, Senior Member)
+  + Chun-Hao To? (33th author, Associate Fellow)
+  + Giulia Giannini? (51th author, Associate Fellow)
+  + Joshua A. Frieman? (66th author, Chair)
+  + Marco Gatti? (80th author, KICP Fellow)
+
+- **The realm of Aurora. Density distribution of metal-poor giants in the heart of the Galaxy**
+[https://arxiv.org/abs/2410.22250]
+  + Andrey Kravtsov (4th author, Senior Member)
+
+- **Modeling the Cosmic Dispersion Measure in the D < 120 Mpc Local Universe**
+[https://arxiv.org/abs/2410.22098]
+  + Sunil Simha (4th author, Northwestern - UChicago Brinson Postdoctoral Fellow)
+
+- **Blind source separation of the stellar halo**
+[https://arxiv.org/abs/2410.21365]
+  + Andrey Kravtsov (3th author, Senior Member)
 
 - **Analysis of the possible detection of the pulsar wind nebulae of PSR J1208-6238, J1341-6220, J1838-0537 and J1844-0346**
 [https://arxiv.org/abs/2410.21038]
@@ -49,21 +71,4 @@
 - **Chemical Abundances in the Leiptr Stellar Stream: A Disrupted Ultra-faint Dwarf Galaxy?**
 [https://arxiv.org/abs/2410.17312]
   + Alexander Ji (3th author, Senior Member)
-
-- **Cosmic Ray Mediated Thermal Fronts in the Warm-Hot Circumgalactic Medium**
-[https://arxiv.org/abs/2410.17252]
-  + Hanjue Zhu (1th author, Graduate Student)
-  + Nickolay Gnedin (3th author, Senior Member)
-
-- **AEOS: Star-by-Star Cosmological Simulations of Early Chemical Enrichment and Galaxy Formation**
-[https://arxiv.org/abs/2410.16366]
-  + Alexander Ji (4th author, Senior Member)
-
-- **A Novel high-z submm Galaxy Efficient Line Survey in ALMA bands 3 through 8 -- An ANGELS Pilot**
-[https://arxiv.org/abs/2410.16351]
-  + Katie Harrington? (12th author, Senior Associate)
-
-- **Domain-Adaptive Neural Posterior Estimation for Strong Gravitational Lens Analysis**
-[https://arxiv.org/abs/2410.16347]
-  + Brian Nord (4th author, Senior Associate)
 
