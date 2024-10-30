@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 29 21:35:21 CDT 2024)
+## Latest Astro-ph Papers (Generated on Tue Oct 29 22:03:37 CDT 2024)
 
 - **Dark Energy Survey Year 3: Blue Shear**
 [https://arxiv.org/abs/2410.22272]
