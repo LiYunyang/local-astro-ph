@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 30 21:36:37 CDT 2024)
+## Latest Astro-ph Papers (Generated on Wed Oct 30 22:04:30 CDT 2024)
 
 - **Near-Earth Asteroids as the parents of the $\delta$-Cancrid Meteoroid Stream**
 [https://arxiv.org/abs/2410.22543]
