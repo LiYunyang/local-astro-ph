@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 29 22:03:37 CDT 2024)
+## Latest Astro-ph Papers (Generated on Wed Oct 30 21:36:37 CDT 2024)
+
+- **Near-Earth Asteroids as the parents of the $\delta$-Cancrid Meteoroid Stream**
+[https://arxiv.org/abs/2410.22543]
+  + Michael Zhang? (2th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Retrievals on NIRCam transmission and emission spectra of HD 189733b with PLATON 6, a GPU code for the JWST era**
+[https://arxiv.org/abs/2410.22398]
+  + Michael Zhang (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Jacob L. Bean (3th author, Professor)
 
 - **Dark Energy Survey Year 3: Blue Shear**
 [https://arxiv.org/abs/2410.22272]
@@ -63,12 +72,4 @@
 - **Architecture of TOI-561 planetary system**
 [https://arxiv.org/abs/2410.18169]
   + Rafael Luque? (16th author, Postdoctoral Scholar)
-
-- **Under the magnifying glass: A combined 3D model applied to cloudy warm Saturn type exoplanets around M-dwarfs**
-[https://arxiv.org/abs/2410.17716]
-  + Dominic Samra (3th author, Postdoctoral Scholar)
-
-- **Chemical Abundances in the Leiptr Stellar Stream: A Disrupted Ultra-faint Dwarf Galaxy?**
-[https://arxiv.org/abs/2410.17312]
-  + Alexander Ji (3th author, Senior Member)
 
