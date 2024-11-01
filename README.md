@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 30 22:04:30 CDT 2024)
+## Latest Astro-ph Papers (Generated on Thu Oct 31 21:43:09 CDT 2024)
+
+- **Observable CMB Tensor Modes from Cosmological Phase Transitions**
+[https://arxiv.org/abs/2410.23348]
+  + Gordan Krnjaic (3th author, Senior Member)
+
+- **The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A**
+[https://arxiv.org/abs/2410.23336]
+  + Sunil Simha? (5th author, Northwestern - UChicago Brinson Postdoctoral Fellow)
 
 - **Near-Earth Asteroids as the parents of the $\delta$-Cancrid Meteoroid Stream**
 [https://arxiv.org/abs/2410.22543]
@@ -60,16 +68,4 @@
 - **The Roasting Marshmallows Program with IGRINS on Gemini South II -- WASP-121 b has super-stellar C/O and refractory-to-volatile ratios**
 [https://arxiv.org/abs/2410.19017]
   + Jacob L. Bean (10th author, Professor)
-
-- **SENSEI at SNOLAB: Single-Electron Event Rate and Implications for Dark Matter**
-[https://arxiv.org/abs/2410.18716]
-  + Ana Martina Botti (2th author, Associate Fellow)
-  + Alex Drlica-Wagner (8th author, Senior Member)
-  + Juan  Estrada (10th author, Senior Associate)
-  + Nathan Saffold (20th author, Associate Fellow)
-  + Edgar Marrufo Villalpando (26th author, Graduate Student)
-
-- **Architecture of TOI-561 planetary system**
-[https://arxiv.org/abs/2410.18169]
-  + Rafael Luque? (16th author, Postdoctoral Scholar)
 
