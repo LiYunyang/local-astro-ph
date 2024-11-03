@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Nov  2 21:38:45 CDT 2024)
+## Latest Astro-ph Papers (Generated on Sat Nov  2 22:07:00 CDT 2024)
 
 - **Observable CMB Tensor Modes from Cosmological Phase Transitions**
 [https://arxiv.org/abs/2410.23348]
