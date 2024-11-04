@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov  3 20:38:05 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Nov  3 21:06:39 CST 2024)
 
 - **Observable CMB Tensor Modes from Cosmological Phase Transitions**
 [https://arxiv.org/abs/2410.23348]
@@ -56,16 +56,4 @@
   + Joshua A. Frieman? (28th author, Chair)
   + Marco Gatti? (30th author, KICP Fellow)
   + Giulia Giannini? (32th author, Associate Fellow)
-
-- **Cold day-side winds shape large leading streams in evaporating exoplanet atmospheres**
-[https://arxiv.org/abs/2410.19381]
-  + Zhuowen Zhang? (6th author, Graduate Student)
-
-- **Observed Gravitational-Wave Populations**
-[https://arxiv.org/abs/2410.19145]
-  + Thomas Callister? (1th author, KICP and Schmidt Fellow)
-
-- **The Roasting Marshmallows Program with IGRINS on Gemini South II -- WASP-121 b has super-stellar C/O and refractory-to-volatile ratios**
-[https://arxiv.org/abs/2410.19017]
-  + Jacob L. Bean (10th author, Professor)
 
