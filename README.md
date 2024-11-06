@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov  4 20:59:22 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Nov  5 20:30:43 CST 2024)
+
+- **Connecting dust and outflows in AGN: the intriguing case of NGC 6860**
+[https://arxiv.org/abs/2411.02270]
+  + Daniele Rogantini (3th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **New Cold Subdwarf Discoveries from Backyard Worlds and a Metallicity Classification System for T Subdwarfs**
+[https://arxiv.org/abs/2411.01378]
+  + David Martin (29th author, Graduate Student)
 
 - **Observable CMB Tensor Modes from Cosmological Phase Transitions**
 [https://arxiv.org/abs/2410.23348]
@@ -40,20 +48,4 @@
 - **Blind source separation of the stellar halo**
 [https://arxiv.org/abs/2410.21365]
   + Andrey Kravtsov (3th author, Senior Member)
-
-- **Analysis of the possible detection of the pulsar wind nebulae of PSR J1208-6238, J1341-6220, J1838-0537 and J1844-0346**
-[https://arxiv.org/abs/2410.21038]
-  + Juliang Li? (4th author, Postdoctoral Scholar)
-
-- **Revised Masses for Low Density Planets Orbiting the Disordered M-dwarf System TOI-1266**
-[https://arxiv.org/abs/2410.20282]
-  + Jacob L. Bean (6th author, Professor)
-  + Madison Brady (7th author, Graduate Student)
-  + Rafael Luque (8th author, Postdoctoral Scholar)
-
-- **Improving Galaxy Cluster Selection with the Outskirt Stellar Mass of Galaxies**
-[https://arxiv.org/abs/2410.20205]
-  + Joshua A. Frieman? (28th author, Chair)
-  + Marco Gatti? (30th author, KICP Fellow)
-  + Giulia Giannini? (32th author, Associate Fellow)
 
