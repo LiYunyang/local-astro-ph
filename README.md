@@ -1,6 +1,40 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov  6 20:31:51 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Nov  6 21:00:55 CST 2024)
+
+- **X-ray and optical analysis of the distant, merging double cluster SPT-CLJ2228-5828, its gas bridge, and shock front**
+[https://arxiv.org/abs/2411.03833]
+  + Lindsey Bleem? (7th author, Senior Associate)
+
+- **Little Red Dots at an Inflection Point: Ubiquitous "V-Shaped" Turnover Consistently Occurs at the Balmer Limit**
+[https://arxiv.org/abs/2411.03424]
+  + Harley Katz (10th author, Senior Member)
+
+- **Detection of Thermal Emission at Millimeter Wavelengths from Low-Earth Orbit Satellites**
+[https://arxiv.org/abs/2411.03374]
+  + Adam Anderson? (6th author, Senior Associate)
+  + Melanie Archipley? (8th author, Associate Fellow)
+  + Amy Bender? (15th author, Senior Associate)
+  + Bradford A. Benson? (16th author, Associate Professor)
+  + Lindsey Bleem? (18th author, Senior Associate)
+  + John Carlstrom? (23th author, Senior Member)
+  + Chihway Chang? (26th author, Senior Member)
+  + Paul Chichura? (29th author, Graduate Student)
+  + Thomas Crawford? (34th author, Senior Researcher)
+  + Karia Dibert? (39th author, Graduate Student)
+  + Kyra Fichman? (47th author, Graduate Student)
+  + John Hood? (66th author, Associate Fellow)
+  + Alexander Hryciuk? (68th author, Graduate Student)
+  + Anna Kofman? (78th author, Associate Fellow)
+  + Kayla Kornoelje? (80th author, Graduate Student)
+  + Abigail Lee? (84th author, Graduate Student)
+  + Emily Martsen? (90th author, Graduate Student)
+  + Tyler Natoli? (97th author, Senior Researcher)
+
+- **Neural Network Prediction of Strong Lensing Systems with Domain Adaptation and Uncertainty Quantification**
+[https://arxiv.org/abs/2411.03334]
+  + Shrihan Agarwal (1th author, Graduate Student)
+  + Brian Nord (3th author, Senior Associate)
 
 - **How the StarDICE photometric calibration of standard stars can improve cosmological constraints?**
 [https://arxiv.org/abs/2411.03256]
@@ -38,13 +72,4 @@
 - **The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A**
 [https://arxiv.org/abs/2410.23336]
   + Sunil Simha? (5th author, Northwestern - UChicago Brinson Postdoctoral Fellow)
-
-- **Near-Earth Asteroids as the parents of the $\delta$-Cancrid Meteoroid Stream**
-[https://arxiv.org/abs/2410.22543]
-  + Michael Zhang? (2th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Retrievals on NIRCam transmission and emission spectra of HD 189733b with PLATON 6, a GPU code for the JWST era**
-[https://arxiv.org/abs/2410.22398]
-  + Michael Zhang (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Jacob L. Bean (3th author, Professor)
 
