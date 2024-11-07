@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov  5 20:58:32 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Nov  6 20:31:51 CST 2024)
 
 - **How the StarDICE photometric calibration of standard stars can improve cosmological constraints?**
 [https://arxiv.org/abs/2411.03256]
