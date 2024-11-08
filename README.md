@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov  6 21:00:55 CST 2024)
+## Latest Astro-ph Papers (Generated on Thu Nov  7 20:31:59 CST 2024)
 
 - **X-ray and optical analysis of the distant, merging double cluster SPT-CLJ2228-5828, its gas bridge, and shock front**
 [https://arxiv.org/abs/2411.03833]
