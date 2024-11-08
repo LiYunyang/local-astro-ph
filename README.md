@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov  7 20:31:59 CST 2024)
+## Latest Astro-ph Papers (Generated on Thu Nov  7 20:59:46 CST 2024)
+
+- **A Compact, Coherent Representation of Stellar Surface Variation in the Spectral Domain**
+[https://arxiv.org/abs/2411.04947]
+  + Lily Zhao (1th author, Sagan Fellow)
+
+- **J1721+8842: The first Einstein zig-zag lens**
+[https://arxiv.org/abs/2411.04177]
+  + Anowar Shajib? (6th author, KICP and Einstein Fellow)
+
+- **MAUVE: An Ultraviolet Astrophysics Probe Mission Concept**
+[https://arxiv.org/abs/2411.04164]
+  + Keith McBride (9th author, Associate Fellow)
+  + Rachel Scrandis (15th author, Graduate Student)
 
 - **X-ray and optical analysis of the distant, merging double cluster SPT-CLJ2228-5828, its gas bridge, and shock front**
 [https://arxiv.org/abs/2411.03833]
@@ -64,12 +77,4 @@
 - **New Cold Subdwarf Discoveries from Backyard Worlds and a Metallicity Classification System for T Subdwarfs**
 [https://arxiv.org/abs/2411.01378]
   + David Martin (29th author, Graduate Student)
-
-- **Observable CMB Tensor Modes from Cosmological Phase Transitions**
-[https://arxiv.org/abs/2410.23348]
-  + Gordan Krnjaic (3th author, Senior Member)
-
-- **The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A**
-[https://arxiv.org/abs/2410.23336]
-  + Sunil Simha? (5th author, Northwestern - UChicago Brinson Postdoctoral Fellow)
 
