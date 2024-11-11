@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Nov  9 21:02:20 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Nov 10 20:33:29 CST 2024)
 
 - **A Compact, Coherent Representation of Stellar Surface Variation in the Spectral Domain**
 [https://arxiv.org/abs/2411.04947]
