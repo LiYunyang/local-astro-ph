@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov 10 20:33:29 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Nov 10 21:01:01 CST 2024)
+
+- **Understanding Streaming Instabilities in the Limit of High Cosmic Ray Current Density**
+[https://arxiv.org/abs/2411.05704]
+  + Emily Lichko (1th author, Postdoctoral Scholar)
+  + Damiano Caprioli (2th author, Associate Professor)
+  + Benedikt Schroer (3th author, Postdoctoral Scholar)
+
+- **Probing the He II re-Ionization ERa via Absorbing C IV Historical Yield (HIERACHY) II: Project Design, Current Status, and Examples of Initial Data Products**
+[https://arxiv.org/abs/2411.05396]
+  + Zhijie Qu (6th author, Associate Fellow)
 
 - **A Compact, Coherent Representation of Stellar Surface Variation in the Spectral Domain**
 [https://arxiv.org/abs/2411.04947]
@@ -25,24 +35,27 @@
 
 - **Detection of Thermal Emission at Millimeter Wavelengths from Low-Earth Orbit Satellites**
 [https://arxiv.org/abs/2411.03374]
-  + Adam Anderson? (6th author, Senior Associate)
-  + Melanie Archipley? (8th author, Associate Fellow)
-  + Amy Bender? (15th author, Senior Associate)
-  + Bradford A. Benson? (16th author, Associate Professor)
-  + Lindsey Bleem? (18th author, Senior Associate)
-  + John Carlstrom? (23th author, Senior Member)
-  + Chihway Chang? (26th author, Senior Member)
-  + Paul Chichura? (29th author, Graduate Student)
-  + Thomas Crawford? (34th author, Senior Researcher)
-  + Karia Dibert? (39th author, Graduate Student)
-  + Kyra Fichman? (47th author, Graduate Student)
-  + John Hood? (66th author, Associate Fellow)
-  + Alexander Hryciuk? (68th author, Graduate Student)
-  + Anna Kofman? (78th author, Associate Fellow)
-  + Kayla Kornoelje? (80th author, Graduate Student)
-  + Abigail Lee? (84th author, Graduate Student)
-  + Emily Martsen? (90th author, Graduate Student)
-  + Tyler Natoli? (97th author, Senior Researcher)
+  + Adam Anderson? (3th author, Senior Associate)
+  + Melanie Archipley? (5th author, Associate Fellow)
+  + Amy Bender? (8th author, Senior Associate)
+  + Bradford A. Benson? (10th author, Associate Professor)
+  + Lindsey Bleem? (12th author, Senior Associate)
+  + John Carlstrom? (16th author, Senior Member)
+  + Chihway Chang? (17th author, Senior Member)
+  + Paul Chichura? (19th author, Graduate Student)
+  + Thomas Crawford? (22th author, Senior Researcher)
+  + Karia Dibert? (25th author, Graduate Student)
+  + Kyra Fichman? (32th author, Graduate Student)
+  + John Hood? (45th author, Associate Fellow)
+  + Alexander Hryciuk? (46th author, Graduate Student)
+  + Kayla Kornoelje? (52th author, Graduate Student)
+  + Emily Martsen? (58th author, Graduate Student)
+  + Tyler Natoli? (63th author, Senior Researcher)
+  + Yuuki Omori? (65th author, Senior Researcher)
+  + Alexandra Rahlin? (74th author, Research Assistant Professor)
+  + Joshua Sobrin? (79th author, Associate Fellow)
+  + Matthew Young? (91th author, Associate Fellow)
+  + Jessica Zebrowski? (92th author, KICP and Einstein Fellow)
 
 - **Neural Network Prediction of Strong Lensing Systems with Domain Adaptation and Uncertainty Quantification**
 [https://arxiv.org/abs/2411.03334]
