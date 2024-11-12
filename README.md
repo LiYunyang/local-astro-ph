@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov 10 21:01:01 CST 2024)
+## Latest Astro-ph Papers (Generated on Mon Nov 11 20:29:44 CST 2024)
 
 - **Understanding Streaming Instabilities in the Limit of High Cosmic Ray Current Density**
 [https://arxiv.org/abs/2411.05704]
