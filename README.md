@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 12 20:32:18 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Nov 12 21:00:06 CST 2024)
+
+- **Peering into the black box: forward-modeling the uncertainty budget of high-resolution spectroscopy of exoplanet atmospheres**
+[https://arxiv.org/abs/2411.07303]
+  + Jacob L. Bean (5th author, Professor)
+  + Lily Zhao (6th author, Sagan Fellow)
+
+- **The Impact of Star Formation and Feedback Recipes on the Stellar Mass and Interstellar Medium of High-Redshift Galaxies**
+[https://arxiv.org/abs/2411.07282]
+  + Harley Katz (1th author, Senior Member)
 
 - **Search for Extended GeV Sources in the Inner Galactic Plane**
 [https://arxiv.org/abs/2411.07162]
@@ -93,25 +102,4 @@
 [https://arxiv.org/abs/2411.03334]
   + Shrihan Agarwal (1th author, Graduate Student)
   + Brian Nord (3th author, Senior Associate)
-
-- **How the StarDICE photometric calibration of standard stars can improve cosmological constraints?**
-[https://arxiv.org/abs/2411.03256]
-  + Mckenzie Ferrari? (9th author, Graduate Student)
-
-- **A resolved Lyman-Alpha profile with doubly peaked emission at z~7**
-[https://arxiv.org/abs/2411.03222]
-  + Wayne Hu? (5th author, Senior Member)
-
-- **Dinosaur in a Haystack : X-ray View of the Entrails of SN 2023ixf and the Radio Afterglow of Its Interaction with the Medium Spawned by the Progenitor Star (Paper 1)**
-[https://arxiv.org/abs/2411.02647]
-  + Ava Polzin (27th author, Graduate Student)
-
-- **The impact of observing cadence and undetected companions on the accuracy of planet mass measurements from radial velocity monitoring**
-[https://arxiv.org/abs/2411.02521]
-  + Rafael Luque (2th author, Postdoctoral Scholar)
-
-- **HD 119130 b is not an "ultra-dense" sub-Neptune**
-[https://arxiv.org/abs/2411.02518]
-  + Rafael Luque (2th author, Postdoctoral Scholar)
-  + Madison Brady (6th author, Graduate Student)
 
