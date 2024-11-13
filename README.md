@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 12 10:01:08 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Nov 12 20:32:18 CST 2024)
 
 - **Search for Extended GeV Sources in the Inner Galactic Plane**
 [https://arxiv.org/abs/2411.07162]
