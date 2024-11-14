@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 13 20:33:11 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Nov 13 21:01:21 CST 2024)
 
 - **Peering into the black box: forward-modeling the uncertainty budget of high-resolution spectroscopy of exoplanet atmospheres**
 [https://arxiv.org/abs/2411.07303]
@@ -65,41 +65,4 @@
 [https://arxiv.org/abs/2411.04164]
   + Keith McBride (9th author, Associate Fellow)
   + Rachel Scrandis (15th author, Graduate Student)
-
-- **X-ray and optical analysis of the distant, merging double cluster SPT-CLJ2228-5828, its gas bridge, and shock front**
-[https://arxiv.org/abs/2411.03833]
-  + Lindsey Bleem? (7th author, Senior Associate)
-
-- **Little Red Dots at an Inflection Point: Ubiquitous "V-Shaped" Turnover Consistently Occurs at the Balmer Limit**
-[https://arxiv.org/abs/2411.03424]
-  + Harley Katz (10th author, Senior Member)
-
-- **Detection of Thermal Emission at Millimeter Wavelengths from Low-Earth Orbit Satellites**
-[https://arxiv.org/abs/2411.03374]
-  + Adam Anderson? (3th author, Senior Associate)
-  + Melanie Archipley? (5th author, Associate Fellow)
-  + Amy Bender? (8th author, Senior Associate)
-  + Bradford A. Benson? (10th author, Associate Professor)
-  + Lindsey Bleem? (12th author, Senior Associate)
-  + John Carlstrom? (16th author, Senior Member)
-  + Chihway Chang? (17th author, Senior Member)
-  + Paul Chichura? (19th author, Graduate Student)
-  + Thomas Crawford? (22th author, Senior Researcher)
-  + Karia Dibert? (25th author, Graduate Student)
-  + Kyra Fichman? (32th author, Graduate Student)
-  + John Hood? (45th author, Associate Fellow)
-  + Alexander Hryciuk? (46th author, Graduate Student)
-  + Kayla Kornoelje? (52th author, Graduate Student)
-  + Emily Martsen? (58th author, Graduate Student)
-  + Tyler Natoli? (63th author, Senior Researcher)
-  + Yuuki Omori? (65th author, Senior Researcher)
-  + Alexandra Rahlin? (74th author, Research Assistant Professor)
-  + Joshua Sobrin? (79th author, Associate Fellow)
-  + Matthew Young? (91th author, Associate Fellow)
-  + Jessica Zebrowski? (92th author, KICP and Einstein Fellow)
-
-- **Neural Network Prediction of Strong Lensing Systems with Domain Adaptation and Uncertainty Quantification**
-[https://arxiv.org/abs/2411.03334]
-  + Shrihan Agarwal (1th author, Graduate Student)
-  + Brian Nord (3th author, Senior Associate)
 
