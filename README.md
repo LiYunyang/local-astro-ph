@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 12 21:00:06 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Nov 13 20:33:11 CST 2024)
 
 - **Peering into the black box: forward-modeling the uncertainty budget of high-resolution spectroscopy of exoplanet atmospheres**
 [https://arxiv.org/abs/2411.07303]
