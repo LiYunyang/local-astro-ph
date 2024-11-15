@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 13 21:01:21 CST 2024)
+## Latest Astro-ph Papers (Generated on Thu Nov 14 20:40:28 CST 2024)
+
+- **$S^5$: New insights from deep spectroscopic observations of the tidal tails of the globular clusters NGC 1261 and NGC 1904**
+[https://arxiv.org/abs/2411.08991]
+  + Alexander Ji (15th author, Senior Member)
+  + Guilherme Limberg (21th author, KICP Fellow)
 
 - **Peering into the black box: forward-modeling the uncertainty budget of high-resolution spectroscopy of exoplanet atmospheres**
 [https://arxiv.org/abs/2411.07303]
@@ -52,17 +57,4 @@
 - **Probing the He II re-Ionization ERa via Absorbing C IV Historical Yield (HIERACHY) II: Project Design, Current Status, and Examples of Initial Data Products**
 [https://arxiv.org/abs/2411.05396]
   + Zhijie Qu (6th author, Associate Fellow)
-
-- **A Compact, Coherent Representation of Stellar Surface Variation in the Spectral Domain**
-[https://arxiv.org/abs/2411.04947]
-  + Lily Zhao (1th author, Sagan Fellow)
-
-- **J1721+8842: The first Einstein zig-zag lens**
-[https://arxiv.org/abs/2411.04177]
-  + Anowar Shajib? (6th author, KICP and Einstein Fellow)
-
-- **MAUVE: An Ultraviolet Astrophysics Probe Mission Concept**
-[https://arxiv.org/abs/2411.04164]
-  + Keith McBride (9th author, Associate Fellow)
-  + Rachel Scrandis (15th author, Graduate Student)
 
