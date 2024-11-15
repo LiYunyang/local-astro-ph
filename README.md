@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 14 20:40:28 CST 2024)
+## Latest Astro-ph Papers (Generated on Thu Nov 14 21:08:49 CST 2024)
 
 - **$S^5$: New insights from deep spectroscopic observations of the tidal tails of the globular clusters NGC 1261 and NGC 1904**
 [https://arxiv.org/abs/2411.08991]
