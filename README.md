@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Nov 16 21:11:56 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Nov 17 20:42:58 CST 2024)
+
+- **BICEP/Keck XIX: Extremely Thin Composite Polymer Vacuum Windows for BICEP and Other High Throughput Millimeter Wave Telescopes**
+[https://arxiv.org/abs/2411.10428]
+  + Abigail Vieregg? (84th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (90th author, KICP Fellow)
+
+- **A Small Brown Dwarf in an Aligned Orbit around a Young, Fully-Convective M Star**
+[https://arxiv.org/abs/2411.10402]
+  + Madison Brady? (1th author, Graduate Student)
+  + Jacob L. Bean? (2th author, Professor)
+  + Ritvik Basant? (6th author, Graduate Student)
+  + Tanya Das? (7th author, Postdoctoral Scholar)
+  + Rafael Luque? (8th author, Postdoctoral Scholar)
 
 - **$S^5$: New insights from deep spectroscopic observations of the tidal tails of the globular clusters NGC 1261 and NGC 1904**
 [https://arxiv.org/abs/2411.08991]
@@ -48,13 +61,4 @@
   + Joshua Sobrin? (83th author, Associate Fellow)
   + Matthew Young? (95th author, Associate Fellow)
   + Jessica Zebrowski? (96th author, KICP and Einstein Fellow)
-
-- **Understanding Streaming Instabilities in the Limit of High Cosmic Ray Current Density**
-[https://arxiv.org/abs/2411.05704]
-  + Damiano Caprioli (2th author, Associate Professor)
-  + Benedikt Schroer (3th author, Postdoctoral Scholar)
-
-- **Probing the He II re-Ionization ERa via Absorbing C IV Historical Yield (HIERACHY) II: Project Design, Current Status, and Examples of Initial Data Products**
-[https://arxiv.org/abs/2411.05396]
-  + Zhijie Qu (6th author, Associate Fellow)
 
