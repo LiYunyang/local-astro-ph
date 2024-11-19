@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov 17 21:11:39 CST 2024)
+## Latest Astro-ph Papers (Generated on Mon Nov 18 20:40:27 CST 2024)
 
 - **BICEP/Keck XIX: Extremely Thin Composite Polymer Vacuum Windows for BICEP and Other High Throughput Millimeter Wave Telescopes**
 [https://arxiv.org/abs/2411.10428]
