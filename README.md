@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 19 20:37:05 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Nov 19 20:39:12 CST 2024)
 
 - **The Black Hole$-$Stellar Mass Relation in the Dwarf-galaxy Regime with $Gaia$-Sausage/Enceladus and $\omega$Centauri**
 [https://arxiv.org/abs/2411.11251]
