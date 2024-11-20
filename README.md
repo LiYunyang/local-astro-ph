@@ -1,6 +1,34 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 19 20:39:12 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Nov 19 21:07:58 CST 2024)
+
+- **High-Efficiency and Low-Noise Detectors for the Upgraded CLASS 90 GHz Focal Plane**
+[https://arxiv.org/abs/2411.12705]
+  + Rahul Datta (3th author, Research Scientist)
+  + Yunyang Li (16th author, KICP Fellow)
+
+- **Modified Gravity Constraints from the Full Shape Modeling of Clustering Measurements from DESI 2024**
+[https://arxiv.org/abs/2411.12026]
+  + Georgios Valogiannis? (5th author, Associate Fellow)
+
+- **DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements**
+[https://arxiv.org/abs/2411.12022]
+  + Elizabeth Buckley-Geer? (30th author, Senior Associate)
+  + Stephen Kent? (96th author, CASE Associate)
+
+- **DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars**
+[https://arxiv.org/abs/2411.12021]
+  + Elizabeth Buckley-Geer? (27th author, Senior Associate)
+  + Stephen Kent? (89th author, CASE Associate)
+
+- **DESI 2024 II: Sample Definitions, Characteristics, and Two-point Clustering Statistics**
+[https://arxiv.org/abs/2411.12020]
+  + Elizabeth Buckley-Geer? (28th author, Senior Associate)
+  + Stephen Kent? (92th author, CASE Associate)
+
+- **A Novel Density Profile for Isothermal Cores of Dark Matter Halos**
+[https://arxiv.org/abs/2411.11945]
+  + Daniel Gilman (4th author, Associate Fellow)
 
 - **The Black Hole$-$Stellar Mass Relation in the Dwarf-galaxy Regime with $Gaia$-Sausage/Enceladus and $\omega$Centauri**
 [https://arxiv.org/abs/2411.11251]
@@ -23,13 +51,4 @@
 [https://arxiv.org/abs/2411.08991]
   + Alexander Ji (15th author, Senior Member)
   + Guilherme Limberg (21th author, KICP Fellow)
-
-- **Peering into the black box: forward-modeling the uncertainty budget of high-resolution spectroscopy of exoplanet atmospheres**
-[https://arxiv.org/abs/2411.07303]
-  + Jacob L. Bean (5th author, Professor)
-  + Lily Zhao (6th author, Sagan Fellow)
-
-- **The Impact of Star Formation and Feedback Recipes on the Stellar Mass and Interstellar Medium of High-Redshift Galaxies**
-[https://arxiv.org/abs/2411.07282]
-  + Harley Katz (1th author, Senior Member)
 
