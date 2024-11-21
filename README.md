@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 20 20:39:23 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Nov 20 21:07:53 CST 2024)
 
 - **Instrument design and performance of the first seven stations of RNO-G**
 [https://arxiv.org/abs/2411.12922]
