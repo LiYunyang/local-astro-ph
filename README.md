@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 19 21:07:58 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Nov 20 20:39:23 CST 2024)
+
+- **Instrument design and performance of the first seven stations of RNO-G**
+[https://arxiv.org/abs/2411.12922]
+  + Shrihan Agarwal? (1th author, Graduate Student)
+  + Nathaniel Alden? (3th author, Graduate Student)
+  + Cosmin Deaconu? (20th author, Senior Researcher)
+  + Eric Oberla? (52th author, Senior Researcher)
+  + Abigail Vieregg? (73th author, David N. Schramm Director and Senior Member)
+  + Christoph Welling? (75th author, KICP Fellow)
+  + Philipp Windischhofer? (77th author, Associate Fellow)
 
 - **High-Efficiency and Low-Noise Detectors for the Upgraded CLASS 90 GHz Focal Plane**
 [https://arxiv.org/abs/2411.12705]
