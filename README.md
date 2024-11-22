@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 21 20:40:25 CST 2024)
+## Latest Astro-ph Papers (Generated on Thu Nov 21 21:09:01 CST 2024)
+
+- **Aeos: Transport of metals from minihalos following Population III stellar feedback**
+[https://arxiv.org/abs/2411.14209]
+  + Alexander Ji (5th author, Senior Member)
+
+- **Detecting electromagnetic counterparts to LIGO/Virgo/KAGRA gravitational wave events with DECam: Neutron Star Mergers**
+[https://arxiv.org/abs/2411.13673]
+  + Amanda Farah (3th author, Graduate Student)
 
 - **Instrument design and performance of the first seven stations of RNO-G**
 [https://arxiv.org/abs/2411.12922]
@@ -56,9 +64,4 @@
   + Ritvik Basant? (6th author, Graduate Student)
   + Tanya Das? (7th author, Postdoctoral Scholar)
   + Rafael Luque? (8th author, Postdoctoral Scholar)
-
-- **$S^5$: New insights from deep spectroscopic observations of the tidal tails of the globular clusters NGC 1261 and NGC 1904**
-[https://arxiv.org/abs/2411.08991]
-  + Alexander Ji (15th author, Senior Member)
-  + Guilherme Limberg (21th author, KICP Fellow)
 
