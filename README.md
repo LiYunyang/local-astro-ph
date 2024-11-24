@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Nov 23 20:44:23 CST 2024)
+## Latest Astro-ph Papers (Generated on Sat Nov 23 21:13:07 CST 2024)
 
 - **Aeos: Transport of metals from minihalos following Population III stellar feedback**
 [https://arxiv.org/abs/2411.14209]
