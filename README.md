@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Nov 23 21:13:07 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Nov 24 20:42:32 CST 2024)
+
+- **Radii, masses, and transit-timing variations of the three-planet system orbiting the naked-eye star TOI-396**
+[https://arxiv.org/abs/2411.14911]
+  + Rafael Luque? (24th author, Postdoctoral Scholar)
+
+- **Bayesian "Deep" Process Convolutions: An Application in Cosmology**
+[https://arxiv.org/abs/2411.14747]
+  + Salman Habib (9th author, Senior Associate)
+  + Katrin Heitmann (10th author, Senior Associate)
+
+- **Galaxy Clustering with LSST: Effects of Number Count Bias from Blending**
+[https://arxiv.org/abs/2411.14564]
+  + Chihway Chang (3th author, Senior Member)
+
+- **Hitting the slopes: A spectroscopic view of UV continuum slopes of galaxies reveals a reddening at z > 9.5**
+[https://arxiv.org/abs/2411.14532]
+  + Harley Katz (3th author, Senior Member)
 
 - **Aeos: Transport of metals from minihalos following Population III stellar feedback**
 [https://arxiv.org/abs/2411.14209]
@@ -51,17 +68,4 @@
 - **The Black Hole$-$Stellar Mass Relation in the Dwarf-galaxy Regime with $Gaia$-Sausage/Enceladus and $\omega$Centauri**
 [https://arxiv.org/abs/2411.11251]
   + Guilherme Limberg (1th author, KICP Fellow)
-
-- **BICEP/Keck XIX: Extremely Thin Composite Polymer Vacuum Windows for BICEP and Other High Throughput Millimeter Wave Telescopes**
-[https://arxiv.org/abs/2411.10428]
-  + Abigail Vieregg? (84th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (90th author, KICP Fellow)
-
-- **A Small Brown Dwarf in an Aligned Orbit around a Young, Fully-Convective M Star**
-[https://arxiv.org/abs/2411.10402]
-  + Madison Brady? (1th author, Graduate Student)
-  + Jacob L. Bean? (2th author, Professor)
-  + Ritvik Basant? (6th author, Graduate Student)
-  + Tanya Das? (7th author, Postdoctoral Scholar)
-  + Rafael Luque? (8th author, Postdoctoral Scholar)
 
