@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 25 20:41:20 CST 2024)
+## Latest Astro-ph Papers (Generated on Mon Nov 25 21:10:18 CST 2024)
 
 - **Radii, masses, and transit-timing variations of the three-planet system orbiting the naked-eye star TOI-396**
 [https://arxiv.org/abs/2411.14911]
