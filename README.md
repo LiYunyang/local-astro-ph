@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 25 21:10:18 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Nov 26 20:43:40 CST 2024)
+
+- **A Sound Horizon-Free Measurement of $H_0$ in DESI 2024**
+[https://arxiv.org/abs/2411.16677]
+  + Chun-Hao To? (10th author, Associate Fellow)
+  + Elizabeth Buckley-Geer? (15th author, Senior Associate)
 
 - **Radii, masses, and transit-timing variations of the three-planet system orbiting the naked-eye star TOI-396**
 [https://arxiv.org/abs/2411.14911]
@@ -64,8 +69,4 @@
 - **A Novel Density Profile for Isothermal Cores of Dark Matter Halos**
 [https://arxiv.org/abs/2411.11945]
   + Daniel Gilman (4th author, Associate Fellow)
-
-- **The Black Hole$-$Stellar Mass Relation in the Dwarf-galaxy Regime with $Gaia$-Sausage/Enceladus and $\omega$Centauri**
-[https://arxiv.org/abs/2411.11251]
-  + Guilherme Limberg (1th author, KICP Fellow)
 
