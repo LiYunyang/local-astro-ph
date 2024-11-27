@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 26 20:43:40 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Nov 26 21:12:21 CST 2024)
+
+- **Validating the Orbital Periods of the Coolest TESS Exoplanet Candidates**
+[https://arxiv.org/abs/2411.17640]
+  + Daniel Fabrycky (2th author, Professor)
+
+- **A Gigaparsec-Scale Hydrodynamic Volume Reconstructed with Deep Learning**
+[https://arxiv.org/abs/2411.16920]
+  + Salman Habib (6th author, Senior Associate)
+
+- **Water-rich sub-Neptunes and rocky super Earths around different Stars: Radii shaped by Volatile Partitioning, Formation, and Evolution**
+[https://arxiv.org/abs/2411.16879]
+  + Rafael Luque (4th author, Postdoctoral Scholar)
+
+- **OrCAS: Origins, Compositions, and Atmospheres of Sub-neptunes. I. Survey Definition**
+[https://arxiv.org/abs/2411.16836]
+  + Rafael Luque (6th author, Postdoctoral Scholar)
+
+- **Euclid: Searches for strong gravitational lenses using convolutional neural nets in Early Release Observations of the Perseus field**
+[https://arxiv.org/abs/2411.16808]
+  + Diana Powell? (59th author, Assistant Professor)
 
 - **A Sound Horizon-Free Measurement of $H_0$ in DESI 2024**
 [https://arxiv.org/abs/2411.16677]
@@ -41,32 +61,4 @@
   + Abigail Vieregg? (73th author, David N. Schramm Director and Senior Member)
   + Christoph Welling? (75th author, KICP Fellow)
   + Philipp Windischhofer? (77th author, Associate Fellow)
-
-- **High-Efficiency and Low-Noise Detectors for the Upgraded CLASS 90 GHz Focal Plane**
-[https://arxiv.org/abs/2411.12705]
-  + Rahul Datta (3th author, Research Scientist)
-  + Yunyang Li (16th author, KICP Fellow)
-
-- **Modified Gravity Constraints from the Full Shape Modeling of Clustering Measurements from DESI 2024**
-[https://arxiv.org/abs/2411.12026]
-  + Georgios Valogiannis? (5th author, Associate Fellow)
-
-- **DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements**
-[https://arxiv.org/abs/2411.12022]
-  + Elizabeth Buckley-Geer? (30th author, Senior Associate)
-  + Stephen Kent? (96th author, CASE Associate)
-
-- **DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars**
-[https://arxiv.org/abs/2411.12021]
-  + Elizabeth Buckley-Geer? (27th author, Senior Associate)
-  + Stephen Kent? (89th author, CASE Associate)
-
-- **DESI 2024 II: Sample Definitions, Characteristics, and Two-point Clustering Statistics**
-[https://arxiv.org/abs/2411.12020]
-  + Elizabeth Buckley-Geer? (28th author, Senior Associate)
-  + Stephen Kent? (92th author, CASE Associate)
-
-- **A Novel Density Profile for Isothermal Cores of Dark Matter Halos**
-[https://arxiv.org/abs/2411.11945]
-  + Daniel Gilman (4th author, Associate Fellow)
 
