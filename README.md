@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 26 21:12:21 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Nov 27 20:43:12 CST 2024)
 
 - **Validating the Orbital Periods of the Coolest TESS Exoplanet Candidates**
 [https://arxiv.org/abs/2411.17640]
