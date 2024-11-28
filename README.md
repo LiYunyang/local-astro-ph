@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 27 20:43:12 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Nov 27 21:12:21 CST 2024)
+
+- **Development of an MKID frequency-to-pixel LED mapper for SPT-3G+**
+[https://arxiv.org/abs/2411.17878]
+  + Emily Martsen? (1th author, Graduate Student)
+  + Bradford A. Benson? (3th author, Associate Professor)
+  + Karia Dibert? (4th author, Graduate Student)
+  + Kyra Fichman? (5th author, Graduate Student)
+  + Tyler Natoli? (6th author, Senior Researcher)
+  + Cyndia Yu? (8th author, KICP Fellow)
 
 - **Validating the Orbital Periods of the Coolest TESS Exoplanet Candidates**
 [https://arxiv.org/abs/2411.17640]
@@ -51,14 +60,4 @@
 - **Detecting electromagnetic counterparts to LIGO/Virgo/KAGRA gravitational wave events with DECam: Neutron Star Mergers**
 [https://arxiv.org/abs/2411.13673]
   + Amanda Farah (3th author, Graduate Student)
-
-- **Instrument design and performance of the first seven stations of RNO-G**
-[https://arxiv.org/abs/2411.12922]
-  + Shrihan Agarwal? (1th author, Graduate Student)
-  + Nathaniel Alden? (3th author, Graduate Student)
-  + Cosmin Deaconu? (20th author, Senior Researcher)
-  + Eric Oberla? (52th author, Senior Researcher)
-  + Abigail Vieregg? (73th author, David N. Schramm Director and Senior Member)
-  + Christoph Welling? (75th author, KICP Fellow)
-  + Philipp Windischhofer? (77th author, Associate Fellow)
 
