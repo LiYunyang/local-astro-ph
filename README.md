@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Nov 29 21:08:00 CST 2024)
+## Latest Astro-ph Papers (Generated on Sat Nov 30 20:58:06 CST 2024)
 
 - **Development of an MKID frequency-to-pixel LED mapper for SPT-3G+**
 [https://arxiv.org/abs/2411.17878]
