@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Dec  1 21:24:02 CST 2024)
+## Latest Astro-ph Papers (Generated on Mon Dec  2 20:45:24 CST 2024)
+
+- **Interacting Dark Sector (ETHOS $n=0$): Cosmological Constraints from SPT Cluster Abundance with DES and HST Weak Lensing Data**
+[https://arxiv.org/abs/2411.19911]
+  + Lindsey Bleem (7th author, Senior Associate)
+
+- **Stellar atmospheric parameters and chemical abundances of about 5 million stars from S-PLUS multi-band photometry**
+[https://arxiv.org/abs/2411.18748]
+  + Guilherme Limberg? (8th author, KICP Fellow)
 
 - **Development of an MKID frequency-to-pixel LED mapper for SPT-3G+**
 [https://arxiv.org/abs/2411.17878]
@@ -52,12 +60,4 @@
 - **Hitting the slopes: A spectroscopic view of UV continuum slopes of galaxies reveals a reddening at z > 9.5**
 [https://arxiv.org/abs/2411.14532]
   + Harley Katz (3th author, Senior Member)
-
-- **Aeos: Transport of metals from minihalos following Population III stellar feedback**
-[https://arxiv.org/abs/2411.14209]
-  + Alexander Ji (5th author, Senior Member)
-
-- **Detecting electromagnetic counterparts to LIGO/Virgo/KAGRA gravitational wave events with DECam: Neutron Star Mergers**
-[https://arxiv.org/abs/2411.13673]
-  + Amanda Farah (3th author, Graduate Student)
 
