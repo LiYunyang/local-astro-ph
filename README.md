@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec  2 20:45:24 CST 2024)
+## Latest Astro-ph Papers (Generated on Mon Dec  2 21:23:36 CST 2024)
 
 - **Interacting Dark Sector (ETHOS $n=0$): Cosmological Constraints from SPT Cluster Abundance with DES and HST Weak Lensing Data**
 [https://arxiv.org/abs/2411.19911]
