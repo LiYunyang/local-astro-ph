@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec  2 21:23:36 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Dec  3 20:45:40 CST 2024)
+
+- **Time Resolved Absorption of Six Chemical Species With MAROON-X Points to Strong Drag in the Ultra Hot Jupiter TOI-1518 b**
+[https://arxiv.org/abs/2412.01472]
+  + Jacob L. Bean? (8th author, Professor)
+
+- **The Simons Observatory: Design, Optimization, and Performance of Low Frequency Detectors**
+[https://arxiv.org/abs/2412.01204]
+  + Aashrita Mangu (1th author, Associate Fellow)
+
+- **The Simons Observatory: Design, Integration, and Current Status of Small Aperture Telescopes**
+[https://arxiv.org/abs/2412.01200]
+  + Aashrita Mangu (1th author, Associate Fellow)
+  + Sanah Bhimani (3th author, Postdoctoral Scholar)
+
+- **Investigating the relation between environment and internal structure of massive elliptical galaxies using strong lensing**
+[https://arxiv.org/abs/2412.00361]
+  + Anowar Shajib (6th author, KICP and Einstein Fellow)
 
 - **Interacting Dark Sector (ETHOS $n=0$): Cosmological Constraints from SPT Cluster Abundance with DES and HST Weak Lensing Data**
 [https://arxiv.org/abs/2411.19911]
@@ -43,21 +60,4 @@
 [https://arxiv.org/abs/2411.16677]
   + Chun-Hao To? (10th author, Associate Fellow)
   + Elizabeth Buckley-Geer? (15th author, Senior Associate)
-
-- **Radii, masses, and transit-timing variations of the three-planet system orbiting the naked-eye star TOI-396**
-[https://arxiv.org/abs/2411.14911]
-  + Rafael Luque? (24th author, Postdoctoral Scholar)
-
-- **Bayesian "Deep" Process Convolutions: An Application in Cosmology**
-[https://arxiv.org/abs/2411.14747]
-  + Salman Habib (9th author, Senior Associate)
-  + Katrin Heitmann (10th author, Senior Associate)
-
-- **Galaxy Clustering with LSST: Effects of Number Count Bias from Blending**
-[https://arxiv.org/abs/2411.14564]
-  + Chihway Chang (3th author, Senior Member)
-
-- **Hitting the slopes: A spectroscopic view of UV continuum slopes of galaxies reveals a reddening at z > 9.5**
-[https://arxiv.org/abs/2411.14532]
-  + Harley Katz (3th author, Senior Member)
 
