@@ -1,6 +1,20 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec  3 20:45:40 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Dec  3 21:21:52 CST 2024)
+
+- **High-z stellar masses can be recovered robustly with JWST photometry**
+[https://arxiv.org/abs/2412.02622]
+  + Harley Katz? (2th author, Senior Member)
+
+- **Searches for signatures of ultra-light axion dark matter in polarimetry data of the European Pulsar Timing Array**
+[https://arxiv.org/abs/2412.02232]
+  + LianTao Wang? (76th author, Senior Member)
+
+- **Clustering and Runaway Merging in a Primordial Black Hole Dominated Universe**
+[https://arxiv.org/abs/2412.01890]
+  + Ian Holst (1th author, Graduate Student)
+  + Gordan Krnjaic (2th author, Senior Member)
+  + Huangyu Xiao (3th author, Associate Fellow)
 
 - **Time Resolved Absorption of Six Chemical Species With MAROON-X Points to Strong Drag in the Ultra Hot Jupiter TOI-1518 b**
 [https://arxiv.org/abs/2412.01472]
@@ -55,9 +69,4 @@
 - **Euclid: Searches for strong gravitational lenses using convolutional neural nets in Early Release Observations of the Perseus field**
 [https://arxiv.org/abs/2411.16808]
   + Diana Powell? (59th author, Assistant Professor)
-
-- **A Sound Horizon-Free Measurement of $H_0$ in DESI 2024**
-[https://arxiv.org/abs/2411.16677]
-  + Chun-Hao To? (10th author, Associate Fellow)
-  + Elizabeth Buckley-Geer? (15th author, Senior Associate)
 
