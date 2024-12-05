@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec  4 20:46:08 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Dec  4 21:22:24 CST 2024)
 
 - **A dark, bare rock for TOI-1685 b from a JWST NIRSpec G395H phase curve**
 [https://arxiv.org/abs/2412.03411]
