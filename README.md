@@ -1,6 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec  3 21:21:52 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Dec  4 20:46:08 CST 2024)
+
+- **A dark, bare rock for TOI-1685 b from a JWST NIRSpec G395H phase curve**
+[https://arxiv.org/abs/2412.03411]
+  + Rafael Luque (1th author, Postdoctoral Scholar)
+  + Qiao Xue (3th author, Graduate Student)
+  + Michael Zhang (7th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Jacob L. Bean (9th author, Professor)
+
+- **Exomoons of Circumbinary Planets**
+[https://arxiv.org/abs/2412.02847]
+  + David Martin (4th author, Graduate Student)
+
+- **Dark Galactic subhalos and the Gaia snail**
+[https://arxiv.org/abs/2412.02757]
+  + Daniel Gilman (1th author, Associate Fellow)
 
 - **High-z stellar masses can be recovered robustly with JWST photometry**
 [https://arxiv.org/abs/2412.02622]
@@ -49,24 +64,4 @@
   + Kyra Fichman? (5th author, Graduate Student)
   + Tyler Natoli? (6th author, Senior Researcher)
   + Cyndia Yu? (8th author, KICP Fellow)
-
-- **Validating the Orbital Periods of the Coolest TESS Exoplanet Candidates**
-[https://arxiv.org/abs/2411.17640]
-  + Daniel Fabrycky (2th author, Professor)
-
-- **A Gigaparsec-Scale Hydrodynamic Volume Reconstructed with Deep Learning**
-[https://arxiv.org/abs/2411.16920]
-  + Salman Habib (6th author, Senior Associate)
-
-- **Water-rich sub-Neptunes and rocky super Earths around different Stars: Radii shaped by Volatile Partitioning, Formation, and Evolution**
-[https://arxiv.org/abs/2411.16879]
-  + Rafael Luque (4th author, Postdoctoral Scholar)
-
-- **OrCAS: Origins, Compositions, and Atmospheres of Sub-neptunes. I. Survey Definition**
-[https://arxiv.org/abs/2411.16836]
-  + Rafael Luque (6th author, Postdoctoral Scholar)
-
-- **Euclid: Searches for strong gravitational lenses using convolutional neural nets in Early Release Observations of the Perseus field**
-[https://arxiv.org/abs/2411.16808]
-  + Diana Powell? (59th author, Assistant Professor)
 
