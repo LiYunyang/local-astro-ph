@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Dec  5 21:21:25 CST 2024)
+## Latest Astro-ph Papers (Generated on Fri Dec  6 20:42:31 CST 2024)
 
 - **Uniting the Observed Dynamical Dark Energy Preference with the Discrepancies in $\Omega_m$ and $H_0$ Across Cosmological Probes**
 [https://arxiv.org/abs/2412.04430]
