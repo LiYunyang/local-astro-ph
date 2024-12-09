@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Dec  7 21:24:34 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Dec  8 20:49:34 CST 2024)
+
+- **The neutron veto of the XENONnT experiment: Results with demineralized water**
+[https://arxiv.org/abs/2412.05264]
+  + David Martin? (9th author, Graduate Student)
+  + Luca Grandi? (51th author, Senior Member)
+  + Jianyu Long? (85th author, Graduate Student)
+
+- **Dark Matter Annual Modulation Analysis with Combined Nuclear and Electron Recoil Channels**
+[https://arxiv.org/abs/2412.04916]
+  + Juliang Li? (15th author, Postdoctoral Scholar)
 
 - **Uniting the Observed Dynamical Dark Energy Preference with the Discrepancies in $\Omega_m$ and $H_0$ Across Cosmological Probes**
 [https://arxiv.org/abs/2412.04430]
@@ -68,12 +78,4 @@
 - **Investigating the relation between environment and internal structure of massive elliptical galaxies using strong lensing**
 [https://arxiv.org/abs/2412.00361]
   + Anowar Shajib (6th author, KICP and Einstein Fellow)
-
-- **Interacting Dark Sector (ETHOS $n=0$): Cosmological Constraints from SPT Cluster Abundance with DES and HST Weak Lensing Data**
-[https://arxiv.org/abs/2411.19911]
-  + Lindsey Bleem (7th author, Senior Associate)
-
-- **Stellar atmospheric parameters and chemical abundances of about 5 million stars from S-PLUS multi-band photometry**
-[https://arxiv.org/abs/2411.18748]
-  + Guilherme Limberg? (8th author, KICP Fellow)
 
