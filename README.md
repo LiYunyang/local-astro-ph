@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Dec  8 20:49:34 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Dec  8 21:25:24 CST 2024)
 
 - **The neutron veto of the XENONnT experiment: Results with demineralized water**
 [https://arxiv.org/abs/2412.05264]
