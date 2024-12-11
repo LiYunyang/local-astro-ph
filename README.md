@@ -1,6 +1,24 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec 10 20:45:15 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Dec 10 21:21:07 CST 2024)
+
+- **Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**
+[https://arxiv.org/abs/2412.07765]
+  + Chun-Hao To? (4th author, Associate Fellow)
+  + Lindsey Bleem? (5th author, Senior Associate)
+  + Chihway Chang? (23th author, Senior Member)
+  + Scott Dodelson? (31th author, Senior Associate)
+  + Alex Drlica-Wagner? (33th author, Senior Member)
+  + Joshua A. Frieman? (43th author, Chair)
+  + Marco Gatti? (44th author, KICP Fellow)
+  + Giulia Giannini? (45th author, Associate Fellow)
+  + Adam Anderson? (94th author, Senior Associate)
+  + Amy Bender? (99th author, Senior Associate)
+  + Bradford A. Benson? (100th author, Associate Professor)
+
+- **A Multiwavelength Autopsy of the Interacting IIn Supernova 2020ywx: Tracing its Progenitor Mass-Loss History for 100 Years before Death**
+[https://arxiv.org/abs/2412.06914]
+  + Vikram Dwarkadas (18th author, Research Professor)
 
 - **Population-level Hypothesis Testing with Rocky Planet Emission Data: A Tentative Trend in the Brightness Temperatures of M-Earths**
 [https://arxiv.org/abs/2412.06573]
@@ -66,18 +84,4 @@
 - **Dark Galactic subhalos and the Gaia snail**
 [https://arxiv.org/abs/2412.02757]
   + Daniel Gilman (1th author, Associate Fellow)
-
-- **High-z stellar masses can be recovered robustly with JWST photometry**
-[https://arxiv.org/abs/2412.02622]
-  + Harley Katz? (2th author, Senior Member)
-
-- **Searches for signatures of ultra-light axion dark matter in polarimetry data of the European Pulsar Timing Array**
-[https://arxiv.org/abs/2412.02232]
-  + LianTao Wang? (76th author, Senior Member)
-
-- **Clustering and Runaway Merging in a Primordial Black Hole Dominated Universe**
-[https://arxiv.org/abs/2412.01890]
-  + Ian Holst (1th author, Graduate Student)
-  + Gordan Krnjaic (2th author, Senior Member)
-  + Huangyu Xiao (3th author, Associate Fellow)
 
