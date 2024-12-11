@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec  9 21:24:00 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Dec 10 20:45:15 CST 2024)
+
+- **Population-level Hypothesis Testing with Rocky Planet Emission Data: A Tentative Trend in the Brightness Temperatures of M-Earths**
+[https://arxiv.org/abs/2412.06573]
+  + Jacob L. Bean (6th author, Professor)
+  + Michael Zhang (8th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Qiao Xue (9th author, Graduate Student)
+
+- **Probing massive neutrinos and modified gravity with redshift-space morphologies and anisotropies of large-scale structure**
+[https://arxiv.org/abs/2412.05662]
+  + Georgios Valogiannis (5th author, Associate Fellow)
+
+- **SZ-X-ray Surface Brightness Fluctuations in the SPT-XMM clusters**
+[https://arxiv.org/abs/2412.05478]
+  + Bradford A. Benson (4th author, Associate Professor)
+  + Lindsey Bleem (5th author, Senior Associate)
+
+- **A joint effort to discover and characterize two resonant mini Neptunes around TOI-1803 with TESS, HARPS-N and CHEOPS**
+[https://arxiv.org/abs/2412.05423]
+  + Samuel McDermott? (97th author, Senior Researcher)
 
 - **The neutron veto of the XENONnT experiment: Results with demineralized water**
 [https://arxiv.org/abs/2412.05264]
@@ -61,21 +80,4 @@
   + Ian Holst (1th author, Graduate Student)
   + Gordan Krnjaic (2th author, Senior Member)
   + Huangyu Xiao (3th author, Associate Fellow)
-
-- **Time Resolved Absorption of Six Chemical Species With MAROON-X Points to Strong Drag in the Ultra Hot Jupiter TOI-1518 b**
-[https://arxiv.org/abs/2412.01472]
-  + Jacob L. Bean? (8th author, Professor)
-
-- **The Simons Observatory: Design, Optimization, and Performance of Low Frequency Detectors**
-[https://arxiv.org/abs/2412.01204]
-  + Aashrita Mangu (1th author, Associate Fellow)
-
-- **The Simons Observatory: Design, Integration, and Current Status of Small Aperture Telescopes**
-[https://arxiv.org/abs/2412.01200]
-  + Aashrita Mangu (1th author, Associate Fellow)
-  + Sanah Bhimani (3th author, Postdoctoral Scholar)
-
-- **Investigating the relation between environment and internal structure of massive elliptical galaxies using strong lensing**
-[https://arxiv.org/abs/2412.00361]
-  + Anowar Shajib (6th author, KICP and Einstein Fellow)
 
