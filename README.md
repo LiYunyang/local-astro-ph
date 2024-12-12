@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec 11 20:45:13 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Dec 11 21:21:43 CST 2024)
 
 - **Observational studies on S-bearing molecules in massive star forming regions**
 [https://arxiv.org/abs/2412.08390]
