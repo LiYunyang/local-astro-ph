@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec 10 21:21:07 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Dec 11 20:45:13 CST 2024)
+
+- **Observational studies on S-bearing molecules in massive star forming regions**
+[https://arxiv.org/abs/2412.08390]
+  + Juliang Li? (6th author, Postdoctoral Scholar)
 
 - **Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**
 [https://arxiv.org/abs/2412.07765]
@@ -69,19 +73,4 @@
 - **A nuclear spiral in a dusty star-forming galaxy at $z=2.78$**
 [https://arxiv.org/abs/2412.03644]
   + Diana Powell? (5th author, Assistant Professor)
-
-- **A dark, bare rock for TOI-1685 b from a JWST NIRSpec G395H phase curve**
-[https://arxiv.org/abs/2412.03411]
-  + Rafael Luque (1th author, Postdoctoral Scholar)
-  + Qiao Xue (3th author, Graduate Student)
-  + Michael Zhang (7th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Jacob L. Bean (9th author, Professor)
-
-- **Exomoons of Circumbinary Planets**
-[https://arxiv.org/abs/2412.02847]
-  + David Martin (4th author, Graduate Student)
-
-- **Dark Galactic subhalos and the Gaia snail**
-[https://arxiv.org/abs/2412.02757]
-  + Daniel Gilman (1th author, Associate Fellow)
 
