@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec 11 21:21:43 CST 2024)
+## Latest Astro-ph Papers (Generated on Thu Dec 12 20:46:54 CST 2024)
+
+- **Using nebular near-IR spectroscopy to measure asymmetric chemical distributions in 2003fg-like thermonuclear supernovae**
+[https://arxiv.org/abs/2412.09352]
+  + Suyash Kumar? (10th author, Graduate Student)
+
+- **Axion mass prediction from adaptive mesh refinement cosmological lattice simulations**
+[https://arxiv.org/abs/2412.08699]
+  + Joshua Foster (3th author, Associate Fellow)
 
 - **Observational studies on S-bearing molecules in massive star forming regions**
 [https://arxiv.org/abs/2412.08390]
@@ -52,25 +60,4 @@
 - **Dark Matter Annual Modulation Analysis with Combined Nuclear and Electron Recoil Channels**
 [https://arxiv.org/abs/2412.04916]
   + Juliang Li? (15th author, Postdoctoral Scholar)
-
-- **Uniting the Observed Dynamical Dark Energy Preference with the Discrepancies in $\Omega_m$ and $H_0$ Across Cosmological Probes**
-[https://arxiv.org/abs/2412.04430]
-  + Tanvi Karwal (3th author, KICP Fellow)
-  + Chihway Chang (4th author, Senior Member)
-
-- **DARWEN: Data-driven Algorithm for Reduction of Wide Exoplanetary Networks**
-[https://arxiv.org/abs/2412.04359]
-  + Jeffery Harvey? (2th author, Senior Associate)
-
-- **Evidence for environmental effects in the $z\,{=}\,4.3$ protocluster core SPT2349$-$56**
-[https://arxiv.org/abs/2412.03790]
-  + Melanie Archipley (5th author, Associate Fellow)
-
-- **JWST-TST DREAMS: A Precise Water Abundance for Hot Jupiter WASP-17b from the NIRISS SOSS Transmission Spectrum**
-[https://arxiv.org/abs/2412.03675]
-  + Michael Radica (11th author, Postdoctoral Scholar)
-
-- **A nuclear spiral in a dusty star-forming galaxy at $z=2.78$**
-[https://arxiv.org/abs/2412.03644]
-  + Diana Powell? (5th author, Assistant Professor)
 
