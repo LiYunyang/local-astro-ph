@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Dec 12 21:23:04 CST 2024)
+## Latest Astro-ph Papers (Generated on Fri Dec 13 20:40:11 CST 2024)
 
 - **Using nebular near-IR spectroscopy to measure asymmetric chemical distributions in 2003fg-like thermonuclear supernovae**
 [https://arxiv.org/abs/2412.09352]
