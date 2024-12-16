@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Dec 14 21:24:52 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Dec 15 20:48:43 CST 2024)
+
+- **The Three Hundred Project: The relationship between the shock and splashback radii of simulated galaxy clusters**
+[https://arxiv.org/abs/2412.09864]
+  + Michael Zhang? (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Yunyang Li? (6th author, KICP Fellow)
 
 - **Using nebular near-IR spectroscopy to measure asymmetric chemical distributions in 2003fg-like thermonuclear supernovae**
 [https://arxiv.org/abs/2412.09352]
@@ -50,14 +55,4 @@
 - **A joint effort to discover and characterize two resonant mini Neptunes around TOI-1803 with TESS, HARPS-N and CHEOPS**
 [https://arxiv.org/abs/2412.05423]
   + Samuel McDermott? (97th author, Senior Researcher)
-
-- **The neutron veto of the XENONnT experiment: Results with demineralized water**
-[https://arxiv.org/abs/2412.05264]
-  + David Martin? (9th author, Graduate Student)
-  + Luca Grandi? (51th author, Senior Member)
-  + Jianyu Long? (85th author, Graduate Student)
-
-- **Dark Matter Annual Modulation Analysis with Combined Nuclear and Electron Recoil Channels**
-[https://arxiv.org/abs/2412.04916]
-  + Juliang Li? (15th author, Postdoctoral Scholar)
 
