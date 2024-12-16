@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Dec 15 20:48:43 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Dec 15 21:25:13 CST 2024)
 
 - **The Three Hundred Project: The relationship between the shock and splashback radii of simulated galaxy clusters**
 [https://arxiv.org/abs/2412.09864]
