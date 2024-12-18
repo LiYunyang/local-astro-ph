@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec 16 21:12:56 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Dec 17 20:39:47 CST 2024)
+
+- **DarkNESS: developing a skipper-CCD instrument to search for Dark Matter from Low Earth Orbit**
+[https://arxiv.org/abs/2412.12084]
+  + Alex Drlica-Wagner (4th author, Senior Member)
+  + Juan  Estrada (6th author, Senior Associate)
+  + Nathan Saffold (10th author, Associate Fellow)
+
+- **The Circumgalactic Medium**
+[https://arxiv.org/abs/2412.10579]
+  + Hsiao-Wen Chen (1th author, Senior Member)
 
 - **The Three Hundred Project: The relationship between the shock and splashback radii of simulated galaxy clusters**
 [https://arxiv.org/abs/2412.09864]
@@ -36,23 +46,4 @@
 - **A Multiwavelength Autopsy of the Interacting IIn Supernova 2020ywx: Tracing its Progenitor Mass-Loss History for 100 Years before Death**
 [https://arxiv.org/abs/2412.06914]
   + Vikram Dwarkadas (18th author, Research Professor)
-
-- **Population-level Hypothesis Testing with Rocky Planet Emission Data: A Tentative Trend in the Brightness Temperatures of M-Earths**
-[https://arxiv.org/abs/2412.06573]
-  + Jacob L. Bean (6th author, Professor)
-  + Michael Zhang (8th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Qiao Xue (9th author, Graduate Student)
-
-- **Probing massive neutrinos and modified gravity with redshift-space morphologies and anisotropies of large-scale structure**
-[https://arxiv.org/abs/2412.05662]
-  + Georgios Valogiannis (5th author, Associate Fellow)
-
-- **SZ-X-ray Surface Brightness Fluctuations in the SPT-XMM clusters**
-[https://arxiv.org/abs/2412.05478]
-  + Bradford A. Benson (4th author, Associate Professor)
-  + Lindsey Bleem (5th author, Senior Associate)
-
-- **A joint effort to discover and characterize two resonant mini Neptunes around TOI-1803 with TESS, HARPS-N and CHEOPS**
-[https://arxiv.org/abs/2412.05423]
-  + Samuel McDermott? (97th author, Senior Researcher)
 
