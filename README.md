@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec 17 20:39:47 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Dec 17 21:08:12 CST 2024)
+
+- **Baryogenesis from Primordial CP Violation**
+[https://arxiv.org/abs/2412.12957]
+  + Edward Kolb (2th author, Senior Member)
+
+- **Stability of Superconducting Strings**
+[https://arxiv.org/abs/2412.12259]
+  + Keisuke Harigaya (1th author, Senior Member)
 
 - **DarkNESS: developing a skipper-CCD instrument to search for Dark Matter from Low Earth Orbit**
 [https://arxiv.org/abs/2412.12084]
@@ -28,22 +36,4 @@
 - **Observational studies on S-bearing molecules in massive star forming regions**
 [https://arxiv.org/abs/2412.08390]
   + Juliang Li? (6th author, Postdoctoral Scholar)
-
-- **Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**
-[https://arxiv.org/abs/2412.07765]
-  + Chun-Hao To? (4th author, Associate Fellow)
-  + Lindsey Bleem? (5th author, Senior Associate)
-  + Chihway Chang? (23th author, Senior Member)
-  + Scott Dodelson? (31th author, Senior Associate)
-  + Alex Drlica-Wagner? (33th author, Senior Member)
-  + Joshua A. Frieman? (43th author, Chair)
-  + Marco Gatti? (44th author, KICP Fellow)
-  + Giulia Giannini? (45th author, Associate Fellow)
-  + Adam Anderson? (94th author, Senior Associate)
-  + Amy Bender? (99th author, Senior Associate)
-  + Bradford A. Benson? (100th author, Associate Professor)
-
-- **A Multiwavelength Autopsy of the Interacting IIn Supernova 2020ywx: Tracing its Progenitor Mass-Loss History for 100 Years before Death**
-[https://arxiv.org/abs/2412.06914]
-  + Vikram Dwarkadas (18th author, Research Professor)
 
