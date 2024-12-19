@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec 18 20:40:11 CST 2024)
+## Latest Astro-ph Papers (Generated on Wed Dec 18 21:08:50 CST 2024)
 
 - **Baryogenesis from Primordial CP Violation**
 [https://arxiv.org/abs/2412.12957]
@@ -32,8 +32,4 @@
 - **Axion mass prediction from adaptive mesh refinement cosmological lattice simulations**
 [https://arxiv.org/abs/2412.08699]
   + Joshua Foster (3th author, Associate Fellow)
-
-- **Observational studies on S-bearing molecules in massive star forming regions**
-[https://arxiv.org/abs/2412.08390]
-  + Juliang Li? (6th author, Postdoctoral Scholar)
 
