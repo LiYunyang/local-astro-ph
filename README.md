@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec 18 21:08:50 CST 2024)
+## Latest Astro-ph Papers (Generated on Thu Dec 19 20:33:43 CST 2024)
 
 - **Baryogenesis from Primordial CP Violation**
 [https://arxiv.org/abs/2412.12957]
