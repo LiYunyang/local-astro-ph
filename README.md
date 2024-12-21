@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Dec 20 20:29:44 CST 2024)
+## Latest Astro-ph Papers (Generated on Fri Dec 20 20:59:01 CST 2024)
 
 - **Accurate method for ultralight axion CMB and matter power spectra**
 [https://arxiv.org/abs/2412.15192]
