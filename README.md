@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Dec 22 20:34:45 CST 2024)
+## Latest Astro-ph Papers (Generated on Sun Dec 22 21:02:50 CST 2024)
+
+- **Tethered Balloons for Radio Detection of Neutrinos?**
+[https://arxiv.org/abs/2412.15417]
+  + Rachel Scrandis (1th author, Graduate Student)
+  + Cosmin Deaconu (2th author, Senior Researcher)
+
+- **The effects of different cooling and heating function models on a simulated analog of NGC300**
+[https://arxiv.org/abs/2412.15324]
+  + Nickolay Gnedin (3th author, Senior Member)
 
 - **Accurate method for ultralight axion CMB and matter power spectra**
 [https://arxiv.org/abs/2412.15192]
@@ -48,9 +57,4 @@
 - **The Circumgalactic Medium**
 [https://arxiv.org/abs/2412.10579]
   + Hsiao-Wen Chen (1th author, Senior Member)
-
-- **The Three Hundred Project: The relationship between the shock and splashback radii of simulated galaxy clusters**
-[https://arxiv.org/abs/2412.09864]
-  + Michael Zhang? (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Yunyang Li? (6th author, KICP Fellow)
 
