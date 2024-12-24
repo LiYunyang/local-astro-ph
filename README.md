@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec 23 20:32:32 CST 2024)
+## Latest Astro-ph Papers (Generated on Mon Dec 23 21:00:39 CST 2024)
 
 - **Tethered Balloons for Radio Detection of Neutrinos?**
 [https://arxiv.org/abs/2412.15417]
