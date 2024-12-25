@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec 23 21:00:39 CST 2024)
+## Latest Astro-ph Papers (Generated on Tue Dec 24 20:30:59 CST 2024)
+
+- **Transmission spectroscopy of WASP-52 b with JWST NIRISS: Water and helium atmospheric absorption, alongside prominent star-spot crossings**
+[https://arxiv.org/abs/2412.17072]
+  + Michael Radica (9th author, Postdoctoral Scholar)
 
 - **Tethered Balloons for Radio Detection of Neutrinos?**
 [https://arxiv.org/abs/2412.15417]
@@ -39,22 +43,4 @@
   + Joshua Sobrin? (81th author, Associate Fellow)
   + Matthew Young? (94th author, Associate Fellow)
   + Jessica Zebrowski? (96th author, KICP and Einstein Fellow)
-
-- **Baryogenesis from Primordial CP Violation**
-[https://arxiv.org/abs/2412.12957]
-  + Edward Kolb (2th author, Senior Member)
-
-- **Stability of Superconducting Strings**
-[https://arxiv.org/abs/2412.12259]
-  + Keisuke Harigaya (1th author, Senior Member)
-
-- **DarkNESS: developing a skipper-CCD instrument to search for Dark Matter from Low Earth Orbit**
-[https://arxiv.org/abs/2412.12084]
-  + Alex Drlica-Wagner (4th author, Senior Member)
-  + Juan  Estrada (6th author, Senior Associate)
-  + Nathan Saffold (10th author, Associate Fellow)
-
-- **The Circumgalactic Medium**
-[https://arxiv.org/abs/2412.10579]
-  + Hsiao-Wen Chen (1th author, Senior Member)
 
