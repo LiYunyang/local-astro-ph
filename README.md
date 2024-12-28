@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Dec 26 21:00:38 CST 2024)
+## Latest Astro-ph Papers (Generated on Fri Dec 27 20:29:05 CST 2024)
 
 - **Transmission spectroscopy of WASP-52 b with JWST NIRISS: Water and helium atmospheric absorption, alongside prominent star-spot crossings**
 [https://arxiv.org/abs/2412.17072]
