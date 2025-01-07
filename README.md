@@ -1,6 +1,12 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jan  6 21:03:34 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Jan  6 22:02:29 CST 2025)
+
+- **Predicting the cryogenic performance of superconducting detectors by their visual properties**
+[https://arxiv.org/abs/2501.02357]
+  + Amy Bender? (2th author, Senior Associate)
+  + Karia Dibert? (6th author, Graduate Student)
+  + Emily Martsen? (7th author, Graduate Student)
 
 - **Cosmological constraints from the Minkowski functionals of the BOSS CMASS galaxy sample**
 [https://arxiv.org/abs/2501.01698]
