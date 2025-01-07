@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jan  5 21:05:24 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Jan  6 20:34:29 CST 2025)
 
 - **Cosmological constraints from the Minkowski functionals of the BOSS CMASS galaxy sample**
 [https://arxiv.org/abs/2501.01698]
