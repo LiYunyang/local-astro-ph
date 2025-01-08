@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jan  6 22:02:29 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Jan  7 20:32:28 CST 2025)
 
 - **Predicting the cryogenic performance of superconducting detectors by their visual properties**
 [https://arxiv.org/abs/2501.02357]
