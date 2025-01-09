@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan  7 21:00:38 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Jan  8 20:58:54 CST 2025)
+
+- **Streams, Shells, and Substructures in the Accretion-Built Stellar Halo of NGC 300**
+[https://arxiv.org/abs/2501.04089]
+  + Alex Drlica-Wagner (5th author, Senior Member)
+  + Guilherme Limberg (12th author, KICP Fellow)
 
 - **Strong Lensing analysis of SPT-CLJ2325$-$4111 and SPT-CLJ0049$-$2440, two Powerful Cosmic Telescopes ($R_E > 40''$) from the SPT Clusters Sample**
 [https://arxiv.org/abs/2501.03361]
