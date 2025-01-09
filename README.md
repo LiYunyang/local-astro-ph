@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan  8 20:58:54 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Jan  8 21:24:28 CST 2025)
 
 - **Streams, Shells, and Substructures in the Accretion-Built Stellar Halo of NGC 300**
 [https://arxiv.org/abs/2501.04089]
