@@ -1,6 +1,20 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan  8 21:24:28 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Jan  9 20:36:09 CST 2025)
+
+- **Identifying Flare Locations Through Exoplanet Transit Occultations**
+[https://arxiv.org/abs/2501.04866]
+  + David Martin (2th author, Graduate Student)
+
+- **Detectability of Emission from Exoplanet Outflows Calculated by pyTPCI, a New 1D Radiation-Hydrodynamic Code**
+[https://arxiv.org/abs/2501.04834]
+  + Michael Zhang (2th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Jacob L. Bean (3th author, Professor)
+
+- **Deep Photometric Observations of Ultra-Faint Milky Way Satellites Centaurus I and Eridanus IV**
+[https://arxiv.org/abs/2501.04772]
+  + Alexander Ji (10th author, Senior Member)
+  + Guilherme Limberg (11th author, KICP Fellow)
 
 - **Streams, Shells, and Substructures in the Accretion-Built Stellar Halo of NGC 300**
 [https://arxiv.org/abs/2501.04089]
@@ -29,9 +43,4 @@
 [https://arxiv.org/abs/2501.01498]
   + Jacob L. Bean (8th author, Professor)
   + Leslie Rogers (10th author, Associate Professor)
-
-- **FEASTS: Radial Distribution of HI surface densities down to 0.01 M$_{\odot}$ pc$^{-2}$ of 35 Nearby Galaxies**
-[https://arxiv.org/abs/2501.01289]
-  + Zhijie Qu (5th author, Associate Fellow)
-  + Hsiao-Wen Chen (6th author, Senior Member)
 
