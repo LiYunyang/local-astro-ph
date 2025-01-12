@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jan 11 20:39:46 CST 2025)
+## Latest Astro-ph Papers (Generated on Sat Jan 11 21:07:54 CST 2025)
 
 - **Identifying Flare Locations Through Exoplanet Transit Occultations**
 [https://arxiv.org/abs/2501.04866]
