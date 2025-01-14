@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jan 12 21:06:21 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Jan 13 20:27:17 CST 2025)
 
 - **BASSET: Bandpass-Adaptive Single-pulse SEarch Toolkit -- Optimized Sub-Band Pulse Search Strategies for Faint Narrow-Band FRBs**
 [https://arxiv.org/abs/2501.05875]
