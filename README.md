@@ -1,6 +1,32 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jan 13 20:59:30 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Jan 14 20:29:21 CST 2025)
+
+- **Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset**
+[https://arxiv.org/abs/2501.06890]
+  + Adam Anderson? (3th author, Senior Associate)
+  + Amy Bender? (7th author, Senior Associate)
+  + Bradford A. Benson? (8th author, Associate Professor)
+  + Lindsey Bleem? (10th author, Senior Associate)
+  + John Carlstrom? (11th author, Senior Member)
+  + Chihway Chang? (12th author, Senior Member)
+  + Thomas Crawford? (17th author, Senior Researcher)
+  + Abigail Lee? (34th author, Graduate Student)
+  + Jeffrey McMahon? (37th author, Senior Member)
+  + Tyler Natoli? (39th author, Senior Researcher)
+  + Yuuki Omori? (43th author, Senior Researcher)
+  + Wei Quan? (47th author, Associate Fellow)
+  + Jessica Zebrowski? (62th author, KICP and Einstein Fellow)
+
+- **Structure and Skewness of the Effective Inspiral Spin Distribution of Binary Black Hole Mergers**
+[https://arxiv.org/abs/2501.06712]
+  + Thomas Callister (2th author, KICP and Schmidt Fellow)
+
+- **Comparing the DES-SN5YR and Pantheon+ SN cosmology analyses: Investigation based on "Evolving Dark Energy or Supernovae systematics?"**
+[https://arxiv.org/abs/2501.06664]
+  + Richard Kessler? (2th author, Senior Researcher)
+  + Joshua A. Frieman? (35th author, Chair)
+  + Chun-Hao To? (62th author, Associate Fellow)
 
 - **BASSET: Bandpass-Adaptive Single-pulse SEarch Toolkit -- Optimized Sub-Band Pulse Search Strategies for Faint Narrow-Band FRBs**
 [https://arxiv.org/abs/2501.05875]
@@ -12,15 +38,16 @@
   + Chihway Chang? (20th author, Senior Member)
   + Joshua A. Frieman? (29th author, Chair)
 
-- **Dark Energy Survey Year 3 Results: Photometric Data Set for Cosmology**
+- **Dark Energy Survey Year 6 Results: Photometric Data Set for Cosmology**
 [https://arxiv.org/abs/2501.05739]
   + Alex Drlica-Wagner? (3th author, Senior Member)
   + Dhayaa Anbajagane? (10th author, Graduate Student)
   + Richard G. Kron? (19th author, Professor Emeritus)
   + Chihway Chang? (45th author, Senior Member)
-  + Joshua A. Frieman? (58th author, Chair)
-  + Marco Gatti? (60th author, KICP Fellow)
-  + Giulia Giannini? (62th author, Associate Fellow)
+  + Scott Dodelson? (54th author, Senior Associate)
+  + Joshua A. Frieman? (60th author, Chair)
+  + Marco Gatti? (62th author, KICP Fellow)
+  + Giulia Giannini? (64th author, Associate Fellow)
 
 - **Dark Energy Survey Year 6 Results: Synthetic-source Injection Across the Full Survey Using Balrog**
 [https://arxiv.org/abs/2501.05683]
@@ -84,10 +111,4 @@
 - **Strong Lensing analysis of SPT-CLJ2325$-$4111 and SPT-CLJ0049$-$2440, two Powerful Cosmic Telescopes ($R_E > 40''$) from the SPT Clusters Sample**
 [https://arxiv.org/abs/2501.03361]
   + Michael D. Gladders (8th author, Professor)
-
-- **Predicting the cryogenic performance of superconducting detectors by their visual properties**
-[https://arxiv.org/abs/2501.02357]
-  + Amy Bender? (2th author, Senior Associate)
-  + Karia Dibert? (6th author, Graduate Student)
-  + Emily Martsen? (7th author, Graduate Student)
 
