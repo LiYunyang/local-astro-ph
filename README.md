@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan 14 20:29:21 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Jan 14 20:56:50 CST 2025)
+
+- **Little impact of mergers and galaxy morphology on the production and escape of ionizing photons in the early Universe**
+[https://arxiv.org/abs/2501.08268]
+  + Wayne Hu? (21th author, Senior Member)
+
+- **Periodic Gamma-ray Modulation of the blazar PG 1553+113 Confirmed by Fermi-LAT and Multi-wavelength Observations**
+[https://arxiv.org/abs/2501.08015]
+  + Juliang Li? (47th author, Postdoctoral Scholar)
+
+- **Widen the Resonance: Probing a New Regime of Neutrino Self-Interactions with Astrophysical Neutrinos**
+[https://arxiv.org/abs/2501.07624]
+  + Bei Zhou (3th author, Associate Fellow)
 
 - **Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset**
 [https://arxiv.org/abs/2501.06890]
@@ -107,8 +119,4 @@
 [https://arxiv.org/abs/2501.04089]
   + Alex Drlica-Wagner (5th author, Senior Member)
   + Guilherme Limberg (12th author, KICP Fellow)
-
-- **Strong Lensing analysis of SPT-CLJ2325$-$4111 and SPT-CLJ0049$-$2440, two Powerful Cosmic Telescopes ($R_E > 40''$) from the SPT Clusters Sample**
-[https://arxiv.org/abs/2501.03361]
-  + Michael D. Gladders (8th author, Professor)
 
