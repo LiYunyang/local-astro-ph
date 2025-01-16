@@ -1,6 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan 14 20:56:50 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Jan 15 20:28:23 CST 2025)
+
+- **The putative center in NGC 1052**
+[https://arxiv.org/abs/2501.08685]
+  + Bradford A. Benson (27th author, Associate Professor)
+  + John Carlstrom (42th author, Senior Member)
+  + Thomas Crawford (56th author, Senior Researcher)
+
+- **Deep inference of simulated strong lenses in ground-based surveys**
+[https://arxiv.org/abs/2501.08524]
+  + Joshua A. Frieman (4th author, Chair)
+  + Brian Nord (6th author, Senior Associate)
+
+- **Strong nebular HeII emission induced by He$^+$ ionizing photons escaping through the clumpy winds of massive stars**
+[https://arxiv.org/abs/2501.08376]
+  + Sugata Paul? (9th author, Graduate Student)
 
 - **Little impact of mergers and galaxy morphology on the production and escape of ionizing photons in the early Universe**
 [https://arxiv.org/abs/2501.08268]
@@ -114,9 +129,4 @@
 [https://arxiv.org/abs/2501.04772]
   + Alexander Ji (10th author, Senior Member)
   + Guilherme Limberg (11th author, KICP Fellow)
-
-- **Streams, Shells, and Substructures in the Accretion-Built Stellar Halo of NGC 300**
-[https://arxiv.org/abs/2501.04089]
-  + Alex Drlica-Wagner (5th author, Senior Member)
-  + Guilherme Limberg (12th author, KICP Fellow)
 
