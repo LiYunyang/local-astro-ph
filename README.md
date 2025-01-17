@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan 15 20:56:43 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Jan 16 20:27:54 CST 2025)
 
 - **The putative center in NGC 1052**
 [https://arxiv.org/abs/2501.08685]
