@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jan 16 20:27:54 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Jan 16 20:57:22 CST 2025)
+
+- **Simons Observatory: Characterization of the Large Aperture Telescope Receiver**
+[https://arxiv.org/abs/2501.09241]
+  + Anna Kofman (4th author, Associate Fellow)
+
+- **A Pair of Dynamically Interacting Sub-Neptunes Around TOI-6054**
+[https://arxiv.org/abs/2501.09095]
+  + Rafael Luque (29th author, Postdoctoral Scholar)
 
 - **The putative center in NGC 1052**
 [https://arxiv.org/abs/2501.08685]
@@ -115,18 +123,4 @@
 - **X-ray Dips and Polarization Angle Swings in GX 13+1**
 [https://arxiv.org/abs/2501.05511]
   + Daniele Rogantini (11th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Identifying Flare Locations Through Exoplanet Transit Occultations**
-[https://arxiv.org/abs/2501.04866]
-  + David Martin (2th author, Graduate Student)
-
-- **Detectability of Emission from Exoplanet Outflows Calculated by pyTPCI, a New 1D Radiation-Hydrodynamic Code**
-[https://arxiv.org/abs/2501.04834]
-  + Michael Zhang (2th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Jacob L. Bean (3th author, Professor)
-
-- **Deep Photometric Observations of Ultra-Faint Milky Way Satellites Centaurus I and Eridanus IV**
-[https://arxiv.org/abs/2501.04772]
-  + Alexander Ji (10th author, Senior Member)
-  + Guilherme Limberg (11th author, KICP Fellow)
 
