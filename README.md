@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jan 16 20:57:22 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Jan 17 20:24:48 CST 2025)
 
 - **Simons Observatory: Characterization of the Large Aperture Telescope Receiver**
 [https://arxiv.org/abs/2501.09241]
