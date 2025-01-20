@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jan 18 21:00:55 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Jan 19 20:31:16 CST 2025)
+
+- **No evidence that the binary black hole mass distribution evolves with redshift**
+[https://arxiv.org/abs/2501.10295]
+  + Thomas Callister (3th author, KICP and Schmidt Fellow)
 
 - **Simons Observatory: Characterization of the Large Aperture Telescope Receiver**
 [https://arxiv.org/abs/2501.09241]
@@ -62,65 +66,4 @@
   + Richard Kessler? (2th author, Senior Researcher)
   + Joshua A. Frieman? (35th author, Chair)
   + Chun-Hao To? (62th author, Associate Fellow)
-
-- **BASSET: Bandpass-Adaptive Single-pulse SEarch Toolkit -- Optimized Sub-Band Pulse Search Strategies for Faint Narrow-Band FRBs**
-[https://arxiv.org/abs/2501.05875]
-  + Juliang Li? (20th author, Postdoctoral Scholar)
-
-- **Dark Energy Survey Year 6 Results: Point-Spread Function Modeling**
-[https://arxiv.org/abs/2501.05781]
-  + Marco Gatti? (10th author, KICP Fellow)
-  + Chihway Chang? (20th author, Senior Member)
-  + Joshua A. Frieman? (29th author, Chair)
-
-- **Dark Energy Survey Year 6 Results: Photometric Data Set for Cosmology**
-[https://arxiv.org/abs/2501.05739]
-  + Alex Drlica-Wagner? (3th author, Senior Member)
-  + Dhayaa Anbajagane? (10th author, Graduate Student)
-  + Richard G. Kron? (19th author, Professor Emeritus)
-  + Chihway Chang? (45th author, Senior Member)
-  + Scott Dodelson? (54th author, Senior Associate)
-  + Joshua A. Frieman? (60th author, Chair)
-  + Marco Gatti? (62th author, KICP Fellow)
-  + Giulia Giannini? (64th author, Associate Fellow)
-
-- **Dark Energy Survey Year 6 Results: Synthetic-source Injection Across the Full Survey Using Balrog**
-[https://arxiv.org/abs/2501.05683]
-  + Dhayaa Anbajagane? (1th author, Graduate Student)
-  + Marco Gatti? (14th author, KICP Fellow)
-  + Giulia Giannini? (15th author, Associate Fellow)
-  + Chihway Chang? (37th author, Senior Member)
-  + Scott Dodelson? (44th author, Senior Associate)
-  + Alex Drlica-Wagner? (46th author, Senior Member)
-  + Joshua A. Frieman? (48th author, Chair)
-
-- **Dark Energy Survey Year 6 Results: Cell-based Coadds and Metadetection Weak Lensing Shape Catalogue**
-[https://arxiv.org/abs/2501.05665]
-  + Marco Gatti? (10th author, KICP Fellow)
-  + Dhayaa Anbajagane? (13th author, Graduate Student)
-  + Chihway Chang? (29th author, Senior Member)
-  + Scott Dodelson? (38th author, Senior Associate)
-  + Alex Drlica-Wagner? (41th author, Senior Member)
-  + Joshua A. Frieman? (44th author, Chair)
-  + Giulia Giannini? (47th author, Associate Fellow)
-
-- **OpenUniverse2024: A shared, simulated view of the sky for the next generation of cosmological surveys**
-[https://arxiv.org/abs/2501.05632]
-  + Andrew Hearin? (20th author, Senior Associate)
-  + Katrin Heitmann? (21th author, Senior Associate)
-  + Richard Kessler? (29th author, Senior Researcher)
-
-- **A New Approach for Constraining Large-Scale Temperature Fluctuations in the Intergalactic Medium**
-[https://arxiv.org/abs/2501.05575]
-  + Saba Etezad-Razavi (1th author, Graduate Student)
-
-- **A multi-frequency study of sub-parsec jets with the Event Horizon Telescope**
-[https://arxiv.org/abs/2501.05518]
-  + Bradford A. Benson (45th author, Associate Professor)
-  + John Carlstrom (58th author, Senior Member)
-  + Thomas Crawford (72th author, Senior Researcher)
-
-- **X-ray Dips and Polarization Angle Swings in GX 13+1**
-[https://arxiv.org/abs/2501.05511]
-  + Daniele Rogantini (11th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
