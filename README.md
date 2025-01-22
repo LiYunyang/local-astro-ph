@@ -1,6 +1,32 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan 21 20:59:12 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Jan 21 22:40:24 CST 2025)
+
+- **A Measurement of the Largest-Scale CMB E-mode Polarization with CLASS**
+[https://arxiv.org/abs/2501.11904]
+  + Yunyang Li (1th author, KICP Fellow)
+  + Rahul Datta (12th author, Research Scientist)
+
+- **Metallicity Scatter Originating from Sub-kiloparsec Starbursting Clumps in the Core of a Protocluster at z=7.88**
+[https://arxiv.org/abs/2501.11879]
+  + Anowar Shajib (12th author, KICP and Einstein Fellow)
+
+- **The influence of chromospheric activity on line formation**
+[https://arxiv.org/abs/2501.11750]
+  + Lily Zhao (2th author, Sagan Fellow)
+
+- **Investigating the complex absorbers of Mrk 766 with XMM-Newton**
+[https://arxiv.org/abs/2501.11562]
+  + Daniele Rogantini? (4th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **High-Significance Detection of Correlation Between the Unresolved Gamma-Ray Background and the Large Scale Cosmic Structure**
+[https://arxiv.org/abs/2501.10506]
+  + Chihway Chang? (20th author, Senior Member)
+  + Scott Dodelson? (27th author, Senior Associate)
+  + Alex Drlica-Wagner? (29th author, Senior Member)
+  + Marco Gatti? (34th author, KICP Fellow)
+  + Giulia Giannini? (35th author, Associate Fellow)
+  + Joshua A. Frieman? (72th author, Chair)
 
 - **No evidence that the binary black hole mass distribution evolves with redshift**
 [https://arxiv.org/abs/2501.10295]
@@ -40,30 +66,4 @@
 - **Widen the Resonance: Probing a New Regime of Neutrino Self-Interactions with Astrophysical Neutrinos**
 [https://arxiv.org/abs/2501.07624]
   + Bei Zhou (3th author, Associate Fellow)
-
-- **Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset**
-[https://arxiv.org/abs/2501.06890]
-  + Adam Anderson? (3th author, Senior Associate)
-  + Amy Bender? (7th author, Senior Associate)
-  + Bradford A. Benson? (8th author, Associate Professor)
-  + Lindsey Bleem? (10th author, Senior Associate)
-  + John Carlstrom? (11th author, Senior Member)
-  + Chihway Chang? (12th author, Senior Member)
-  + Thomas Crawford? (17th author, Senior Researcher)
-  + Abigail Lee? (34th author, Graduate Student)
-  + Jeffrey McMahon? (37th author, Senior Member)
-  + Tyler Natoli? (39th author, Senior Researcher)
-  + Yuuki Omori? (43th author, Senior Researcher)
-  + Wei Quan? (47th author, Associate Fellow)
-  + Jessica Zebrowski? (62th author, KICP and Einstein Fellow)
-
-- **Structure and Skewness of the Effective Inspiral Spin Distribution of Binary Black Hole Mergers**
-[https://arxiv.org/abs/2501.06712]
-  + Thomas Callister (2th author, KICP and Schmidt Fellow)
-
-- **Comparing the DES-SN5YR and Pantheon+ SN cosmology analyses: Investigation based on "Evolving Dark Energy or Supernovae systematics?"**
-[https://arxiv.org/abs/2501.06664]
-  + Richard Kessler? (2th author, Senior Researcher)
-  + Joshua A. Frieman? (35th author, Chair)
-  + Chun-Hao To? (62th author, Associate Fellow)
 
