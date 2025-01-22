@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan 21 20:31:25 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Jan 21 20:59:12 CST 2025)
 
 - **No evidence that the binary black hole mass distribution evolves with redshift**
 [https://arxiv.org/abs/2501.10295]
