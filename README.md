@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan 22 20:29:18 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Jan 22 20:57:01 CST 2025)
 
 - **A Measurement of the Largest-Scale CMB E-mode Polarization with CLASS**
 [https://arxiv.org/abs/2501.11904]
@@ -54,16 +54,4 @@
 - **Strong nebular HeII emission induced by He$^+$ ionizing photons escaping through the clumpy winds of massive stars**
 [https://arxiv.org/abs/2501.08376]
   + Sugata Paul? (9th author, Graduate Student)
-
-- **Little impact of mergers and galaxy morphology on the production and escape of ionizing photons in the early Universe**
-[https://arxiv.org/abs/2501.08268]
-  + Wayne Hu? (21th author, Senior Member)
-
-- **Periodic Gamma-ray Modulation of the blazar PG 1553+113 Confirmed by Fermi-LAT and Multi-wavelength Observations**
-[https://arxiv.org/abs/2501.08015]
-  + Juliang Li? (47th author, Postdoctoral Scholar)
-
-- **Widen the Resonance: Probing a New Regime of Neutrino Self-Interactions with Astrophysical Neutrinos**
-[https://arxiv.org/abs/2501.07624]
-  + Bei Zhou (3th author, Associate Fellow)
 
