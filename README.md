@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan 22 20:57:01 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Jan 23 20:29:32 CST 2025)
 
 - **A Measurement of the Largest-Scale CMB E-mode Polarization with CLASS**
 [https://arxiv.org/abs/2501.11904]
