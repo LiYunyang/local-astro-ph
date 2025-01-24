@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jan 23 20:29:32 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Jan 23 20:57:26 CST 2025)
+
+- **Non-equilibrium ionization in the multiphase circumgalactic medium -- impact on quasar absorption-line analyses**
+[https://arxiv.org/abs/2501.13170]
+  + Suyash Kumar (1th author, Graduate Student)
+  + Hsiao-Wen Chen (2th author, Senior Member)
 
 - **A Measurement of the Largest-Scale CMB E-mode Polarization with CLASS**
 [https://arxiv.org/abs/2501.11904]
@@ -39,19 +44,4 @@
 - **A Pair of Dynamically Interacting Sub-Neptunes Around TOI-6054**
 [https://arxiv.org/abs/2501.09095]
   + Rafael Luque (29th author, Postdoctoral Scholar)
-
-- **The putative center in NGC 1052**
-[https://arxiv.org/abs/2501.08685]
-  + Bradford A. Benson (27th author, Associate Professor)
-  + John Carlstrom (42th author, Senior Member)
-  + Thomas Crawford (56th author, Senior Researcher)
-
-- **Deep inference of simulated strong lenses in ground-based surveys**
-[https://arxiv.org/abs/2501.08524]
-  + Joshua A. Frieman (4th author, Chair)
-  + Brian Nord (6th author, Senior Associate)
-
-- **Strong nebular HeII emission induced by He$^+$ ionizing photons escaping through the clumpy winds of massive stars**
-[https://arxiv.org/abs/2501.08376]
-  + Sugata Paul? (9th author, Graduate Student)
 
