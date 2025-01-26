@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Jan 24 20:52:50 CST 2025)
+## Latest Astro-ph Papers (Generated on Sat Jan 25 20:31:11 CST 2025)
 
 - **Non-equilibrium ionization in the multiphase circumgalactic medium -- impact on quasar absorption-line analyses**
 [https://arxiv.org/abs/2501.13170]
