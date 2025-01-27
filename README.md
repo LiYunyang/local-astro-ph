@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jan 25 20:58:19 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Jan 26 20:30:47 CST 2025)
+
+- **Early r-process Enrichment and Hierarchical Assembly Across the Sagittarius Dwarf Galaxy**
+[https://arxiv.org/abs/2501.14061]
+  + Anirudh Chiti (3th author, Brinson Prize Fellow)
+  + Guilherme Limberg (5th author, KICP Fellow)
+
+- **Highly reflective white clouds on the western dayside of an exo-Neptune**
+[https://arxiv.org/abs/2501.14016]
+  + Michael Radica (2th author, Postdoctoral Scholar)
+
+- **SIDDA: SInkhorn Dynamic Domain Adaptation for Image Classification with Equivariant Neural Networks**
+[https://arxiv.org/abs/2501.14048]
+  + Brian Nord (3th author, Senior Associate)
 
 - **Non-equilibrium ionization in the multiphase circumgalactic medium -- impact on quasar absorption-line analyses**
 [https://arxiv.org/abs/2501.13170]
@@ -36,12 +49,4 @@
 - **No evidence that the binary black hole mass distribution evolves with redshift**
 [https://arxiv.org/abs/2501.10295]
   + Thomas Callister (3th author, KICP and Schmidt Fellow)
-
-- **Simons Observatory: Characterization of the Large Aperture Telescope Receiver**
-[https://arxiv.org/abs/2501.09241]
-  + Anna Kofman (4th author, Associate Fellow)
-
-- **A Pair of Dynamically Interacting Sub-Neptunes Around TOI-6054**
-[https://arxiv.org/abs/2501.09095]
-  + Rafael Luque (29th author, Postdoctoral Scholar)
 
