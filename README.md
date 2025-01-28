@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jan 27 20:56:20 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Jan 27 22:06:11 CST 2025)
+
+- **Line-of-sight shear in SLACS strong lenses**
+[https://arxiv.org/abs/2501.16292]
+  + Anowar Shajib (2th author, KICP and Einstein Fellow)
+
+- **Discovering Strong Gravitational Lenses in the Dark Energy Survey with Interactive Machine Learning and Crowd-sourced Inspection with Space Warps**
+[https://arxiv.org/abs/2501.15679]
+  + Alex Drlica-Wagner? (17th author, Senior Member)
+  + Brian Nord? (20th author, Senior Associate)
+  + Elizabeth Buckley-Geer? (38th author, Senior Associate)
+  + Giulia Giannini? (43th author, Associate Fellow)
+  + Joshua A. Frieman? (48th author, Chair)
 
 - **Early r-process Enrichment and Hierarchical Assembly Across the Sagittarius Dwarf Galaxy**
 [https://arxiv.org/abs/2501.14061]
@@ -45,8 +57,4 @@
   + Marco Gatti? (34th author, KICP Fellow)
   + Giulia Giannini? (35th author, Associate Fellow)
   + Joshua A. Frieman? (72th author, Chair)
-
-- **No evidence that the binary black hole mass distribution evolves with redshift**
-[https://arxiv.org/abs/2501.10295]
-  + Thomas Callister (3th author, KICP and Schmidt Fellow)
 
