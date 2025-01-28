@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jan 27 20:28:40 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Jan 27 20:56:20 CST 2025)
 
 - **Early r-process Enrichment and Hierarchical Assembly Across the Sagittarius Dwarf Galaxy**
 [https://arxiv.org/abs/2501.14061]
