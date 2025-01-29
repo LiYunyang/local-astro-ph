@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan 28 20:28:16 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Jan 28 20:55:34 CST 2025)
+
+- **A failed wind candidate in NGC 3783 from the 2001 year campaign with Chandra/HETGS**
+[https://arxiv.org/abs/2501.16880]
+  + Daniele Rogantini (4th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **First Axion-Like Particle Results from a Broadband Search for Wave-Like Dark Matter in the 44 to 52 $\mu$eV Range with a Coaxial Dish Antenna**
+[https://arxiv.org/abs/2501.17119]
+  + David Miller (10th author, Senior Member)
 
 - **Line-of-sight shear in SLACS strong lenses**
 [https://arxiv.org/abs/2501.16292]
@@ -31,30 +39,4 @@
 [https://arxiv.org/abs/2501.13170]
   + Suyash Kumar (1th author, Graduate Student)
   + Hsiao-Wen Chen (2th author, Senior Member)
-
-- **A Measurement of the Largest-Scale CMB E-mode Polarization with CLASS**
-[https://arxiv.org/abs/2501.11904]
-  + Yunyang Li (1th author, KICP Fellow)
-  + Rahul Datta (12th author, Research Scientist)
-
-- **Metallicity Scatter Originating from Sub-kiloparsec Starbursting Clumps in the Core of a Protocluster at z=7.88**
-[https://arxiv.org/abs/2501.11879]
-  + Anowar Shajib (12th author, KICP and Einstein Fellow)
-
-- **The influence of chromospheric activity on line formation**
-[https://arxiv.org/abs/2501.11750]
-  + Lily Zhao (2th author, Sagan Fellow)
-
-- **Investigating the complex absorbers of Mrk 766 with XMM-Newton**
-[https://arxiv.org/abs/2501.11562]
-  + Daniele Rogantini? (4th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **High-Significance Detection of Correlation Between the Unresolved Gamma-Ray Background and the Large Scale Cosmic Structure**
-[https://arxiv.org/abs/2501.10506]
-  + Chihway Chang? (20th author, Senior Member)
-  + Scott Dodelson? (27th author, Senior Associate)
-  + Alex Drlica-Wagner? (29th author, Senior Member)
-  + Marco Gatti? (34th author, KICP Fellow)
-  + Giulia Giannini? (35th author, Associate Fellow)
-  + Joshua A. Frieman? (72th author, Chair)
 
