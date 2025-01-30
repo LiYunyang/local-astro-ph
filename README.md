@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan 29 20:27:16 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Jan 29 20:54:55 CST 2025)
+
+- **Planetesimal formation in a pressure bump induced by infall**
+[https://arxiv.org/abs/2501.17857]
+  + Tommy Chi Ho Lau (2th author, Postdoctoral Scholar)
+
+- **Dark Matter Substructure: A Lensing Perspective**
+[https://arxiv.org/abs/2501.17362]
+  + Daniel Gilman (6th author, Associate Fellow)
+
+- **A Two-Step Procedure to Detect Cosmological Gravitational Wave Backgrounds with Next-Generation Terrestrial Gravitational-Wave Detectors**
+[https://arxiv.org/abs/2501.17717]
+  + Bei Zhou (3th author, Associate Fellow)
 
 - **A failed wind candidate in NGC 3783 from the 2001 year campaign with Chandra/HETGS**
 [https://arxiv.org/abs/2501.16880]
