@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan 28 20:55:34 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Jan 29 20:27:16 CST 2025)
 
 - **A failed wind candidate in NGC 3783 from the 2001 year campaign with Chandra/HETGS**
 [https://arxiv.org/abs/2501.16880]
