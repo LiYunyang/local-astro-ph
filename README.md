@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jan 30 20:28:46 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Jan 30 20:56:33 CST 2025)
+
+- **The Southern Photometrical Local Universe Survey (S-PLUS): searching for metal-poor dwarf galaxies**
+[https://arxiv.org/abs/2501.18498]
+  + Guilherme Limberg? (12th author, KICP Fellow)
+
+- **A Comprehensive Reanalysis of K2-18 b's JWST NIRISS+NIRSpec Transmission Spectrum**
+[https://arxiv.org/abs/2501.18477]
+  + Michael Radica (4th author, Postdoctoral Scholar)
+
+- **TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**
+[https://arxiv.org/abs/2501.18142]
+  + Alex Thomas (1th author, Graduate Student)
 
 - **Planetesimal formation in a pressure bump induced by infall**
 [https://arxiv.org/abs/2501.17857]
@@ -46,9 +58,4 @@
 - **SIDDA: SInkhorn Dynamic Domain Adaptation for Image Classification with Equivariant Neural Networks**
 [https://arxiv.org/abs/2501.14048]
   + Brian Nord (3th author, Senior Associate)
-
-- **Non-equilibrium ionization in the multiphase circumgalactic medium -- impact on quasar absorption-line analyses**
-[https://arxiv.org/abs/2501.13170]
-  + Suyash Kumar (1th author, Graduate Student)
-  + Hsiao-Wen Chen (2th author, Senior Member)
 
