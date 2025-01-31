@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan 29 20:54:55 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Jan 30 20:28:46 CST 2025)
 
 - **Planetesimal formation in a pressure bump induced by infall**
 [https://arxiv.org/abs/2501.17857]
