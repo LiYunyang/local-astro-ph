@@ -1,6 +1,27 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb  2 20:29:54 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Feb  2 20:58:43 CST 2025)
+
+- **Systematic Bias in Ionizing Radiation Escape Fraction Measurements from Foreground Large-Scale Structures**
+[https://arxiv.org/abs/2501.19303]
+  + Wayne Hu? (2th author, Senior Member)
+
+- **Three-dimensional Structure of Incomplete Carbon-Oxygen Detonations in Type Ia Supernovae**
+[https://arxiv.org/abs/2501.19190]
+  + LianTao Wang? (9th author, Senior Member)
+
+- **Testing the Rossby Paradigm: Weakened Magnetic Braking in early K-type Stars**
+[https://arxiv.org/abs/2501.19169]
+  + Derek Buzasi (5th author, Senior Instructional Professor)
+
+- **It's not $\sigma_8$ : constraining the non-linear matter power spectrum with the Dark Energy Survey Year-5 supernova sample**
+[https://arxiv.org/abs/2501.19117]
+  + Joshua A. Frieman? (34th author, Chair)
+  + Giulia Giannini? (37th author, Associate Fellow)
+
+- **The Local Galactic Transient Survey Applied to an Optical Search for Directed Intelligence**
+[https://arxiv.org/abs/2501.18903]
+  + Alex Thomas (1th author, Graduate Student)
 
 - **The Southern Photometrical Local Universe Survey (S-PLUS): searching for metal-poor dwarf galaxies**
 [https://arxiv.org/abs/2501.18498]
@@ -45,17 +66,4 @@
   + Elizabeth Buckley-Geer? (38th author, Senior Associate)
   + Giulia Giannini? (43th author, Associate Fellow)
   + Joshua A. Frieman? (48th author, Chair)
-
-- **Early r-process Enrichment and Hierarchical Assembly Across the Sagittarius Dwarf Galaxy**
-[https://arxiv.org/abs/2501.14061]
-  + Anirudh Chiti (3th author, Brinson Prize Fellow)
-  + Guilherme Limberg (5th author, KICP Fellow)
-
-- **Highly reflective white clouds on the western dayside of an exo-Neptune**
-[https://arxiv.org/abs/2501.14016]
-  + Michael Radica (2th author, Postdoctoral Scholar)
-
-- **SIDDA: SInkhorn Dynamic Domain Adaptation for Image Classification with Equivariant Neural Networks**
-[https://arxiv.org/abs/2501.14048]
-  + Brian Nord (3th author, Senior Associate)
 
