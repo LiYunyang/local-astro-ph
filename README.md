@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Feb  1 20:58:11 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Feb  2 20:29:54 CST 2025)
 
 - **The Southern Photometrical Local Universe Survey (S-PLUS): searching for metal-poor dwarf galaxies**
 [https://arxiv.org/abs/2501.18498]
