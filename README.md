@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb  3 20:28:56 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Feb  3 20:57:21 CST 2025)
 
 - **Systematic Bias in Ionizing Radiation Escape Fraction Measurements from Foreground Large-Scale Structures**
 [https://arxiv.org/abs/2501.19303]
