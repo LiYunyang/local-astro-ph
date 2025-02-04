@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb  3 21:48:41 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Feb  3 22:35:05 CST 2025)
+
+- **Propagation Delays of Ultra-High-Energy Cosmic Ray from Active Galactic Nuclei**
+[https://arxiv.org/abs/2502.01022]
+  + Damiano Caprioli (2th author, Associate Professor)
 
 - **Systematic Bias in Ionizing Radiation Escape Fraction Measurements from Foreground Large-Scale Structures**
 [https://arxiv.org/abs/2501.19303]
@@ -54,16 +58,4 @@
 - **First Axion-Like Particle Results from a Broadband Search for Wave-Like Dark Matter in the 44 to 52 $\mu$eV Range with a Coaxial Dish Antenna**
 [https://arxiv.org/abs/2501.17119]
   + David Miller (10th author, Senior Member)
-
-- **Line-of-sight shear in SLACS strong lenses**
-[https://arxiv.org/abs/2501.16292]
-  + Anowar Shajib (2th author, KICP and Einstein Fellow)
-
-- **Discovering Strong Gravitational Lenses in the Dark Energy Survey with Interactive Machine Learning and Crowd-sourced Inspection with Space Warps**
-[https://arxiv.org/abs/2501.15679]
-  + Alex Drlica-Wagner? (17th author, Senior Member)
-  + Brian Nord? (20th author, Senior Associate)
-  + Elizabeth Buckley-Geer? (38th author, Senior Associate)
-  + Giulia Giannini? (43th author, Associate Fellow)
-  + Joshua A. Frieman? (48th author, Chair)
 
