@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb  4 20:30:51 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Feb  4 20:59:10 CST 2025)
+
+- **Development and Quality Control of PMT Modules for the Large-Sized Telescopes of the Cherenkov Telescope Array Observatory**
+[https://arxiv.org/abs/2502.02045]
+  + Takeshi Oka? (40th author, Robert A. Millikan Distinguished Service Professor Emeritus)
 
 - **Propagation Delays of Ultra-High-Energy Cosmic Ray from Active Galactic Nuclei**
 [https://arxiv.org/abs/2502.01022]
@@ -50,12 +54,4 @@
 - **A Two-Step Procedure to Detect Cosmological Gravitational Wave Backgrounds with Next-Generation Terrestrial Gravitational-Wave Detectors**
 [https://arxiv.org/abs/2501.17717]
   + Bei Zhou (3th author, Associate Fellow)
-
-- **A failed wind candidate in NGC 3783 from the 2001 year campaign with Chandra/HETGS**
-[https://arxiv.org/abs/2501.16880]
-  + Daniele Rogantini (4th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **First Axion-Like Particle Results from a Broadband Search for Wave-Like Dark Matter in the 44 to 52 $\mu$eV Range with a Coaxial Dish Antenna**
-[https://arxiv.org/abs/2501.17119]
-  + David Miller (10th author, Senior Member)
 
