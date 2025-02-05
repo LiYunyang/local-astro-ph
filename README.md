@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb  3 22:35:05 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Feb  4 20:30:51 CST 2025)
 
 - **Propagation Delays of Ultra-High-Energy Cosmic Ray from Active Galactic Nuclei**
 [https://arxiv.org/abs/2502.01022]
