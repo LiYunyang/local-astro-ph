@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb  4 20:59:10 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Feb  5 20:31:00 CST 2025)
 
 - **Development and Quality Control of PMT Modules for the Large-Sized Telescopes of the Cherenkov Telescope Array Observatory**
 [https://arxiv.org/abs/2502.02045]
