@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb  5 20:31:00 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Feb  5 20:59:13 CST 2025)
+
+- **Ultra High-Redshift or Closer-by, Dust-Obscured Galaxies? Deciphering the Nature of Faint, Previously Missed F200W-Dropouts in CEERS**
+[https://arxiv.org/abs/2502.02637]
+  + Agustin Lapi? (21th author, Associate Fellow)
 
 - **Development and Quality Control of PMT Modules for the Large-Sized Telescopes of the Cherenkov Telescope Array Observatory**
 [https://arxiv.org/abs/2502.02045]
@@ -42,16 +46,4 @@
 - **TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**
 [https://arxiv.org/abs/2501.18142]
   + Alex Thomas (1th author, Graduate Student)
-
-- **Planetesimal formation in a pressure bump induced by infall**
-[https://arxiv.org/abs/2501.17857]
-  + Tommy Chi Ho Lau (2th author, Postdoctoral Scholar)
-
-- **Dark Matter Substructure: A Lensing Perspective**
-[https://arxiv.org/abs/2501.17362]
-  + Daniel Gilman (6th author, Associate Fellow)
-
-- **A Two-Step Procedure to Detect Cosmological Gravitational Wave Backgrounds with Next-Generation Terrestrial Gravitational-Wave Detectors**
-[https://arxiv.org/abs/2501.17717]
-  + Bei Zhou (3th author, Associate Fellow)
 
