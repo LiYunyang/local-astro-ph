@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb  6 20:31:58 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Feb  6 21:00:31 CST 2025)
+
+- **Elliptical multipoles for gravitational lenses**
+[https://arxiv.org/abs/2502.03530]
+  + Daniel Gilman (2th author, Associate Fellow)
+
+- **DESI Strong Lens Foundry I: HST Observations and Modeling with GIGA-Lens**
+[https://arxiv.org/abs/2502.03455]
+  + Shrihan Agarwal? (6th author, Graduate Student)
 
 - **Ultra High-Redshift or Closer-by, Dust-Obscured Galaxies? Deciphering the Nature of Faint, Previously Missed F200W-Dropouts in CEERS**
 [https://arxiv.org/abs/2502.02637]
@@ -33,17 +41,5 @@
 
 - **The Local Galactic Transient Survey Applied to an Optical Search for Directed Intelligence**
 [https://arxiv.org/abs/2501.18903]
-  + Alex Thomas (1th author, Graduate Student)
-
-- **The Southern Photometrical Local Universe Survey (S-PLUS): searching for metal-poor dwarf galaxies**
-[https://arxiv.org/abs/2501.18498]
-  + Guilherme Limberg? (12th author, KICP Fellow)
-
-- **A Comprehensive Reanalysis of K2-18 b's JWST NIRISS+NIRSpec Transmission Spectrum**
-[https://arxiv.org/abs/2501.18477]
-  + Michael Radica (4th author, Postdoctoral Scholar)
-
-- **TRIPP: A General Purpose Data Pipeline for Astronomical Image Processing**
-[https://arxiv.org/abs/2501.18142]
   + Alex Thomas (1th author, Graduate Student)
 
