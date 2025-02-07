@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb  5 20:59:13 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Feb  6 20:31:58 CST 2025)
 
 - **Ultra High-Redshift or Closer-by, Dust-Obscured Galaxies? Deciphering the Nature of Faint, Previously Missed F200W-Dropouts in CEERS**
 [https://arxiv.org/abs/2502.02637]
