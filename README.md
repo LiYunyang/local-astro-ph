@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb  6 21:00:31 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Feb  7 20:27:05 CST 2025)
 
 - **Elliptical multipoles for gravitational lenses**
 [https://arxiv.org/abs/2502.03530]
