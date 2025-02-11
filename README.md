@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb  9 21:00:55 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Feb 10 20:32:19 CST 2025)
 
 - **Relationship between 2D and 3D Galaxy Stellar Mass and Correlations with Halo Mass**
 [https://arxiv.org/abs/2502.05158]
