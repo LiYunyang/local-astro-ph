@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb 10 21:00:02 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Feb 11 20:30:54 CST 2025)
+
+- **Euclid: A complete Einstein ring in NGC 6505**
+[https://arxiv.org/abs/2502.06505]
+  + Diana Powell? (16th author, Assistant Professor)
+
+- **Ideas and Requirements for the Global Cosmic-Ray Observatory (GCOS)**
+[https://arxiv.org/abs/2502.05657]
+  + Angela Olinto (91th author, Senior Member)
 
 - **Relationship between 2D and 3D Galaxy Stellar Mass and Correlations with Halo Mass**
 [https://arxiv.org/abs/2502.05158]
@@ -33,8 +41,4 @@
 - **Development and Quality Control of PMT Modules for the Large-Sized Telescopes of the Cherenkov Telescope Array Observatory**
 [https://arxiv.org/abs/2502.02045]
   + Takeshi Oka? (40th author, Robert A. Millikan Distinguished Service Professor Emeritus)
-
-- **Propagation Delays of Ultra-High-Energy Cosmic Ray from Active Galactic Nuclei**
-[https://arxiv.org/abs/2502.01022]
-  + Damiano Caprioli (2th author, Associate Professor)
 
