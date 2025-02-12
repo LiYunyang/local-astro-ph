@@ -1,6 +1,17 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb 11 20:30:54 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Feb 11 20:59:08 CST 2025)
+
+- **TOI-2015b: a sub-Neptune in strong gravitational interaction with an outer non-transiting planet**
+[https://arxiv.org/abs/2502.07074]
+  + Madison Brady? (10th author, Graduate Student)
+  + Ritvik Basant? (35th author, Graduate Student)
+  + Rafael Luque? (79th author, Postdoctoral Scholar)
+
+- **Evolving dark energy models: Current and forecast constraints**
+[https://arxiv.org/abs/2502.06929]
+  + Anowar Shajib (1th author, KICP and Einstein Fellow)
+  + Joshua A. Frieman (2th author, Chair)
 
 - **Euclid: A complete Einstein ring in NGC 6505**
 [https://arxiv.org/abs/2502.06505]
@@ -37,8 +48,4 @@
 - **Ultra High-Redshift or Closer-by, Dust-Obscured Galaxies? Deciphering the Nature of Faint, Previously Missed F200W-Dropouts in CEERS**
 [https://arxiv.org/abs/2502.02637]
   + Agustin Lapi? (21th author, Associate Fellow)
-
-- **Development and Quality Control of PMT Modules for the Large-Sized Telescopes of the Cherenkov Telescope Array Observatory**
-[https://arxiv.org/abs/2502.02045]
-  + Takeshi Oka? (40th author, Robert A. Millikan Distinguished Service Professor Emeritus)
 
