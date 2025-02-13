@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb 11 20:59:08 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Feb 12 20:31:42 CST 2025)
 
 - **TOI-2015b: a sub-Neptune in strong gravitational interaction with an outer non-transiting planet**
 [https://arxiv.org/abs/2502.07074]
