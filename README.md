@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 12 20:31:42 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Feb 12 20:59:56 CST 2025)
+
+- **Searching for Hot Water World Candidates with CHEOPS: Refining the radii and analysing the internal structures and atmospheric lifetimes of TOI-238 b and TOI-1685 b**
+[https://arxiv.org/abs/2502.07887]
+  + Rafael Luque? (54th author, Postdoctoral Scholar)
 
 - **TOI-2015b: a sub-Neptune in strong gravitational interaction with an outer non-transiting planet**
 [https://arxiv.org/abs/2502.07074]
@@ -40,12 +44,4 @@
 - **Elliptical multipoles for gravitational lenses**
 [https://arxiv.org/abs/2502.03530]
   + Daniel Gilman (2th author, Associate Fellow)
-
-- **DESI Strong Lens Foundry I: HST Observations and Modeling with GIGA-Lens**
-[https://arxiv.org/abs/2502.03455]
-  + Shrihan Agarwal? (6th author, Graduate Student)
-
-- **Ultra High-Redshift or Closer-by, Dust-Obscured Galaxies? Deciphering the Nature of Faint, Previously Missed F200W-Dropouts in CEERS**
-[https://arxiv.org/abs/2502.02637]
-  + Agustin Lapi? (21th author, Associate Fellow)
 
