@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 12 20:59:56 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Feb 13 20:31:36 CST 2025)
 
 - **Searching for Hot Water World Candidates with CHEOPS: Refining the radii and analysing the internal structures and atmospheric lifetimes of TOI-238 b and TOI-1685 b**
 [https://arxiv.org/abs/2502.07887]
