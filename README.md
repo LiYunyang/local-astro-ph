@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb 13 20:31:36 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Feb 13 20:59:20 CST 2025)
+
+- **The EBLM project -- XIV. TESS light curves for eclipsing binaries with very low mass companions**
+[https://arxiv.org/abs/2502.09267]
+  + David Martin (5th author, Graduate Student)
+
+- **DESI dark secrets**
+[https://arxiv.org/abs/2502.08876]
+  + Michael S. Turner (2th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
+
+- **Measurements of the Thermal Sunyaev-Zel'dovich Effect with ACT and DESI Luminous Red Galaxies**
+[https://arxiv.org/abs/2502.08850]
+  + Rayne Liu? (1th author, Graduate Student)
 
 - **Searching for Hot Water World Candidates with CHEOPS: Refining the radii and analysing the internal structures and atmospheric lifetimes of TOI-238 b and TOI-1685 b**
 [https://arxiv.org/abs/2502.07887]
@@ -40,8 +52,4 @@
 - **A New Spectral Library for Modeling the Surfaces of Hot, Rocky Exoplanets**
 [https://arxiv.org/abs/2502.04433]
   + Michael Zhang (8th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Elliptical multipoles for gravitational lenses**
-[https://arxiv.org/abs/2502.03530]
-  + Daniel Gilman (2th author, Associate Fellow)
 
