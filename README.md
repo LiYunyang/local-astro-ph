@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb 13 20:59:20 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Feb 14 20:30:04 CST 2025)
 
 - **The EBLM project -- XIV. TESS light curves for eclipsing binaries with very low mass companions**
 [https://arxiv.org/abs/2502.09267]
