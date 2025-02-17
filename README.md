@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb 16 20:00:44 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Feb 16 20:47:34 CST 2025)
+
+- **ZTF SN Ia DR2: Improved SN Ia colors through expanded dimensionality with SALT3+**
+[https://arxiv.org/abs/2502.09713]
+  + Richard Kessler? (6th author, Senior Researcher)
 
 - **The EBLM project -- XIV. TESS light curves for eclipsing binaries with very low mass companions**
 [https://arxiv.org/abs/2502.09267]
@@ -36,20 +40,4 @@
 - **Ideas and Requirements for the Global Cosmic-Ray Observatory (GCOS)**
 [https://arxiv.org/abs/2502.05657]
   + Angela Olinto (91th author, Senior Member)
-
-- **Relationship between 2D and 3D Galaxy Stellar Mass and Correlations with Halo Mass**
-[https://arxiv.org/abs/2502.05158]
-  + Marco Gatti (8th author, KICP Fellow)
-
-- **Challenges and Opportunities for time-delay cosmography with multi-messenger gravitational lensing**
-[https://arxiv.org/abs/2502.04472]
-  + Anowar Shajib (3th author, KICP and Einstein Fellow)
-
-- **Planet Masses, Radii, and Orbits from NASA's K2 Mission**
-[https://arxiv.org/abs/2502.04436]
-  + Leslie Rogers (29th author, Associate Professor)
-
-- **A New Spectral Library for Modeling the Surfaces of Hot, Rocky Exoplanets**
-[https://arxiv.org/abs/2502.04433]
-  + Michael Zhang (8th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
 
