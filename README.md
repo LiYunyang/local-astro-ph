@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb 17 19:58:23 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Feb 17 20:46:27 CST 2025)
 
 - **ZTF SN Ia DR2: Improved SN Ia colors through expanded dimensionality with SALT3+**
 [https://arxiv.org/abs/2502.09713]
