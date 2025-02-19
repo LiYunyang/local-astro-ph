@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb 18 09:33:07 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Feb 18 19:59:07 CST 2025)
 
 - **Searching for Low-Mass Exoplanets Amid Stellar Variability with a Fixed Effects Linear Model of Line-by-Line Shape Changes**
 [https://arxiv.org/abs/2502.11930]
