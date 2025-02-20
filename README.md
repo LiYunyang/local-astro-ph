@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 19 19:59:17 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Feb 19 20:46:57 CST 2025)
 
 - **Selection Function of Clusters in Dark Energy Survey Year 3 Data from Cross-Matching with South Pole Telescope Detections**
 [https://arxiv.org/abs/2502.12914]
@@ -56,8 +56,4 @@
 - **Measurements of the Thermal Sunyaev-Zel'dovich Effect with ACT and DESI Luminous Red Galaxies**
 [https://arxiv.org/abs/2502.08850]
   + Rayne Liu? (1th author, Graduate Student)
-
-- **Searching for Hot Water World Candidates with CHEOPS: Refining the radii and analysing the internal structures and atmospheric lifetimes of TOI-238 b and TOI-1685 b**
-[https://arxiv.org/abs/2502.07887]
-  + Rafael Luque? (54th author, Postdoctoral Scholar)
 
