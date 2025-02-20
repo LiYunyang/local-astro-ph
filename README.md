@@ -1,6 +1,20 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb 18 20:46:57 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Feb 19 19:59:17 CST 2025)
+
+- **Selection Function of Clusters in Dark Energy Survey Year 3 Data from Cross-Matching with South Pole Telescope Detections**
+[https://arxiv.org/abs/2502.12914]
+  + Lindsey Bleem? (4th author, Senior Associate)
+  + Joshua A. Frieman? (21th author, Chair)
+  + Chun-Hao To? (51th author, Associate Fellow)
+
+- **Unveiling the warm molecular outflow component of type-2 quasars with SINFONI**
+[https://arxiv.org/abs/2502.12800]
+  + Agustin Lapi? (7th author, Associate Fellow)
+
+- **Searching For Superheavy Decaying Particles With Ultra-High-Energy Neutrino Observatories**
+[https://arxiv.org/abs/2502.12238]
+  + Emily Simon (3th author, Graduate Student)
 
 - **Searching for Low-Mass Exoplanets Amid Stellar Variability with a Fixed Effects Linear Model of Line-by-Line Shape Changes**
 [https://arxiv.org/abs/2502.11930]
@@ -46,15 +60,4 @@
 - **Searching for Hot Water World Candidates with CHEOPS: Refining the radii and analysing the internal structures and atmospheric lifetimes of TOI-238 b and TOI-1685 b**
 [https://arxiv.org/abs/2502.07887]
   + Rafael Luque? (54th author, Postdoctoral Scholar)
-
-- **TOI-2015b: a sub-Neptune in strong gravitational interaction with an outer non-transiting planet**
-[https://arxiv.org/abs/2502.07074]
-  + Madison Brady? (10th author, Graduate Student)
-  + Ritvik Basant? (35th author, Graduate Student)
-  + Rafael Luque? (79th author, Postdoctoral Scholar)
-
-- **Evolving dark energy models: Current and forecast constraints**
-[https://arxiv.org/abs/2502.06929]
-  + Anowar Shajib (1th author, KICP and Einstein Fellow)
-  + Joshua A. Frieman (2th author, Chair)
 
