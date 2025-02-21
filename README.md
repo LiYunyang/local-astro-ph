@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb 20 19:59:18 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Feb 20 20:47:02 CST 2025)
+
+- **PROTOCALC, A W-band polarized calibrator for CMB Telescopes: application to Simons Observatory and CLASS**
+[https://arxiv.org/abs/2502.14473]
+  + Yunyang Li (8th author, KICP Fellow)
+  + Sara  Simon (10th author, Senior Associate)
 
 - **Selection Function of Clusters in Dark Energy Survey Year 3 Data from Cross-Matching with South Pole Telescope Detections**
 [https://arxiv.org/abs/2502.12914]
@@ -44,16 +49,4 @@
 - **ZTF SN Ia DR2: Improved SN Ia colors through expanded dimensionality with SALT3+**
 [https://arxiv.org/abs/2502.09713]
   + Richard Kessler? (6th author, Senior Researcher)
-
-- **The EBLM project -- XIV. TESS light curves for eclipsing binaries with very low mass companions**
-[https://arxiv.org/abs/2502.09267]
-  + David Martin (5th author, Graduate Student)
-
-- **DESI dark secrets**
-[https://arxiv.org/abs/2502.08876]
-  + Michael S. Turner (2th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
-
-- **Measurements of the Thermal Sunyaev-Zel'dovich Effect with ACT and DESI Luminous Red Galaxies**
-[https://arxiv.org/abs/2502.08850]
-  + Rayne Liu? (1th author, Graduate Student)
 
