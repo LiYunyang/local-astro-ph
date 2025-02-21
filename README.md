@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 19 20:46:57 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Feb 20 19:59:18 CST 2025)
 
 - **Selection Function of Clusters in Dark Energy Survey Year 3 Data from Cross-Matching with South Pole Telescope Detections**
 [https://arxiv.org/abs/2502.12914]
