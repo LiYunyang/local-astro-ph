@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb 20 20:47:02 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Feb 21 19:57:18 CST 2025)
 
 - **PROTOCALC, A W-band polarized calibrator for CMB Telescopes: application to Simons Observatory and CLASS**
 [https://arxiv.org/abs/2502.14473]
