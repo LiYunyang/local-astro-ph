@@ -1,6 +1,32 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb 23 20:01:06 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Feb 23 20:48:09 CST 2025)
+
+- **Multiple-Amplifier Sensing Charged-Coupled Device: Model and improvement of the Node Removal Efficiency**
+[https://arxiv.org/abs/2502.15644]
+  + Agustin Lapi (4th author, Associate Fellow)
+  + Juan  Estrada (7th author, Senior Associate)
+  + Alex Drlica-Wagner (9th author, Senior Member)
+
+- **New insight into the Rapid Burster by Insight-HXMT**
+[https://arxiv.org/abs/2502.15267]
+  + LianTao Wang? (66th author, Senior Member)
+
+- **A Critical Examination of the Nested Leaky Box Model for Galactic Cosmic Ray Transport**
+[https://arxiv.org/abs/2502.15115]
+  + Benedikt Schroer (1th author, Postdoctoral Scholar)
+
+- **Calibrating the Instrumental Drift in MAROON-X using an Ensemble Analysis**
+[https://arxiv.org/abs/2502.15074]
+  + Ritvik Basant (1th author, Graduate Student)
+  + Tanya Das (2th author, Postdoctoral Scholar)
+  + Jacob L. Bean (3th author, Professor)
+  + Rafael Luque (4th author, Postdoctoral Scholar)
+  + Madison Brady (6th author, Graduate Student)
+
+- **SOFIA/HAWC+ Far-Infrared Polarimetric Large Area CMZ Exploration Survey. V. The Magnetic Field Strength and Morphology in the Sagittarius C Complex**
+[https://arxiv.org/abs/2502.14961]
+  + Roy Zhao (1th author, Graduate Student)
 
 - **PROTOCALC, A W-band polarized calibrator for CMB Telescopes: application to Simons Observatory and CLASS**
 [https://arxiv.org/abs/2502.14473]
@@ -45,8 +71,4 @@
   + Juan  Estrada (6th author, Senior Associate)
   + Agustin Lapi (10th author, Associate Fellow)
   + Edgar Marrufo Villalpando (11th author, Graduate Student)
-
-- **ZTF SN Ia DR2: Improved SN Ia colors through expanded dimensionality with SALT3+**
-[https://arxiv.org/abs/2502.09713]
-  + Richard Kessler? (6th author, Senior Researcher)
 
