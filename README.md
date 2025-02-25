@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb 24 20:47:46 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Feb 25 09:28:07 CST 2025)
+
+- **FEASTS Combined with Interferometry (IV): Mapping HI Emission to a limit of $N_{\text{HI}}=10^{17.7} \text{cm}^{-2}$ in Seven Edge-on Galaxies**
+[https://arxiv.org/abs/2502.16926]
+  + Zhijie Qu (3th author, Postdoctoral Scholar)
+
+- **Galaxy mergers classification using CNNs trained on Sérsic models, residuals and raw images**
+[https://arxiv.org/abs/2502.16603]
+  + LianTao Wang? (6th author, Senior Member)
+
+- **TOI-6324b: An Earth-Mass Ultra-Short-Period Planet Transiting a Nearby M Dwarf**
+[https://arxiv.org/abs/2502.16087]
+  + Leslie Rogers (17th author, Associate Professor)
+
+- **TDCOSMO XIX: Measuring stellar velocity dispersion with sub-percent accuracy for cosmography**
+[https://arxiv.org/abs/2502.16034]
+  + Anowar Shajib (3th author, KICP and Einstein Fellow)
 
 - **Multiple-Amplifier Sensing Charged-Coupled Device: Model and improvement of the Node Removal Efficiency**
 [https://arxiv.org/abs/2502.15644]
@@ -46,29 +62,4 @@
 - **Searching For Superheavy Decaying Particles With Ultra-High-Energy Neutrino Observatories**
 [https://arxiv.org/abs/2502.12238]
   + Emily Simon (3th author, Graduate Student)
-
-- **Searching for Low-Mass Exoplanets Amid Stellar Variability with a Fixed Effects Linear Model of Line-by-Line Shape Changes**
-[https://arxiv.org/abs/2502.11930]
-  + Lily Zhao (4th author, Sagan Fellow)
-
-- **A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger**
-[https://arxiv.org/abs/2502.11217]
-  + Sunil Simha (58th author, Associate Fellow)
-
-- **FEASTS Combined with Interferometry. III. The Low-column-density HI Around M51 and Possibility of Turbulent-mixing Gas Accretion**
-[https://arxiv.org/abs/2502.10672]
-  + Hsiao-Wen Chen (8th author, Senior Member)
-  + Zhijie Qu (15th author, Postdoctoral Scholar)
-
-- **Revealing an unexpectedly low electron injection threshold via reinforced shock acceleration**
-[https://arxiv.org/abs/2502.10643]
-  + Damiano Caprioli (5th author, Associate Professor)
-
-- **Readout Optimization of Multi-Amplifier Sensing Charge-Coupled Devices for Single-Quantum Measurement**
-[https://arxiv.org/abs/2502.10508]
-  + Ana Martina Botti (1th author, Associate Fellow)
-  + Alex Drlica-Wagner (5th author, Senior Member)
-  + Juan  Estrada (6th author, Senior Associate)
-  + Agustin Lapi (10th author, Associate Fellow)
-  + Edgar Marrufo Villalpando (11th author, Graduate Student)
 
