@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb 23 20:48:09 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Feb 24 20:00:34 CST 2025)
 
 - **Multiple-Amplifier Sensing Charged-Coupled Device: Model and improvement of the Node Removal Efficiency**
 [https://arxiv.org/abs/2502.15644]
