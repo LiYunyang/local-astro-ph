@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb 25 09:28:07 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Feb 25 20:00:23 CST 2025)
 
 - **FEASTS Combined with Interferometry (IV): Mapping HI Emission to a limit of $N_{\text{HI}}=10^{17.7} \text{cm}^{-2}$ in Seven Edge-on Galaxies**
 [https://arxiv.org/abs/2502.16926]
