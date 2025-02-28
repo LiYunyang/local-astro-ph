@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 26 20:47:57 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Feb 27 20:00:51 CST 2025)
+
+- **Amplification of turbulence through multiple planar shocks**
+[https://arxiv.org/abs/2502.18708]
+  + Michael Zhang (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **Identification and characterisation of the gamma-ray counterpart of the transitional pulsar candidate CXOU J110926.4-650224**
 [https://arxiv.org/abs/2502.18073]
