@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb 27 20:48:05 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Feb 28 20:04:57 CST 2025)
+
+- **Insight-HXMT observations on thermonuclear X-ray bursts from 4U~1608--52 in the low/hard state: the energy-dependant hard X-ray deficit and cooling saturation of the corona**
+[https://arxiv.org/abs/2502.19743]
+  + Juliang Li? (12th author, Postdoctoral Scholar)
 
 - **Amplification of turbulence through multiple planar shocks**
 [https://arxiv.org/abs/2502.18708]
@@ -94,9 +98,4 @@
 - **SOFIA/HAWC+ Far-Infrared Polarimetric Large Area CMZ Exploration Survey. V. The Magnetic Field Strength and Morphology in the Sagittarius C Complex**
 [https://arxiv.org/abs/2502.14961]
   + Roy Zhao (1th author, Graduate Student)
-
-- **PROTOCALC, A W-band polarized calibrator for CMB Telescopes: application to Simons Observatory and CLASS**
-[https://arxiv.org/abs/2502.14473]
-  + Yunyang Li (8th author, KICP Fellow)
-  + Sara  Simon (10th author, Senior Associate)
 
