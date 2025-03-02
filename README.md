@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Feb 28 20:50:09 CST 2025)
+## Latest Astro-ph Papers (Generated on Sat Mar  1 20:04:23 CST 2025)
 
 - **Insight-HXMT observations on thermonuclear X-ray bursts from 4U~1608--52 in the low/hard state: the energy-dependant hard X-ray deficit and cooling saturation of the corona**
 [https://arxiv.org/abs/2502.19743]
