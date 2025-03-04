@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Mar  2 20:48:43 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Mar  3 20:01:43 CST 2025)
+
+- **Aeos: The Impact of Pop III Initial Mass Function and Star-by-Star Models in Galaxy Simulations**
+[https://arxiv.org/abs/2502.20433]
+  + Alexander Ji (6th author, Senior Member)
 
 - **Insight-HXMT observations on thermonuclear X-ray bursts from 4U~1608--52 in the low/hard state: the energy-dependant hard X-ray deficit and cooling saturation of the corona**
 [https://arxiv.org/abs/2502.19743]
@@ -72,30 +76,4 @@
 - **TDCOSMO XIX: Measuring stellar velocity dispersion with sub-percent accuracy for cosmography**
 [https://arxiv.org/abs/2502.16034]
   + Anowar Shajib (3th author, KICP and Einstein Fellow)
-
-- **Multiple-Amplifier Sensing Charged-Coupled Device: Model and improvement of the Node Removal Efficiency**
-[https://arxiv.org/abs/2502.15644]
-  + Agustin Lapi (4th author, Associate Fellow)
-  + Juan  Estrada (7th author, Senior Associate)
-  + Alex Drlica-Wagner (9th author, Senior Member)
-
-- **New insight into the Rapid Burster by Insight-HXMT**
-[https://arxiv.org/abs/2502.15267]
-  + LianTao Wang? (66th author, Senior Member)
-
-- **A Critical Examination of the Nested Leaky Box Model for Galactic Cosmic Ray Transport**
-[https://arxiv.org/abs/2502.15115]
-  + Benedikt Schroer (1th author, Postdoctoral Scholar)
-
-- **Calibrating the Instrumental Drift in MAROON-X using an Ensemble Analysis**
-[https://arxiv.org/abs/2502.15074]
-  + Ritvik Basant (1th author, Graduate Student)
-  + Tanya Das (2th author, Postdoctoral Scholar)
-  + Jacob L. Bean (3th author, Professor)
-  + Rafael Luque (4th author, Postdoctoral Scholar)
-  + Madison Brady (6th author, Graduate Student)
-
-- **SOFIA/HAWC+ Far-Infrared Polarimetric Large Area CMZ Exploration Survey. V. The Magnetic Field Strength and Morphology in the Sagittarius C Complex**
-[https://arxiv.org/abs/2502.14961]
-  + Roy Zhao (1th author, Graduate Student)
 
