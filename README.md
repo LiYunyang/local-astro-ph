@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar  4 20:01:45 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Mar  4 20:48:19 CST 2025)
 
 - **Modeling the cool gas clumps in the circumgalactic medium**
 [https://arxiv.org/abs/2503.01479]
