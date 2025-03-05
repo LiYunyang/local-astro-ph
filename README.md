@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar  3 20:48:35 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Mar  4 20:01:45 CST 2025)
+
+- **Modeling the cool gas clumps in the circumgalactic medium**
+[https://arxiv.org/abs/2503.01479]
+  + Zhijie Qu (2th author, Postdoctoral Scholar)
+
+- **The Simons Observatory: Science Goals and Forecasts for the Enhanced Large Aperture Telescope**
+[https://arxiv.org/abs/2503.00636]
+  + Sanah Bhimani? (37th author, Postdoctoral Scholar)
+  + Rahul Datta? (85th author, Research Scientist)
+
+- **TDCOSMO: XX. WFI2033--4723, the First Quadruply-Imaged Quasar Modeled with JWST Imaging**
+[https://arxiv.org/abs/2503.00099]
+  + Anowar Shajib? (4th author, KICP and Einstein Fellow)
 
 - **Aeos: The Impact of Pop III Initial Mass Function and Star-by-Star Models in Galaxy Simulations**
 [https://arxiv.org/abs/2502.20433]
@@ -60,20 +73,4 @@
   + David Martin? (8th author, Graduate Student)
   + Luca Grandi? (52th author, Senior Member)
   + Jianyu Long? (89th author, Graduate Student)
-
-- **FEASTS Combined with Interferometry (IV): Mapping HI Emission to a limit of $N_{\text{HI}}=10^{17.7} \text{cm}^{-2}$ in Seven Edge-on Galaxies**
-[https://arxiv.org/abs/2502.16926]
-  + Zhijie Qu (3th author, Postdoctoral Scholar)
-
-- **Galaxy mergers classification using CNNs trained on Sérsic models, residuals and raw images**
-[https://arxiv.org/abs/2502.16603]
-  + LianTao Wang? (6th author, Senior Member)
-
-- **TOI-6324b: An Earth-Mass Ultra-Short-Period Planet Transiting a Nearby M Dwarf**
-[https://arxiv.org/abs/2502.16087]
-  + Leslie Rogers (17th author, Associate Professor)
-
-- **TDCOSMO XIX: Measuring stellar velocity dispersion with sub-percent accuracy for cosmography**
-[https://arxiv.org/abs/2502.16034]
-  + Anowar Shajib (3th author, KICP and Einstein Fellow)
 
