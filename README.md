@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar  5 20:01:44 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Mar  5 20:48:44 CST 2025)
 
 - **spike: A tool to drizzle HST, JWST, and Roman PSFs for improved analyses**
 [https://arxiv.org/abs/2503.02288]
