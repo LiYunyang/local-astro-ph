@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Mar  6 20:02:31 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Mar  6 20:48:57 CST 2025)
 
 - **New insight into the hard X-ray emission influenced by the type-\uppercase\expandafter{\romannumeral1} bursts observed by Insight-HXMT during outburst of 4U 1636--536**
 [https://arxiv.org/abs/2503.03092]
