@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Mar  7 19:46:28 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Mar  7 20:37:55 CST 2025)
 
 - **An active repeating fast radio burst in a magnetized eruption environment**
 [https://arxiv.org/abs/2503.04727]
