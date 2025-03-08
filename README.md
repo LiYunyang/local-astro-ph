@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Mar  6 20:48:57 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Mar  7 19:46:28 CST 2025)
+
+- **An active repeating fast radio burst in a magnetized eruption environment**
+[https://arxiv.org/abs/2503.04727]
+  + Yunyang Li? (1th author, KICP Fellow)
+  + Chihway Chang? (26th author, Senior Member)
+
+- **Cosmology with second and third-order shear statistics for the Dark Energy Survey: Methods and simulated analysis**
+[https://arxiv.org/abs/2503.03964]
+  + Dhayaa Anbajagane? (5th author, Graduate Student)
+  + Marco Gatti? (6th author, KICP Fellow)
+  + Gabriela Marques? (10th author, Associate Fellow)
+  + Joshua A. Frieman? (27th author, Chair)
+  + Chun-Hao To? (56th author, Associate Fellow)
 
 - **New insight into the hard X-ray emission influenced by the type-\uppercase\expandafter{\romannumeral1} bursts observed by Insight-HXMT during outburst of 4U 1636--536**
 [https://arxiv.org/abs/2503.03092]
@@ -36,8 +49,4 @@
 - **Aeos: The Impact of Pop III Initial Mass Function and Star-by-Star Models in Galaxy Simulations**
 [https://arxiv.org/abs/2502.20433]
   + Alexander Ji (6th author, Senior Member)
-
-- **Insight-HXMT observations on thermonuclear X-ray bursts from 4U~1608--52 in the low/hard state: the energy-dependant hard X-ray deficit and cooling saturation of the corona**
-[https://arxiv.org/abs/2502.19743]
-  + Juliang Li? (12th author, Postdoctoral Scholar)
 
