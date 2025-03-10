@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Mar  9 20:50:43 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Mar  9 21:40:28 CDT 2025)
+
+- **Constraining the Scattered Light properties of LTT 9779 b Using HST/WFC3 UVIS**
+[https://arxiv.org/abs/2503.05581]
+  + Michael Radica (1th author, Postdoctoral Scholar)
+
+- **CHANG-ES XXXIV: Magnetic Field Structure in Edge-On Galaxies Characterising large-scale magnetic fields in galactic halos**
+[https://arxiv.org/abs/2503.05461]
+  + Juliang Li? (12th author, Postdoctoral Scholar)
+
+- **Measurement of Photons Emitted by High-Energy Charged Particles as Background in Single-Photon Resolving Image Sensors**
+[https://arxiv.org/abs/2503.04939]
+  + Juan  Estrada (5th author, Senior Associate)
+
+- **Acoustic Misalignment Mechanism for Axion Dark Matter**
+[https://arxiv.org/abs/2503.04888]
+  + Keisuke Harigaya (4th author, Senior Member)
 
 - **An active repeating fast radio burst in a magnetized eruption environment**
 [https://arxiv.org/abs/2503.04727]
@@ -45,8 +61,4 @@
 - **TDCOSMO: XX. WFI2033--4723, the First Quadruply-Imaged Quasar Modeled with JWST Imaging**
 [https://arxiv.org/abs/2503.00099]
   + Anowar Shajib? (4th author, KICP and Einstein Fellow)
-
-- **Aeos: The Impact of Pop III Initial Mass Function and Star-by-Star Models in Galaxy Simulations**
-[https://arxiv.org/abs/2502.20433]
-  + Alexander Ji (6th author, Senior Member)
 
