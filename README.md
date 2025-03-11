@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Mar  9 21:40:28 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Mar 10 21:02:35 CDT 2025)
 
 - **Constraining the Scattered Light properties of LTT 9779 b Using HST/WFC3 UVIS**
 [https://arxiv.org/abs/2503.05581]
