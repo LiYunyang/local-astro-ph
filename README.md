@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar 10 21:48:58 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Mar 11 21:01:41 CDT 2025)
+
+- **Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**
+[https://arxiv.org/abs/2503.07484]
+  + Alex Alarcon Gonzalez? (11th author, CASE Associate)
+
+- **Dark Energy Survey: implications for cosmological expansion models from the final DES Baryon Acoustic Oscillation and Supernova data**
+[https://arxiv.org/abs/2503.06712]
+  + Chihway Chang? (29th author, Senior Member)
+  + Scott Dodelson? (41th author, Senior Associate)
+  + Alex Drlica-Wagner? (43th author, Senior Member)
+  + Joshua A. Frieman? (49th author, Chair)
+  + Marco Gatti? (52th author, KICP Fellow)
+  + Giulia Giannini? (54th author, Associate Fellow)
+  + Richard Kessler? (67th author, Senior Researcher)
+
+- **Illuminating the Physics of Dark Energy with the Discovery Simulations**
+[https://arxiv.org/abs/2503.05947]
+  + Andrew Hearin (6th author, Senior Associate)
+  + Katrin Heitmann (7th author, Senior Associate)
 
 - **Constraining the Scattered Light properties of LTT 9779 b Using HST/WFC3 UVIS**
 [https://arxiv.org/abs/2503.05581]
@@ -48,17 +67,4 @@
   + Colm Talbot (4th author, Associate Fellow)
   + Thomas Callister (5th author, KICP and Schmidt Fellow)
   + Daniel E. Holz (6th author, Professor)
-
-- **Modeling the cool gas clumps in the circumgalactic medium**
-[https://arxiv.org/abs/2503.01479]
-  + Zhijie Qu (2th author, Postdoctoral Scholar)
-
-- **The Simons Observatory: Science Goals and Forecasts for the Enhanced Large Aperture Telescope**
-[https://arxiv.org/abs/2503.00636]
-  + Sanah Bhimani? (37th author, Postdoctoral Scholar)
-  + Rahul Datta? (85th author, Research Scientist)
-
-- **TDCOSMO: XX. WFI2033--4723, the First Quadruply-Imaged Quasar Modeled with JWST Imaging**
-[https://arxiv.org/abs/2503.00099]
-  + Anowar Shajib? (4th author, KICP and Einstein Fellow)
 
