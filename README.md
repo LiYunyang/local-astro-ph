@@ -1,6 +1,40 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 11 21:01:41 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Mar 11 21:48:41 CDT 2025)
+
+- **Gas Perturbations in Hot Smooth Atmospheres X-ray Surface Brightness Fluctuations in Smooth Galaxy Cluster Atmospheres**
+[https://arxiv.org/abs/2503.08680]
+  + Irina Zhuravleva (3th author, Assistant Professor)
+
+- **Four sub-Earth planets orbiting Barnard's Star from MAROON-X and ESPRESSO**
+[https://arxiv.org/abs/2503.08095]
+  + Ritvik Basant (1th author, Graduate Student)
+  + Rafael Luque (2th author, Postdoctoral Scholar)
+  + Jacob L. Bean (3th author, Professor)
+  + Madison Brady (5th author, Graduate Student)
+  + Lily Zhao (6th author, Sagan Fellow)
+  + Tanya Das (8th author, Postdoctoral Scholar)
+
+- **The AGEL Survey Data Release 2: A Gravitational Lens Sample for Galaxy Evolution and Cosmology**
+[https://arxiv.org/abs/2503.08041]
+  + Anowar Shajib (32th author, KICP and Einstein Fellow)
+
+- **The Spectroscopic Stage-5 Experiment**
+[https://arxiv.org/abs/2503.07923]
+  + Alex Drlica-Wagner (3th author, Senior Member)
+  + Juan  Estrada (38th author, Senior Associate)
+  + Joshua A. Frieman (43th author, Chair)
+  + Stephen Kent (62th author, CASE Associate)
+  + Agustin Lapi (68th author, Associate Fellow)
+  + Brandon Roach (86th author, KICP Fellow)
+
+- **Faster than SAM: An empirical model for the tidal evolution of dark matter substructure around strong gravitational lenses**
+[https://arxiv.org/abs/2503.07728]
+  + Daniel Gilman (2th author, Associate Fellow)
+
+- **Measuring Type Ia Supernova Angular-Diameter Distances with Intensity Interferometry**
+[https://arxiv.org/abs/2503.07725]
+  + LianTao Wang? (4th author, Senior Member)
 
 - **Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**
 [https://arxiv.org/abs/2503.07484]
@@ -53,18 +87,4 @@
 - **New insight into the hard X-ray emission influenced by the type-\uppercase\expandafter{\romannumeral1} bursts observed by Insight-HXMT during outburst of 4U 1636--536**
 [https://arxiv.org/abs/2503.03092]
   + Juliang Li? (15th author, Postdoctoral Scholar)
-
-- **spike: A tool to drizzle HST, JWST, and Roman PSFs for improved analyses**
-[https://arxiv.org/abs/2503.02288]
-  + Ava Polzin (1th author, Graduate Student)
-
-- **NASA Innovative Advanced Concepts Phase I Final Report -- A Lunar Long-Baseline UV/Optical Imaging Interferometer: Artemis-enabled Stellar Imager (AeSI)**
-[https://arxiv.org/abs/2503.02105]
-  + Derek Buzasi (3th author, Senior Instructional Professor)
-
-- **The Stochastic Siren: Astrophysical Gravitational-Wave Background Measurements of the Hubble Constant**
-[https://arxiv.org/abs/2503.01997]
-  + Colm Talbot (4th author, Associate Fellow)
-  + Thomas Callister (5th author, KICP and Schmidt Fellow)
-  + Daniel E. Holz (6th author, Professor)
 
