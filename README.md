@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 11 21:48:41 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Mar 12 21:03:04 CDT 2025)
+
+- **Observation of Fermi acceleration with cold atoms**
+[https://arxiv.org/abs/2503.09553]
+  + Damiano Caprioli? (8th author, Associate Professor)
 
 - **Gas Perturbations in Hot Smooth Atmospheres X-ray Surface Brightness Fluctuations in Smooth Galaxy Cluster Atmospheres**
 [https://arxiv.org/abs/2503.08680]
@@ -83,8 +87,4 @@
   + Gabriela Marques? (10th author, Associate Fellow)
   + Joshua A. Frieman? (27th author, Chair)
   + Chun-Hao To? (56th author, Associate Fellow)
-
-- **New insight into the hard X-ray emission influenced by the type-\uppercase\expandafter{\romannumeral1} bursts observed by Insight-HXMT during outburst of 4U 1636--536**
-[https://arxiv.org/abs/2503.03092]
-  + Juliang Li? (15th author, Postdoctoral Scholar)
 
