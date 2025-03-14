@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Mar 13 21:01:37 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Mar 13 21:48:30 CDT 2025)
+
+- **Constraints on the X-ray and Very High Energy $γ$-ray Flux from Supernova Remnant W44**
+[https://arxiv.org/abs/2503.09778]
+  + Suyash Kumar? (30th author, Graduate Student)
+
+- **Full-Shape analysis of the power spectrum and bispectrum of DESI DR1 LRG and QSO samples**
+[https://arxiv.org/abs/2503.09714]
+  + Elizabeth Buckley-Geer? (10th author, Senior Associate)
+
+- **The Complete Spitzer Survey of Stellar Structure in Galaxies (CS$^4$G)**
+[https://arxiv.org/abs/2503.09680]
+  + Barry Madore? (22th author, Associate)
 
 - **Observation of Fermi acceleration with cold atoms**
 [https://arxiv.org/abs/2503.09553]
@@ -74,17 +86,4 @@
 - **Acoustic Misalignment Mechanism for Axion Dark Matter**
 [https://arxiv.org/abs/2503.04888]
   + Keisuke Harigaya (4th author, Senior Member)
-
-- **An active repeating fast radio burst in a magnetized eruption environment**
-[https://arxiv.org/abs/2503.04727]
-  + Yunyang Li? (1th author, KICP Fellow)
-  + Chihway Chang? (26th author, Senior Member)
-
-- **Cosmology with second and third-order shear statistics for the Dark Energy Survey: Methods and simulated analysis**
-[https://arxiv.org/abs/2503.03964]
-  + Dhayaa Anbajagane? (5th author, Graduate Student)
-  + Marco Gatti? (6th author, KICP Fellow)
-  + Gabriela Marques? (10th author, Associate Fellow)
-  + Joshua A. Frieman? (27th author, Chair)
-  + Chun-Hao To? (56th author, Associate Fellow)
 
