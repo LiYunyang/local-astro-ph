@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 12 21:49:53 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Mar 13 21:01:37 CDT 2025)
 
 - **Observation of Fermi acceleration with cold atoms**
 [https://arxiv.org/abs/2503.09553]
