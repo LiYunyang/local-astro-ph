@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Mar 13 21:48:30 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri Mar 14 21:00:51 CDT 2025)
 
 - **Constraints on the X-ray and Very High Energy $γ$-ray Flux from Supernova Remnant W44**
 [https://arxiv.org/abs/2503.09778]
