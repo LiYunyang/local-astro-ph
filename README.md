@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Mar 15 21:52:27 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Mar 16 21:04:45 CDT 2025)
+
+- **The Atacama Cosmology Telescope: The Development of Machine Learning Tools for Detecting Millimeter Sources in Timestream Pre-processing**
+[https://arxiv.org/abs/2503.10798]
+  + Adam Hincks (5th author, Visiting Scholar)
+
+- **Cosmic Reionization on Computers: Statistical Properties of the Distributions of Mean Opacities**
+[https://arxiv.org/abs/2503.10768]
+  + Nickolay Gnedin (4th author, Senior Member)
 
 - **Constraints on the X-ray and Very High Energy $γ$-ray Flux from Supernova Remnant W44**
 [https://arxiv.org/abs/2503.09778]
@@ -42,7 +50,7 @@
   + Joshua A. Frieman (43th author, Chair)
   + Stephen Kent (62th author, CASE Associate)
   + Agustin Lapi (68th author, Associate Fellow)
-  + Brandon Roach (86th author, KICP Fellow)
+  + Brandon Roach (87th author, KICP Fellow)
 
 - **Faster than SAM: An empirical model for the tidal evolution of dark matter substructure around strong gravitational lenses**
 [https://arxiv.org/abs/2503.07728]
@@ -70,20 +78,4 @@
 [https://arxiv.org/abs/2503.05947]
   + Andrew Hearin (6th author, Senior Associate)
   + Katrin Heitmann (7th author, Senior Associate)
-
-- **Constraining the Scattered Light properties of LTT 9779 b Using HST/WFC3 UVIS**
-[https://arxiv.org/abs/2503.05581]
-  + Michael Radica (1th author, Postdoctoral Scholar)
-
-- **CHANG-ES XXXIV: Magnetic Field Structure in Edge-On Galaxies Characterising large-scale magnetic fields in galactic halos**
-[https://arxiv.org/abs/2503.05461]
-  + Juliang Li? (12th author, Postdoctoral Scholar)
-
-- **Measurement of Photons Emitted by High-Energy Charged Particles as Background in Single-Photon Resolving Image Sensors**
-[https://arxiv.org/abs/2503.04939]
-  + Juan  Estrada (5th author, Senior Associate)
-
-- **Acoustic Misalignment Mechanism for Axion Dark Matter**
-[https://arxiv.org/abs/2503.04888]
-  + Keisuke Harigaya (4th author, Senior Member)
 
