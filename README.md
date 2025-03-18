@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar 17 21:03:31 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Mar 17 21:51:12 CDT 2025)
 
 - **The Atacama Cosmology Telescope: The Development of Machine Learning Tools for Detecting Millimeter Sources in Timestream Pre-processing**
 [https://arxiv.org/abs/2503.10798]
