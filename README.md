@@ -1,6 +1,45 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 18 21:03:14 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Mar 18 21:50:32 CDT 2025)
+
+- **The Atacama Cosmology Telescope: DR6 Constraints on Extended Cosmological Models**
+[https://arxiv.org/abs/2503.14454]
+  + Patricio Gallardo (54th author, KICP Fellow)
+  + Erin Healy (69th author, KICP Fellow)
+  + Adam Hincks (75th author, Visiting Scholar)
+  + John Hood (78th author, Associate Fellow)
+
+- **The Atacama Cosmology Telescope: DR6 Power Spectra, Likelihoods and $Λ$CDM Parameters**
+[https://arxiv.org/abs/2503.14452]
+  + Patricio Gallardo (53th author, KICP Fellow)
+  + Erin Healy (67th author, KICP Fellow)
+  + Adam Hincks (74th author, Visiting Scholar)
+  + John Hood (77th author, Associate Fellow)
+
+- **The Atacama Cosmology Telescope: DR6 Maps**
+[https://arxiv.org/abs/2503.14451]
+  + Patricio Gallardo (54th author, KICP Fellow)
+  + Erin Healy (64th author, KICP Fellow)
+  + Adam Hincks (71th author, Visiting Scholar)
+  + John Hood (74th author, Associate Fellow)
+
+- **Dark Energy Survey Year 3 Results: Cosmological Constraints from Cluster Abundances, Weak Lensing, and Galaxy Clustering**
+[https://arxiv.org/abs/2503.13632]
+  + Chun-Hao To (79th author, Associate Fellow)
+  + Dhayaa Anbajagane? (5th author, Graduate Student)
+  + Chihway Chang? (17th author, Senior Member)
+  + Scott Dodelson? (27th author, Senior Associate)
+  + Marco Gatti? (36th author, KICP Fellow)
+  + Giulia Giannini? (37th author, Associate Fellow)
+
+- **Dark Energy Survey: Modeling strategy for multiprobe cluster cosmology and validation for the Full Six-year Dataset**
+[https://arxiv.org/abs/2503.13631]
+  + Chun-Hao To (1th author, Associate Fellow)
+  + Chihway Chang (3th author, Senior Member)
+  + Dhayaa Anbajagane? (8th author, Graduate Student)
+  + Joshua A. Frieman? (39th author, Chair)
+  + Marco Gatti? (41th author, KICP Fellow)
+  + Giulia Giannini? (43th author, Associate Fellow)
 
 - **The R-Process Alliance: Hunting for gold in the near-UV spectrum of 2MASS J05383296-5904280**
 [https://arxiv.org/abs/2503.13426]
@@ -53,38 +92,4 @@
 - **Observation of Fermi acceleration with cold atoms**
 [https://arxiv.org/abs/2503.09553]
   + Damiano Caprioli? (8th author, Associate Professor)
-
-- **Gas Perturbations in Hot Smooth Atmospheres X-ray Surface Brightness Fluctuations in Smooth Galaxy Cluster Atmospheres**
-[https://arxiv.org/abs/2503.08680]
-  + Irina Zhuravleva (3th author, Assistant Professor)
-
-- **Four sub-Earth planets orbiting Barnard's Star from MAROON-X and ESPRESSO**
-[https://arxiv.org/abs/2503.08095]
-  + Ritvik Basant (1th author, Graduate Student)
-  + Rafael Luque (2th author, Postdoctoral Scholar)
-  + Jacob L. Bean (3th author, Professor)
-  + Madison Brady (5th author, Graduate Student)
-  + Lily Zhao (6th author, Sagan Fellow)
-  + Tanya Das (8th author, Postdoctoral Scholar)
-
-- **The AGEL Survey Data Release 2: A Gravitational Lens Sample for Galaxy Evolution and Cosmology**
-[https://arxiv.org/abs/2503.08041]
-  + Anowar Shajib (32th author, KICP and Einstein Fellow)
-
-- **The Spectroscopic Stage-5 Experiment**
-[https://arxiv.org/abs/2503.07923]
-  + Alex Drlica-Wagner (3th author, Senior Member)
-  + Juan  Estrada (38th author, Senior Associate)
-  + Joshua A. Frieman (43th author, Chair)
-  + Stephen Kent (62th author, CASE Associate)
-  + Agustin Lapi (68th author, Associate Fellow)
-  + Brandon Roach (87th author, KICP Fellow)
-
-- **Faster than SAM: An empirical model for the tidal evolution of dark matter substructure around strong gravitational lenses**
-[https://arxiv.org/abs/2503.07728]
-  + Daniel Gilman (2th author, Associate Fellow)
-
-- **Measuring Type Ia Supernova Angular-Diameter Distances with Intensity Interferometry**
-[https://arxiv.org/abs/2503.07725]
-  + LianTao Wang? (4th author, Senior Member)
 
