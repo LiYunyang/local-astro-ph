@@ -1,6 +1,34 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar 17 21:51:12 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Mar 18 21:03:14 CDT 2025)
+
+- **The R-Process Alliance: Hunting for gold in the near-UV spectrum of 2MASS J05383296-5904280**
+[https://arxiv.org/abs/2503.13426]
+  + Alexander Ji (10th author, Senior Member)
+
+- **Exploring a tentative link between FRBs and pulsars with broad energy distributions and applications for nearby FRB survey strategies**
+[https://arxiv.org/abs/2503.13210]
+  + Yunyang Li? (5th author, KICP Fellow)
+
+- **The Morphology and Kinematics of a Giant, Symmetric Nebula Around a Radio-Loud Quasar 3C$\,$57: Extended Rotating Gas or Biconical Outflows?**
+[https://arxiv.org/abs/2503.12597]
+  + Zhijie Qu (8th author, Postdoctoral Scholar)
+
+- **An Analysis of Spitzer Phase Curves for WASP-121b and WASP-77Ab**
+[https://arxiv.org/abs/2503.12521]
+  + Jacob L. Bean (8th author, Professor)
+
+- **The Chicago Carnegie Hubble Program: Improving the Calibration of SNe Ia with JWST Measurements of the Tip of the Red Giant Branch**
+[https://arxiv.org/abs/2503.11769]
+  + Wendy Freedman (3th author, Senior Member)
+  + Barry Madore (4th author, Associate)
+  + Kayla Owens (5th author, Graduate Student)
+  + Abigail Lee (6th author, Graduate Student)
+
+- **Square Kilometre Array Science Data Challenge 3a: foreground removal for an EoR experiment**
+[https://arxiv.org/abs/2503.11740]
+  + Hsiao-Wen Chen? (14th author, Senior Member)
+  + Hsiao-Wen Chen? (80th author, Senior Member)
 
 - **The Atacama Cosmology Telescope: The Development of Machine Learning Tools for Detecting Millimeter Sources in Timestream Pre-processing**
 [https://arxiv.org/abs/2503.10798]
@@ -59,23 +87,4 @@
 - **Measuring Type Ia Supernova Angular-Diameter Distances with Intensity Interferometry**
 [https://arxiv.org/abs/2503.07725]
   + LianTao Wang? (4th author, Senior Member)
-
-- **Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**
-[https://arxiv.org/abs/2503.07484]
-  + Alex Alarcon Gonzalez? (11th author, CASE Associate)
-
-- **Dark Energy Survey: implications for cosmological expansion models from the final DES Baryon Acoustic Oscillation and Supernova data**
-[https://arxiv.org/abs/2503.06712]
-  + Chihway Chang? (29th author, Senior Member)
-  + Scott Dodelson? (41th author, Senior Associate)
-  + Alex Drlica-Wagner? (43th author, Senior Member)
-  + Joshua A. Frieman? (49th author, Chair)
-  + Marco Gatti? (52th author, KICP Fellow)
-  + Giulia Giannini? (54th author, Associate Fellow)
-  + Richard Kessler? (67th author, Senior Researcher)
-
-- **Illuminating the Physics of Dark Energy with the Discovery Simulations**
-[https://arxiv.org/abs/2503.05947]
-  + Andrew Hearin (6th author, Senior Associate)
-  + Katrin Heitmann (7th author, Senior Associate)
 
