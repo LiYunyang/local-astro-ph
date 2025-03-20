@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 19 21:02:43 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Mar 19 21:49:31 CDT 2025)
 
 - **Euclid Quick Data Release (Q1). Extending the quest for little red dots to z<4**
 [https://arxiv.org/abs/2503.15323]
