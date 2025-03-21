@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 19 21:49:31 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Mar 20 21:04:07 CDT 2025)
+
+- **Characterising the Atmosphere of 55 Cancri e: 1D Forward Model Grid for Current and Future JWST Observations**
+[https://arxiv.org/abs/2503.15844]
+  + Michael Zhang (12th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **A Moderate Albedo from Reflecting Aerosols on the Dayside of WASP-80 b Revealed by JWST/NIRISS Eclipse Spectroscopy**
+[https://arxiv.org/abs/2503.15665]
+  + Michael Radica (9th author, Postdoctoral Scholar)
 
 - **Euclid Quick Data Release (Q1). Extending the quest for little red dots to z<4**
 [https://arxiv.org/abs/2503.15323]
@@ -136,16 +144,4 @@
 - **Cosmic Reionization on Computers: Statistical Properties of the Distributions of Mean Opacities**
 [https://arxiv.org/abs/2503.10768]
   + Nickolay Gnedin (4th author, Senior Member)
-
-- **Constraints on the X-ray and Very High Energy $γ$-ray Flux from Supernova Remnant W44**
-[https://arxiv.org/abs/2503.09778]
-  + Suyash Kumar? (30th author, Graduate Student)
-
-- **Full-Shape analysis of the power spectrum and bispectrum of DESI DR1 LRG and QSO samples**
-[https://arxiv.org/abs/2503.09714]
-  + Elizabeth Buckley-Geer? (10th author, Senior Associate)
-
-- **The Complete Spitzer Survey of Stellar Structure in Galaxies (CS$^4$G)**
-[https://arxiv.org/abs/2503.09680]
-  + Barry Madore? (22th author, Associate)
 
