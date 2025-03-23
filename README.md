@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Mar 22 21:07:44 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Mar 22 21:54:28 CDT 2025)
 
 - **Characterising the Atmosphere of 55 Cancri e: 1D Forward Model Grid for Current and Future JWST Observations**
 [https://arxiv.org/abs/2503.15844]
