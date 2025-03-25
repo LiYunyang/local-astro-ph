@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Mar 23 21:54:38 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Mar 24 21:04:33 CDT 2025)
 
 - **The SPT-Deep Cluster Catalog: Sunyaev-Zel'dovich Selected Clusters from Combined SPT-3G and SPTpol Measurements over 100 Square Degrees**
 [https://arxiv.org/abs/2503.17271]
