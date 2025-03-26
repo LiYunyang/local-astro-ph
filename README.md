@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar 24 21:51:46 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Mar 25 21:04:04 CDT 2025)
+
+- **Probing the He II reionization ERa via Absorbing C IV Historical Yield (HIERACHY) III: The C IV absorber catalog and initial results on cosmic abundance evolution at $z\approx 3-5$**
+[https://arxiv.org/abs/2503.17732]
+  + Zhijie Qu (2th author, Postdoctoral Scholar)
+
+- **Strong LensIng and Cluster Evolution (SLICE) with JWST: Early Results, Lens Models, and High-Redshift Detections**
+[https://arxiv.org/abs/2503.17498]
+  + Michael D. Gladders (13th author, Professor)
+  + Lindsey Bleem (21th author, Senior Associate)
+
+- **Euclid preparation LXX. Forecasting detection limits for intracluster light in the Euclid Wide Survey**
+[https://arxiv.org/abs/2503.17455]
+  + Alex Alarcon Gonzalez? (11th author, CASE Associate)
 
 - **The SPT-Deep Cluster Catalog: Sunyaev-Zel'dovich Selected Clusters from Combined SPT-3G and SPTpol Measurements over 100 Square Degrees**
 [https://arxiv.org/abs/2503.17271]
@@ -140,32 +153,4 @@
   + Joshua A. Frieman? (39th author, Chair)
   + Marco Gatti? (41th author, KICP Fellow)
   + Giulia Giannini? (43th author, Associate Fellow)
-
-- **The R-Process Alliance: Hunting for gold in the near-UV spectrum of 2MASS J05383296-5904280**
-[https://arxiv.org/abs/2503.13426]
-  + Alexander Ji (10th author, Senior Member)
-
-- **Exploring a tentative link between FRBs and pulsars with broad energy distributions and applications for nearby FRB survey strategies**
-[https://arxiv.org/abs/2503.13210]
-  + Yunyang Li? (5th author, KICP Fellow)
-
-- **The Morphology and Kinematics of a Giant, Symmetric Nebula Around a Radio-Loud Quasar 3C$\,$57: Extended Rotating Gas or Biconical Outflows?**
-[https://arxiv.org/abs/2503.12597]
-  + Zhijie Qu (8th author, Postdoctoral Scholar)
-
-- **An Analysis of Spitzer Phase Curves for WASP-121b and WASP-77Ab**
-[https://arxiv.org/abs/2503.12521]
-  + Jacob L. Bean (8th author, Professor)
-
-- **The Chicago Carnegie Hubble Program: Improving the Calibration of SNe Ia with JWST Measurements of the Tip of the Red Giant Branch**
-[https://arxiv.org/abs/2503.11769]
-  + Wendy Freedman (3th author, Senior Member)
-  + Barry Madore (4th author, Associate)
-  + Kayla Owens (5th author, Graduate Student)
-  + Abigail Lee (6th author, Graduate Student)
-
-- **Square Kilometre Array Science Data Challenge 3a: foreground removal for an EoR experiment**
-[https://arxiv.org/abs/2503.11740]
-  + Hsiao-Wen Chen? (14th author, Senior Member)
-  + Hsiao-Wen Chen? (80th author, Senior Member)
 
