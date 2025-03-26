@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 25 21:04:04 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Mar 25 21:50:52 CDT 2025)
+
+- **Flipping of the tidal tails of the Ophiuchus stream due to the decelerating Galactic bar**
+[https://arxiv.org/abs/2503.19221]
+  + Guilherme Limberg (8th author, KICP Fellow)
+  + Alexander Ji (13th author, Senior Member)
+
+- **Euclid Quick Data Release (Q1). First detections from the galaxy cluster workflow**
+[https://arxiv.org/abs/2503.19196]
+  + Alex Alarcon Gonzalez? (4th author, CASE Associate)
+
+- **Observing Dark Matter Decays to Gravitons via Graviton-Photon Conversion**
+[https://arxiv.org/abs/2503.19019]
+  + Gordan Krnjaic (2th author, Senior Member)
 
 - **Probing the He II reionization ERa via Absorbing C IV Historical Yield (HIERACHY) III: The C IV absorber catalog and initial results on cosmic abundance evolution at $z\approx 3-5$**
 [https://arxiv.org/abs/2503.17732]
@@ -114,43 +127,4 @@
   + Brandon Roach? (34th author, KICP Fellow)
   + Radomir Smida? (36th author, Senior Researcher)
   + Rachana Yajur? (39th author, Graduate Student)
-
-- **The Atacama Cosmology Telescope: DR6 Constraints on Extended Cosmological Models**
-[https://arxiv.org/abs/2503.14454]
-  + Patricio Gallardo (54th author, KICP Fellow)
-  + Erin Healy (69th author, KICP Fellow)
-  + Adam Hincks (75th author, Visiting Scholar)
-  + John Hood (78th author, Associate Fellow)
-
-- **The Atacama Cosmology Telescope: DR6 Power Spectra, Likelihoods and $Λ$CDM Parameters**
-[https://arxiv.org/abs/2503.14452]
-  + Patricio Gallardo (53th author, KICP Fellow)
-  + Erin Healy (67th author, KICP Fellow)
-  + Adam Hincks (74th author, Visiting Scholar)
-  + John Hood (77th author, Associate Fellow)
-
-- **The Atacama Cosmology Telescope: DR6 Maps**
-[https://arxiv.org/abs/2503.14451]
-  + Patricio Gallardo (54th author, KICP Fellow)
-  + Erin Healy (64th author, KICP Fellow)
-  + Adam Hincks (71th author, Visiting Scholar)
-  + John Hood (74th author, Associate Fellow)
-
-- **Dark Energy Survey Year 3 Results: Cosmological Constraints from Cluster Abundances, Weak Lensing, and Galaxy Clustering**
-[https://arxiv.org/abs/2503.13632]
-  + Chun-Hao To (79th author, Associate Fellow)
-  + Dhayaa Anbajagane? (5th author, Graduate Student)
-  + Chihway Chang? (17th author, Senior Member)
-  + Scott Dodelson? (27th author, Senior Associate)
-  + Marco Gatti? (36th author, KICP Fellow)
-  + Giulia Giannini? (37th author, Associate Fellow)
-
-- **Dark Energy Survey: Modeling strategy for multiprobe cluster cosmology and validation for the Full Six-year Dataset**
-[https://arxiv.org/abs/2503.13631]
-  + Chun-Hao To (1th author, Associate Fellow)
-  + Chihway Chang (3th author, Senior Member)
-  + Dhayaa Anbajagane? (8th author, Graduate Student)
-  + Joshua A. Frieman? (39th author, Chair)
-  + Marco Gatti? (41th author, KICP Fellow)
-  + Giulia Giannini? (43th author, Associate Fellow)
 
