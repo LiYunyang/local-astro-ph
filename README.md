@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 25 21:50:52 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Mar 26 21:03:51 CDT 2025)
+
+- **SEMPER I. Radio Predictions for Star-Forming Galaxies at $0<z<5$**
+[https://arxiv.org/abs/2503.20525]
+  + Agustin Lapi? (10th author, Associate Fellow)
+
+- **Multi-messenger Gravitational Lensing**
+[https://arxiv.org/abs/2503.19973]
+  + Anowar Shajib (38th author, KICP and Einstein Fellow)
 
 - **Flipping of the tidal tails of the Ophiuchus stream due to the decelerating Galactic bar**
 [https://arxiv.org/abs/2503.19221]
@@ -67,64 +75,4 @@
 - **A Moderate Albedo from Reflecting Aerosols on the Dayside of WASP-80 b Revealed by JWST/NIRISS Eclipse Spectroscopy**
 [https://arxiv.org/abs/2503.15665]
   + Michael Radica (9th author, Postdoctoral Scholar)
-
-- **Euclid Quick Data Release (Q1). Extending the quest for little red dots to z<4**
-[https://arxiv.org/abs/2503.15323]
-  + LianTao Wang? (28th author, Senior Member)
-
-- **Euclid Quick Data Release (Q1). The active galaxies of Euclid**
-[https://arxiv.org/abs/2503.15320]
-  + LianTao Wang? (32th author, Senior Member)
-
-- **Euclid Quick Data Release (Q1). First Euclid statistical study of the active galactic nuclei contribution fraction**
-[https://arxiv.org/abs/2503.15318]
-  + LianTao Wang? (3th author, Senior Member)
-
-- **Euclid Quick Data Release (Q1) -- First Euclid statistical study of galaxy mergers and their connection to active galactic nuclei**
-[https://arxiv.org/abs/2503.15317]
-  + LianTao Wang? (3th author, Senior Member)
-
-- **Euclid Quick Data Release (Q1). A first view of the star-forming main sequence in the Euclid Deep Fields**
-[https://arxiv.org/abs/2503.15314]
-  + LianTao Wang? (13th author, Senior Member)
-
-- **Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at $z<1$**
-[https://arxiv.org/abs/2503.15311]
-  + LianTao Wang? (36th author, Senior Member)
-
-- **Euclid Quick Data Release (Q1). Exploring galaxy morphology across cosmic time through Sersic fits**
-[https://arxiv.org/abs/2503.15309]
-  + LianTao Wang? (13th author, Senior Member)
-
-- **Data Release 1 of the Dark Energy Spectroscopic Instrument**
-[https://arxiv.org/abs/2503.14745]
-  + Elizabeth Buckley-Geer? (37th author, Senior Associate)
-
-- **Extended Dark Energy analysis using DESI DR2 BAO measurements**
-[https://arxiv.org/abs/2503.14743]
-  + Georgios Valogiannis? (10th author, Associate Fellow)
-
-- **DESI DR2 Results I: Baryon Acoustic Oscillations from the Lyman Alpha Forest**
-[https://arxiv.org/abs/2503.14739]
-  + Elizabeth Buckley-Geer? (18th author, Senior Associate)
-  + Stephen Kent? (74th author, CASE Associate)
-
-- **DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints**
-[https://arxiv.org/abs/2503.14738]
-  + Elizabeth Buckley-Geer? (24th author, Senior Associate)
-  + Stephen Kent? (87th author, CASE Associate)
-
-- **On the Origin of the Very-High-Energy Diffuse $γ$-Ray Emission: The Case for Galactic Source Cocoons**
-[https://arxiv.org/abs/2503.14651]
-  + Benedikt Schroer (3th author, Postdoctoral Scholar)
-
-- **Probing Benchmark Models of Hidden-Sector Dark Matter with DAMIC-M**
-[https://arxiv.org/abs/2503.14617]
-  + Julian  Cuevas-Zepeda? (8th author, Associate Fellow)
-  + Sravan Munagavalasa? (28th author, Graduate Student)
-  + Sugata Paul? (31th author, Graduate Student)
-  + Paolo Privitera? (32th author, Senior Member)
-  + Brandon Roach? (34th author, KICP Fellow)
-  + Radomir Smida? (36th author, Senior Researcher)
-  + Rachana Yajur? (39th author, Graduate Student)
 
