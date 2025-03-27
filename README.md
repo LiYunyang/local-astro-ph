@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 26 21:51:19 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Mar 27 13:39:06 CDT 2025)
 
 - **SEMPER I. Radio Predictions for Star-Forming Galaxies at $0<z<5$**
 [https://arxiv.org/abs/2503.20525]
