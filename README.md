@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Mar 27 13:39:06 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Mar 27 21:04:10 CDT 2025)
+
+- **Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes**
+[https://arxiv.org/abs/2503.21702]
+  + Michael Radica (5th author, Postdoctoral Scholar)
 
 - **SEMPER I. Radio Predictions for Star-Forming Galaxies at $0<z<5$**
 [https://arxiv.org/abs/2503.20525]
@@ -67,12 +71,4 @@
 - **A "Black Hole Star" Reveals the Remarkable Gas-Enshrouded Hearts of the Little Red Dots**
 [https://arxiv.org/abs/2503.16596]
   + Harley Katz (3th author, Senior Member)
-
-- **Characterising the Atmosphere of 55 Cancri e: 1D Forward Model Grid for Current and Future JWST Observations**
-[https://arxiv.org/abs/2503.15844]
-  + Michael Zhang (12th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **A Moderate Albedo from Reflecting Aerosols on the Dayside of WASP-80 b Revealed by JWST/NIRISS Eclipse Spectroscopy**
-[https://arxiv.org/abs/2503.15665]
-  + Michael Radica (9th author, Postdoctoral Scholar)
 
