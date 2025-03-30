@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Mar 28 21:49:56 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Mar 29 21:09:09 CDT 2025)
 
 - **Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes**
 [https://arxiv.org/abs/2503.21702]
