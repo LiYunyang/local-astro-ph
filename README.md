@@ -1,6 +1,36 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Mar 29 21:56:54 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Mar 30 21:08:06 CDT 2025)
+
+- **dolphin: A fully automated forward modeling pipeline powered by artificial intelligence for galaxy-scale strong lenses**
+[https://arxiv.org/abs/2503.22657]
+  + Anowar Shajib (1th author, KICP and Einstein Fellow)
+  + Chin Yi Tan (3th author, Graduate Student)
+  + Joshua A. Frieman (7th author, Chair)
+
+- **The radiative effects of photochemical hazes on the atmospheric circulation and phase curves of sub-Neptunes**
+[https://arxiv.org/abs/2503.22642]
+  + Maria Steinrueck (1th author, 51 Pegasi b Fellow)
+  + Michael Zhang (6th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Jacob L. Bean (15th author, Professor)
+
+- **Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere**
+[https://arxiv.org/abs/2503.22608]
+  + Maria Steinrueck (5th author, 51 Pegasi b Fellow)
+  + Jacob L. Bean (9th author, Professor)
+  + Michael Zhang (10th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Missing Components in ΛCDM from DESI Y1 BAO Measurements: Insights from Redshift Remapping**
+[https://arxiv.org/abs/2503.22469]
+  + Georgios Valogiannis? (6th author, Associate Fellow)
+
+- **Resolved Stellar and Nebular Kinematics of a Star-forming Galaxy at $z\sim2$**
+[https://arxiv.org/abs/2503.22039]
+  + Anowar Shajib (7th author, KICP and Einstein Fellow)
+
+- **Wave Interference in Self-Interacting Fuzzy Dark Matter**
+[https://arxiv.org/abs/2503.21865]
+  + Wayne Hu (2th author, Senior Member)
 
 - **Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes**
 [https://arxiv.org/abs/2503.21702]
@@ -39,36 +69,4 @@
 - **Euclid preparation LXX. Forecasting detection limits for intracluster light in the Euclid Wide Survey**
 [https://arxiv.org/abs/2503.17455]
   + Alex Alarcon Gonzalez? (11th author, CASE Associate)
-
-- **The SPT-Deep Cluster Catalog: Sunyaev-Zel'dovich Selected Clusters from Combined SPT-3G and SPTpol Measurements over 100 Square Degrees**
-[https://arxiv.org/abs/2503.17271]
-  + Kayla Kornoelje? (1th author, Graduate Student)
-  + Lindsey Bleem? (2th author, Senior Associate)
-  + Adam Anderson? (8th author, Senior Associate)
-  + Melanie Archipley? (11th author, Associate Fellow)
-  + Amy Bender? (18th author, Senior Associate)
-  + Bradford A. Benson? (19th author, Associate Professor)
-  + John Carlstrom? (27th author, Senior Member)
-  + Chihway Chang? (30th author, Senior Member)
-  + Paul Chichura? (33th author, Graduate Student)
-  + Thomas Crawford? (40th author, Senior Researcher)
-  + Karia Dibert? (47th author, Graduate Student)
-  + Kyra Fichman? (58th author, Graduate Student)
-  + Joshua A. Frieman? (63th author, Chair)
-  + Marco Gatti? (70th author, KICP Fellow)
-  + Giulia Giannini? (73th author, Associate Fellow)
-  + John Hood? (91th author, Associate Fellow)
-  + Alexander Hryciuk? (93th author, Graduate Student)
-
-- **Making the unmodulated pyramid wavefront sensor smart II. First on-sky demonstration of extreme adaptive optics with deep learning**
-[https://arxiv.org/abs/2503.16690]
-  + Juliang Li? (13th author, Postdoctoral Scholar)
-
-- **A remarkable Ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a Little Red Dot at $z=3.5$**
-[https://arxiv.org/abs/2503.16600]
-  + Harley Katz (8th author, Senior Member)
-
-- **A "Black Hole Star" Reveals the Remarkable Gas-Enshrouded Hearts of the Little Red Dots**
-[https://arxiv.org/abs/2503.16596]
-  + Harley Katz (3th author, Senior Member)
 
