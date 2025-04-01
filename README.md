@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar 31 21:11:38 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Mar 31 22:01:06 CDT 2025)
 
 - **dolphin: A fully automated forward modeling pipeline powered by artificial intelligence for galaxy-scale strong lenses**
 [https://arxiv.org/abs/2503.22657]
