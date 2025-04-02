@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr  1 21:05:38 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Apr  1 21:53:07 CDT 2025)
 
 - **Cosmography with the Double Source Plane Strong Gravitational Lens AGEL150745+052256**
 [https://arxiv.org/abs/2504.00656]
