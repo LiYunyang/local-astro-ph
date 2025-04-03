@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr  2 21:04:47 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Apr  2 21:52:08 CDT 2025)
 
 - **Interference with Gravitational Instability: Hot and Fuzzy Dark Matter**
 [https://arxiv.org/abs/2504.01937]
