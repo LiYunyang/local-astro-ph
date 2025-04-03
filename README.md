@@ -1,6 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr  1 21:53:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Apr  2 21:04:47 CDT 2025)
+
+- **Interference with Gravitational Instability: Hot and Fuzzy Dark Matter**
+[https://arxiv.org/abs/2504.01937]
+  + Rayne Liu (1th author, Graduate Student)
+  + Wayne Hu (2th author, Senior Member)
+  + Huangyu Xiao (3th author, Associate Fellow)
+
+- **The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics**
+[https://arxiv.org/abs/2504.01669]
+  + Anowar Shajib (98th author, KICP and Einstein Fellow)
+
+- **GPU-Accelerated Gravitational Lensing & Dynamical (GLaD) Modeling for Cosmology and Galaxies**
+[https://arxiv.org/abs/2504.01302]
+  + Anowar Shajib (6th author, KICP and Einstein Fellow)
+  + Miha Cernetic (7th author, Postdoctoral Scholar)
 
 - **Cosmography with the Double Source Plane Strong Gravitational Lens AGEL150745+052256**
 [https://arxiv.org/abs/2504.00656]
@@ -60,12 +75,4 @@
 - **Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes**
 [https://arxiv.org/abs/2503.21702]
   + Michael Radica (5th author, Postdoctoral Scholar)
-
-- **SEMPER I. Radio Predictions for Star-Forming Galaxies at $0<z<5$**
-[https://arxiv.org/abs/2503.20525]
-  + Agustin Lapi? (10th author, Associate Fellow)
-
-- **Multi-messenger Gravitational Lensing**
-[https://arxiv.org/abs/2503.19973]
-  + Anowar Shajib (38th author, KICP and Einstein Fellow)
 
