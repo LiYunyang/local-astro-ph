@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Apr  3 21:04:35 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Apr  3 21:52:18 CDT 2025)
 
 - **Multiwavelength observation of a candidate pulsar halo LHAASO J0621+3755 and the first X-ray detection of PSR J0622+3749**
 [https://arxiv.org/abs/2504.02185]
