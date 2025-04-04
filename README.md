@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr  2 21:52:08 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Apr  3 21:04:35 CDT 2025)
+
+- **Multiwavelength observation of a candidate pulsar halo LHAASO J0621+3755 and the first X-ray detection of PSR J0622+3749**
+[https://arxiv.org/abs/2504.02185]
+  + Suyash Kumar? (32th author, Graduate Student)
 
 - **Interference with Gravitational Instability: Hot and Fuzzy Dark Matter**
 [https://arxiv.org/abs/2504.01937]
@@ -71,8 +75,4 @@
 - **Wave Interference in Self-Interacting Fuzzy Dark Matter**
 [https://arxiv.org/abs/2503.21865]
   + Wayne Hu (2th author, Senior Member)
-
-- **Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes**
-[https://arxiv.org/abs/2503.21702]
-  + Michael Radica (5th author, Postdoctoral Scholar)
 
