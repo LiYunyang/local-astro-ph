@@ -1,6 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Apr  5 21:55:30 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Apr  6 21:06:41 CDT 2025)
+
+- **The DECam MAGIC Survey: A Wide-field Photometric Metallicity Study of the Sculptor Dwarf Spheroidal Galaxy**
+[https://arxiv.org/abs/2504.03593]
+  + Anirudh Chiti (2th author, Brinson Prize Fellow)
+  + Guilherme Limberg (3th author, KICP Fellow)
+  + Alex Drlica-Wagner (15th author, Senior Member)
+  + Alexander Ji (16th author, Senior Member)
+
+- **TDCOSMO XVII. New time delays in 22 lensed quasars from optical monitoring with the ESO-VST 2.6m and MPG 2.2m telescopes**
+[https://arxiv.org/abs/2504.02932]
+  + Joshua A. Frieman (13th author, Chair)
+
+- **Ain't no resonance high enough: Core collapse in self-interacting dark matter across two decades in halo mass**
+[https://arxiv.org/abs/2504.02928]
+  + Daniel Gilman (3th author, Associate Fellow)
 
 - **Multiwavelength observation of a candidate pulsar halo LHAASO J0621+3755 and the first X-ray detection of PSR J0622+3749**
 [https://arxiv.org/abs/2504.02185]
@@ -45,34 +60,4 @@
 - **BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy**
 [https://arxiv.org/abs/2503.24280]
   + Diana Powell (17th author, Assistant Professor)
-
-- **dolphin: A fully automated forward modeling pipeline powered by artificial intelligence for galaxy-scale strong lenses**
-[https://arxiv.org/abs/2503.22657]
-  + Anowar Shajib (1th author, KICP and Einstein Fellow)
-  + Chin Yi Tan (3th author, Graduate Student)
-  + Joshua A. Frieman (7th author, Chair)
-
-- **The radiative effects of photochemical hazes on the atmospheric circulation and phase curves of sub-Neptunes**
-[https://arxiv.org/abs/2503.22642]
-  + Maria Steinrueck (1th author, 51 Pegasi b Fellow)
-  + Michael Zhang (6th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Jacob L. Bean (15th author, Professor)
-
-- **Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere**
-[https://arxiv.org/abs/2503.22608]
-  + Maria Steinrueck (5th author, 51 Pegasi b Fellow)
-  + Jacob L. Bean (9th author, Professor)
-  + Michael Zhang (10th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Missing Components in ΛCDM from DESI Y1 BAO Measurements: Insights from Redshift Remapping**
-[https://arxiv.org/abs/2503.22469]
-  + Georgios Valogiannis? (6th author, Associate Fellow)
-
-- **Resolved Stellar and Nebular Kinematics of a Star-forming Galaxy at $z\sim2$**
-[https://arxiv.org/abs/2503.22039]
-  + Anowar Shajib (7th author, KICP and Einstein Fellow)
-
-- **Wave Interference in Self-Interacting Fuzzy Dark Matter**
-[https://arxiv.org/abs/2503.21865]
-  + Wayne Hu (2th author, Senior Member)
 
