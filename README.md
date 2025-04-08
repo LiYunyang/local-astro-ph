@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr  7 21:05:13 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Apr  7 21:52:43 CDT 2025)
 
 - **The DECam MAGIC Survey: A Wide-field Photometric Metallicity Study of the Sculptor Dwarf Spheroidal Galaxy**
 [https://arxiv.org/abs/2504.03593]
