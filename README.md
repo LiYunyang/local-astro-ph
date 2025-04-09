@@ -1,6 +1,24 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr  7 21:52:43 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Apr  8 21:05:14 CDT 2025)
+
+- **A persistent disk wind and variable jet outflow in the neutron-star low-mass X-ray binary GX 13+1**
+[https://arxiv.org/abs/2504.05452]
+  + Daniele Rogantini (1th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **The Sunrise Ultraviolet Spectropolarimeter and Imager: Instrument description**
+[https://arxiv.org/abs/2504.05416]
+  + Stephan Meyer? (29th author, Senior Member)
+
+- **Probing the Firn Refractive Index Profile and Borehole Closure Using Antenna Response**
+[https://arxiv.org/abs/2504.03862]
+  + Shrihan Agarwal? (1th author, Graduate Student)
+  + Nathaniel Alden? (3th author, Graduate Student)
+  + Cosmin Deaconu? (19th author, Senior Researcher)
+  + Eric Oberla? (49th author, Senior Researcher)
+  + Abigail Vieregg? (66th author, David N. Schramm Director and Senior Member)
+  + Christoph Welling? (68th author, KICP Fellow)
+  + Philipp Windischhofer? (70th author, Associate Fellow)
 
 - **The DECam MAGIC Survey: A Wide-field Photometric Metallicity Study of the Sculptor Dwarf Spheroidal Galaxy**
 [https://arxiv.org/abs/2504.03593]
@@ -35,29 +53,4 @@
 [https://arxiv.org/abs/2504.01302]
   + Anowar Shajib (6th author, KICP and Einstein Fellow)
   + Miha Cernetic (7th author, Postdoctoral Scholar)
-
-- **Cosmography with the Double Source Plane Strong Gravitational Lens AGEL150745+052256**
-[https://arxiv.org/abs/2504.00656]
-  + Anowar Shajib (2th author, KICP and Einstein Fellow)
-
-- **A Comparison of Geminid Models with the PSP/WISPR-observed Phaethon Dust Trail**
-[https://arxiv.org/abs/2504.00616]
-  + Wolf Cukier (6th author, Graduate Student)
-
-- **Early Co-formation of the Milky Way's Thin and Thick Disks at Redshift z > 2**
-[https://arxiv.org/abs/2504.00135]
-  + Guilherme Limberg (4th author, KICP Fellow)
-
-- **Constraints on Non-Thermal Pressure at galaxy cluster outskirts from a Joint SPT and XMM-Newton Analysis**
-[https://arxiv.org/abs/2504.00113]
-  + Lindsey Bleem (3th author, Senior Associate)
-  + Bradford A. Benson (5th author, Associate Professor)
-
-- **Massive Black Holes Seeded by Dark Matter -- Implications for Little Red Dots and Gravitational Wave Signatures**
-[https://arxiv.org/abs/2504.00075]
-  + Huangyu Xiao (3th author, Associate Fellow)
-
-- **BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy**
-[https://arxiv.org/abs/2503.24280]
-  + Diana Powell (17th author, Assistant Professor)
 
