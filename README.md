@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr  8 21:53:48 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Apr  9 21:05:20 CDT 2025)
 
 - **A persistent disk wind and variable jet outflow in the neutron-star low-mass X-ray binary GX 13+1**
 [https://arxiv.org/abs/2504.05452]
@@ -38,19 +38,4 @@
 - **Multiwavelength observation of a candidate pulsar halo LHAASO J0621+3755 and the first X-ray detection of PSR J0622+3749**
 [https://arxiv.org/abs/2504.02185]
   + Suyash Kumar? (32th author, Graduate Student)
-
-- **Interference with Gravitational Instability: Hot and Fuzzy Dark Matter**
-[https://arxiv.org/abs/2504.01937]
-  + Rayne Liu (1th author, Graduate Student)
-  + Wayne Hu (2th author, Senior Member)
-  + Huangyu Xiao (3th author, Associate Fellow)
-
-- **The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics**
-[https://arxiv.org/abs/2504.01669]
-  + Anowar Shajib (98th author, KICP and Einstein Fellow)
-
-- **GPU-Accelerated Gravitational Lensing & Dynamical (GLaD) Modeling for Cosmology and Galaxies**
-[https://arxiv.org/abs/2504.01302]
-  + Anowar Shajib (6th author, KICP and Einstein Fellow)
-  + Miha Cernetic (7th author, Postdoctoral Scholar)
 
