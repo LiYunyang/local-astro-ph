@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr  9 21:53:14 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Apr 10 21:05:36 CDT 2025)
 
 - **A persistent disk wind and variable jet outflow in the neutron-star low-mass X-ray binary GX 13+1**
 [https://arxiv.org/abs/2504.05452]
@@ -34,8 +34,4 @@
 - **Ain't no resonance high enough: Core collapse in self-interacting dark matter across two decades in halo mass**
 [https://arxiv.org/abs/2504.02928]
   + Daniel Gilman (3th author, Associate Fellow)
-
-- **Multiwavelength observation of a candidate pulsar halo LHAASO J0621+3755 and the first X-ray detection of PSR J0622+3749**
-[https://arxiv.org/abs/2504.02185]
-  + Suyash Kumar? (32th author, Graduate Student)
 
