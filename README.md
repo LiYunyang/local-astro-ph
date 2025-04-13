@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Apr 12 21:16:01 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Apr 12 22:33:24 CDT 2025)
 
 - **A persistent disk wind and variable jet outflow in the neutron-star low-mass X-ray binary GX 13+1**
 [https://arxiv.org/abs/2504.05452]
