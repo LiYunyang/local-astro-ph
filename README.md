@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Apr 13 21:57:44 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Apr 14 21:07:20 CDT 2025)
 
 - **Tilsotua: Reproducing Slitmask Sky Positions for use with the LRIS Multislit Archive**
 [https://arxiv.org/abs/2504.08118]
