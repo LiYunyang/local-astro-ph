@@ -1,26 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 14 21:56:34 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Apr 15 21:07:01 CDT 2025)
+
+- **The origin of X-ray intra-day variability in HBL PKS 2155-304**
+[https://arxiv.org/abs/2504.10773]
+  + Wayne Hu? (1th author, Senior Member)
+
+- **Do We Know How to Model Reionization?**
+[https://arxiv.org/abs/2504.10571]
+  + Nickolay Gnedin (1th author, Senior Member)
+
+- **Probing Primordial Power Spectrum and Non-Gaussianities With Fast Radio Bursts**
+[https://arxiv.org/abs/2504.10570]
+  + Huangyu Xiao (3th author, Associate Fellow)
+
+- **The Effect of Nonlinear Gravity on the Cosmological Background During Preheating**
+[https://arxiv.org/abs/2504.08939]
+  + Ryn Grutkoski (1th author, Graduate Student)
+  + Hayley Macpherson (2th author, KICP and  Einstein Fellow)
+  + Joshua A. Frieman (4th author, Chair)
 
 - **Tilsotua: Reproducing Slitmask Sky Positions for use with the LRIS Multislit Archive**
 [https://arxiv.org/abs/2504.08118]
   + Sunil Simha (5th author, Associate Fellow)
-
-- **A persistent disk wind and variable jet outflow in the neutron-star low-mass X-ray binary GX 13+1**
-[https://arxiv.org/abs/2504.05452]
-  + Daniele Rogantini (1th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **The Sunrise Ultraviolet Spectropolarimeter and Imager: Instrument description**
-[https://arxiv.org/abs/2504.05416]
-  + Stephan Meyer? (29th author, Senior Member)
-
-- **Probing the Firn Refractive Index Profile and Borehole Closure Using Antenna Response**
-[https://arxiv.org/abs/2504.03862]
-  + Shrihan Agarwal? (1th author, Graduate Student)
-  + Nathaniel Alden? (3th author, Graduate Student)
-  + Cosmin Deaconu? (19th author, Senior Researcher)
-  + Eric Oberla? (49th author, Senior Researcher)
-  + Abigail Vieregg? (66th author, David N. Schramm Director and Senior Member)
-  + Christoph Welling? (68th author, KICP Fellow)
-  + Philipp Windischhofer? (70th author, Associate Fellow)
 
