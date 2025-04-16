@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 15 21:07:01 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Apr 15 21:56:11 CDT 2025)
 
 - **The origin of X-ray intra-day variability in HBL PKS 2155-304**
 [https://arxiv.org/abs/2504.10773]
