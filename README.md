@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 15 21:56:11 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Apr 16 21:06:07 CDT 2025)
+
+- **Fast Baryonic Field Painting for Sunyaev-Zel'dovich Analyses: Transfer Function vs. Hybrid Effective Field Theory**
+[https://arxiv.org/abs/2504.11794]
+  + Rayne Liu? (1th author, Graduate Student)
+
+- **Damping Wing-Like Features in the Spectra of High Redshift Quasars: a Challenge for Fully-Coupled Simulations**
+[https://arxiv.org/abs/2504.11539]
+  + Nickolay Gnedin (1th author, Senior Member)
+  + Hanjue Zhu (2th author, Graduate Student)
 
 - **The origin of X-ray intra-day variability in HBL PKS 2155-304**
 [https://arxiv.org/abs/2504.10773]
