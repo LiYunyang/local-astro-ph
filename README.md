@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 16 21:06:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Apr 16 21:55:03 CDT 2025)
 
 - **Fast Baryonic Field Painting for Sunyaev-Zel'dovich Analyses: Transfer Function vs. Hybrid Effective Field Theory**
 [https://arxiv.org/abs/2504.11794]
