@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 16 21:55:03 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Apr 17 21:04:23 CDT 2025)
+
+- **dSphobic Dark Matter**
+[https://arxiv.org/abs/2504.12372]
+  + Joshua Foster (2th author, Associate Fellow)
+  + Gordan Krnjaic (4th author, Senior Member)
 
 - **Fast Baryonic Field Painting for Sunyaev-Zel'dovich Analyses: Transfer Function vs. Hybrid Effective Field Theory**
 [https://arxiv.org/abs/2504.11794]
