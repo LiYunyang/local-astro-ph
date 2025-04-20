@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Apr 18 21:49:48 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Apr 19 21:10:15 CDT 2025)
 
 - **dSphobic Dark Matter**
 [https://arxiv.org/abs/2504.12372]
