@@ -1,6 +1,13 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Apr 19 21:58:36 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Apr 20 21:09:33 CDT 2025)
+
+- **Sensitivity of BEACON to Ultra-High Energy Diffuse and Transient Neutrinos**
+[https://arxiv.org/abs/2504.13271]
+  + Cosmin Deaconu (6th author, Senior Researcher)
+  + Zachary Martin (11th author, Graduate Student)
+  + Eric Oberla (14th author, Senior Researcher)
+  + Abigail Vieregg (17th author, David N. Schramm Director and Senior Member)
 
 - **dSphobic Dark Matter**
 [https://arxiv.org/abs/2504.12372]
@@ -33,8 +40,4 @@
   + Ryn Grutkoski (1th author, Graduate Student)
   + Hayley Macpherson (2th author, KICP and  Einstein Fellow)
   + Joshua A. Frieman (4th author, Chair)
-
-- **Tilsotua: Reproducing Slitmask Sky Positions for use with the LRIS Multislit Archive**
-[https://arxiv.org/abs/2504.08118]
-  + Sunil Simha (5th author, Associate Fellow)
 
