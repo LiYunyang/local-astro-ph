@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Apr 20 21:09:33 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Apr 20 22:00:17 CDT 2025)
 
 - **Sensitivity of BEACON to Ultra-High Energy Diffuse and Transient Neutrinos**
 [https://arxiv.org/abs/2504.13271]
