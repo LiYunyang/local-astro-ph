@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 21 21:06:31 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Apr 21 21:55:16 CDT 2025)
+
+- **Out on a Limb: The Signatures of East-West Asymmetries in Transmission Spectra from General Circulation Models**
+[https://arxiv.org/abs/2504.14060]
+  + Maria Steinrueck (8th author, 51 Pegasi b Fellow)
 
 - **Sensitivity of BEACON to Ultra-High Energy Diffuse and Transient Neutrinos**
 [https://arxiv.org/abs/2504.13271]
@@ -34,10 +38,4 @@
 - **Probing Primordial Power Spectrum and Non-Gaussianities With Fast Radio Bursts**
 [https://arxiv.org/abs/2504.10570]
   + Huangyu Xiao (3th author, Associate Fellow)
-
-- **The Effect of Nonlinear Gravity on the Cosmological Background During Preheating**
-[https://arxiv.org/abs/2504.08939]
-  + Ryn Grutkoski (1th author, Graduate Student)
-  + Hayley Macpherson (2th author, KICP and  Einstein Fellow)
-  + Joshua A. Frieman (4th author, Chair)
 
