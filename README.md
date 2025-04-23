@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 21 21:55:16 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Apr 22 21:06:56 CDT 2025)
+
+- **Generating Dark Matter Subhalo Populations Using Normalizing Flows**
+[https://arxiv.org/abs/2504.15468]
+  + Daniel Gilman (3th author, Associate Fellow)
+
+- **Plasma Instabilities Dominate Radioactive Transients Magnetic Fields: The self-confinement of leptons in Type Ia and Core-Collapse Supernovae, and Kilonovae**
+[https://arxiv.org/abs/2504.15335]
+  + Damiano Caprioli (9th author, Associate Professor)
+
+- **Discovering $μ$Hz gravitational waves and ultra-light dark matter with binary resonances**
+[https://arxiv.org/abs/2504.15334]
+  + Joshua Foster (1th author, Associate Fellow)
 
 - **Out on a Limb: The Signatures of East-West Asymmetries in Transmission Spectra from General Circulation Models**
 [https://arxiv.org/abs/2504.14060]
@@ -26,16 +38,4 @@
 [https://arxiv.org/abs/2504.11539]
   + Nickolay Gnedin (1th author, Senior Member)
   + Hanjue Zhu (2th author, Graduate Student)
-
-- **The origin of X-ray intra-day variability in HBL PKS 2155-304**
-[https://arxiv.org/abs/2504.10773]
-  + Wayne Hu? (1th author, Senior Member)
-
-- **Do We Know How to Model Reionization?**
-[https://arxiv.org/abs/2504.10571]
-  + Nickolay Gnedin (1th author, Senior Member)
-
-- **Probing Primordial Power Spectrum and Non-Gaussianities With Fast Radio Bursts**
-[https://arxiv.org/abs/2504.10570]
-  + Huangyu Xiao (3th author, Associate Fellow)
 
