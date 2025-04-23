@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 22 21:06:56 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Apr 22 21:55:36 CDT 2025)
 
 - **Generating Dark Matter Subhalo Populations Using Normalizing Flows**
 [https://arxiv.org/abs/2504.15468]
