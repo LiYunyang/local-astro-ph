@@ -1,6 +1,17 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 22 21:55:36 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Apr 23 21:07:14 CDT 2025)
+
+- **Year six photometric measurements of known Trans-Neptunian Objects and Centaurs by the Dark Energy Survey**
+[https://arxiv.org/abs/2504.16927]
+  + Joshua A. Frieman? (28th author, Chair)
+  + Marco Gatti? (30th author, KICP Fellow)
+  + Giulia Giannini? (32th author, Associate Fellow)
+  + Chun-Hao To? (57th author, Associate Fellow)
+
+- **Predictions for the Detectability of Milky Way Satellite Galaxies and Outer-Halo Star Clusters with the Vera C. Rubin Observatory**
+[https://arxiv.org/abs/2504.16203]
+  + Alex Drlica-Wagner (3th author, Senior Member)
 
 - **Generating Dark Matter Subhalo Populations Using Normalizing Flows**
 [https://arxiv.org/abs/2504.15468]
@@ -29,13 +40,4 @@
 [https://arxiv.org/abs/2504.12372]
   + Joshua Foster (2th author, Associate Fellow)
   + Gordan Krnjaic (4th author, Senior Member)
-
-- **Fast Baryonic Field Painting for Sunyaev-Zel'dovich Analyses: Transfer Function vs. Hybrid Effective Field Theory**
-[https://arxiv.org/abs/2504.11794]
-  + Rayne Liu? (1th author, Graduate Student)
-
-- **Damping Wing-Like Features in the Spectra of High Redshift Quasars: a Challenge for Fully-Coupled Simulations**
-[https://arxiv.org/abs/2504.11539]
-  + Nickolay Gnedin (1th author, Senior Member)
-  + Hanjue Zhu (2th author, Graduate Student)
 
