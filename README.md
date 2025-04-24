@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 23 21:07:14 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Apr 23 21:57:11 CDT 2025)
 
 - **Year six photometric measurements of known Trans-Neptunian Objects and Centaurs by the Dark Energy Survey**
 [https://arxiv.org/abs/2504.16927]
