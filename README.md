@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 23 21:57:11 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Apr 24 21:07:31 CDT 2025)
+
+- **Prospects for gravitational wave and ultra-light dark matter detection with binary resonances beyond the secular approximation**
+[https://arxiv.org/abs/2504.16988]
+  + Joshua Foster (1th author, Associate Fellow)
 
 - **Year six photometric measurements of known Trans-Neptunian Objects and Centaurs by the Dark Energy Survey**
 [https://arxiv.org/abs/2504.16927]
@@ -35,9 +39,4 @@
   + Zachary Martin (11th author, Graduate Student)
   + Eric Oberla (14th author, Senior Researcher)
   + Abigail Vieregg (17th author, David N. Schramm Director and Senior Member)
-
-- **dSphobic Dark Matter**
-[https://arxiv.org/abs/2504.12372]
-  + Joshua Foster (2th author, Associate Fellow)
-  + Gordan Krnjaic (4th author, Senior Member)
 
