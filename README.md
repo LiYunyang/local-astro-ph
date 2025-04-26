@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Apr 24 21:57:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri Apr 25 21:04:33 CDT 2025)
 
 - **Prospects for gravitational wave and ultra-light dark matter detection with binary resonances beyond the secular approximation**
 [https://arxiv.org/abs/2504.16988]
