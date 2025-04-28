@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Apr 26 21:59:15 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Apr 27 21:09:27 CDT 2025)
+
+- **A transiting rocky super-Earth and a non-transiting sub-Neptune orbiting the M dwarf TOI-771**
+[https://arxiv.org/abs/2504.18223]
+  + Rafael Luque? (4th author, Postdoctoral Scholar)
+
+- **The Discriminant Power of Bubble Wall Velocities: Gravitational Waves and Electroweak Baryogenesis**
+[https://arxiv.org/abs/2504.17841]
+  + Marcela Carena (1th author, Senior Member)
 
 - **Prospects for gravitational wave and ultra-light dark matter detection with binary resonances beyond the secular approximation**
 [https://arxiv.org/abs/2504.16988]
@@ -32,11 +40,4 @@
 - **Out on a Limb: The Signatures of East-West Asymmetries in Transmission Spectra from General Circulation Models**
 [https://arxiv.org/abs/2504.14060]
   + Maria Steinrueck (8th author, 51 Pegasi b Fellow)
-
-- **Sensitivity of BEACON to Ultra-High Energy Diffuse and Transient Neutrinos**
-[https://arxiv.org/abs/2504.13271]
-  + Cosmin Deaconu (6th author, Senior Researcher)
-  + Zachary Martin (11th author, Graduate Student)
-  + Eric Oberla (14th author, Senior Researcher)
-  + Abigail Vieregg (17th author, David N. Schramm Director and Senior Member)
 
