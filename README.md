@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 28 21:07:55 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Apr 28 21:57:26 CDT 2025)
 
 - **A transiting rocky super-Earth and a non-transiting sub-Neptune orbiting the M dwarf TOI-771**
 [https://arxiv.org/abs/2504.18223]
