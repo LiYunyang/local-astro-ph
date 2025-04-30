@@ -1,6 +1,41 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 28 21:57:26 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Apr 29 21:07:32 CDT 2025)
+
+- **Continuum, CO and Water vapour maps of the Orion Nebula. First millimetre spectral imaging with Concerto**
+[https://arxiv.org/abs/2504.20487]
+  + Wayne Hu? (15th author, Senior Member)
+
+- **Escaping Helium and a Highly Muted Spectrum Suggest a Metal-Enriched Atmosphere on Sub-Neptune GJ3090b from JWST Transit Spectroscopy**
+[https://arxiv.org/abs/2504.20428]
+  + Michael Radica (2th author, Postdoctoral Scholar)
+
+- **On the Properties of Cosmological Ionization Fronts**
+[https://arxiv.org/abs/2504.20046]
+  + Hanjue Zhu (1th author, Graduate Student)
+  + Nickolay Gnedin (2th author, Senior Member)
+
+- **Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**
+[https://arxiv.org/abs/2504.20038]
+  + Adam Anderson (8th author, Senior Associate)
+  + Melanie Archipley (10th author, Associate Fellow)
+  + Amy Bender (15th author, Senior Associate)
+  + Bradford A. Benson (16th author, Associate Professor)
+  + John Carlstrom (25th author, Senior Member)
+  + Clarence Chang (28th author, Senior Member)
+  + Paul Chichura (31th author, Graduate Student)
+  + Ti-Lin Chou (34th author, Postdoctoral Scholar)
+  + Thomas Crawford (37th author, Senior Researcher)
+  + Karia Dibert (42th author, Graduate Student)
+  + Kyra Fichman (56th author, Graduate Student)
+  + Patricio Gallardo (59th author, KICP Fellow)
+  + John Hood (74th author, Associate Fellow)
+  + Kayla Kornoelje (84th author, Graduate Student)
+  + Emily Martsen (96th author, Graduate Student)
+
+- **DELVE-DEEP Survey: The Faint Satellite System of NGC 55**
+[https://arxiv.org/abs/2504.18645]
+  + Alex Drlica-Wagner (4th author, Senior Member)
 
 - **A transiting rocky super-Earth and a non-transiting sub-Neptune orbiting the M dwarf TOI-771**
 [https://arxiv.org/abs/2504.18223]
@@ -24,20 +59,4 @@
 - **Predictions for the Detectability of Milky Way Satellite Galaxies and Outer-Halo Star Clusters with the Vera C. Rubin Observatory**
 [https://arxiv.org/abs/2504.16203]
   + Alex Drlica-Wagner (3th author, Senior Member)
-
-- **Generating Dark Matter Subhalo Populations Using Normalizing Flows**
-[https://arxiv.org/abs/2504.15468]
-  + Daniel Gilman (3th author, Associate Fellow)
-
-- **Plasma Instabilities Dominate Radioactive Transients Magnetic Fields: The self-confinement of leptons in Type Ia and Core-Collapse Supernovae, and Kilonovae**
-[https://arxiv.org/abs/2504.15335]
-  + Damiano Caprioli (9th author, Associate Professor)
-
-- **Discovering $μ$Hz gravitational waves and ultra-light dark matter with binary resonances**
-[https://arxiv.org/abs/2504.15334]
-  + Joshua Foster (1th author, Associate Fellow)
-
-- **Out on a Limb: The Signatures of East-West Asymmetries in Transmission Spectra from General Circulation Models**
-[https://arxiv.org/abs/2504.14060]
-  + Maria Steinrueck (8th author, 51 Pegasi b Fellow)
 
