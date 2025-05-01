@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 30 21:12:28 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Apr 30 22:02:27 CDT 2025)
 
 - **Turning a negative neutrino mass into a positive optical depth**
 [https://arxiv.org/abs/2504.21813]
