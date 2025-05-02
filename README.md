@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu May  1 21:08:12 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu May  1 21:58:45 CDT 2025)
 
 - **Chromatic Effects on the PSF and Shear Measurement for the Roman Space Telescope High-Latitude Wide Area Survey**
 [https://arxiv.org/abs/2505.00093]
