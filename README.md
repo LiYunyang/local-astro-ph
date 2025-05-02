@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 30 22:02:27 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu May  1 21:08:12 CDT 2025)
+
+- **Chromatic Effects on the PSF and Shear Measurement for the Roman Space Telescope High-Latitude Wide Area Survey**
+[https://arxiv.org/abs/2505.00093]
+  + Scott Dodelson (5th author, Senior Associate)
 
 - **Turning a negative neutrino mass into a positive optical depth**
 [https://arxiv.org/abs/2504.21813]
@@ -50,8 +54,4 @@
 - **The Discriminant Power of Bubble Wall Velocities: Gravitational Waves and Electroweak Baryogenesis**
 [https://arxiv.org/abs/2504.17841]
   + Marcela Carena (1th author, Senior Member)
-
-- **Prospects for gravitational wave and ultra-light dark matter detection with binary resonances beyond the secular approximation**
-[https://arxiv.org/abs/2504.16988]
-  + Joshua Foster (1th author, Associate Fellow)
 
