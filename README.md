@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May  3 22:02:12 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun May  4 21:10:39 CDT 2025)
 
 - **Chromatic Effects on the PSF and Shear Measurement for the Roman Space Telescope High-Latitude Wide Area Survey**
 [https://arxiv.org/abs/2505.00093]
@@ -46,12 +46,4 @@
 - **DELVE-DEEP Survey: The Faint Satellite System of NGC 55**
 [https://arxiv.org/abs/2504.18645]
   + Alex Drlica-Wagner (4th author, Senior Member)
-
-- **A transiting rocky super-Earth and a non-transiting sub-Neptune orbiting the M dwarf TOI-771**
-[https://arxiv.org/abs/2504.18223]
-  + Rafael Luque? (4th author, Postdoctoral Scholar)
-
-- **The Discriminant Power of Bubble Wall Velocities: Gravitational Waves and Electroweak Baryogenesis**
-[https://arxiv.org/abs/2504.17841]
-  + Marcela Carena (1th author, Senior Member)
 
