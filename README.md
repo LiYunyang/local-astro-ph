@@ -1,6 +1,38 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon May  5 21:08:36 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon May  5 21:59:13 CDT 2025)
+
+- **Constraints on Inflationary Gravitational Waves with Two Years of SPT-3G Data**
+[https://arxiv.org/abs/2505.02827]
+  + Jessica Zebrowski? (1th author, KICP and Einstein Fellow)
+  + Adam Anderson? (3th author, Senior Associate)
+  + Melanie Archipley? (5th author, Associate Fellow)
+  + Amy Bender? (9th author, Senior Associate)
+  + Bradford A. Benson? (10th author, Associate Professor)
+  + Lindsey Bleem? (12th author, Senior Associate)
+  + John Carlstrom? (16th author, Senior Member)
+  + Chihway Chang? (17th author, Senior Member)
+  + Paul Chichura? (19th author, Graduate Student)
+  + Thomas Crawford? (23th author, Senior Researcher)
+  + Karia Dibert? (26th author, Graduate Student)
+  + Kyra Fichman? (34th author, Graduate Student)
+  + John Hood? (48th author, Associate Fellow)
+  + Alexander Hryciuk? (49th author, Graduate Student)
+  + Kayla Kornoelje? (55th author, Graduate Student)
+  + Yunyang Li? (58th author, KICP Fellow)
+  + Emily Martsen? (63th author, Graduate Student)
+  + Tyler Natoli? (68th author, Senior Researcher)
+  + Yuuki Omori? (70th author, Senior Researcher)
+  + Wei Quan? (77th author, Associate Fellow)
+  + Alexandra Rahlin? (80th author, Research Assistant Professor)
+  + Aidan Simpson? (83th author, Graduate Student)
+  + Joshua Sobrin? (85th author, Associate Fellow)
+  + Abigail Vieregg? (93th author, David N. Schramm Director and Senior Member)
+  + Matthew Young? (98th author, Associate Fellow)
+
+- **An extremely metal-poor Lyman-$α$ emitter candidate at $z=6$ revealed through absorption spectroscopy**
+[https://arxiv.org/abs/2505.01499]
+  + Harley Katz (9th author, Senior Member)
 
 - **Chromatic Effects on the PSF and Shear Measurement for the Roman Space Telescope High-Latitude Wide Area Survey**
 [https://arxiv.org/abs/2505.00093]
@@ -19,31 +51,4 @@
 - **Escaping Helium and a Highly Muted Spectrum Suggest a Metal-Enriched Atmosphere on Sub-Neptune GJ3090b from JWST Transit Spectroscopy**
 [https://arxiv.org/abs/2504.20428]
   + Michael Radica (2th author, Postdoctoral Scholar)
-
-- **On the Properties of Cosmological Ionization Fronts**
-[https://arxiv.org/abs/2504.20046]
-  + Hanjue Zhu (1th author, Graduate Student)
-  + Nickolay Gnedin (2th author, Senior Member)
-
-- **Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**
-[https://arxiv.org/abs/2504.20038]
-  + Adam Anderson (8th author, Senior Associate)
-  + Melanie Archipley (10th author, Associate Fellow)
-  + Amy Bender (15th author, Senior Associate)
-  + Bradford A. Benson (16th author, Associate Professor)
-  + John Carlstrom (25th author, Senior Member)
-  + Clarence Chang (28th author, Senior Member)
-  + Paul Chichura (31th author, Graduate Student)
-  + Ti-Lin Chou (34th author, Postdoctoral Scholar)
-  + Thomas Crawford (37th author, Senior Researcher)
-  + Karia Dibert (42th author, Graduate Student)
-  + Kyra Fichman (56th author, Graduate Student)
-  + Patricio Gallardo (59th author, KICP Fellow)
-  + John Hood (74th author, Associate Fellow)
-  + Kayla Kornoelje (84th author, Graduate Student)
-  + Emily Martsen (96th author, Graduate Student)
-
-- **DELVE-DEEP Survey: The Faint Satellite System of NGC 55**
-[https://arxiv.org/abs/2504.18645]
-  + Alex Drlica-Wagner (4th author, Senior Member)
 
