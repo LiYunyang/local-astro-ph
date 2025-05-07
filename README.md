@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May  6 21:09:06 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue May  6 22:00:17 CDT 2025)
 
 - **JWST and Ground-based Observations of the Type Iax Supernovae SN 2024pxl and SN 2024vjm: Evidence for Weak Deflagration Explosions**
 [https://arxiv.org/abs/2505.02944]
