@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon May  5 21:59:13 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue May  6 21:09:06 CDT 2025)
+
+- **JWST and Ground-based Observations of the Type Iax Supernovae SN 2024pxl and SN 2024vjm: Evidence for Weak Deflagration Explosions**
+[https://arxiv.org/abs/2505.02944]
+  + Sunil Simha (77th author, Associate Fellow)
+
+- **Photometry and Spectroscopy of SN 2024pxl: A Luminosity Link Among Type Iax Supernovae**
+[https://arxiv.org/abs/2505.02943]
+  + Sunil Simha (78th author, Associate Fellow)
 
 - **Constraints on Inflationary Gravitational Waves with Two Years of SPT-3G Data**
 [https://arxiv.org/abs/2505.02827]
@@ -43,12 +51,4 @@
   + Tanisha Jhaveri (1th author, Graduate Student)
   + Tanvi Karwal (2th author, KICP Fellow)
   + Wayne Hu (3th author, Senior Member)
-
-- **Continuum, CO and Water vapour maps of the Orion Nebula. First millimetre spectral imaging with Concerto**
-[https://arxiv.org/abs/2504.20487]
-  + Wayne Hu? (15th author, Senior Member)
-
-- **Escaping Helium and a Highly Muted Spectrum Suggest a Metal-Enriched Atmosphere on Sub-Neptune GJ3090b from JWST Transit Spectroscopy**
-[https://arxiv.org/abs/2504.20428]
-  + Michael Radica (2th author, Postdoctoral Scholar)
 
