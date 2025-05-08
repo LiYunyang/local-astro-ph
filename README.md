@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May  7 21:09:38 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed May  7 22:00:54 CDT 2025)
 
 - **First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**
 [https://arxiv.org/abs/2505.04625]
