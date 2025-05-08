@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May  6 22:00:17 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed May  7 21:09:38 CDT 2025)
+
+- **First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**
+[https://arxiv.org/abs/2505.04625]
+  + Bei Zhou (3th author, Associate Fellow)
+
+- **Reanalysis of Stage-III cosmic shear surveys: A comprehensive study of shear diagnostic tests**
+[https://arxiv.org/abs/2505.03964]
+  + Jazmine Jefferson (1th author, Graduate Student)
+  + Yuuki Omori (2th author, Senior Researcher)
+  + Chihway Chang (3th author, Senior Member)
+  + Shrihan Agarwal (4th author, Graduate Student)
+  + Marco Gatti (7th author, KICP Fellow)
+
+- **Testing Thermal-Relic Dark Matter with a Dark Photon Mediator**
+[https://arxiv.org/abs/2505.04626]
+  + Gordan Krnjaic (1th author, Senior Member)
 
 - **JWST and Ground-based Observations of the Type Iax Supernovae SN 2024pxl and SN 2024vjm: Evidence for Weak Deflagration Explosions**
 [https://arxiv.org/abs/2505.02944]
@@ -45,10 +61,4 @@
 - **Chromatic Effects on the PSF and Shear Measurement for the Roman Space Telescope High-Latitude Wide Area Survey**
 [https://arxiv.org/abs/2505.00093]
   + Scott Dodelson (5th author, Senior Associate)
-
-- **Turning a negative neutrino mass into a positive optical depth**
-[https://arxiv.org/abs/2504.21813]
-  + Tanisha Jhaveri (1th author, Graduate Student)
-  + Tanvi Karwal (2th author, KICP Fellow)
-  + Wayne Hu (3th author, Senior Member)
 
