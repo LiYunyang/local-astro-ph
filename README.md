@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May  7 22:00:54 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu May  8 21:08:54 CDT 2025)
+
+- **Tidal effects on primordial black hole capture in neutron stars**
+[https://arxiv.org/abs/2505.04709]
+  + Ian Holst (1th author, Graduate Student)
+
+- **High-Frequency Gravitational Wave Search with ABRACADABRA-10\,cm**
+[https://arxiv.org/abs/2505.02821]
+  + Joshua Foster (11th author, Associate Fellow)
 
 - **First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**
 [https://arxiv.org/abs/2505.04625]
@@ -57,8 +65,4 @@
 - **An extremely metal-poor Lyman-$α$ emitter candidate at $z=6$ revealed through absorption spectroscopy**
 [https://arxiv.org/abs/2505.01499]
   + Harley Katz (9th author, Senior Member)
-
-- **Chromatic Effects on the PSF and Shear Measurement for the Roman Space Telescope High-Latitude Wide Area Survey**
-[https://arxiv.org/abs/2505.00093]
-  + Scott Dodelson (5th author, Senior Associate)
 
