@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May 10 21:12:16 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat May 10 22:01:35 CDT 2025)
 
 - **Tidal effects on primordial black hole capture in neutron stars**
 [https://arxiv.org/abs/2505.04709]
