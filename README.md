@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May 10 22:01:35 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun May 11 21:11:09 CDT 2025)
+
+- **The NGC3109 Satellite System: The First Systematic Resolved Search for Dwarf Galaxies Around a SMC-mass Host**
+[https://arxiv.org/abs/2505.05570]
+  + Dhayaa Anbajagane (4th author, Graduate Student)
+  + Alex Drlica-Wagner (11th author, Senior Member)
 
 - **Tidal effects on primordial black hole capture in neutron stars**
 [https://arxiv.org/abs/2505.04709]
