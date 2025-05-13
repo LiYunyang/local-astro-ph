@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun May 11 22:01:28 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon May 12 21:10:03 CDT 2025)
 
 - **The NGC3109 Satellite System: The First Systematic Resolved Search for Dwarf Galaxies Around a SMC-mass Host**
 [https://arxiv.org/abs/2505.05570]
