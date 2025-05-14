@@ -1,6 +1,12 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon May 12 22:00:51 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue May 13 21:09:20 CDT 2025)
+
+- **Map-level baryonification: unified treatment of weak lensing two-point and higher-order statistics**
+[https://arxiv.org/abs/2505.07949]
+  + Marco Gatti (2th author, KICP Fellow)
+  + Dhayaa Anbajagane (3th author, Graduate Student)
+  + Scott Dodelson (4th author, Senior Associate)
 
 - **JWST/NIRSpec Observations of High Ionization Emission Lines in Galaxies at High Redshift**
 [https://arxiv.org/abs/2505.06359]
@@ -43,12 +49,4 @@
 - **Testing Thermal-Relic Dark Matter with a Dark Photon Mediator**
 [https://arxiv.org/abs/2505.04626]
   + Gordan Krnjaic (1th author, Senior Member)
-
-- **JWST and Ground-based Observations of the Type Iax Supernovae SN 2024pxl and SN 2024vjm: Evidence for Weak Deflagration Explosions**
-[https://arxiv.org/abs/2505.02944]
-  + Sunil Simha (77th author, Associate Fellow)
-
-- **Photometry and Spectroscopy of SN 2024pxl: A Luminosity Link Among Type Iax Supernovae**
-[https://arxiv.org/abs/2505.02943]
-  + Sunil Simha (78th author, Associate Fellow)
 
