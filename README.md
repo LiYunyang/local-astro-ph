@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 13 21:09:20 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue May 13 22:00:21 CDT 2025)
 
 - **Map-level baryonification: unified treatment of weak lensing two-point and higher-order statistics**
 [https://arxiv.org/abs/2505.07949]
