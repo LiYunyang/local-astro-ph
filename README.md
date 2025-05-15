@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 13 22:00:21 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed May 14 21:08:25 CDT 2025)
+
+- **Asteroid sizes determined with thermophysical model and stellar occultations**
+[https://arxiv.org/abs/2505.09437]
+  + Rayne Liu? (99th author, Graduate Student)
+
+- **JWST & ALMA Joint Analysis with [OII]$λλ$3726,3729, [OIII]$λ$4363, [OIII]88$μ$m, and [OIII]52$μ$m: Multi-Zone Evolution of Electron Densities at $\mathbf{z\sim0-14}$ and Its Impact on Metallicity Measurements**
+[https://arxiv.org/abs/2505.09186]
+  + Harley Katz (8th author, Senior Member)
+
+- **On the X-ray Emission From Supernovae, and Implications for the Mass-Loss Rates of their Progenitor Stars**
+[https://arxiv.org/abs/2505.08946]
+  + Vikram Dwarkadas (1th author, Research Professor)
+
+- **Evidence of polar and ultralow supernova kicks from the orbits of Be X-ray binaries**
+[https://arxiv.org/abs/2505.08857]
+  + Thomas Callister (4th author, KICP and Schmidt Fellow)
 
 - **Map-level baryonification: unified treatment of weak lensing two-point and higher-order statistics**
 [https://arxiv.org/abs/2505.07949]
@@ -33,20 +49,4 @@
 - **High-Frequency Gravitational Wave Search with ABRACADABRA-10\,cm**
 [https://arxiv.org/abs/2505.02821]
   + Joshua Foster (11th author, Associate Fellow)
-
-- **First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**
-[https://arxiv.org/abs/2505.04625]
-  + Bei Zhou (3th author, Associate Fellow)
-
-- **Reanalysis of Stage-III cosmic shear surveys: A comprehensive study of shear diagnostic tests**
-[https://arxiv.org/abs/2505.03964]
-  + Jazmine Jefferson (1th author, Graduate Student)
-  + Yuuki Omori (2th author, Senior Researcher)
-  + Chihway Chang (3th author, Senior Member)
-  + Shrihan Agarwal (4th author, Graduate Student)
-  + Marco Gatti (7th author, KICP Fellow)
-
-- **Testing Thermal-Relic Dark Matter with a Dark Photon Mediator**
-[https://arxiv.org/abs/2505.04626]
-  + Gordan Krnjaic (1th author, Senior Member)
 
