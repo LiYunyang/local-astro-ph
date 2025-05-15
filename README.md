@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May 14 21:08:25 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed May 14 22:00:17 CDT 2025)
 
 - **Asteroid sizes determined with thermophysical model and stellar occultations**
 [https://arxiv.org/abs/2505.09437]
