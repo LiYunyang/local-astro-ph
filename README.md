@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu May 15 21:10:05 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu May 15 22:01:06 CDT 2025)
 
 - **Origin of the ring ellipticity in the black hole images of M87***
 [https://arxiv.org/abs/2505.10333]
