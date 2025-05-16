@@ -1,6 +1,12 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May 14 22:00:17 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu May 15 21:10:05 CDT 2025)
+
+- **Origin of the ring ellipticity in the black hole images of M87***
+[https://arxiv.org/abs/2505.10333]
+  + Bradford A. Benson (35th author, Associate Professor)
+  + John Carlstrom (48th author, Senior Member)
+  + Thomas Crawford (58th author, Senior Researcher)
 
 - **Asteroid sizes determined with thermophysical model and stellar occultations**
 [https://arxiv.org/abs/2505.09437]
@@ -41,12 +47,4 @@
 [https://arxiv.org/abs/2505.05570]
   + Dhayaa Anbajagane (4th author, Graduate Student)
   + Alex Drlica-Wagner (11th author, Senior Member)
-
-- **Tidal effects on primordial black hole capture in neutron stars**
-[https://arxiv.org/abs/2505.04709]
-  + Ian Holst (1th author, Graduate Student)
-
-- **High-Frequency Gravitational Wave Search with ABRACADABRA-10\,cm**
-[https://arxiv.org/abs/2505.02821]
-  + Joshua Foster (11th author, Associate Fellow)
 
