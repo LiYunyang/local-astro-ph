@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May 17 22:02:24 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun May 18 21:12:22 CDT 2025)
 
 - **Origin of the ring ellipticity in the black hole images of M87***
 [https://arxiv.org/abs/2505.10333]
@@ -42,9 +42,4 @@
 [https://arxiv.org/abs/2505.06340]
   + Yunyang Li? (27th author, KICP Fellow)
   + Juliang Li? (28th author, Postdoctoral Scholar)
-
-- **The NGC3109 Satellite System: The First Systematic Resolved Search for Dwarf Galaxies Around a SMC-mass Host**
-[https://arxiv.org/abs/2505.05570]
-  + Dhayaa Anbajagane (4th author, Graduate Student)
-  + Alex Drlica-Wagner (11th author, Senior Member)
 
