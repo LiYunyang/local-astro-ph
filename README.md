@@ -1,6 +1,24 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon May 19 21:10:17 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon May 19 22:01:02 CDT 2025)
+
+- **Insufficient evidence for DMS and DMDS in the atmosphere of K2-18 b. From a joint analysis of JWST NIRISS, NIRSpec, and MIRI observations**
+[https://arxiv.org/abs/2505.13407]
+  + Rafael Luque? (1th author, Postdoctoral Scholar)
+  + Michael Radica? (3th author, Postdoctoral Scholar)
+  + Qiao Xue? (4th author, Graduate Student)
+  + Michael Zhang? (5th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Jacob L. Bean? (6th author, Professor)
+  + Dominic Samra? (7th author, Postdoctoral Scholar)
+  + Maria Steinrueck? (8th author, 51 Pegasi b Fellow)
+
+- **gr8stars I: A homogeneous spectroscopic study of bright FGKM dwarfs and a public library of their high-resolution spectra**
+[https://arxiv.org/abs/2505.12945]
+  + Lily Zhao (18th author, Sagan Fellow)
+
+- **Connecting JWST discovered N/O-enhanced galaxies to globular clusters: Evidence from chemical imprints**
+[https://arxiv.org/abs/2505.12505]
+  + Andrey Kravtsov (6th author, Senior Member)
 
 - **Origin of the ring ellipticity in the black hole images of M87***
 [https://arxiv.org/abs/2505.10333]
@@ -29,17 +47,4 @@
   + Marco Gatti (2th author, KICP Fellow)
   + Dhayaa Anbajagane (3th author, Graduate Student)
   + Scott Dodelson (4th author, Senior Associate)
-
-- **JWST/NIRSpec Observations of High Ionization Emission Lines in Galaxies at High Redshift**
-[https://arxiv.org/abs/2505.06359]
-  + Harley Katz (5th author, Senior Member)
-
-- **Surprising Variation of Gamma Rays from the Sun over the Solar Cycle Revealed with Fermi-LAT**
-[https://arxiv.org/abs/2505.06348]
-  + Juliang Li? (55th author, Postdoctoral Scholar)
-
-- **The ALMA-CRISTAL survey: Gas, dust, and stars in star-forming galaxies when the Universe was ~1 Gyr old I. Survey overview and case studies**
-[https://arxiv.org/abs/2505.06340]
-  + Yunyang Li? (27th author, KICP Fellow)
-  + Juliang Li? (28th author, Postdoctoral Scholar)
 
