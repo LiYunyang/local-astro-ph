@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon May 19 22:01:02 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue May 20 21:10:09 CDT 2025)
+
+- **XXII. Accurate stellar velocity dispersions of the SL2S lens sample and the lensing mass fundamental plane**
+[https://arxiv.org/abs/2505.13962]
+  + Anowar Shajib (5th author, KICP and Einstein Fellow)
+
+- **Field-Level Comparison and Robustness Analysis of Cosmological N-Body Simulations**
+[https://arxiv.org/abs/2505.13620]
+  + Marco Gatti (8th author, KICP Fellow)
+
+- **A Panchromatic Characterization of the Evening and Morning Atmosphere of WASP-107 b: Composition and Cloud Variations, and Insight into the Effect of Stellar Contamination**
+[https://arxiv.org/abs/2505.13602]
+  + Michael Radica (5th author, Postdoctoral Scholar)
+
+- **Can local White Dwarfs constrain Dark Matter interactions?**
+[https://arxiv.org/abs/2505.13629]
+  + Sandra Robles (2th author, Associate Fellow)
 
 - **Insufficient evidence for DMS and DMDS in the atmosphere of K2-18 b. From a joint analysis of JWST NIRISS, NIRSpec, and MIRI observations**
 [https://arxiv.org/abs/2505.13407]
@@ -41,10 +57,4 @@
 - **Evidence of polar and ultralow supernova kicks from the orbits of Be X-ray binaries**
 [https://arxiv.org/abs/2505.08857]
   + Thomas Callister (4th author, KICP and Schmidt Fellow)
-
-- **Map-level baryonification: unified treatment of weak lensing two-point and higher-order statistics**
-[https://arxiv.org/abs/2505.07949]
-  + Marco Gatti (2th author, KICP Fellow)
-  + Dhayaa Anbajagane (3th author, Graduate Student)
-  + Scott Dodelson (4th author, Senior Associate)
 
