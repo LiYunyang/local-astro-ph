@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 20 21:10:09 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue May 20 22:00:55 CDT 2025)
 
 - **XXII. Accurate stellar velocity dispersions of the SL2S lens sample and the lensing mass fundamental plane**
 [https://arxiv.org/abs/2505.13962]
