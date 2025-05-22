@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May 21 21:09:49 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed May 21 22:00:59 CDT 2025)
 
 - **Introducing the Descriptive Parametric Model: Gaseous Profiles for Galaxies, Groups, and Clusters**
 [https://arxiv.org/abs/2505.14782]
