@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 20 22:00:55 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed May 21 21:09:49 CDT 2025)
+
+- **Introducing the Descriptive Parametric Model: Gaseous Profiles for Galaxies, Groups, and Clusters**
+[https://arxiv.org/abs/2505.14782]
+  + Zhijie Qu (14th author, Postdoctoral Scholar)
 
 - **XXII. Accurate stellar velocity dispersions of the SL2S lens sample and the lensing mass fundamental plane**
 [https://arxiv.org/abs/2505.13962]
@@ -41,20 +45,4 @@
   + Bradford A. Benson (35th author, Associate Professor)
   + John Carlstrom (48th author, Senior Member)
   + Thomas Crawford (58th author, Senior Researcher)
-
-- **Asteroid sizes determined with thermophysical model and stellar occultations**
-[https://arxiv.org/abs/2505.09437]
-  + Rayne Liu? (99th author, Graduate Student)
-
-- **JWST & ALMA Joint Analysis with [OII]$λλ$3726,3729, [OIII]$λ$4363, [OIII]88$μ$m, and [OIII]52$μ$m: Multi-Zone Evolution of Electron Densities at $\mathbf{z\sim0-14}$ and Its Impact on Metallicity Measurements**
-[https://arxiv.org/abs/2505.09186]
-  + Harley Katz (8th author, Senior Member)
-
-- **On the X-ray Emission From Supernovae, and Implications for the Mass-Loss Rates of their Progenitor Stars**
-[https://arxiv.org/abs/2505.08946]
-  + Vikram Dwarkadas (1th author, Research Professor)
-
-- **Evidence of polar and ultralow supernova kicks from the orbits of Be X-ray binaries**
-[https://arxiv.org/abs/2505.08857]
-  + Thomas Callister (4th author, KICP and Schmidt Fellow)
 
