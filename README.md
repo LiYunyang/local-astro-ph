@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May 21 22:00:59 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu May 22 21:09:37 CDT 2025)
+
+- **DarkNESS: A skipper-CCD NanoSatellite for Dark Matter Searches**
+[https://arxiv.org/abs/2505.16981]
+  + Ana Martina Botti (3th author, Associate Fellow)
+  + Alex Drlica-Wagner (7th author, Senior Member)
+  + Juan  Estrada (9th author, Senior Associate)
+  + Nathan Saffold (16th author, Associate Fellow)
+
+- **The S-PLUS Fornax Project (S+FP): Mapping H$α$+[NII] emission in 77 Fornax galaxy members reaching $\sim$4 Rvir**
+[https://arxiv.org/abs/2505.16738]
+  + Guilherme Limberg? (23th author, KICP Fellow)
+
+- **An automated algorithmic method to mitigate long-term variations in the efficiency of the GRAPES-3 muon telescope**
+[https://arxiv.org/abs/2505.16440]
+  + Sugata Paul? (1th author, Graduate Student)
+
+- **Model-Independent Measurement of the Matter-Radiation Equality Scale in DESI 2024**
+[https://arxiv.org/abs/2505.16153]
+  + Stephen Kent? (25th author, CASE Associate)
 
 - **Introducing the Descriptive Parametric Model: Gaseous Profiles for Galaxies, Groups, and Clusters**
 [https://arxiv.org/abs/2505.14782]
@@ -39,10 +58,4 @@
 - **Connecting JWST discovered N/O-enhanced galaxies to globular clusters: Evidence from chemical imprints**
 [https://arxiv.org/abs/2505.12505]
   + Andrey Kravtsov (6th author, Senior Member)
-
-- **Origin of the ring ellipticity in the black hole images of M87***
-[https://arxiv.org/abs/2505.10333]
-  + Bradford A. Benson (35th author, Associate Professor)
-  + John Carlstrom (48th author, Senior Member)
-  + Thomas Crawford (58th author, Senior Researcher)
 
