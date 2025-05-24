@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu May 22 22:00:40 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri May 23 21:06:51 CDT 2025)
 
 - **DarkNESS: A skipper-CCD NanoSatellite for Dark Matter Searches**
 [https://arxiv.org/abs/2505.16981]
