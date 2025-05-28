@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 27 21:10:25 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue May 27 22:01:17 CDT 2025)
 
 - **robostrategy: Field and Target Assignment Optimization in the Sloan Digital Sky Survey V**
 [https://arxiv.org/abs/2505.21328]
