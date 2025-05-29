@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 27 22:01:17 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed May 28 21:10:22 CDT 2025)
+
+- **A black hole in a near-pristine galaxy 700 million years after the Big Bang**
+[https://arxiv.org/abs/2505.22567]
+  + Harley Katz (31th author, Senior Member)
 
 - **robostrategy: Field and Target Assignment Optimization in the Sloan Digital Sky Survey V**
 [https://arxiv.org/abs/2505.21328]
@@ -38,8 +42,4 @@
 - **Model-Independent Measurement of the Matter-Radiation Equality Scale in DESI 2024**
 [https://arxiv.org/abs/2505.16153]
   + Stephen Kent? (25th author, CASE Associate)
-
-- **Introducing the Descriptive Parametric Model: Gaseous Profiles for Galaxies, Groups, and Clusters**
-[https://arxiv.org/abs/2505.14782]
-  + Zhijie Qu (14th author, Postdoctoral Scholar)
 
