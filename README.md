@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May 28 21:10:22 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed May 28 22:01:30 CDT 2025)
 
 - **A black hole in a near-pristine galaxy 700 million years after the Big Bang**
 [https://arxiv.org/abs/2505.22567]
