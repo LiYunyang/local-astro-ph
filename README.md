@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May 31 22:10:53 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jun  1 21:12:41 CDT 2025)
+
+- **JWST NIRISS Transmission Spectroscopy of the Super-Earth GJ 357b, a Favourable Target for Atmospheric Retention**
+[https://arxiv.org/abs/2505.24462]
+  + Michael Radica (2th author, Postdoctoral Scholar)
 
 - **A black hole in a near-pristine galaxy 700 million years after the Big Bang**
 [https://arxiv.org/abs/2505.22567]
