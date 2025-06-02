@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jun  1 21:12:41 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jun  1 22:03:21 CDT 2025)
 
 - **JWST NIRISS Transmission Spectroscopy of the Super-Earth GJ 357b, a Favourable Target for Atmospheric Retention**
 [https://arxiv.org/abs/2505.24462]
