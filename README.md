@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun  3 21:11:19 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jun  3 22:02:07 CDT 2025)
 
 - **TDCOSMO 2025: Cosmological constraints from strong lensing time delays**
 [https://arxiv.org/abs/2506.03023]
