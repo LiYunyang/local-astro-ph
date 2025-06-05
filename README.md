@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun  4 21:10:53 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jun  4 22:02:01 CDT 2025)
 
 - **Analyzing Line-of-sight selection biases in galaxy-scale strong lensing with external convergence and shear**
 [https://arxiv.org/abs/2506.04201]
