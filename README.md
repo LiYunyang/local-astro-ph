@@ -1,14 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun  3 22:02:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jun  4 21:10:53 CDT 2025)
+
+- **Analyzing Line-of-sight selection biases in galaxy-scale strong lensing with external convergence and shear**
+[https://arxiv.org/abs/2506.04201]
+  + Anowar Shajib (3th author, KICP and Einstein Fellow)
+
+- **The Pandora project. II: how non-thermal physics drives bursty star formation and temperate mass-loaded outflows in dwarf galaxies**
+[https://arxiv.org/abs/2506.03245]
+  + Francisco Rodriguez Montero (8th author, KICP Fellow)
 
 - **TDCOSMO 2025: Cosmological constraints from strong lensing time delays**
 [https://arxiv.org/abs/2506.03023]
-  + Elizabeth Buckley-Geer (2th author, Senior Associate)
-  + Joshua A. Frieman (7th author, Chair)
-  + Daniel Gilman (9th author, Associate Fellow)
-  + Anowar Shajib (19th author, KICP and Einstein Fellow)
-  + Chin Yi Tan (26th author, Graduate Student)
+  + Elizabeth Buckley-Geer (3th author, Senior Associate)
+  + Joshua A. Frieman (8th author, Chair)
+  + Daniel Gilman (10th author, Associate Fellow)
+  + Anowar Shajib (20th author, KICP and Einstein Fellow)
+  + Chin Yi Tan (27th author, Graduate Student)
 
 - **Chicago-Carnegie Hubble Program (CCHP) A Multi-Wavelength Search for the Effects of Metallicity on the Cepheid Distance Scale. Part II: Theoretical Models and Synthetic Spectra**
 [https://arxiv.org/abs/2506.01188]
@@ -60,8 +68,4 @@
 - **JWST NIRISS Transmission Spectroscopy of the Super-Earth GJ 357b, a Favourable Target for Atmospheric Retention**
 [https://arxiv.org/abs/2505.24462]
   + Michael Radica (2th author, Postdoctoral Scholar)
-
-- **A black hole in a near-pristine galaxy 700 million years after the Big Bang**
-[https://arxiv.org/abs/2505.22567]
-  + Harley Katz (32th author, Senior Member)
 
