@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jun  7 22:04:36 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jun  8 21:13:01 CDT 2025)
 
 - **The Hourglass Simulation: A Catalog for the Roman High-Latitude Time-Domain Core Community Survey**
 [https://arxiv.org/abs/2506.05161]
@@ -72,8 +72,4 @@
 [https://arxiv.org/abs/2506.01149]
   + Karia Dibert (4th author, Graduate Student)
   + Kyra Fichman (6th author, Graduate Student)
-
-- **JWST NIRISS Transmission Spectroscopy of the Super-Earth GJ 357b, a Favourable Target for Atmospheric Retention**
-[https://arxiv.org/abs/2505.24462]
-  + Michael Radica (2th author, Postdoctoral Scholar)
 
