@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun  9 21:12:18 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jun  9 22:02:55 CDT 2025)
+
+- **Constraints on cosmology and baryonic feedback with joint analysis of Dark Energy Survey Year 3 lensing data and ACT DR6 thermal Sunyaev-Zel'dovich effect observations**
+[https://arxiv.org/abs/2506.07432]
+  + Dhayaa Anbajagane? (6th author, Graduate Student)
+  + Chihway Chang? (21th author, Senior Member)
+  + Scott Dodelson? (32th author, Senior Associate)
+  + Alex Drlica-Wagner? (34th author, Senior Member)
+  + Marco Gatti? (43th author, KICP Fellow)
+  + Giulia Giannini? (45th author, Associate Fellow)
+  + Yuuki Omori? (71th author, Senior Researcher)
+  + Chun-Hao To? (92th author, Associate Fellow)
+
+- **A Spectral Energy Distribution Variability Study of the Eclipsing AGN NGC 6814**
+[https://arxiv.org/abs/2506.07212]
+  + Alex Alarcon Gonzalez? (3th author, CASE Associate)
+
+- **Mapping the Spatial Distribution of Fast Radio Bursts within their Host Galaxies**
+[https://arxiv.org/abs/2506.06453]
+  + Sunil Simha (23th author, Associate Fellow)
 
 - **The Hourglass Simulation: A Catalog for the Roman High-Latitude Time-Domain Core Community Survey**
 [https://arxiv.org/abs/2506.05161]
@@ -50,26 +69,4 @@
   + Daniel Gilman (10th author, Associate Fellow)
   + Anowar Shajib (20th author, KICP and Einstein Fellow)
   + Chin Yi Tan (27th author, Graduate Student)
-
-- **Chicago-Carnegie Hubble Program (CCHP) A Multi-Wavelength Search for the Effects of Metallicity on the Cepheid Distance Scale. Part II: Theoretical Models and Synthetic Spectra**
-[https://arxiv.org/abs/2506.01188]
-  + Wendy Freedman (2th author, Senior Member)
-  + Kayla Owens (3th author, Graduate Student)
-
-- **NLTE atmospheric modelling of the ultra-hot Jupiter WASP-178b and comparison with UV and optical observations**
-[https://arxiv.org/abs/2506.01132]
-  + Matthew Young? (9th author, Associate Fellow)
-
-- **Sampling Bayesian probabilities given only sampled priors**
-[https://arxiv.org/abs/2506.00758]
-  + Giulia Giannini (6th author, Associate Fellow)
-
-- **On Linking Planet Formation Models, Protoplanetary Disk Properties, and Mature Gas Giant Exoplanet Atmospheres**
-[https://arxiv.org/abs/2506.00669]
-  + Rafael Luque (28th author, Postdoctoral Scholar)
-
-- **In-situ control of the resonant frequency of kinetic inductance detectors with multiplexed readout**
-[https://arxiv.org/abs/2506.01149]
-  + Karia Dibert (4th author, Graduate Student)
-  + Kyra Fichman (6th author, Graduate Student)
 
