@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jun  8 22:03:53 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jun  9 21:12:18 CDT 2025)
 
 - **The Hourglass Simulation: A Catalog for the Roman High-Latitude Time-Domain Core Community Survey**
 [https://arxiv.org/abs/2506.05161]
