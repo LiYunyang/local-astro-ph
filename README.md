@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun  9 22:02:55 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jun 10 21:11:32 CDT 2025)
 
 - **Constraints on cosmology and baryonic feedback with joint analysis of Dark Energy Survey Year 3 lensing data and ACT DR6 thermal Sunyaev-Zel'dovich effect observations**
 [https://arxiv.org/abs/2506.07432]
@@ -61,12 +61,4 @@
 - **The Pandora project. II: how non-thermal physics drives bursty star formation and temperate mass-loaded outflows in dwarf galaxies**
 [https://arxiv.org/abs/2506.03245]
   + Francisco Rodriguez Montero (8th author, KICP Fellow)
-
-- **TDCOSMO 2025: Cosmological constraints from strong lensing time delays**
-[https://arxiv.org/abs/2506.03023]
-  + Elizabeth Buckley-Geer (3th author, Senior Associate)
-  + Joshua A. Frieman (8th author, Chair)
-  + Daniel Gilman (10th author, Associate Fellow)
-  + Anowar Shajib (20th author, KICP and Einstein Fellow)
-  + Chin Yi Tan (27th author, Graduate Student)
 
