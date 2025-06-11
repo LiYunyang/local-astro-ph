@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 10 21:11:32 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jun 10 22:02:22 CDT 2025)
 
 - **Constraints on cosmology and baryonic feedback with joint analysis of Dark Energy Survey Year 3 lensing data and ACT DR6 thermal Sunyaev-Zel'dovich effect observations**
 [https://arxiv.org/abs/2506.07432]
