@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun 11 21:11:03 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jun 11 22:02:04 CDT 2025)
 
 - **Inferring the pair-instability mass gap from gravitational wave data using flexible models**
 [https://arxiv.org/abs/2506.09154]
