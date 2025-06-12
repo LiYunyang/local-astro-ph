@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 10 22:02:22 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jun 11 21:11:03 CDT 2025)
+
+- **Inferring the pair-instability mass gap from gravitational wave data using flexible models**
+[https://arxiv.org/abs/2506.09154]
+  + Thomas Callister (2th author, KICP and Schmidt Fellow)
+
+- **Speed-dependent Threshold for Electron Injection into Diffusive Shock Acceleration**
+[https://arxiv.org/abs/2506.09134]
+  + Damiano Caprioli (2th author, Associate Professor)
+
+- **Euclid preparation. Accurate and precise data-driven angular power spectrum covariances**
+[https://arxiv.org/abs/2506.09118]
+  + Alberto Castellano Mora? (95th author, Associate Fellow)
 
 - **Constraints on cosmology and baryonic feedback with joint analysis of Dark Energy Survey Year 3 lensing data and ACT DR6 thermal Sunyaev-Zel'dovich effect observations**
 [https://arxiv.org/abs/2506.07432]
@@ -53,12 +65,4 @@
   + Alexandra Rahlin? (87th author, Research Assistant Professor)
   + Aidan Simpson? (93th author, Graduate Student)
   + Joshua Sobrin? (94th author, Associate Fellow)
-
-- **Analyzing Line-of-sight selection biases in galaxy-scale strong lensing with external convergence and shear**
-[https://arxiv.org/abs/2506.04201]
-  + Anowar Shajib (3th author, KICP and Einstein Fellow)
-
-- **The Pandora project. II: how non-thermal physics drives bursty star formation and temperate mass-loaded outflows in dwarf galaxies**
-[https://arxiv.org/abs/2506.03245]
-  + Francisco Rodriguez Montero (8th author, KICP Fellow)
 
