@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Jun 13 22:00:33 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Jun 14 21:13:11 CDT 2025)
 
 - **Discovery and Localization of the Swift-Observed FRB 20241228A in a Star-forming Host Galaxy**
 [https://arxiv.org/abs/2506.10961]
