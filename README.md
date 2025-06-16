@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jun 14 22:05:14 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jun 15 21:12:43 CDT 2025)
+
+- **Bayesian and frequentist perspectives agree on dynamical dark energy**
+[https://arxiv.org/abs/2506.12004]
+  + Tanvi Karwal (2th author, KICP Fellow)
 
 - **Discovery and Localization of the Swift-Observed FRB 20241228A in a Star-forming Host Galaxy**
 [https://arxiv.org/abs/2506.10961]
