@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jun 15 22:03:41 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jun 16 21:12:09 CDT 2025)
 
 - **Bayesian and frequentist perspectives agree on dynamical dark energy**
 [https://arxiv.org/abs/2506.12004]
