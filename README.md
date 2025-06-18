@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun 16 22:02:26 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jun 17 21:11:28 CDT 2025)
+
+- **BEBOP VII. SOPHIE discovery of BEBOP-3b, a circumbinary giant planet on an eccentric orbit**
+[https://arxiv.org/abs/2506.14615]
+  + David Martin (19th author, Graduate Student)
+
+- **Axion-like particle limits from multi-messenger sources**
+[https://arxiv.org/abs/2506.14659]
+  + Ariane Dekker (1th author, KICP Fellow)
+
+- **Progress toward the detection of the gravitational-wave background from stellar-mass binary black holes: a mock data challenge**
+[https://arxiv.org/abs/2506.14179]
+  + Colm Talbot (4th author, Associate Fellow)
+
+- **Dark Matter Freeze-In and Small-Scale Observables: Novel Mass Bounds and Viable Particle Candidates**
+[https://arxiv.org/abs/2506.13864]
+  + Ariane Dekker (3th author, KICP Fellow)
 
 - **Dark Energy Survey Year 3 results: $w$CDM cosmology from simulation-based inference with persistent homology on the sphere**
 [https://arxiv.org/abs/2506.13439]
