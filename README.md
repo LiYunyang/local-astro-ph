@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 17 21:11:28 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jun 17 22:02:13 CDT 2025)
 
 - **BEBOP VII. SOPHIE discovery of BEBOP-3b, a circumbinary giant planet on an eccentric orbit**
 [https://arxiv.org/abs/2506.14615]
