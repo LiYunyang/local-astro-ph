@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 17 22:02:13 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jun 18 21:11:49 CDT 2025)
+
+- **Chemical Abundances in the Metal-Poor Globular Cluster ESO 280-SC06: A Formerly Massive, Tidally Disrupted Globular Cluster**
+[https://arxiv.org/abs/2506.15664]
+  + Alexander Ji (2th author, Senior Member)
+
+- **Procedures for Constraining Robotic Fiber Positioning for Highly Multiplexed Spectroscopic Surveys: The Case of FPS for SDSS-V**
+[https://arxiv.org/abs/2506.15475]
+  + Alexander Ji (8th author, Senior Member)
+
+- **The isotropy of cosmic expansion in the early and late Universe**
+[https://arxiv.org/abs/2506.14878]
+  + Scott Dodelson (2th author, Senior Associate)
 
 - **BEBOP VII. SOPHIE discovery of BEBOP-3b, a circumbinary giant planet on an eccentric orbit**
 [https://arxiv.org/abs/2506.14615]
@@ -34,16 +46,4 @@
 - **Discovery and Localization of the Swift-Observed FRB 20241228A in a Star-forming Host Galaxy**
 [https://arxiv.org/abs/2506.10961]
   + Sunil Simha (3th author, Associate Fellow)
-
-- **Inferring the pair-instability mass gap from gravitational wave data using flexible models**
-[https://arxiv.org/abs/2506.09154]
-  + Thomas Callister (2th author, KICP and Schmidt Fellow)
-
-- **Speed-dependent Threshold for Electron Injection into Diffusive Shock Acceleration**
-[https://arxiv.org/abs/2506.09134]
-  + Damiano Caprioli (2th author, Associate Professor)
-
-- **Euclid preparation. Accurate and precise data-driven angular power spectrum covariances**
-[https://arxiv.org/abs/2506.09118]
-  + Alberto Castellano Mora? (95th author, Associate Fellow)
 
