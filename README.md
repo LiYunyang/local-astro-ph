@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Jun 20 21:10:11 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri Jun 20 22:00:46 CDT 2025)
 
 - **Chemical Abundances in the Metal-Poor Globular Cluster ESO 280-SC06: A Formerly Massive, Tidally Disrupted Globular Cluster**
 [https://arxiv.org/abs/2506.15664]
