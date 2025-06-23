@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jun 22 21:13:00 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jun 22 22:06:38 CDT 2025)
+
+- **A Bimodal Metallicity Distribution Function in the Ultra-Faint Dwarf Galaxy Reticulum II**
+[https://arxiv.org/abs/2506.16462]
+  + Alexander Ji (2th author, Senior Member)
+  + Anirudh Chiti (3th author, Brinson Prize Fellow)
+  + Guilherme Limberg (7th author, KICP Fellow)
+
+- **Going beyond $S_8$: fast inference of the matter power spectrum from weak-lensing surveys**
+[https://arxiv.org/abs/2506.16434]
+  + Tanvi Karwal (2th author, KICP Fellow)
 
 - **Chemical Abundances in the Metal-Poor Globular Cluster ESO 280-SC06: A Formerly Massive, Tidally Disrupted Globular Cluster**
 [https://arxiv.org/abs/2506.15664]
@@ -42,8 +52,4 @@
 - **Bayesian and frequentist perspectives agree on dynamical dark energy**
 [https://arxiv.org/abs/2506.12004]
   + Tanvi Karwal (2th author, KICP Fellow)
-
-- **Discovery and Localization of the Swift-Observed FRB 20241228A in a Star-forming Host Galaxy**
-[https://arxiv.org/abs/2506.10961]
-  + Sunil Simha (3th author, Associate Fellow)
 
