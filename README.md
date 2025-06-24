@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jun 22 22:06:38 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jun 23 21:12:18 CDT 2025)
 
 - **A Bimodal Metallicity Distribution Function in the Ultra-Faint Dwarf Galaxy Reticulum II**
 [https://arxiv.org/abs/2506.16462]
