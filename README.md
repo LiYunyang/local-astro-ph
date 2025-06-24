@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun 23 21:12:18 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jun 23 22:02:52 CDT 2025)
+
+- **Association between optically identified galaxy clusters and the underlying dark matter halos**
+[https://arxiv.org/abs/2506.17526]
+  + Chun-Hao To (11th author, Associate Fellow)
 
 - **A Bimodal Metallicity Distribution Function in the Ultra-Faint Dwarf Galaxy Reticulum II**
 [https://arxiv.org/abs/2506.16462]
@@ -48,8 +52,4 @@
   + Scott Dodelson? (20th author, Senior Associate)
   + Joshua A. Frieman? (66th author, Chair)
   + Chun-Hao To? (93th author, Associate Fellow)
-
-- **Bayesian and frequentist perspectives agree on dynamical dark energy**
-[https://arxiv.org/abs/2506.12004]
-  + Tanvi Karwal (2th author, KICP Fellow)
 
