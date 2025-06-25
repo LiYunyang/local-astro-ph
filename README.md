@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 24 21:12:30 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jun 24 22:02:59 CDT 2025)
 
 - **The DECam MAGIC Survey: Spectroscopic Follow-up of the Most Metal-Poor Stars in the Distant Milky Way Halo**
 [https://arxiv.org/abs/2506.19163]
