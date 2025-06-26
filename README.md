@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun 25 21:11:59 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jun 25 22:02:35 CDT 2025)
 
 - **An Earth-like Density for the Temperate Earth-sized Planet GJ 12b**
 [https://arxiv.org/abs/2506.20561]
