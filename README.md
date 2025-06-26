@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 24 22:02:59 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jun 25 21:11:59 CDT 2025)
+
+- **An Earth-like Density for the Temperate Earth-sized Planet GJ 12b**
+[https://arxiv.org/abs/2506.20561]
+  + Madison Brady (1th author, Graduate Student)
+  + Jacob L. Bean (2th author, Professor)
+  + Ritvik Basant (3th author, Graduate Student)
+  + Tanya Das (5th author, Postdoctoral Scholar)
+  + Rafael Luque (7th author, Postdoctoral Scholar)
+  + Michael Radica (9th author, Postdoctoral Scholar)
+  + Lily Zhao (12th author, Sagan Fellow)
+
+- **A Radio-quiet AGN as a candidate counterpart to neutrino event IceCube-200615A**
+[https://arxiv.org/abs/2506.20064]
+  + Yunyang Li? (12th author, KICP Fellow)
+
+- **Bayesian Posteriors with Stellar Population Synthesis on GPUs**
+[https://arxiv.org/abs/2506.19919]
+  + Georgios Zacharegkas (1th author, Associate Fellow)
+  + Andrew Hearin (2th author, Senior Associate)
 
 - **The DECam MAGIC Survey: Spectroscopic Follow-up of the Most Metal-Poor Stars in the Distant Milky Way Halo**
 [https://arxiv.org/abs/2506.19163]
@@ -57,20 +76,4 @@
 - **The isotropy of cosmic expansion in the early and late Universe**
 [https://arxiv.org/abs/2506.14878]
   + Scott Dodelson (2th author, Senior Associate)
-
-- **BEBOP VII. SOPHIE discovery of BEBOP-3b, a circumbinary giant planet on an eccentric orbit**
-[https://arxiv.org/abs/2506.14615]
-  + David Martin (19th author, Graduate Student)
-
-- **Axion-like particle limits from multi-messenger sources**
-[https://arxiv.org/abs/2506.14659]
-  + Ariane Dekker (1th author, KICP Fellow)
-
-- **Progress toward the detection of the gravitational-wave background from stellar-mass binary black holes: a mock data challenge**
-[https://arxiv.org/abs/2506.14179]
-  + Colm Talbot (4th author, Associate Fellow)
-
-- **Dark Matter Freeze-In and Small-Scale Observables: Novel Mass Bounds and Viable Particle Candidates**
-[https://arxiv.org/abs/2506.13864]
-  + Ariane Dekker (3th author, KICP Fellow)
 
