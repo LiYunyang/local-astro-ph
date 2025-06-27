@@ -1,6 +1,47 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun 25 22:02:35 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Jun 26 21:12:32 CDT 2025)
+
+- **Sifting for a Stream: The Morphology of the $300S$ Stellar Stream**
+[https://arxiv.org/abs/2506.21410]
+  + Alexander Ji (2th author, Senior Member)
+  + Alex Drlica-Wagner (5th author, Senior Member)
+  + Guilherme Limberg (18th author, KICP Fellow)
+
+- **SPT-3G D1: CMB temperature and polarization power spectra and cosmology from 2019 and 2020 observations of the SPT-3G Main field**
+[https://arxiv.org/abs/2506.20707]
+  + Wei Quan? (2th author, Associate Fellow)
+  + Yuuki Omori? (9th author, Senior Researcher)
+  + Adam Anderson? (11th author, Senior Associate)
+  + Melanie Archipley? (13th author, Associate Fellow)
+  + Amy Bender? (16th author, Senior Associate)
+  + Bradford A. Benson? (17th author, Associate Professor)
+  + Lindsey Bleem? (19th author, Senior Associate)
+  + John Carlstrom? (23th author, Senior Member)
+  + Chihway Chang? (24th author, Senior Member)
+  + Paul Chichura? (26th author, Graduate Student)
+  + Thomas Crawford? (30th author, Senior Researcher)
+  + Karia Dibert? (33th author, Graduate Student)
+  + Kyra Fichman? (41th author, Graduate Student)
+  + John Hood? (53th author, Associate Fellow)
+  + Alexander Hryciuk? (54th author, Graduate Student)
+  + Kayla Kornoelje? (58th author, Graduate Student)
+  + Emily Martsen? (64th author, Graduate Student)
+  + Tyler Natoli? (69th author, Senior Researcher)
+  + Alexandra Rahlin? (79th author, Research Assistant Professor)
+  + Aidan Simpson? (84th author, Graduate Student)
+  + Joshua Sobrin? (85th author, Associate Fellow)
+  + Matthew Young? (96th author, Associate Fellow)
+  + Jessica Zebrowski? (97th author, KICP and Einstein Fellow)
+
+- **Identification of Noise-Associated Glitches in KAGRA O3GK with Hveto**
+[https://arxiv.org/abs/2506.21021]
+  + Hsiao-Wen Chen? (11th author, Senior Member)
+  + Kenichi Sakai? (97th author, Research Scientist)
+
+- **Neutrino Physics and Astrophysics at Colliders**
+[https://arxiv.org/abs/2506.20855]
+  + Bei Zhou (2th author, Associate Fellow)
 
 - **An Earth-like Density for the Temperate Earth-sized Planet GJ 12b**
 [https://arxiv.org/abs/2506.20561]
@@ -64,16 +105,4 @@
 - **Going beyond $S_8$: fast inference of the matter power spectrum from weak-lensing surveys**
 [https://arxiv.org/abs/2506.16434]
   + Tanvi Karwal (2th author, KICP Fellow)
-
-- **Chemical Abundances in the Metal-Poor Globular Cluster ESO 280-SC06: A Formerly Massive, Tidally Disrupted Globular Cluster**
-[https://arxiv.org/abs/2506.15664]
-  + Alexander Ji (2th author, Senior Member)
-
-- **Procedures for Constraining Robotic Fiber Positioning for Highly Multiplexed Spectroscopic Surveys: The Case of FPS for SDSS-V**
-[https://arxiv.org/abs/2506.15475]
-  + Alexander Ji (8th author, Senior Member)
-
-- **The isotropy of cosmic expansion in the early and late Universe**
-[https://arxiv.org/abs/2506.14878]
-  + Scott Dodelson (2th author, Senior Associate)
 
