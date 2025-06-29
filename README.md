@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jun 28 21:13:13 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Jun 28 22:08:19 CDT 2025)
 
 - **Sifting for a Stream: The Morphology of the $300S$ Stellar Stream**
 [https://arxiv.org/abs/2506.21410]
