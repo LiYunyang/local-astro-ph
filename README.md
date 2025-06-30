@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jun 29 21:12:56 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jun 29 22:05:11 CDT 2025)
 
 - **Constraining the Stellar-to-Halo Mass Relation with Galaxy Clustering and Weak Lensing from DES Year 3 Data**
 [https://arxiv.org/abs/2506.22367]
