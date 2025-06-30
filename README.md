@@ -1,6 +1,35 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jun 28 22:08:19 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jun 29 21:12:56 CDT 2025)
+
+- **Constraining the Stellar-to-Halo Mass Relation with Galaxy Clustering and Weak Lensing from DES Year 3 Data**
+[https://arxiv.org/abs/2506.22367]
+  + Georgios Zacharegkas? (1th author, Associate Fellow)
+  + Chihway Chang? (2th author, Senior Member)
+  + Scott Dodelson? (23th author, Senior Associate)
+  + Alex Drlica-Wagner? (25th author, Senior Member)
+  + Marco Gatti? (32th author, KICP Fellow)
+  + Giulia Giannini? (33th author, Associate Fellow)
+
+- **Decoding AGN Feedback with X-arithmetic: From Morphology to Physical Mechanisms**
+[https://arxiv.org/abs/2506.21859]
+  + Hannah McCall (1th author, Graduate Student)
+  + Irina Zhuravleva (2th author, Assistant Professor)
+
+- **Spectroscopic Analysis of Pictor II: a very low metallicity ultra-faint dwarf galaxy bound to the Large Magellanic Cloud**
+[https://arxiv.org/abs/2506.21841]
+  + Alexander Ji? (3th author, Senior Member)
+  + Alex Drlica-Wagner? (7th author, Senior Member)
+  + Chin Yi Tan? (9th author, Graduate Student)
+  + Anirudh Chiti? (10th author, Brinson Prize Fellow)
+  + Richard G. Kron? (14th author, Professor Emeritus)
+  + Joshua A. Frieman? (17th author, Chair)
+  + Guilherme Limberg? (19th author, KICP Fellow)
+
+- **TDCOSMO XXIII. First spatially resolved kinematics of the lens galaxy obtained using JWST-NIRSpec to improve time-delay cosmography**
+[https://arxiv.org/abs/2506.21665]
+  + Anowar Shajib (1th author, KICP and Einstein Fellow)
+  + Joshua A. Frieman (13th author, Chair)
 
 - **Sifting for a Stream: The Morphology of the $300S$ Stellar Stream**
 [https://arxiv.org/abs/2506.21410]
@@ -95,14 +124,4 @@
 - **Association between optically identified galaxy clusters and the underlying dark matter halos**
 [https://arxiv.org/abs/2506.17526]
   + Chun-Hao To (11th author, Associate Fellow)
-
-- **A Bimodal Metallicity Distribution Function in the Ultra-Faint Dwarf Galaxy Reticulum II**
-[https://arxiv.org/abs/2506.16462]
-  + Alexander Ji (2th author, Senior Member)
-  + Anirudh Chiti (3th author, Brinson Prize Fellow)
-  + Guilherme Limberg (7th author, KICP Fellow)
-
-- **Going beyond $S_8$: fast inference of the matter power spectrum from weak-lensing surveys**
-[https://arxiv.org/abs/2506.16434]
-  + Tanvi Karwal (2th author, KICP Fellow)
 
