@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun 30 21:13:11 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jun 30 22:09:56 CDT 2025)
+
+- **Kilonova constraints for the LIGO/Virgo/KAGRA neutron star merger candidate S250206dm: GW-MMADS observations**
+[https://arxiv.org/abs/2506.22626]
+  + Daniel E. Holz (24th author, Professor)
 
 - **Constraining the Stellar-to-Halo Mass Relation with Galaxy Clustering and Weak Lensing from DES Year 3 Data**
 [https://arxiv.org/abs/2506.22367]
@@ -120,8 +124,4 @@
   + Abigail Vieregg? (75th author, David N. Schramm Director and Senior Member)
   + Christoph Welling? (77th author, KICP Fellow)
   + Philipp Windischhofer? (79th author, Associate Fellow)
-
-- **Association between optically identified galaxy clusters and the underlying dark matter halos**
-[https://arxiv.org/abs/2506.17526]
-  + Chun-Hao To (11th author, Associate Fellow)
 
