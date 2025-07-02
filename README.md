@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul  1 21:12:12 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul  1 22:02:39 CDT 2025)
 
 - **Characterization of the Cherenkov Photon Background for Low-Noise Silicon Detectors in Space**
 [https://arxiv.org/abs/2507.00226]
