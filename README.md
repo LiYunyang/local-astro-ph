@@ -1,6 +1,13 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun 30 22:09:56 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul  1 21:12:12 CDT 2025)
+
+- **Characterization of the Cherenkov Photon Background for Low-Noise Silicon Detectors in Space**
+[https://arxiv.org/abs/2507.00226]
+  + Alex Drlica-Wagner (3th author, Senior Member)
+  + Guillermo Fernandez-Moroni (4th author, CASE Associate)
+  + Juan  Estrada (9th author, Senior Associate)
+  + Agustin Lapi (10th author, Associate Fellow)
 
 - **Kilonova constraints for the LIGO/Virgo/KAGRA neutron star merger candidate S250206dm: GW-MMADS observations**
 [https://arxiv.org/abs/2506.22626]
@@ -94,34 +101,4 @@
 [https://arxiv.org/abs/2506.19919]
   + Georgios Zacharegkas (1th author, Associate Fellow)
   + Andrew Hearin (2th author, Senior Associate)
-
-- **The DECam MAGIC Survey: Spectroscopic Follow-up of the Most Metal-Poor Stars in the Distant Milky Way Halo**
-[https://arxiv.org/abs/2506.19163]
-  + Guilherme Limberg (2th author, KICP Fellow)
-  + Anirudh Chiti (3th author, Brinson Prize Fellow)
-  + Alexander Ji (5th author, Senior Member)
-  + Alex Drlica-Wagner (17th author, Senior Member)
-  + Chin Yi Tan (24th author, Graduate Student)
-
-- **James Webb Space Telescope Observations of the Nearby and Precisely-Localized FRB 20250316A: A Potential Near-IR Counterpart and Implications for the Progenitors of Fast Radio Bursts**
-[https://arxiv.org/abs/2506.19007]
-  + Sunil Simha (26th author, Associate Fellow)
-
-- **FRB 20250316A: A Brilliant and Nearby One-Off Fast Radio Burst Localized to 13 parsec Precision**
-[https://arxiv.org/abs/2506.19006]
-  + Sunil Simha (65th author, Associate Fellow)
-
-- **Euclid: An emulator for baryonic effects on the matter bispectrum**
-[https://arxiv.org/abs/2506.18974]
-  + Alberto Castellano Mora? (98th author, Associate Fellow)
-
-- **Radio emission from airplanes as observed with RNO-G**
-[https://arxiv.org/abs/2506.17522]
-  + Shrihan Agarwal? (2th author, Graduate Student)
-  + Nathaniel Alden? (4th author, Graduate Student)
-  + Cosmin Deaconu? (21th author, Senior Researcher)
-  + Eric Oberla? (56th author, Senior Researcher)
-  + Abigail Vieregg? (75th author, David N. Schramm Director and Senior Member)
-  + Christoph Welling? (77th author, KICP Fellow)
-  + Philipp Windischhofer? (79th author, Associate Fellow)
 
