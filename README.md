@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul  2 21:12:27 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jul  2 22:03:20 CDT 2025)
 
 - **Universal lower bound on the axion decay constant from free streaming effects**
 [https://arxiv.org/abs/2507.01956]
