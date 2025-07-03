@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul  1 22:02:39 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jul  2 21:12:27 CDT 2025)
+
+- **Universal lower bound on the axion decay constant from free streaming effects**
+[https://arxiv.org/abs/2507.01956]
+  + Keisuke Harigaya (1th author, Senior Member)
+  + Wayne Hu (2th author, Senior Member)
+  + Rayne Liu (3th author, Graduate Student)
+  + Huangyu Xiao (4th author, Associate Fellow)
+
+- **DESI DR2 reference mocks: clustering results from Uchuu-BGS and LRG**
+[https://arxiv.org/abs/2507.01593]
+  + Andrew Hearin? (20th author, Senior Associate)
+
+- **Breaking Through the Cosmic Fog: JWST/NIRSpec Constraints on Ionizing Photon Escape in Reionization-Era Galaxies**
+[https://arxiv.org/abs/2507.01096]
+  + Harley Katz (12th author, Senior Member)
+
+- **A theoretical prediction for the dipole in nearby distances using cosmography**
+[https://arxiv.org/abs/2507.01095]
+  + Hayley Macpherson (1th author, KICP and  Einstein Fellow)
 
 - **Characterization of the Cherenkov Photon Background for Low-Noise Silicon Detectors in Space**
 [https://arxiv.org/abs/2507.00226]
@@ -82,23 +101,4 @@
 - **Neutrino Physics and Astrophysics at Colliders**
 [https://arxiv.org/abs/2506.20855]
   + Bei Zhou (2th author, Associate Fellow)
-
-- **An Earth-like Density for the Temperate Earth-sized Planet GJ 12b**
-[https://arxiv.org/abs/2506.20561]
-  + Madison Brady (1th author, Graduate Student)
-  + Jacob L. Bean (2th author, Professor)
-  + Ritvik Basant (3th author, Graduate Student)
-  + Tanya Das (5th author, Postdoctoral Scholar)
-  + Rafael Luque (7th author, Postdoctoral Scholar)
-  + Michael Radica (9th author, Postdoctoral Scholar)
-  + Lily Zhao (12th author, Sagan Fellow)
-
-- **A Radio-quiet AGN as a candidate counterpart to neutrino event IceCube-200615A**
-[https://arxiv.org/abs/2506.20064]
-  + Yunyang Li? (12th author, KICP Fellow)
-
-- **Bayesian Posteriors with Stellar Population Synthesis on GPUs**
-[https://arxiv.org/abs/2506.19919]
-  + Georgios Zacharegkas (1th author, Associate Fellow)
-  + Andrew Hearin (2th author, Senior Associate)
 
