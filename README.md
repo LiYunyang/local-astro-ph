@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul  2 22:03:20 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Jul  3 21:12:00 CDT 2025)
+
+- **A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE). XIX. The discovery of a spectacular 230 kpc Halpha tail following NGC 4569 in the Virgo cluster**
+[https://arxiv.org/abs/2507.02527]
+  + Hsiao-Wen Chen? (11th author, Senior Member)
+
+- **Constraining nearby substellar companion architectures using High Contrast Imaging, Radial Velocity and Astrometry data**
+[https://arxiv.org/abs/2507.02455]
+  + Yunyang Li? (3th author, KICP Fellow)
+
+- **Prospects for PBR detection of KM3-230213A-like events**
+[https://arxiv.org/abs/2507.02246]
+  + Angela Olinto (1th author, Senior Member)
+
+- **Image Marker**
+[https://arxiv.org/abs/2507.02153]
+  + Lindsey Bleem (3th author, Senior Associate)
 
 - **Universal lower bound on the axion decay constant from free streaming effects**
 [https://arxiv.org/abs/2507.01956]
@@ -60,45 +76,4 @@
 [https://arxiv.org/abs/2506.21665]
   + Anowar Shajib (1th author, KICP and Einstein Fellow)
   + Joshua A. Frieman (13th author, Chair)
-
-- **Sifting for a Stream: The Morphology of the $300S$ Stellar Stream**
-[https://arxiv.org/abs/2506.21410]
-  + Alexander Ji (2th author, Senior Member)
-  + Alex Drlica-Wagner (5th author, Senior Member)
-  + Guilherme Limberg (18th author, KICP Fellow)
-
-- **SPT-3G D1: CMB temperature and polarization power spectra and cosmology from 2019 and 2020 observations of the SPT-3G Main field**
-[https://arxiv.org/abs/2506.20707]
-  + Wei Quan? (2th author, Associate Fellow)
-  + Yuuki Omori? (9th author, Senior Researcher)
-  + Adam Anderson? (11th author, Senior Associate)
-  + Melanie Archipley? (13th author, Associate Fellow)
-  + Amy Bender? (16th author, Senior Associate)
-  + Bradford A. Benson? (17th author, Associate Professor)
-  + Lindsey Bleem? (19th author, Senior Associate)
-  + John Carlstrom? (23th author, Senior Member)
-  + Chihway Chang? (24th author, Senior Member)
-  + Paul Chichura? (26th author, Graduate Student)
-  + Thomas Crawford? (30th author, Senior Researcher)
-  + Karia Dibert? (33th author, Graduate Student)
-  + Kyra Fichman? (41th author, Graduate Student)
-  + John Hood? (53th author, Associate Fellow)
-  + Alexander Hryciuk? (54th author, Graduate Student)
-  + Kayla Kornoelje? (58th author, Graduate Student)
-  + Emily Martsen? (64th author, Graduate Student)
-  + Tyler Natoli? (69th author, Senior Researcher)
-  + Alexandra Rahlin? (79th author, Research Assistant Professor)
-  + Aidan Simpson? (84th author, Graduate Student)
-  + Joshua Sobrin? (85th author, Associate Fellow)
-  + Matthew Young? (96th author, Associate Fellow)
-  + Jessica Zebrowski? (97th author, KICP and Einstein Fellow)
-
-- **Identification of Noise-Associated Glitches in KAGRA O3GK with Hveto**
-[https://arxiv.org/abs/2506.21021]
-  + Hsiao-Wen Chen? (11th author, Senior Member)
-  + Kenichi Sakai? (97th author, Research Scientist)
-
-- **Neutrino Physics and Astrophysics at Colliders**
-[https://arxiv.org/abs/2506.20855]
-  + Bei Zhou (2th author, Associate Fellow)
 
