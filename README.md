@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul  7 21:12:36 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jul  7 22:03:05 CDT 2025)
 
 - **A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE). XIX. The discovery of a spectacular 230 kpc Halpha tail following NGC 4569 in the Virgo cluster**
 [https://arxiv.org/abs/2507.02527]
