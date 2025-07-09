@@ -1,6 +1,41 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul  7 22:03:05 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul  8 21:12:45 CDT 2025)
+
+- **Observation of Broadband In-ice Radiation from Impacting High-Energy Cosmic Rays**
+[https://arxiv.org/abs/2507.06151]
+  + Philipp Windischhofer (1th author, Associate Fellow)
+  + Nathaniel Alden (2th author, Graduate Student)
+
+- **Localisation and host galaxy identification of new Fast Radio Bursts with MeerKA**
+[https://arxiv.org/abs/2507.05982]
+  + Sunil Simha (10th author, Associate Fellow)
+
+- **The final WaZP galaxy cluster catalog of the Dark Energy Survey and comparison with SZE data**
+[https://arxiv.org/abs/2507.05360]
+  + Scott Dodelson? (16th author, Senior Associate)
+  + Joshua A. Frieman? (20th author, Chair)
+  + Giulia Giannini? (22th author, Associate Fellow)
+
+- **Deciphering Baryonic Feedback from ACT tSZ Galaxy Clusters**
+[https://arxiv.org/abs/2507.04476]
+  + Chun-Hao To (2th author, Associate Fellow)
+
+- **An Aligned Sub-Neptune Revealed with MAROON-X and a Tendency Towards Alignment for Small Planets**
+[https://arxiv.org/abs/2507.04291]
+  + Jacob L. Bean (4th author, Professor)
+
+- **An accurate measurement of the spectral resolution of the JWST Near Infrared Spectrograph**
+[https://arxiv.org/abs/2507.03746]
+  + Anowar Shajib (1th author, KICP and Einstein Fellow)
+  + Joshua A. Frieman (6th author, Chair)
+
+- **What Sets the Metallicity of Ultra-Faint Dwarfs?**
+[https://arxiv.org/abs/2507.03182]
+  + Vance Wheeler (1th author, Graduate Student)
+  + Andrey Kravtsov (2th author, Senior Member)
+  + Anirudh Chiti (3th author, Brinson Prize Fellow)
+  + Harley Katz (4th author, Senior Member)
 
 - **A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE). XIX. The discovery of a spectacular 230 kpc Halpha tail following NGC 4569 in the Virgo cluster**
 [https://arxiv.org/abs/2507.02527]
@@ -43,37 +78,4 @@
   + Guillermo Fernandez-Moroni (4th author, CASE Associate)
   + Juan  Estrada (9th author, Senior Associate)
   + Agustin Lapi (10th author, Associate Fellow)
-
-- **Kilonova constraints for the LIGO/Virgo/KAGRA neutron star merger candidate S250206dm: GW-MMADS observations**
-[https://arxiv.org/abs/2506.22626]
-  + Daniel E. Holz (24th author, Professor)
-
-- **Constraining the Stellar-to-Halo Mass Relation with Galaxy Clustering and Weak Lensing from DES Year 3 Data**
-[https://arxiv.org/abs/2506.22367]
-  + Georgios Zacharegkas? (1th author, Associate Fellow)
-  + Chihway Chang? (2th author, Senior Member)
-  + Scott Dodelson? (23th author, Senior Associate)
-  + Alex Drlica-Wagner? (25th author, Senior Member)
-  + Marco Gatti? (32th author, KICP Fellow)
-  + Giulia Giannini? (33th author, Associate Fellow)
-
-- **Decoding AGN Feedback with X-arithmetic: From Morphology to Physical Mechanisms**
-[https://arxiv.org/abs/2506.21859]
-  + Hannah McCall (1th author, Graduate Student)
-  + Irina Zhuravleva (2th author, Assistant Professor)
-
-- **Spectroscopic Analysis of Pictor II: a very low metallicity ultra-faint dwarf galaxy bound to the Large Magellanic Cloud**
-[https://arxiv.org/abs/2506.21841]
-  + Alexander Ji? (3th author, Senior Member)
-  + Alex Drlica-Wagner? (7th author, Senior Member)
-  + Chin Yi Tan? (9th author, Graduate Student)
-  + Anirudh Chiti? (10th author, Brinson Prize Fellow)
-  + Richard G. Kron? (14th author, Professor Emeritus)
-  + Joshua A. Frieman? (17th author, Chair)
-  + Guilherme Limberg? (19th author, KICP Fellow)
-
-- **TDCOSMO XXIII. First spatially resolved kinematics of the lens galaxy obtained using JWST-NIRSpec to improve time-delay cosmography**
-[https://arxiv.org/abs/2506.21665]
-  + Anowar Shajib (1th author, KICP and Einstein Fellow)
-  + Joshua A. Frieman (13th author, Chair)
 
