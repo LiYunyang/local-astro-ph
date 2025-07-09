@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul  8 21:12:45 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul  8 22:03:42 CDT 2025)
 
 - **Observation of Broadband In-ice Radiation from Impacting High-Energy Cosmic Rays**
 [https://arxiv.org/abs/2507.06151]
