@@ -1,13 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul  8 22:03:42 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jul  9 21:12:52 CDT 2025)
+
+- **The Nineteenth Data Release of the Sloan Digital Sky Survey**
+[https://arxiv.org/abs/2507.07093]
+  + Alexander Ji (95th author, Senior Member)
+
+- **Intergalactic Medium Tomography with the Sunburst Arc**
+[https://arxiv.org/abs/2507.06443]
+  + Michael D. Gladders (5th author, Professor)
 
 - **Observation of Broadband In-ice Radiation from Impacting High-Energy Cosmic Rays**
 [https://arxiv.org/abs/2507.06151]
   + Philipp Windischhofer (1th author, Associate Fellow)
   + Nathaniel Alden (2th author, Graduate Student)
 
-- **Localisation and host galaxy identification of new Fast Radio Bursts with MeerKA**
+- **Localisation and host galaxy identification of new Fast Radio Bursts with MeerKAT**
 [https://arxiv.org/abs/2507.05982]
   + Sunil Simha (10th author, Associate Fellow)
 
@@ -64,6 +72,10 @@
 [https://arxiv.org/abs/2507.01593]
   + Andrew Hearin? (20th author, Senior Associate)
 
+- **Spatially Resolving the Fundamental Elements of Reionization in Galaxies**
+[https://arxiv.org/abs/2507.01312]
+  + Hsiao-Wen Chen (4th author, Senior Member)
+
 - **Breaking Through the Cosmic Fog: JWST/NIRSpec Constraints on Ionizing Photon Escape in Reionization-Era Galaxies**
 [https://arxiv.org/abs/2507.01096]
   + Harley Katz (12th author, Senior Member)
@@ -71,11 +83,4 @@
 - **A theoretical prediction for the dipole in nearby distances using cosmography**
 [https://arxiv.org/abs/2507.01095]
   + Hayley Macpherson (1th author, KICP and  Einstein Fellow)
-
-- **Characterization of the Cherenkov Photon Background for Low-Noise Silicon Detectors in Space**
-[https://arxiv.org/abs/2507.00226]
-  + Alex Drlica-Wagner (3th author, Senior Member)
-  + Guillermo Fernandez-Moroni (4th author, CASE Associate)
-  + Juan  Estrada (9th author, Senior Associate)
-  + Agustin Lapi (10th author, Associate Fellow)
 
