@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul  9 21:12:52 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jul  9 22:03:31 CDT 2025)
 
 - **The Nineteenth Data Release of the Sloan Digital Sky Survey**
 [https://arxiv.org/abs/2507.07093]
