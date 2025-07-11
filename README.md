@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jul 10 21:12:57 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Jul 10 22:06:18 CDT 2025)
 
 - **Gravitational lensing rarely produces high-mass outliers to the compact binary population**
 [https://arxiv.org/abs/2507.07964]
