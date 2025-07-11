@@ -1,6 +1,33 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul  9 22:03:31 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Jul 10 21:12:57 CDT 2025)
+
+- **Gravitational lensing rarely produces high-mass outliers to the compact binary population**
+[https://arxiv.org/abs/2507.07964]
+  + Amanda Farah (1th author, Graduate Student)
+  + Daniel E. Holz (4th author, Professor)
+
+- **TOI-1259Ab: A Warm Jupiter Orbiting a K-dwarf White-Dwarf Binary is on a Well-aligned Orbit**
+[https://arxiv.org/abs/2507.07737]
+  + David Martin (5th author, Graduate Student)
+
+- **Imaging-Spectroscopic diagnosis of the Giant Sloshing Spiral in the Virgo Cluster with the Einstein Probe Follow-up X-ray Telescope**
+[https://arxiv.org/abs/2507.07412]
+  + Michael Zhang? (45th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **The z=1.03 Merging Cluster SPT-CL J0356-5337: New Strong Lensing Analysis with HST and MUSE**
+[https://arxiv.org/abs/2507.07404]
+  + Bradford A. Benson (6th author, Associate Professor)
+  + Lindsey Bleem (7th author, Senior Associate)
+  + Michael D. Gladders (10th author, Professor)
+
+- **The Roasting Marshmallows Program with IGRINS on Gemini South III: Seeing deeper into the metal depleted atmosphere of a gas-giant on the cusp of the hot to ultra-hot Jupiter transition**
+[https://arxiv.org/abs/2507.07204]
+  + Jacob L. Bean (7th author, Professor)
+
+- **Probing Axions via Spectroscopic Measurements of S-stars at the Galactic Center**
+[https://arxiv.org/abs/2507.07482]
+  + Huangyu Xiao (6th author, Associate Fellow)
 
 - **The Nineteenth Data Release of the Sloan Digital Sky Survey**
 [https://arxiv.org/abs/2507.07093]
@@ -60,27 +87,4 @@
 - **Image Marker**
 [https://arxiv.org/abs/2507.02153]
   + Lindsey Bleem (3th author, Senior Associate)
-
-- **Universal lower bound on the axion decay constant from free streaming effects**
-[https://arxiv.org/abs/2507.01956]
-  + Keisuke Harigaya (1th author, Senior Member)
-  + Wayne Hu (2th author, Senior Member)
-  + Rayne Liu (3th author, Graduate Student)
-  + Huangyu Xiao (4th author, Associate Fellow)
-
-- **DESI DR2 reference mocks: clustering results from Uchuu-BGS and LRG**
-[https://arxiv.org/abs/2507.01593]
-  + Andrew Hearin? (20th author, Senior Associate)
-
-- **Spatially Resolving the Fundamental Elements of Reionization in Galaxies**
-[https://arxiv.org/abs/2507.01312]
-  + Hsiao-Wen Chen (4th author, Senior Member)
-
-- **Breaking Through the Cosmic Fog: JWST/NIRSpec Constraints on Ionizing Photon Escape in Reionization-Era Galaxies**
-[https://arxiv.org/abs/2507.01096]
-  + Harley Katz (12th author, Senior Member)
-
-- **A theoretical prediction for the dipole in nearby distances using cosmography**
-[https://arxiv.org/abs/2507.01095]
-  + Hayley Macpherson (1th author, KICP and  Einstein Fellow)
 
