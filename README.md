@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jul 12 22:11:01 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jul 13 21:13:13 CDT 2025)
+
+- **The IceCube-Gen2 Collaboration -- Contributions to the 39th International Cosmic Ray Conference (ICRC2025)**
+[https://arxiv.org/abs/2507.08667]
+  + Cosmin Deaconu? (69th author, Senior Researcher)
+
+- **Precision spectral measurements of Chromium and Titanium from 10 to 250 GeV$/n$ and sub-Iron to Iron ratio with the Calorimetric Electron Telescope on the ISS**
+[https://arxiv.org/abs/2507.08643]
+  + Kenichi Sakai? (59th author, Research Scientist)
+
+- **Evaluating the Limits of Rotation Period Recovery through Gyrochronology Criteria**
+[https://arxiv.org/abs/2507.08266]
+  + Derek Buzasi (3th author, Senior Instructional Professor)
 
 - **Gravitational lensing rarely produces high-mass outliers to the compact binary population**
 [https://arxiv.org/abs/2507.07964]
@@ -71,20 +83,4 @@
   + Andrey Kravtsov (2th author, Senior Member)
   + Anirudh Chiti (3th author, Brinson Prize Fellow)
   + Harley Katz (4th author, Senior Member)
-
-- **A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE). XIX. The discovery of a spectacular 230 kpc Halpha tail following NGC 4569 in the Virgo cluster**
-[https://arxiv.org/abs/2507.02527]
-  + Hsiao-Wen Chen? (11th author, Senior Member)
-
-- **Constraining nearby substellar companion architectures using High Contrast Imaging, Radial Velocity and Astrometry data**
-[https://arxiv.org/abs/2507.02455]
-  + Yunyang Li? (3th author, KICP Fellow)
-
-- **Prospects for PBR detection of KM3-230213A-like events**
-[https://arxiv.org/abs/2507.02246]
-  + Angela Olinto (1th author, Senior Member)
-
-- **Image Marker**
-[https://arxiv.org/abs/2507.02153]
-  + Lindsey Bleem (3th author, Senior Associate)
 
