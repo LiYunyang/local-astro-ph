@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 14 21:13:16 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jul 14 22:09:07 CDT 2025)
+
+- **Detailed Architecture of the L 98-59 System and Confirmation of a Fifth Planet in the Habitable Zone**
+[https://arxiv.org/abs/2507.09343]
+  + Michael Radica (11th author, Postdoctoral Scholar)
+
+- **SLICE: SPT-CL J0546-5345 -- A prominent strong-lensing cluster at $z=1.07$**
+[https://arxiv.org/abs/2507.08949]
+  + Michael D. Gladders (10th author, Professor)
+
+- **A metal-poor atmosphere with a hot interior for a young sub-Neptune progenitor: JWST/NIRSpec transmission spectrum of V1298 Tau b**
+[https://arxiv.org/abs/2507.08837]
+  + Qiao Xue (5th author, Graduate Student)
+  + Jacob L. Bean (11th author, Professor)
 
 - **The IceCube-Gen2 Collaboration -- Contributions to the 39th International Cosmic Ray Conference (ICRC2025)**
 [https://arxiv.org/abs/2507.08667]
@@ -23,7 +36,7 @@
 [https://arxiv.org/abs/2507.07737]
   + David Martin (5th author, Graduate Student)
 
-- **Imaging-Spectroscopic diagnosis of the Giant Sloshing Spiral in the Virgo Cluster with the Einstein Probe Follow-up X-ray Telescope**
+- **Imaging-spectroscopy diagnosis of the giant sloshing spiral in the Virgo cluster with the Einstein Probe Follow-up X-ray Telescope**
 [https://arxiv.org/abs/2507.07412]
   + Michael Zhang? (45th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
 
@@ -60,27 +73,8 @@
 
 - **The final WaZP galaxy cluster catalog of the Dark Energy Survey and comparison with SZE data**
 [https://arxiv.org/abs/2507.05360]
-  + Scott Dodelson? (16th author, Senior Associate)
-  + Joshua A. Frieman? (20th author, Chair)
-  + Giulia Giannini? (22th author, Associate Fellow)
-
-- **Deciphering Baryonic Feedback from ACT tSZ Galaxy Clusters**
-[https://arxiv.org/abs/2507.04476]
-  + Chun-Hao To (2th author, Associate Fellow)
-
-- **An Aligned Sub-Neptune Revealed with MAROON-X and a Tendency Towards Alignment for Small Planets**
-[https://arxiv.org/abs/2507.04291]
-  + Jacob L. Bean (4th author, Professor)
-
-- **An accurate measurement of the spectral resolution of the JWST Near Infrared Spectrograph**
-[https://arxiv.org/abs/2507.03746]
-  + Anowar Shajib (1th author, KICP and Einstein Fellow)
-  + Joshua A. Frieman (6th author, Chair)
-
-- **What Sets the Metallicity of Ultra-Faint Dwarfs?**
-[https://arxiv.org/abs/2507.03182]
-  + Vance Wheeler (1th author, Graduate Student)
-  + Andrey Kravtsov (2th author, Senior Member)
-  + Anirudh Chiti (3th author, Brinson Prize Fellow)
-  + Harley Katz (4th author, Senior Member)
+  + Lindsey Bleem? (9th author, Senior Associate)
+  + Scott Dodelson? (17th author, Senior Associate)
+  + Joshua A. Frieman? (21th author, Chair)
+  + Giulia Giannini? (23th author, Associate Fellow)
 
