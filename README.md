@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jul 13 22:10:27 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jul 14 21:13:16 CDT 2025)
 
 - **The IceCube-Gen2 Collaboration -- Contributions to the 39th International Cosmic Ray Conference (ICRC2025)**
 [https://arxiv.org/abs/2507.08667]
