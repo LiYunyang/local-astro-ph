@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 14 22:09:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul 15 21:12:59 CDT 2025)
+
+- **Impact of Cosmic Ray-driven Outflows on Lyman-$α$ Emission in Cosmological Simulations**
+[https://arxiv.org/abs/2507.10805]
+  + Harley Katz (6th author, Senior Member)
+
+- **Demonstration of a 1820 channel multiplexer for transition-edge sensor bolometers**
+[https://arxiv.org/abs/2507.10929]
+  + Cyndia Yu? (19th author, KICP Fellow)
 
 - **Detailed Architecture of the L 98-59 System and Confirmation of a Fifth Planet in the Habitable Zone**
 [https://arxiv.org/abs/2507.09343]
@@ -61,20 +69,4 @@
 - **Intergalactic Medium Tomography with the Sunburst Arc**
 [https://arxiv.org/abs/2507.06443]
   + Michael D. Gladders (5th author, Professor)
-
-- **Observation of Broadband In-ice Radiation from Impacting High-Energy Cosmic Rays**
-[https://arxiv.org/abs/2507.06151]
-  + Philipp Windischhofer (1th author, Associate Fellow)
-  + Nathaniel Alden (2th author, Graduate Student)
-
-- **Localisation and host galaxy identification of new Fast Radio Bursts with MeerKAT**
-[https://arxiv.org/abs/2507.05982]
-  + Sunil Simha (10th author, Associate Fellow)
-
-- **The final WaZP galaxy cluster catalog of the Dark Energy Survey and comparison with SZE data**
-[https://arxiv.org/abs/2507.05360]
-  + Lindsey Bleem? (9th author, Senior Associate)
-  + Scott Dodelson? (17th author, Senior Associate)
-  + Joshua A. Frieman? (21th author, Chair)
-  + Giulia Giannini? (23th author, Associate Fellow)
 
