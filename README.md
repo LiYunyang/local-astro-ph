@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 15 21:12:59 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul 15 22:07:00 CDT 2025)
 
 - **Impact of Cosmic Ray-driven Outflows on Lyman-$α$ Emission in Cosmological Simulations**
 [https://arxiv.org/abs/2507.10805]
