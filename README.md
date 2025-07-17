@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul 16 21:13:02 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jul 16 22:06:48 CDT 2025)
 
 - **First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**
 [https://arxiv.org/abs/2507.12315]
