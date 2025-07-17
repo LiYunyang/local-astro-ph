@@ -1,6 +1,17 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 15 22:07:00 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jul 16 21:13:02 CDT 2025)
+
+- **First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**
+[https://arxiv.org/abs/2507.12315]
+  + Gabriela Marques (4th author, Associate Fellow)
+
+- **DELVE-ing into the Milky Way's Globular Clusters: Assessing extra-tidal features in NGC 5897, NGC 7492, and testing detectability with deeper photometry**
+[https://arxiv.org/abs/2507.11629]
+  + Anirudh Chiti? (1th author, Brinson Prize Fellow)
+  + Alex Drlica-Wagner? (7th author, Senior Member)
+  + Alexander Ji? (9th author, Senior Member)
+  + Guilherme Limberg? (11th author, KICP Fellow)
 
 - **Impact of Cosmic Ray-driven Outflows on Lyman-$α$ Emission in Cosmological Simulations**
 [https://arxiv.org/abs/2507.10805]
@@ -61,12 +72,4 @@
 - **Probing Axions via Spectroscopic Measurements of S-stars at the Galactic Center**
 [https://arxiv.org/abs/2507.07482]
   + Huangyu Xiao (6th author, Associate Fellow)
-
-- **The Nineteenth Data Release of the Sloan Digital Sky Survey**
-[https://arxiv.org/abs/2507.07093]
-  + Alexander Ji (95th author, Senior Member)
-
-- **Intergalactic Medium Tomography with the Sunburst Arc**
-[https://arxiv.org/abs/2507.06443]
-  + Michael D. Gladders (5th author, Professor)
 
