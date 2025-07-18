@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jul 17 21:13:03 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Jul 17 22:08:37 CDT 2025)
 
 - **$\texttt{raccoon}$: A Python package for removing wiggle artifacts in the JWST NIRSpec integral field spectroscopy**
 [https://arxiv.org/abs/2507.13341]
