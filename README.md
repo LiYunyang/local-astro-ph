@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul 16 22:06:48 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Jul 17 21:13:03 CDT 2025)
+
+- **$\texttt{raccoon}$: A Python package for removing wiggle artifacts in the JWST NIRSpec integral field spectroscopy**
+[https://arxiv.org/abs/2507.13341]
+  + Anowar Shajib (1th author, KICP and Einstein Fellow)
+
+- **Testing halo models for constraining astrophysical feedback with multi-probe modeling: I. 3D Power spectra and mass fractions**
+[https://arxiv.org/abs/2507.13317]
+  + Dhayaa Anbajagane (3th author, Graduate Student)
+
+- **Einstein Probe Discovery of EP J182730.0-095633: A New Black Hole X-ray Binary Candidate in Faint Outburst?**
+[https://arxiv.org/abs/2507.12876]
+  + Michael Zhang? (80th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **A Semi-Supervised Learning Method for the Identification of Bad Exposures in Large Imaging Surveys**
+[https://arxiv.org/abs/2507.12784]
+  + Alex Drlica-Wagner (3th author, Senior Member)
 
 - **First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**
 [https://arxiv.org/abs/2507.12315]
@@ -45,31 +61,4 @@
 - **Evaluating the Limits of Rotation Period Recovery through Gyrochronology Criteria**
 [https://arxiv.org/abs/2507.08266]
   + Derek Buzasi (3th author, Senior Instructional Professor)
-
-- **Gravitational lensing rarely produces high-mass outliers to the compact binary population**
-[https://arxiv.org/abs/2507.07964]
-  + Amanda Farah (1th author, Graduate Student)
-  + Daniel E. Holz (4th author, Professor)
-
-- **TOI-1259Ab: A Warm Jupiter Orbiting a K-dwarf White-Dwarf Binary is on a Well-aligned Orbit**
-[https://arxiv.org/abs/2507.07737]
-  + David Martin (5th author, Graduate Student)
-
-- **Imaging-spectroscopy diagnosis of the giant sloshing spiral in the Virgo cluster with the Einstein Probe Follow-up X-ray Telescope**
-[https://arxiv.org/abs/2507.07412]
-  + Michael Zhang? (45th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **The z=1.03 Merging Cluster SPT-CL J0356-5337: New Strong Lensing Analysis with HST and MUSE**
-[https://arxiv.org/abs/2507.07404]
-  + Bradford A. Benson (6th author, Associate Professor)
-  + Lindsey Bleem (7th author, Senior Associate)
-  + Michael D. Gladders (10th author, Professor)
-
-- **The Roasting Marshmallows Program with IGRINS on Gemini South III: Seeing deeper into the metal depleted atmosphere of a gas-giant on the cusp of the hot to ultra-hot Jupiter transition**
-[https://arxiv.org/abs/2507.07204]
-  + Jacob L. Bean (7th author, Professor)
-
-- **Probing Axions via Spectroscopic Measurements of S-stars at the Galactic Center**
-[https://arxiv.org/abs/2507.07482]
-  + Huangyu Xiao (6th author, Associate Fellow)
 
