@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jul 19 22:13:08 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jul 20 21:13:15 CDT 2025)
+
+- **A half-ring of ionized circumstellar material trapped in the magnetosphere of a white dwarf merger remnant**
+[https://arxiv.org/abs/2507.13850]
+  + David Miller (8th author, Senior Member)
+
+- **Updated Masses for the Gas Giants in the Eight-Planet Kepler-90 System Via Transit-Timing Variation and Radial Velocity Observations**
+[https://arxiv.org/abs/2507.13588]
+  + Daniel Fabrycky (31th author, Professor)
+
+- **The role of three-dimensional effects on ion injection and acceleration in perpendicular shocks**
+[https://arxiv.org/abs/2507.13436]
+  + Damiano Caprioli (2th author, Associate Professor)
+
+- **Supervised Extraction of the Thermal Sunyaev$-$Zel'dovich Effect with a Three-Dimensional Convolutional Neural Network**
+[https://arxiv.org/abs/2507.13400]
+  + Zhijie Qu (2th author, Postdoctoral Scholar)
 
 - **$\texttt{raccoon}$: A Python package for removing wiggle artifacts in the JWST NIRSpec integral field spectroscopy**
 [https://arxiv.org/abs/2507.13341]
@@ -49,16 +65,4 @@
 [https://arxiv.org/abs/2507.08837]
   + Qiao Xue (5th author, Graduate Student)
   + Jacob L. Bean (11th author, Professor)
-
-- **The IceCube-Gen2 Collaboration -- Contributions to the 39th International Cosmic Ray Conference (ICRC2025)**
-[https://arxiv.org/abs/2507.08667]
-  + Cosmin Deaconu? (69th author, Senior Researcher)
-
-- **Precision spectral measurements of Chromium and Titanium from 10 to 250 GeV$/n$ and sub-Iron to Iron ratio with the Calorimetric Electron Telescope on the ISS**
-[https://arxiv.org/abs/2507.08643]
-  + Kenichi Sakai? (59th author, Research Scientist)
-
-- **Evaluating the Limits of Rotation Period Recovery through Gyrochronology Criteria**
-[https://arxiv.org/abs/2507.08266]
-  + Derek Buzasi (3th author, Senior Instructional Professor)
 
