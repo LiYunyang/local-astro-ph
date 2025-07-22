@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jul 20 22:12:26 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jul 21 21:13:08 CDT 2025)
 
 - **A half-ring of ionized circumstellar material trapped in the magnetosphere of a white dwarf merger remnant**
 [https://arxiv.org/abs/2507.13850]
