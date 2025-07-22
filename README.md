@@ -1,6 +1,20 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 21 21:13:08 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jul 21 22:08:08 CDT 2025)
+
+- **Decadal evolution of a repeating fast radio burst source**
+[https://arxiv.org/abs/2507.15790]
+  + Yunyang Li? (26th author, KICP Fellow)
+  + Juliang Li? (27th author, Postdoctoral Scholar)
+
+- **Discovery of a transiting hot water-world candidate orbiting Ross 176 with TESS and CARMENES**
+[https://arxiv.org/abs/2507.15763]
+  + Rafael Luque? (21th author, Postdoctoral Scholar)
+
+- **A "Faux-Shock" Method for Hybrid Simulations of Astrophysical Shocks**
+[https://arxiv.org/abs/2507.14282]
+  + Emily Simon (1th author, Graduate Student)
+  + Damiano Caprioli (2th author, Associate Professor)
 
 - **A half-ring of ionized circumstellar material trapped in the magnetosphere of a white dwarf merger remnant**
 [https://arxiv.org/abs/2507.13850]
@@ -52,17 +66,4 @@
 - **Demonstration of a 1820 channel multiplexer for transition-edge sensor bolometers**
 [https://arxiv.org/abs/2507.10929]
   + Cyndia Yu? (19th author, KICP Fellow)
-
-- **Detailed Architecture of the L 98-59 System and Confirmation of a Fifth Planet in the Habitable Zone**
-[https://arxiv.org/abs/2507.09343]
-  + Michael Radica (11th author, Postdoctoral Scholar)
-
-- **SLICE: SPT-CL J0546-5345 -- A prominent strong-lensing cluster at $z=1.07$**
-[https://arxiv.org/abs/2507.08949]
-  + Michael D. Gladders (10th author, Professor)
-
-- **A metal-poor atmosphere with a hot interior for a young sub-Neptune progenitor: JWST/NIRSpec transmission spectrum of V1298 Tau b**
-[https://arxiv.org/abs/2507.08837]
-  + Qiao Xue (5th author, Graduate Student)
-  + Jacob L. Bean (11th author, Professor)
 
