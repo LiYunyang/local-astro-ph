@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 22 21:13:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul 22 22:09:04 CDT 2025)
 
 - **Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**
 [https://arxiv.org/abs/2507.16816]
