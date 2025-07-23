@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 21 22:08:08 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul 22 21:13:07 CDT 2025)
+
+- **Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**
+[https://arxiv.org/abs/2507.16816]
+  + Sunil Simha (2th author, Associate Fellow)
 
 - **Decadal evolution of a repeating fast radio burst source**
 [https://arxiv.org/abs/2507.15790]
@@ -58,12 +62,4 @@
   + Alex Drlica-Wagner? (7th author, Senior Member)
   + Alexander Ji? (9th author, Senior Member)
   + Guilherme Limberg? (11th author, KICP Fellow)
-
-- **Impact of Cosmic Ray-driven Outflows on Lyman-$α$ Emission in Cosmological Simulations**
-[https://arxiv.org/abs/2507.10805]
-  + Harley Katz (6th author, Senior Member)
-
-- **Demonstration of a 1820 channel multiplexer for transition-edge sensor bolometers**
-[https://arxiv.org/abs/2507.10929]
-  + Cyndia Yu? (19th author, KICP Fellow)
 
