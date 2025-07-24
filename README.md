@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 22 22:09:04 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jul 23 21:12:57 CDT 2025)
 
 - **Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**
 [https://arxiv.org/abs/2507.16816]
@@ -51,15 +51,4 @@
 - **A Semi-Supervised Learning Method for the Identification of Bad Exposures in Large Imaging Surveys**
 [https://arxiv.org/abs/2507.12784]
   + Alex Drlica-Wagner (3th author, Senior Member)
-
-- **First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**
-[https://arxiv.org/abs/2507.12315]
-  + Gabriela Marques (4th author, Associate Fellow)
-
-- **DELVE-ing into the Milky Way's Globular Clusters: Assessing extra-tidal features in NGC 5897, NGC 7492, and testing detectability with deeper photometry**
-[https://arxiv.org/abs/2507.11629]
-  + Anirudh Chiti? (1th author, Brinson Prize Fellow)
-  + Alex Drlica-Wagner? (7th author, Senior Member)
-  + Alexander Ji? (9th author, Senior Member)
-  + Guilherme Limberg? (11th author, KICP Fellow)
 
