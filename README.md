@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul 23 22:08:18 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Jul 24 21:12:56 CDT 2025)
 
 - **Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**
 [https://arxiv.org/abs/2507.16816]
@@ -35,20 +35,4 @@
 - **Supervised Extraction of the Thermal Sunyaev$-$Zel'dovich Effect with a Three-Dimensional Convolutional Neural Network**
 [https://arxiv.org/abs/2507.13400]
   + Zhijie Qu (2th author, Postdoctoral Scholar)
-
-- **$\texttt{raccoon}$: A Python package for removing wiggle artifacts in the JWST NIRSpec integral field spectroscopy**
-[https://arxiv.org/abs/2507.13341]
-  + Anowar Shajib (1th author, KICP and Einstein Fellow)
-
-- **Testing halo models for constraining astrophysical feedback with multi-probe modeling: I. 3D Power spectra and mass fractions**
-[https://arxiv.org/abs/2507.13317]
-  + Dhayaa Anbajagane (3th author, Graduate Student)
-
-- **Einstein Probe Discovery of EP J182730.0-095633: A New Black Hole X-ray Binary Candidate in Faint Outburst?**
-[https://arxiv.org/abs/2507.12876]
-  + Michael Zhang? (80th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **A Semi-Supervised Learning Method for the Identification of Bad Exposures in Large Imaging Surveys**
-[https://arxiv.org/abs/2507.12784]
-  + Alex Drlica-Wagner (3th author, Senior Member)
 
