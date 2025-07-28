@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jul 26 22:13:39 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jul 27 21:13:23 CDT 2025)
+
+- **JWST Observations of SN 2023ixf I: Completing the Early Multi-Wavelength Picture with Plateau-phase Spectroscopy**
+[https://arxiv.org/abs/2507.18785]
+  + Suyash Kumar? (33th author, Graduate Student)
+
+- **JWST Observations of SN 2024ggi I: Interpretation and Model Comparison of the Type II Supernova 2024ggi at 55 days Past Explosion**
+[https://arxiv.org/abs/2507.18753]
+  + Suyash Kumar? (27th author, Graduate Student)
+  + LianTao Wang? (41th author, Senior Member)
+
+- **Bayesian Deep Gaussian Processes for Correlated Functional Data: A Case Study in Cosmological Matter Power Spectra**
+[https://arxiv.org/abs/2507.18683]
+  + Katrin Heitmann (6th author, Senior Associate)
 
 - **Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**
 [https://arxiv.org/abs/2507.16816]
@@ -19,20 +32,4 @@
 [https://arxiv.org/abs/2507.14282]
   + Emily Simon (1th author, Graduate Student)
   + Damiano Caprioli (2th author, Associate Professor)
-
-- **A half-ring of ionized circumstellar material trapped in the magnetosphere of a white dwarf merger remnant**
-[https://arxiv.org/abs/2507.13850]
-  + David Miller (8th author, Senior Member)
-
-- **Updated Masses for the Gas Giants in the Eight-Planet Kepler-90 System Via Transit-Timing Variation and Radial Velocity Observations**
-[https://arxiv.org/abs/2507.13588]
-  + Daniel Fabrycky (31th author, Professor)
-
-- **The role of three-dimensional effects on ion injection and acceleration in perpendicular shocks**
-[https://arxiv.org/abs/2507.13436]
-  + Damiano Caprioli (2th author, Associate Professor)
-
-- **Supervised Extraction of the Thermal Sunyaev$-$Zel'dovich Effect with a Three-Dimensional Convolutional Neural Network**
-[https://arxiv.org/abs/2507.13400]
-  + Zhijie Qu (2th author, Postdoctoral Scholar)
 
