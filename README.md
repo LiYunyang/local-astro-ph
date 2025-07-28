@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jul 27 21:13:23 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Jul 27 22:13:04 CDT 2025)
 
 - **JWST Observations of SN 2023ixf I: Completing the Early Multi-Wavelength Picture with Plateau-phase Spectroscopy**
 [https://arxiv.org/abs/2507.18785]
