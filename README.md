@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 28 21:13:40 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jul 28 22:14:39 CDT 2025)
 
 - **The Impact of Different Haze Types on the Atmosphere and Observations of Hot Jupiters: 3D Simulations of HD 189733b, HD209458b and WASP-39b**
 [https://arxiv.org/abs/2507.20366]
