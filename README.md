@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jul 27 22:13:04 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Jul 28 21:13:40 CDT 2025)
+
+- **The Impact of Different Haze Types on the Atmosphere and Observations of Hot Jupiters: 3D Simulations of HD 189733b, HD209458b and WASP-39b**
+[https://arxiv.org/abs/2507.20366]
+  + Maria Steinrueck (5th author, 51 Pegasi b Fellow)
+
+- **JWST Observations of SN 2023ixf II: The Panchromatic Evolution Between 250 and 720 Days After the Explosion**
+[https://arxiv.org/abs/2507.19727]
+  + Suyash Kumar? (38th author, Graduate Student)
+  + LianTao Wang? (59th author, Senior Member)
 
 - **JWST Observations of SN 2023ixf I: Completing the Early Multi-Wavelength Picture with Plateau-phase Spectroscopy**
 [https://arxiv.org/abs/2507.18785]
@@ -18,18 +27,4 @@
 - **Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**
 [https://arxiv.org/abs/2507.16816]
   + Sunil Simha (2th author, Associate Fellow)
-
-- **Decadal evolution of a repeating fast radio burst source**
-[https://arxiv.org/abs/2507.15790]
-  + Yunyang Li? (26th author, KICP Fellow)
-  + Juliang Li? (27th author, Postdoctoral Scholar)
-
-- **Discovery of a transiting hot water-world candidate orbiting Ross 176 with TESS and CARMENES**
-[https://arxiv.org/abs/2507.15763]
-  + Rafael Luque? (21th author, Postdoctoral Scholar)
-
-- **A "Faux-Shock" Method for Hybrid Simulations of Astrophysical Shocks**
-[https://arxiv.org/abs/2507.14282]
-  + Emily Simon (1th author, Graduate Student)
-  + Damiano Caprioli (2th author, Associate Professor)
 
