@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 29 21:13:21 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul 29 22:11:45 CDT 2025)
 
 - **The Atacama Cosmology Telescope: DR6 Sunyaev-Zel'dovich Selected Galaxy Clusters Catalog**
 [https://arxiv.org/abs/2507.21459]
