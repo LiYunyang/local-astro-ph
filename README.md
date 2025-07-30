@@ -1,6 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 28 22:14:39 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Jul 29 21:13:21 CDT 2025)
+
+- **The Atacama Cosmology Telescope: DR6 Sunyaev-Zel'dovich Selected Galaxy Clusters Catalog**
+[https://arxiv.org/abs/2507.21459]
+  + Joshua A. Frieman? (29th author, Chair)
+  + Patricio Gallardo? (30th author, KICP Fellow)
+  + Marco Gatti? (31th author, KICP Fellow)
+  + Jeffrey McMahon? (61th author, Senior Member)
+
+- **NIRPS detection of delayed atmospheric escape from the warm and misaligned Saturn-mass exoplanet WASP-69b**
+[https://arxiv.org/abs/2507.21284]
+  + Caroline Piaulet (97th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Hydride ion continuum hides absorption signatures in the NIRPS near-infrared transmission spectrum of the ultra-hot gas giant WASP-189b**
+[https://arxiv.org/abs/2507.21229]
+  + Caroline Piaulet (72th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **The Impact of Different Haze Types on the Atmosphere and Observations of Hot Jupiters: 3D Simulations of HD 189733b, HD209458b and WASP-39b**
 [https://arxiv.org/abs/2507.20366]
@@ -23,8 +38,4 @@
 - **Bayesian Deep Gaussian Processes for Correlated Functional Data: A Case Study in Cosmological Matter Power Spectra**
 [https://arxiv.org/abs/2507.18683]
   + Katrin Heitmann (6th author, Senior Associate)
-
-- **Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**
-[https://arxiv.org/abs/2507.16816]
-  + Sunil Simha (2th author, Associate Fellow)
 
