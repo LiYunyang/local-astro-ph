@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 29 22:11:45 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jul 30 21:13:08 CDT 2025)
+
+- **The nebular phase of SN 2024ggi: a low-mass progenitor with no signs of interaction**
+[https://arxiv.org/abs/2507.22794]
+  + Huangyu Xiao? (17th author, Associate Fellow)
+
+- **MUSEQuBES: The Column Density, Covering Fraction, Mass, and Environmental Dependence of Cool HI Gas Around Low-Redshift Galaxies**
+[https://arxiv.org/abs/2507.22283]
+  + Hsiao-Wen Chen (8th author, Senior Member)
+
+- **From Capture to Collapse: Revisiting Black Hole formation by Fermionic Asymmetric Dark Matter in Neutron Stars**
+[https://arxiv.org/abs/2507.22881]
+  + Sandra Robles (1th author, Associate Fellow)
 
 - **The Atacama Cosmology Telescope: DR6 Sunyaev-Zel'dovich Selected Galaxy Clusters Catalog**
 [https://arxiv.org/abs/2507.21459]
