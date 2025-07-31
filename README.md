@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul 30 21:13:08 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Jul 30 22:10:46 CDT 2025)
 
 - **The nebular phase of SN 2024ggi: a low-mass progenitor with no signs of interaction**
 [https://arxiv.org/abs/2507.22794]
