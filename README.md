@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Aug  1 21:12:53 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri Aug  1 22:04:38 CDT 2025)
 
 - **SPT-3G D1: Axion Early Dark Energy with CMB experiments and DESI**
 [https://arxiv.org/abs/2507.23355]
