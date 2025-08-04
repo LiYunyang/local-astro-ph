@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug  3 21:13:43 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Aug  3 22:15:37 CDT 2025)
 
 - **Discovery of an $\rm[Fe/H] \sim -4.8$ Star in $Gaia$ XP Spectra**
 [https://arxiv.org/abs/2508.00067]
