@@ -1,6 +1,12 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug  2 22:15:04 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Aug  3 21:13:43 CDT 2025)
+
+- **Discovery of an $\rm[Fe/H] \sim -4.8$ Star in $Gaia$ XP Spectra**
+[https://arxiv.org/abs/2508.00067]
+  + Guilherme Limberg (1th author, KICP Fellow)
+  + Alexander Ji (3th author, Senior Member)
+  + Anirudh Chiti (5th author, Brinson Prize Fellow)
 
 - **SPT-3G D1: Axion Early Dark Energy with CMB experiments and DESI**
 [https://arxiv.org/abs/2507.23355]
@@ -72,17 +78,4 @@
 [https://arxiv.org/abs/2507.19727]
   + Suyash Kumar? (38th author, Graduate Student)
   + LianTao Wang? (59th author, Senior Member)
-
-- **JWST Observations of SN 2023ixf I: Completing the Early Multi-Wavelength Picture with Plateau-phase Spectroscopy**
-[https://arxiv.org/abs/2507.18785]
-  + Suyash Kumar? (33th author, Graduate Student)
-
-- **JWST Observations of SN 2024ggi I: Interpretation and Model Comparison of the Type II Supernova 2024ggi at 55 days Past Explosion**
-[https://arxiv.org/abs/2507.18753]
-  + Suyash Kumar? (27th author, Graduate Student)
-  + LianTao Wang? (41th author, Senior Member)
-
-- **Bayesian Deep Gaussian Processes for Correlated Functional Data: A Case Study in Cosmological Matter Power Spectra**
-[https://arxiv.org/abs/2507.18683]
-  + Katrin Heitmann (6th author, Senior Associate)
 
