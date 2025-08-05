@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Aug  4 21:13:18 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Aug  4 22:12:57 CDT 2025)
+
+- **A fast radio burst from the first 3 billion years of the Universe**
+[https://arxiv.org/abs/2508.01648]
+  + Sunil Simha (19th author, Associate Fellow)
+
+- **Measurement of the Primary Beam of the Tianlai Cylindrical Antenna Using an Unmanned Aerial Vehicle**
+[https://arxiv.org/abs/2508.01413]
+  + Albert Stebbins (11th author, Senior Associate)
+
+- **Mapping the Distant and Metal-Poor Milky Way with SDSS-V**
+[https://arxiv.org/abs/2508.00978]
+  + Alexander Ji (3th author, Senior Member)
+  + Guilherme Limberg (10th author, KICP Fellow)
 
 - **Discovery of an $\rm[Fe/H] \sim -4.8$ Star in $Gaia$ XP Spectra**
 [https://arxiv.org/abs/2508.00067]
@@ -69,13 +82,4 @@
 - **Hydride ion continuum hides absorption signatures in the NIRPS near-infrared transmission spectrum of the ultra-hot gas giant WASP-189b**
 [https://arxiv.org/abs/2507.21229]
   + Caroline Piaulet (72th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **The Impact of Different Haze Types on the Atmosphere and Observations of Hot Jupiters: 3D Simulations of HD 189733b, HD209458b and WASP-39b**
-[https://arxiv.org/abs/2507.20366]
-  + Maria Steinrueck (5th author, 51 Pegasi b Fellow)
-
-- **JWST Observations of SN 2023ixf II: The Panchromatic Evolution Between 250 and 720 Days After the Explosion**
-[https://arxiv.org/abs/2507.19727]
-  + Suyash Kumar? (38th author, Graduate Student)
-  + LianTao Wang? (59th author, Senior Member)
 
