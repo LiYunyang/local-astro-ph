@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Aug  4 22:12:57 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Aug  5 21:13:14 CDT 2025)
+
+- **Investigation of mass substructure in gravitational lens system SDP.81 with ALMA long-baseline observations**
+[https://arxiv.org/abs/2508.02776]
+  + Diana Powell? (2th author, Assistant Professor)
+
+- **Decadal upgrade strategy for KAGRA toward post-O5 gravitational-wave astronomy**
+[https://arxiv.org/abs/2508.03392]
+  + Hsiao-Wen Chen? (12th author, Senior Member)
+  + Kenichi Sakai? (99th author, Research Scientist)
 
 - **A fast radio burst from the first 3 billion years of the Universe**
 [https://arxiv.org/abs/2508.01648]
@@ -67,19 +76,4 @@
 - **From Capture to Collapse: Revisiting Black Hole formation by Fermionic Asymmetric Dark Matter in Neutron Stars**
 [https://arxiv.org/abs/2507.22881]
   + Sandra Robles (1th author, Associate Fellow)
-
-- **The Atacama Cosmology Telescope: DR6 Sunyaev-Zel'dovich Selected Galaxy Clusters Catalog**
-[https://arxiv.org/abs/2507.21459]
-  + Joshua A. Frieman? (29th author, Chair)
-  + Patricio Gallardo? (30th author, KICP Fellow)
-  + Marco Gatti? (31th author, KICP Fellow)
-  + Jeffrey McMahon? (61th author, Senior Member)
-
-- **NIRPS detection of delayed atmospheric escape from the warm and misaligned Saturn-mass exoplanet WASP-69b**
-[https://arxiv.org/abs/2507.21284]
-  + Caroline Piaulet (97th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Hydride ion continuum hides absorption signatures in the NIRPS near-infrared transmission spectrum of the ultra-hot gas giant WASP-189b**
-[https://arxiv.org/abs/2507.21229]
-  + Caroline Piaulet (72th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
