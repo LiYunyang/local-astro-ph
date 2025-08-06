@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug  5 21:13:14 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Aug  5 22:11:58 CDT 2025)
 
 - **Investigation of mass substructure in gravitational lens system SDP.81 with ALMA long-baseline observations**
 [https://arxiv.org/abs/2508.02776]
