@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug  6 21:13:22 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Aug  6 22:12:07 CDT 2025)
 
 - **Bursting at the seams: the star-forming main sequence and its scatter at z=3-9 using NIRCam photometry from JADES**
 [https://arxiv.org/abs/2508.04410]
