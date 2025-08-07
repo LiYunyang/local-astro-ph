@@ -1,6 +1,17 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug  5 22:11:58 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Aug  6 21:13:22 CDT 2025)
+
+- **Bursting at the seams: the star-forming main sequence and its scatter at z=3-9 using NIRCam photometry from JADES**
+[https://arxiv.org/abs/2508.04410]
+  + Andrey Kravtsov? (8th author, Senior Member)
+
+- **A second-generation star in a relic dwarf galaxy**
+[https://arxiv.org/abs/2508.04053]
+  + Anirudh Chiti (1th author, Brinson Prize Fellow)
+  + Alexander Ji (4th author, Senior Member)
+  + Guilherme Limberg (7th author, KICP Fellow)
+  + Alex Drlica-Wagner (9th author, Senior Member)
 
 - **Investigation of mass substructure in gravitational lens system SDP.81 with ALMA long-baseline observations**
 [https://arxiv.org/abs/2508.02776]
@@ -64,16 +75,4 @@
 - **Gamma-Rays and Gravitational Waves from Inelastic Higgs Portal Dark Matter**
 [https://arxiv.org/abs/2507.22975]
   + Gordan Krnjaic (2th author, Senior Member)
-
-- **The nebular phase of SN 2024ggi: a low-mass progenitor with no signs of interaction**
-[https://arxiv.org/abs/2507.22794]
-  + Huangyu Xiao? (17th author, Associate Fellow)
-
-- **MUSEQuBES: The Column Density, Covering Fraction, Mass, and Environmental Dependence of Cool HI Gas Around Low-Redshift Galaxies**
-[https://arxiv.org/abs/2507.22283]
-  + Hsiao-Wen Chen (8th author, Senior Member)
-
-- **From Capture to Collapse: Revisiting Black Hole formation by Fermionic Asymmetric Dark Matter in Neutron Stars**
-[https://arxiv.org/abs/2507.22881]
-  + Sandra Robles (1th author, Associate Fellow)
 
