@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug  6 22:12:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Aug  7 21:13:18 CDT 2025)
 
 - **Bursting at the seams: the star-forming main sequence and its scatter at z=3-9 using NIRCam photometry from JADES**
 [https://arxiv.org/abs/2508.04410]
@@ -40,39 +40,4 @@
   + Guilherme Limberg (1th author, KICP Fellow)
   + Alexander Ji (3th author, Senior Member)
   + Anirudh Chiti (5th author, Brinson Prize Fellow)
-
-- **SPT-3G D1: Axion Early Dark Energy with CMB experiments and DESI**
-[https://arxiv.org/abs/2507.23355]
-  + Adam Anderson? (4th author, Senior Associate)
-  + Melanie Archipley? (6th author, Associate Fellow)
-  + Amy Bender? (9th author, Senior Associate)
-  + Bradford A. Benson? (10th author, Associate Professor)
-  + Lindsey Bleem? (12th author, Senior Associate)
-  + John Carlstrom? (16th author, Senior Member)
-  + Chihway Chang? (17th author, Senior Member)
-  + Paul Chichura? (19th author, Graduate Student)
-  + Ti-Lin Chou? (21th author, Postdoctoral Scholar)
-  + Thomas Crawford? (23th author, Senior Researcher)
-  + Karia Dibert? (26th author, Graduate Student)
-  + Kyra Fichman? (34th author, Graduate Student)
-  + John Hood? (47th author, Associate Fellow)
-  + Alexander Hryciuk? (48th author, Graduate Student)
-  + Kayla Kornoelje? (53th author, Graduate Student)
-  + Emily Martsen? (60th author, Graduate Student)
-  + Tyler Natoli? (65th author, Senior Researcher)
-  + Yuuki Omori? (67th author, Senior Researcher)
-  + Wei Quan? (74th author, Associate Fellow)
-  + Alexandra Rahlin? (76th author, Research Assistant Professor)
-  + Aidan Simpson? (81th author, Graduate Student)
-  + Joshua Sobrin? (82th author, Associate Fellow)
-  + Matthew Young? (94th author, Associate Fellow)
-  + Jessica Zebrowski? (95th author, KICP and Einstein Fellow)
-
-- **Multi-wavelength Study of HESS J0632+057: New Insights into Pulsar-Disk Interaction**
-[https://arxiv.org/abs/2507.23304]
-  + Suyash Kumar? (37th author, Graduate Student)
-
-- **Gamma-Rays and Gravitational Waves from Inelastic Higgs Portal Dark Matter**
-[https://arxiv.org/abs/2507.22975]
-  + Gordan Krnjaic (2th author, Senior Member)
 
