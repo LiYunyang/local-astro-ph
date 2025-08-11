@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug  9 22:12:14 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Aug 10 21:13:07 CDT 2025)
+
+- **Low-velocity large-scale shocks in the infrared dark cloud G035.39-00.33: bubble-driven cloud-cloud collisions**
+[https://arxiv.org/abs/2508.06081]
+  + Rayne Liu? (3th author, Graduate Student)
 
 - **Bursting at the seams: the star-forming main sequence and its scatter at z=3-9 using NIRCam photometry from JADES**
 [https://arxiv.org/abs/2508.04410]
@@ -34,10 +38,4 @@
 [https://arxiv.org/abs/2508.00978]
   + Alexander Ji (3th author, Senior Member)
   + Guilherme Limberg (10th author, KICP Fellow)
-
-- **Discovery of an $\rm[Fe/H] \sim -4.8$ Star in $Gaia$ XP Spectra**
-[https://arxiv.org/abs/2508.00067]
-  + Guilherme Limberg (1th author, KICP Fellow)
-  + Alexander Ji (3th author, Senior Member)
-  + Anirudh Chiti (5th author, Brinson Prize Fellow)
 
