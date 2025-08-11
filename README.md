@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug 10 21:13:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Aug 10 22:11:16 CDT 2025)
 
 - **Low-velocity large-scale shocks in the infrared dark cloud G035.39-00.33: bubble-driven cloud-cloud collisions**
 [https://arxiv.org/abs/2508.06081]
