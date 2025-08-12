@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Aug 11 21:11:51 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Aug 11 22:02:16 CDT 2025)
+
+- **Do Rocky Planets around M Stars Have Atmospheres? A Statistical Approach to the Cosmic Shoreline**
+[https://arxiv.org/abs/2508.08253]
+  + Qiao Xue (6th author, Graduate Student)
+
+- **Anisotropic Gravitational Waves from Anisotropic Axion Rotation**
+[https://arxiv.org/abs/2508.08249]
+  + Keisuke Harigaya (2th author, Senior Member)
 
 - **Low-velocity large-scale shocks in the infrared dark cloud G035.39-00.33: bubble-driven cloud-cloud collisions**
 [https://arxiv.org/abs/2508.06081]
@@ -25,17 +33,4 @@
 [https://arxiv.org/abs/2508.03392]
   + Hsiao-Wen Chen? (12th author, Senior Member)
   + Kenichi Sakai? (99th author, Research Scientist)
-
-- **A fast radio burst from the first 3 billion years of the Universe**
-[https://arxiv.org/abs/2508.01648]
-  + Sunil Simha (19th author, Associate Fellow)
-
-- **Measurement of the Primary Beam of the Tianlai Cylindrical Antenna Using an Unmanned Aerial Vehicle**
-[https://arxiv.org/abs/2508.01413]
-  + Albert Stebbins (11th author, Senior Associate)
-
-- **Mapping the Distant and Metal-Poor Milky Way with SDSS-V**
-[https://arxiv.org/abs/2508.00978]
-  + Alexander Ji (3th author, Senior Member)
-  + Guilherme Limberg (10th author, KICP Fellow)
 
