@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 12 21:12:38 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Aug 12 22:02:48 CDT 2025)
 
 - **The Effects of Sunspots on Spectral Line Shapes in the Visible**
 [https://arxiv.org/abs/2508.09030]
