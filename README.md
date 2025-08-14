@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 12 22:02:48 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Aug 13 21:12:45 CDT 2025)
+
+- **Cooling of dark neutron stars**
+[https://arxiv.org/abs/2508.09704]
+  + Bei Zhou? (1th author, Associate Fellow)
 
 - **The Effects of Sunspots on Spectral Line Shapes in the Visible**
 [https://arxiv.org/abs/2508.09030]
@@ -29,15 +33,4 @@
 - **Low-velocity large-scale shocks in the infrared dark cloud G035.39-00.33: bubble-driven cloud-cloud collisions**
 [https://arxiv.org/abs/2508.06081]
   + Rayne Liu? (3th author, Graduate Student)
-
-- **Bursting at the seams: the star-forming main sequence and its scatter at z=3-9 using NIRCam photometry from JADES**
-[https://arxiv.org/abs/2508.04410]
-  + Andrey Kravtsov? (8th author, Senior Member)
-
-- **A second-generation star in a relic dwarf galaxy**
-[https://arxiv.org/abs/2508.04053]
-  + Anirudh Chiti (1th author, Brinson Prize Fellow)
-  + Alexander Ji (4th author, Senior Member)
-  + Guilherme Limberg (7th author, KICP Fellow)
-  + Alex Drlica-Wagner (9th author, Senior Member)
 
