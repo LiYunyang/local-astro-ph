@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 13 21:12:45 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Aug 13 22:03:06 CDT 2025)
 
 - **Cooling of dark neutron stars**
 [https://arxiv.org/abs/2508.09704]
