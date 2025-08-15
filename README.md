@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Aug 14 21:12:46 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Aug 14 22:03:26 CDT 2025)
 
 - **The Dark Energy Bedrock All-Sky Supernova Program: Motivation, Design, Implementation, and Preliminary Data Release**
 [https://arxiv.org/abs/2508.10878]
