@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 13 22:03:06 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Aug 14 21:12:46 CDT 2025)
+
+- **The Dark Energy Bedrock All-Sky Supernova Program: Motivation, Design, Implementation, and Preliminary Data Release**
+[https://arxiv.org/abs/2508.10878]
+  + Alex Drlica-Wagner (12th author, Senior Member)
+
+- **The Dark Energy Bedrock All-Sky Supernova Program: Cross Calibration, Simulations, and Cosmology Forecasts**
+[https://arxiv.org/abs/2508.10877]
+  + Alex Drlica-Wagner (10th author, Senior Member)
+
+- **The Southern-sky MWA Rapid Two-metre (SMART) pulsar survey -- III. A census of millisecond pulsars at 154 MHz**
+[https://arxiv.org/abs/2508.10330]
+  + Chin Yi Tan? (6th author, Graduate Student)
+
+- **Teaching LLMs to Speak Spectroscopy**
+[https://arxiv.org/abs/2508.10075]
+  + Salman Habib (5th author, Senior Associate)
 
 - **Cooling of dark neutron stars**
 [https://arxiv.org/abs/2508.09704]
