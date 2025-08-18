@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug 17 21:12:59 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Aug 17 22:08:30 CDT 2025)
 
 - **Not-so-heavy metal(s): Chemical Abundances in the Ultra-faint Dwarf Galaxies Eridanus IV and Centaurus I**
 [https://arxiv.org/abs/2508.11012]
