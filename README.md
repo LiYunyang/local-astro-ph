@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug 16 22:05:34 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Aug 17 21:12:59 CDT 2025)
+
+- **Not-so-heavy metal(s): Chemical Abundances in the Ultra-faint Dwarf Galaxies Eridanus IV and Centaurus I**
+[https://arxiv.org/abs/2508.11012]
+  + Alexander Ji (2th author, Senior Member)
+  + Guilherme Limberg (5th author, KICP Fellow)
+  + Anirudh Chiti (9th author, Brinson Prize Fellow)
+
+- **Inference with finite time series II: the window strikes back**
+[https://arxiv.org/abs/2508.11091]
+  + Colm Talbot (1th author, Associate Fellow)
 
 - **The Dark Energy Bedrock All-Sky Supernova Program: Motivation, Design, Implementation, and Preliminary Data Release**
 [https://arxiv.org/abs/2508.10878]
@@ -45,8 +55,4 @@
 - **Anisotropic Gravitational Waves from Anisotropic Axion Rotation**
 [https://arxiv.org/abs/2508.08249]
   + Keisuke Harigaya (2th author, Senior Member)
-
-- **Low-velocity large-scale shocks in the infrared dark cloud G035.39-00.33: bubble-driven cloud-cloud collisions**
-[https://arxiv.org/abs/2508.06081]
-  + Rayne Liu? (3th author, Graduate Student)
 
