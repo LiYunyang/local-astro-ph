@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Aug 18 21:09:21 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Aug 18 22:00:08 CDT 2025)
 
 - **Aligned Stellar Obliquities for Two Hot Jupiter-hosting M Dwarfs Revealed by MAROON-X: Implications for Hot Jupiter Formation**
 [https://arxiv.org/abs/2508.13145]
