@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Aug 18 22:00:08 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Aug 19 21:08:08 CDT 2025)
+
+- **Dark Energy Survey Year 3 Results: Cosmological constraints from second and third-order shear statistics**
+[https://arxiv.org/abs/2508.14018]
+  + Dhayaa Anbajagane? (5th author, Graduate Student)
+  + Gabriela Marques? (7th author, Associate Fellow)
+  + Chihway Chang? (17th author, Senior Member)
+  + Scott Dodelson? (23th author, Senior Associate)
+  + Marco Gatti? (30th author, KICP Fellow)
+  + Giulia Giannini? (31th author, Associate Fellow)
+  + Joshua A. Frieman? (76th author, Chair)
 
 - **Aligned Stellar Obliquities for Two Hot Jupiter-hosting M Dwarfs Revealed by MAROON-X: Implications for Hot Jupiter Formation**
 [https://arxiv.org/abs/2508.13145]
@@ -61,20 +71,4 @@
 - **Cooling of dark neutron stars**
 [https://arxiv.org/abs/2508.09704]
   + Bei Zhou? (1th author, Associate Fellow)
-
-- **The Effects of Sunspots on Spectral Line Shapes in the Visible**
-[https://arxiv.org/abs/2508.09030]
-  + Lily Zhao (3th author, Sagan Fellow)
-
-- **Luminaries in the Sky: The TESS Legacy Sample of Bright Stars. I. Asteroseismic detections in naked-eye main-sequence and sub-giant solar-like oscillators**
-[https://arxiv.org/abs/2508.08699]
-  + Derek Buzasi (7th author, Senior Instructional Professor)
-
-- **Strict limits on potential secondary atmospheres on the temperate rocky exo-Earth TRAPPIST-1 d**
-[https://arxiv.org/abs/2508.08416]
-  + Michael Radica (10th author, Postdoctoral Scholar)
-
-- **WIMP Dark Matter within the dark photon portal**
-[https://arxiv.org/abs/2508.08676]
-  + Alex Thomas? (3th author, Graduate Student)
 
