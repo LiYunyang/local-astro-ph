@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 19 21:58:44 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Aug 20 21:07:31 CDT 2025)
 
 - **Dark Energy Survey Year 3 Results: Cosmological constraints from second and third-order shear statistics**
 [https://arxiv.org/abs/2508.14018]
@@ -67,8 +67,4 @@
 - **Teaching LLMs to Speak Spectroscopy**
 [https://arxiv.org/abs/2508.10075]
   + Salman Habib (5th author, Senior Associate)
-
-- **Cooling of dark neutron stars**
-[https://arxiv.org/abs/2508.09704]
-  + Bei Zhou? (1th author, Associate Fellow)
 
