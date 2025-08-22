@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 20 21:57:54 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Aug 21 21:08:16 CDT 2025)
 
 - **Dark Energy Survey Year 3 Results: Cosmological constraints from second and third-order shear statistics**
 [https://arxiv.org/abs/2508.14018]
@@ -51,20 +51,4 @@
 - **Inference with finite time series II: the window strikes back**
 [https://arxiv.org/abs/2508.11091]
   + Colm Talbot (1th author, Associate Fellow)
-
-- **The Dark Energy Bedrock All-Sky Supernova Program: Motivation, Design, Implementation, and Preliminary Data Release**
-[https://arxiv.org/abs/2508.10878]
-  + Alex Drlica-Wagner (12th author, Senior Member)
-
-- **The Dark Energy Bedrock All-Sky Supernova Program: Cross Calibration, Simulations, and Cosmology Forecasts**
-[https://arxiv.org/abs/2508.10877]
-  + Alex Drlica-Wagner (10th author, Senior Member)
-
-- **The Southern-sky MWA Rapid Two-metre (SMART) pulsar survey -- III. A census of millisecond pulsars at 154 MHz**
-[https://arxiv.org/abs/2508.10330]
-  + Chin Yi Tan? (6th author, Graduate Student)
-
-- **Teaching LLMs to Speak Spectroscopy**
-[https://arxiv.org/abs/2508.10075]
-  + Salman Habib (5th author, Senior Associate)
 
