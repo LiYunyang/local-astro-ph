@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Aug 21 21:08:16 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Aug 21 21:58:03 CDT 2025)
 
 - **Dark Energy Survey Year 3 Results: Cosmological constraints from second and third-order shear statistics**
 [https://arxiv.org/abs/2508.14018]
