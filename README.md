@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug 23 22:02:34 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Aug 24 21:10:41 CDT 2025)
+
+- **A Comparison of Full Spectral Fitting Codes for Measuring the Stellar Initial Mass Function and Other Stellar Population Properties in Elliptical Galaxies**
+[https://arxiv.org/abs/2508.16525]
+  + Wendy Freedman (4th author, Senior Member)
+
+- **Euclid preparation. Establishing the quality of the 2D reconstruction of the filaments of the cosmic web with DisPerSE using Euclid photometric redshifts**
+[https://arxiv.org/abs/2508.15915]
+  + LianTao Wang? (21th author, Senior Member)
 
 - **Dark Energy Survey Year 3 Results: Cosmological constraints from second and third-order shear statistics**
 [https://arxiv.org/abs/2508.14018]
@@ -41,14 +49,4 @@
 - **A Panchromatic View of Late-time Shock Power in the Type II Supernova 2023ixf**
 [https://arxiv.org/abs/2508.11747]
   + Vikram Dwarkadas? (8th author, Research Professor)
-
-- **Not-so-heavy metal(s): Chemical Abundances in the Ultra-faint Dwarf Galaxies Eridanus IV and Centaurus I**
-[https://arxiv.org/abs/2508.11012]
-  + Alexander Ji (2th author, Senior Member)
-  + Guilherme Limberg (5th author, KICP Fellow)
-  + Anirudh Chiti (9th author, Brinson Prize Fellow)
-
-- **Inference with finite time series II: the window strikes back**
-[https://arxiv.org/abs/2508.11091]
-  + Colm Talbot (1th author, Associate Fellow)
 
