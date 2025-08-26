@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug 24 22:01:34 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Aug 25 21:08:27 CDT 2025)
 
 - **A Comparison of Full Spectral Fitting Codes for Measuring the Stellar Initial Mass Function and Other Stellar Population Properties in Elliptical Galaxies**
 [https://arxiv.org/abs/2508.16525]
