@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 26 21:05:35 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Aug 26 21:53:58 CDT 2025)
 
 - **How Dust Models Shape High-z Galaxy Morphology: Insights from the NewCluster Simulation**
 [https://arxiv.org/abs/2508.18374]
