@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 27 21:05:17 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Aug 27 21:53:44 CDT 2025)
 
 - **The mass of the Milky Way from outer halo stars measured by DESI DR1**
 [https://arxiv.org/abs/2508.19351]
