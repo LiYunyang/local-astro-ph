@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 26 21:53:58 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Aug 27 21:05:17 CDT 2025)
+
+- **The mass of the Milky Way from outer halo stars measured by DESI DR1**
+[https://arxiv.org/abs/2508.19351]
+  + Stephen Kent? (34th author, CASE Associate)
 
 - **How Dust Models Shape High-z Galaxy Morphology: Insights from the NewCluster Simulation**
 [https://arxiv.org/abs/2508.18374]
