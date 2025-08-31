@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Aug 29 21:49:02 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Aug 30 21:09:07 CDT 2025)
 
 - **Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS**
 [https://arxiv.org/abs/2508.20229]
