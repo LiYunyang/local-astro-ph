@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug 31 21:13:04 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Aug 31 22:03:29 CDT 2025)
 
 - **TOI-1438: A rare system with two short-period sub-Neptunes and a tentative long-period Jupiter-like planet orbiting a K0V star**
 [https://arxiv.org/abs/2508.21533]
