@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug 30 21:56:51 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Aug 31 21:13:04 CDT 2025)
+
+- **TOI-1438: A rare system with two short-period sub-Neptunes and a tentative long-period Jupiter-like planet orbiting a K0V star**
+[https://arxiv.org/abs/2508.21533]
+  + Rafael Luque (19th author, Postdoctoral Scholar)
+
+- **Stringent Upper Bounds on Atmospheric Mass Loss from Three Neptune-Sized Planets in the TOI-4010 System**
+[https://arxiv.org/abs/2508.21166]
+  + Michael Zhang (3th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS**
 [https://arxiv.org/abs/2508.20229]
@@ -25,12 +33,4 @@
 - **Enriched volatiles and refractories but deficient titanium on the dayside atmosphere of WASP-121b revealed by JWST/NIRISS**
 [https://arxiv.org/abs/2508.18341]
   + Michael Radica (21th author, Postdoctoral Scholar)
-
-- **A Comparison of Full Spectral Fitting Codes for Measuring the Stellar Initial Mass Function and Other Stellar Population Properties in Elliptical Galaxies**
-[https://arxiv.org/abs/2508.16525]
-  + Wendy Freedman (4th author, Senior Member)
-
-- **Euclid preparation. Establishing the quality of the 2D reconstruction of the filaments of the cosmic web with DisPerSE using Euclid photometric redshifts**
-[https://arxiv.org/abs/2508.15915]
-  + LianTao Wang? (21th author, Senior Member)
 
