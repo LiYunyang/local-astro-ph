@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep  3 21:00:58 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Sep  3 21:48:51 CDT 2025)
 
 - **Updated bounds on ultra-light dark matter from the tiniest galaxies**
 [https://arxiv.org/abs/2509.02781]
