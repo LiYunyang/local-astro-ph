@@ -1,6 +1,43 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep  3 21:48:51 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Sep  4 21:02:56 CDT 2025)
+
+- **Evidence of the pair instability gap in the distribution of black hole masses**
+[https://arxiv.org/abs/2509.04151]
+  + Thomas Callister (5th author, KICP and Schmidt Fellow)
+  + Amanda Farah (6th author, Graduate Student)
+
+- **A large thermal energy reservoir in the nascent intracluster medium at a redshift of 4.3**
+[https://arxiv.org/abs/2509.03912]
+  + Melanie Archipley (5th author, Associate Fellow)
+
+- **DECADE+DES Y3 Weak Lensing Mass Map: A 13,000 deg$^2$ View of Cosmic Structure from 270 Million Galaxies**
+[https://arxiv.org/abs/2509.03798]
+  + Marco Gatti? (1th author, KICP Fellow)
+  + Dhayaa Anbajagane? (2th author, Graduate Student)
+  + Chihway Chang? (3th author, Senior Member)
+  + Alex Drlica-Wagner? (12th author, Senior Member)
+  + Chin Yi Tan? (34th author, Graduate Student)
+
+- **The Dark Energy Camera All Data Everywhere cosmic shear project V: Constraints on cosmology and astrophysics from 270 million galaxies across 13,000 deg$^2$ of the sky**
+[https://arxiv.org/abs/2509.03582]
+  + Dhayaa Anbajagane? (1th author, Graduate Student)
+  + Chihway Chang? (2th author, Senior Member)
+  + Alex Drlica-Wagner? (3th author, Senior Member)
+  + Chin Yi Tan? (4th author, Graduate Student)
+  + Anowar Shajib? (16th author, KICP and Einstein Fellow)
+  + Joshua A. Frieman? (17th author, Chair)
+  + Scott Dodelson? (30th author, Senior Associate)
+  + Marco Gatti? (35th author, KICP Fellow)
+  + Giulia Giannini? (36th author, Associate Fellow)
+  + Chun-Hao To? (71th author, Associate Fellow)
+
+- **A compact, low-power epithermal neutron counter for lunar water detection**
+[https://arxiv.org/abs/2509.04367]
+  + Julian  Cuevas-Zepeda (1th author, Associate Fellow)
+  + Juan  Estrada (5th author, Senior Associate)
+  + Guillermo Fernandez-Moroni (7th author, CASE Associate)
+  + Nathan Saffold (8th author, Associate Fellow)
 
 - **Updated bounds on ultra-light dark matter from the tiniest galaxies**
 [https://arxiv.org/abs/2509.02781]
@@ -72,8 +109,4 @@
 - **Efficient ion re-acceleration in laboratory-produced interpenetrating collisionless shocks**
 [https://arxiv.org/abs/2508.20303]
   + Damiano Caprioli? (14th author, Associate Professor)
-
-- **The mass of the Milky Way from outer halo stars measured by DESI DR1**
-[https://arxiv.org/abs/2508.19351]
-  + Stephen Kent? (34th author, CASE Associate)
 
