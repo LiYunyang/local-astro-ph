@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Sep  5 21:00:44 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri Sep  5 21:48:02 CDT 2025)
 
 - **Evidence of the pair instability gap in the distribution of black hole masses**
 [https://arxiv.org/abs/2509.04151]
