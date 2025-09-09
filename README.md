@@ -1,6 +1,41 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep  8 21:04:33 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Sep  8 21:52:51 CDT 2025)
+
+- **Euclid preparation. Methodology for validating the Euclid Catalogue of Galaxy Clusters using external data**
+[https://arxiv.org/abs/2509.06805]
+  + Alex Alarcon Gonzalez? (22th author, CASE Associate)
+
+- **The Optical and Mechanical Design of POEMMA Balloon with Radio**
+[https://arxiv.org/abs/2509.06141]
+  + Stephan Meyer (10th author, Senior Member)
+
+- **Probing baryonic feedback and cosmology with 3$\times$2-point statistic of FRBs and galaxies**
+[https://arxiv.org/abs/2509.05866]
+  + Dhayaa Anbajagane (7th author, Graduate Student)
+
+- **Macromodel-free flux-ratio prediction in quadruply imaged quasars with local constraints from lensed arcs**
+[https://arxiv.org/abs/2509.05416]
+  + Daniel Gilman (3th author, Associate Fellow)
+
+- **Hydrogen-Alpha as a Tracer of Star Formation in the SPHINX Cosmological Simulations**
+[https://arxiv.org/abs/2509.05403]
+  + Harley Katz? (5th author, Senior Member)
+
+- **First Production of Skipper-CCD Modules for the DAMIC-M Experiment**
+[https://arxiv.org/abs/2509.06943]
+  + Sugata Paul? (3th author, Graduate Student)
+  + Sravan Munagavalasa? (16th author, Graduate Student)
+  + Paolo Privitera? (18th author, Senior Member)
+  + Brandon Roach? (19th author, KICP Fellow)
+  + Radomir Smida? (24th author, Senior Researcher)
+  + Rachana Yajur? (28th author, Graduate Student)
+  + Julian  Cuevas-Zepeda? (34th author, Associate Fellow)
+  + David Martin? (52th author, Graduate Student)
+
+- **Machine Learning Assisted Parameter-Space Searches for Lensed Gravitational Waves**
+[https://arxiv.org/abs/2509.06901]
+  + Wayne Hu (3th author, Senior Member)
 
 - **EUSO-SPB2 Cosmic Ray Searches and Observations**
 [https://arxiv.org/abs/2509.05147]
@@ -119,12 +154,4 @@
 - **Improved characterization of the TOI-2141 system: a dense sub-Neptune with non-transiting inner and outer companions**
 [https://arxiv.org/abs/2509.00762]
   + Rafael Luque? (1th author, Postdoctoral Scholar)
-
-- **TOI-1438: A rare system with two short-period sub-Neptunes and a tentative long-period Jupiter-like planet orbiting a K0V star**
-[https://arxiv.org/abs/2508.21533]
-  + Rafael Luque (19th author, Postdoctoral Scholar)
-
-- **Stringent Upper Bounds on Atmospheric Mass Loss from Three Neptune-Sized Planets in the TOI-4010 System**
-[https://arxiv.org/abs/2508.21166]
-  + Michael Zhang (3th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
 
