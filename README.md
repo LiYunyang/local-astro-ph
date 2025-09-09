@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Sep  7 21:56:36 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Sep  8 21:04:33 CDT 2025)
 
 - **EUSO-SPB2 Cosmic Ray Searches and Observations**
 [https://arxiv.org/abs/2509.05147]
