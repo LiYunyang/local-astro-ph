@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep  9 21:01:05 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Sep  9 21:48:43 CDT 2025)
 
 - **Dark Energy Survey Year 6 Results: Redshift Calibration of the MagLim++ Lens Sample**
 [https://arxiv.org/abs/2509.07964]
