@@ -1,6 +1,34 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep  8 21:52:51 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Sep  9 21:01:05 CDT 2025)
+
+- **Dark Energy Survey Year 6 Results: Redshift Calibration of the MagLim++ Lens Sample**
+[https://arxiv.org/abs/2509.07964]
+  + Giulia Giannini? (1th author, Associate Fellow)
+  + Chihway Chang? (6th author, Senior Member)
+  + Dhayaa Anbajagane? (12th author, Graduate Student)
+  + Scott Dodelson? (41th author, Senior Associate)
+  + Alex Drlica-Wagner? (44th author, Senior Member)
+  + Joshua A. Frieman? (49th author, Chair)
+  + Marco Gatti? (51th author, KICP Fellow)
+  + Chun-Hao To? (85th author, Associate Fellow)
+
+- **Dark Energy Survey Year 6 Results: improved mitigation of spatially varying observational systematics with masking**
+[https://arxiv.org/abs/2509.07943]
+  + Alex Drlica-Wagner? (6th author, Senior Member)
+  + Marco Gatti? (11th author, KICP Fellow)
+  + Chihway Chang? (27th author, Senior Member)
+  + Joshua A. Frieman? (37th author, Chair)
+  + Chun-Hao To? (61th author, Associate Fellow)
+
+- **Constraining Baryon Fractions in Galaxy Groups and Clusters with the First CHIME/FRB Outrigger**
+[https://arxiv.org/abs/2509.07097]
+  + Sunil Simha (2th author, Associate Fellow)
+
+- **Carnegie Supernova Project: Fast-Declining Type Ia Supernovae as Cosmological Distance Indicators**
+[https://arxiv.org/abs/2509.07093]
+  + Wendy Freedman (14th author, Senior Member)
+  + Suyash Kumar? (16th author, Graduate Student)
 
 - **Euclid preparation. Methodology for validating the Euclid Catalogue of Galaxy Clusters using external data**
 [https://arxiv.org/abs/2509.06805]
@@ -119,39 +147,4 @@
 - **The Future of Artificial Intelligence and the Mathematical and Physical Sciences (AI+MPS)**
 [https://arxiv.org/abs/2509.02661]
   + Salman Habib (34th author, Senior Associate)
-
-- **Chemodynamics of BoötesI with $S^{5}$: Revised Velocity Gradient, Dark Matter Density, and Galactic Chemical Evolution Constraints**
-[https://arxiv.org/abs/2509.02546]
-  + Alexander Ji (10th author, Senior Member)
-  + Guilherme Limberg (13th author, KICP Fellow)
-
-- **Spectral characterization and performance of SPT-SLIM on-chip filterbank spectrometers**
-[https://arxiv.org/abs/2509.02245]
-  + Kyra Fichman? (2th author, Graduate Student)
-  + Adam Anderson? (4th author, Senior Associate)
-  + Bradford A. Benson? (6th author, Associate Professor)
-  + John Carlstrom? (8th author, Senior Member)
-  + Chihway Chang? (10th author, Senior Member)
-  + Karia Dibert? (11th author, Graduate Student)
-  + Tyler Natoli? (19th author, Senior Researcher)
-  + Alexandra Rahlin? (21th author, Research Assistant Professor)
-  + Matthew Young? (26th author, Associate Fellow)
-  + Cyndia Yu? (27th author, KICP Fellow)
-  + Jessica Zebrowski? (28th author, KICP and Einstein Fellow)
-
-- **Cosmological constraints from the Planck cluster catalogue with DES shear profiles and Chandra observations**
-[https://arxiv.org/abs/2509.02068]
-  + Joshua A. Frieman? (26th author, Chair)
-
-- **The Diversity and Evolution of Dust Attenuation Curves from Redshift z ~ 1 to 9**
-[https://arxiv.org/abs/2509.01795]
-  + Francisco Rodriguez Montero (3th author, KICP Fellow)
-
-- **Emulating Global 21 cm Cosmology Observations from the Lunar Far Side to Achieve Quick and Reliable Physical Constraints**
-[https://arxiv.org/abs/2509.00976]
-  + Joann Jones? (1th author, Graduate Student)
-
-- **Improved characterization of the TOI-2141 system: a dense sub-Neptune with non-transiting inner and outer companions**
-[https://arxiv.org/abs/2509.00762]
-  + Rafael Luque? (1th author, Postdoctoral Scholar)
 
