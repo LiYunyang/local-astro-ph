@@ -1,6 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep  9 21:48:43 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Sep 10 21:03:40 CDT 2025)
+
+- **Volcanic Satellites Tidally Venting Na, K, SO2 in Optical & Infrared Light**
+[https://arxiv.org/abs/2509.08349]
+  + Diana Powell (18th author, Assistant Professor)
+
+- **Discovery of a $z \sim 0.8$ Ultra Steep Spectrum Radio Halo in the MeerKAT-South Pole Telescope Survey**
+[https://arxiv.org/abs/2509.08062]
+  + Lindsey Bleem (7th author, Senior Associate)
+  + Bradford A. Benson (13th author, Associate Professor)
+
+- **Acceleration of Heavy Ions at Non-Relativistic Collisionless Shocks**
+[https://arxiv.org/abs/2509.08061]
+  + Damiano Caprioli (1th author, Associate Professor)
+  + Miha Cernetic (3th author, Postdoctoral Scholar)
+  + Bricker Ostler (5th author, Graduate Student)
 
 - **Dark Energy Survey Year 6 Results: Redshift Calibration of the MagLim++ Lens Sample**
 [https://arxiv.org/abs/2509.07964]
@@ -127,24 +142,4 @@
   + Juan  Estrada (5th author, Senior Associate)
   + Guillermo Fernandez-Moroni (7th author, CASE Associate)
   + Nathan Saffold (8th author, Associate Fellow)
-
-- **Updated bounds on ultra-light dark matter from the tiniest galaxies**
-[https://arxiv.org/abs/2509.02781]
-  + Andrey Kravtsov (3th author, Senior Member)
-
-- **Primordial Physics in the Nonlinear Universe: signatures of inflationary resonances, excitations, and scale dependence**
-[https://arxiv.org/abs/2509.02695]
-  + Dhayaa Anbajagane (1th author, Graduate Student)
-
-- **Primordial Physics in the Nonlinear Universe: mapping cosmological collider models to weak-lensing observables**
-[https://arxiv.org/abs/2509.02693]
-  + Dhayaa Anbajagane (1th author, Graduate Student)
-
-- **The oldest Milky Way stars: New constraints on the age of the Universe and the Hubble constant**
-[https://arxiv.org/abs/2509.02692]
-  + Guilherme Limberg (9th author, KICP Fellow)
-
-- **The Future of Artificial Intelligence and the Mathematical and Physical Sciences (AI+MPS)**
-[https://arxiv.org/abs/2509.02661]
-  + Salman Habib (34th author, Senior Associate)
 
