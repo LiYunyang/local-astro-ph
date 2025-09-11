@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 10 21:03:40 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Sep 10 21:51:43 CDT 2025)
 
 - **Volcanic Satellites Tidally Venting Na, K, SO2 in Optical & Infrared Light**
 [https://arxiv.org/abs/2509.08349]
