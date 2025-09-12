@@ -1,6 +1,32 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 10 21:51:43 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Sep 11 21:00:31 CDT 2025)
+
+- **Detection of Millimeter-Wavelength Flares from Two Accreting White Dwarf Systems in the SPT-3G Galactic Plane Survey**
+[https://arxiv.org/abs/2509.08962]
+  + Paul Chichura? (3th author, Graduate Student)
+  + Adam Anderson? (5th author, Senior Associate)
+  + Melanie Archipley? (8th author, Associate Fellow)
+  + Amy Bender? (12th author, Senior Associate)
+  + Bradford A. Benson? (13th author, Associate Professor)
+  + Lindsey Bleem? (15th author, Senior Associate)
+  + John Carlstrom? (20th author, Senior Member)
+  + Chihway Chang? (21th author, Senior Member)
+  + Thomas Crawford? (26th author, Senior Researcher)
+  + Karia Dibert? (29th author, Graduate Student)
+  + Kyra Fichman? (37th author, Graduate Student)
+  + John Hood? (51th author, Associate Fellow)
+  + Alexander Hryciuk? (52th author, Graduate Student)
+  + Kayla Kornoelje? (59th author, Graduate Student)
+  + Emily Martsen? (66th author, Graduate Student)
+  + Tyler Natoli? (71th author, Senior Researcher)
+  + Yuuki Omori? (73th author, Senior Researcher)
+  + Wei Quan? (80th author, Associate Fellow)
+  + Alexandra Rahlin? (82th author, Research Assistant Professor)
+  + Aidan Simpson? (87th author, Graduate Student)
+  + Joshua Sobrin? (88th author, Associate Fellow)
+  + Matthew Young? (98th author, Associate Fellow)
+  + Jessica Zebrowski? (99th author, KICP and Einstein Fellow)
 
 - **Volcanic Satellites Tidally Venting Na, K, SO2 in Optical & Infrared Light**
 [https://arxiv.org/abs/2509.08349]
@@ -101,45 +127,4 @@
   + Michael Zhang (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
   + Jacob L. Bean (9th author, Professor)
   + Rafael Luque (13th author, Postdoctoral Scholar)
-
-- **POEMMA-Balloon with Radio: An Overview**
-[https://arxiv.org/abs/2509.04302]
-  + Angela Olinto (2th author, Senior Member)
-
-- **Evidence of the pair instability gap in the distribution of black hole masses**
-[https://arxiv.org/abs/2509.04151]
-  + Thomas Callister (5th author, KICP and Schmidt Fellow)
-  + Amanda Farah (6th author, Graduate Student)
-
-- **A large thermal energy reservoir in the nascent intracluster medium at a redshift of 4.3**
-[https://arxiv.org/abs/2509.03912]
-  + Melanie Archipley (5th author, Associate Fellow)
-
-- **DECADE+DES Y3 Weak Lensing Mass Map: A 13,000 deg$^2$ View of Cosmic Structure from 270 Million Galaxies**
-[https://arxiv.org/abs/2509.03798]
-  + Marco Gatti? (1th author, KICP Fellow)
-  + Dhayaa Anbajagane? (2th author, Graduate Student)
-  + Chihway Chang? (3th author, Senior Member)
-  + Alex Drlica-Wagner? (12th author, Senior Member)
-  + Chin Yi Tan? (34th author, Graduate Student)
-
-- **The Dark Energy Camera All Data Everywhere cosmic shear project V: Constraints on cosmology and astrophysics from 270 million galaxies across 13,000 deg$^2$ of the sky**
-[https://arxiv.org/abs/2509.03582]
-  + Dhayaa Anbajagane? (1th author, Graduate Student)
-  + Chihway Chang? (2th author, Senior Member)
-  + Alex Drlica-Wagner? (3th author, Senior Member)
-  + Chin Yi Tan? (4th author, Graduate Student)
-  + Anowar Shajib? (16th author, KICP and Einstein Fellow)
-  + Joshua A. Frieman? (17th author, Chair)
-  + Scott Dodelson? (30th author, Senior Associate)
-  + Marco Gatti? (35th author, KICP Fellow)
-  + Giulia Giannini? (36th author, Associate Fellow)
-  + Chun-Hao To? (71th author, Associate Fellow)
-
-- **A compact, low-power epithermal neutron counter for lunar water detection**
-[https://arxiv.org/abs/2509.04367]
-  + Julian  Cuevas-Zepeda (1th author, Associate Fellow)
-  + Juan  Estrada (5th author, Senior Associate)
-  + Guillermo Fernandez-Moroni (7th author, CASE Associate)
-  + Nathan Saffold (8th author, Associate Fellow)
 
