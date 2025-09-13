@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Sep 12 20:57:31 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri Sep 12 21:46:46 CDT 2025)
 
 - **Detection of Millimeter-Wavelength Flares from Two Accreting White Dwarf Systems in the SPT-3G Galactic Plane Survey**
 [https://arxiv.org/abs/2509.08962]
