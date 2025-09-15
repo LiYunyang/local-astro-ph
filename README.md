@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Sep 13 21:52:59 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Sep 14 21:08:03 CDT 2025)
+
+- **Euclid: Early Release Observations -- The star cluster systems of the Local Group dwarf galaxies IC 10 and NGC 6822**
+[https://arxiv.org/abs/2509.10440]
+  + Alberto Castellano Mora? (98th author, Associate Fellow)
+
+- **The large-scale kinematics of young stars in the Milky Way disc: first results from SDSS-V**
+[https://arxiv.org/abs/2509.10387]
+  + Chin Yi Tan? (12th author, Graduate Student)
+
+- **Precise Constraints on the Energy Budget of WASP-121 b from its JWST NIRISS/SOSS Phase Curve**
+[https://arxiv.org/abs/2509.09760]
+  + Michael Radica (7th author, Postdoctoral Scholar)
 
 - **Detection of Millimeter-Wavelength Flares from Two Accreting White Dwarf Systems in the SPT-3G Galactic Plane Survey**
 [https://arxiv.org/abs/2509.08962]
@@ -105,26 +117,4 @@
 - **Machine Learning Assisted Parameter-Space Searches for Lensed Gravitational Waves**
 [https://arxiv.org/abs/2509.06901]
   + Wayne Hu (3th author, Senior Member)
-
-- **EUSO-SPB2 Cosmic Ray Searches and Observations**
-[https://arxiv.org/abs/2509.05147]
-  + George Filippatos (1th author, Associate Fellow)
-
-- **CONCERTO: forward modeling of interferograms for calibration**
-[https://arxiv.org/abs/2509.04929]
-  + Wayne Hu? (26th author, Senior Member)
-
-- **On the connection between nitrogen-enhanced field stars and the Galactic globular clusters**
-[https://arxiv.org/abs/2509.04659]
-  + Andrey Kravtsov (6th author, Senior Member)
-
-- **Gravitational waves reveal the pair-instability mass gap and constrain nuclear burning in massive stars**
-[https://arxiv.org/abs/2509.04637]
-  + Thomas Callister (3th author, KICP and Schmidt Fellow)
-
-- **A carbon-rich atmosphere on a windy pulsar planet**
-[https://arxiv.org/abs/2509.04558]
-  + Michael Zhang (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Jacob L. Bean (9th author, Professor)
-  + Rafael Luque (13th author, Postdoctoral Scholar)
 
