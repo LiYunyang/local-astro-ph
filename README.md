@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Sep 14 21:57:08 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Sep 15 21:01:37 CDT 2025)
 
 - **Euclid: Early Release Observations -- The star cluster systems of the Local Group dwarf galaxies IC 10 and NGC 6822**
 [https://arxiv.org/abs/2509.10440]
