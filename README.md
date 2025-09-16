@@ -1,14 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 15 21:01:37 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Sep 15 21:48:57 CDT 2025)
+
+- **Mitigating Random-Phase Sampling Noise in the Cepheid Period-Luminosity Relation: A Cross-Filter Consistency Approach**
+[https://arxiv.org/abs/2509.10901]
+  + Wendy Freedman (4th author, Senior Member)
 
 - **Euclid: Early Release Observations -- The star cluster systems of the Local Group dwarf galaxies IC 10 and NGC 6822**
 [https://arxiv.org/abs/2509.10440]
   + Alberto Castellano Mora? (98th author, Associate Fellow)
-
-- **The large-scale kinematics of young stars in the Milky Way disc: first results from SDSS-V**
-[https://arxiv.org/abs/2509.10387]
-  + Chin Yi Tan? (12th author, Graduate Student)
 
 - **Precise Constraints on the Energy Budget of WASP-121 b from its JWST NIRISS/SOSS Phase Curve**
 [https://arxiv.org/abs/2509.09760]
@@ -82,39 +82,4 @@
 [https://arxiv.org/abs/2509.07093]
   + Wendy Freedman (14th author, Senior Member)
   + Suyash Kumar? (16th author, Graduate Student)
-
-- **Euclid preparation. Methodology for validating the Euclid Catalogue of Galaxy Clusters using external data**
-[https://arxiv.org/abs/2509.06805]
-  + Alex Alarcon Gonzalez? (22th author, CASE Associate)
-
-- **The Optical and Mechanical Design of POEMMA Balloon with Radio**
-[https://arxiv.org/abs/2509.06141]
-  + Stephan Meyer (10th author, Senior Member)
-
-- **Probing baryonic feedback and cosmology with 3$\times$2-point statistic of FRBs and galaxies**
-[https://arxiv.org/abs/2509.05866]
-  + Dhayaa Anbajagane (7th author, Graduate Student)
-
-- **Macromodel-free flux-ratio prediction in quadruply imaged quasars with local constraints from lensed arcs**
-[https://arxiv.org/abs/2509.05416]
-  + Daniel Gilman (3th author, Associate Fellow)
-
-- **Hydrogen-Alpha as a Tracer of Star Formation in the SPHINX Cosmological Simulations**
-[https://arxiv.org/abs/2509.05403]
-  + Harley Katz? (5th author, Senior Member)
-
-- **First Production of Skipper-CCD Modules for the DAMIC-M Experiment**
-[https://arxiv.org/abs/2509.06943]
-  + Sugata Paul? (3th author, Graduate Student)
-  + Sravan Munagavalasa? (16th author, Graduate Student)
-  + Paolo Privitera? (18th author, Senior Member)
-  + Brandon Roach? (19th author, KICP Fellow)
-  + Radomir Smida? (24th author, Senior Researcher)
-  + Rachana Yajur? (28th author, Graduate Student)
-  + Julian  Cuevas-Zepeda? (34th author, Associate Fellow)
-  + David Martin? (52th author, Graduate Student)
-
-- **Machine Learning Assisted Parameter-Space Searches for Lensed Gravitational Waves**
-[https://arxiv.org/abs/2509.06901]
-  + Wayne Hu (3th author, Senior Member)
 
