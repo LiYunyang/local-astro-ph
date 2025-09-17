@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 15 21:48:57 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Sep 16 21:01:04 CDT 2025)
+
+- **DELVE Milky Way Satellite Census I: Satellite Population and Survey Selection Function**
+[https://arxiv.org/abs/2509.12313]
+  + Chin Yi Tan? (1th author, Graduate Student)
+  + Alex Drlica-Wagner? (2th author, Senior Member)
+  + Dhayaa Anbajagane? (12th author, Graduate Student)
+  + Chihway Chang? (16th author, Senior Member)
+  + Anirudh Chiti? (19th author, Brinson Prize Fellow)
+  + Alexander Ji? (24th author, Senior Member)
+  + Guilherme Limberg? (25th author, KICP Fellow)
+  + Joshua A. Frieman? (54th author, Chair)
+  + Chun-Hao To? (81th author, Associate Fellow)
+
+- **Cosmology with supernova Encore in the strong lensing cluster MACS J0138-2155: Time delays & Hubble constant measurement**
+[https://arxiv.org/abs/2509.12301]
+  + Daniel Gilman? (13th author, Associate Fellow)
 
 - **Mitigating Random-Phase Sampling Noise in the Cepheid Period-Luminosity Relation: A Cross-Filter Consistency Approach**
 [https://arxiv.org/abs/2509.10901]
@@ -54,32 +70,4 @@
   + Damiano Caprioli (1th author, Associate Professor)
   + Miha Cernetic (3th author, Postdoctoral Scholar)
   + Bricker Ostler (5th author, Graduate Student)
-
-- **Dark Energy Survey Year 6 Results: Redshift Calibration of the MagLim++ Lens Sample**
-[https://arxiv.org/abs/2509.07964]
-  + Giulia Giannini? (1th author, Associate Fellow)
-  + Chihway Chang? (6th author, Senior Member)
-  + Dhayaa Anbajagane? (12th author, Graduate Student)
-  + Scott Dodelson? (41th author, Senior Associate)
-  + Alex Drlica-Wagner? (44th author, Senior Member)
-  + Joshua A. Frieman? (49th author, Chair)
-  + Marco Gatti? (51th author, KICP Fellow)
-  + Chun-Hao To? (85th author, Associate Fellow)
-
-- **Dark Energy Survey Year 6 Results: improved mitigation of spatially varying observational systematics with masking**
-[https://arxiv.org/abs/2509.07943]
-  + Alex Drlica-Wagner? (6th author, Senior Member)
-  + Marco Gatti? (11th author, KICP Fellow)
-  + Chihway Chang? (27th author, Senior Member)
-  + Joshua A. Frieman? (37th author, Chair)
-  + Chun-Hao To? (61th author, Associate Fellow)
-
-- **Constraining Baryon Fractions in Galaxy Groups and Clusters with the First CHIME/FRB Outrigger**
-[https://arxiv.org/abs/2509.07097]
-  + Sunil Simha (2th author, Associate Fellow)
-
-- **Carnegie Supernova Project: Fast-Declining Type Ia Supernovae as Cosmological Distance Indicators**
-[https://arxiv.org/abs/2509.07093]
-  + Wendy Freedman (14th author, Senior Member)
-  + Suyash Kumar? (16th author, Graduate Student)
 
