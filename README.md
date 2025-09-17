@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 16 21:01:04 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Sep 16 21:48:53 CDT 2025)
 
 - **DELVE Milky Way Satellite Census I: Satellite Population and Survey Selection Function**
 [https://arxiv.org/abs/2509.12313]
