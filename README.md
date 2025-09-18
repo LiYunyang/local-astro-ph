@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 17 21:01:12 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Sep 17 21:49:07 CDT 2025)
 
 - **Possible Evidence for the Presence of Volatiles on the Warm Super-Earth TOI-270 b**
 [https://arxiv.org/abs/2509.14224]
