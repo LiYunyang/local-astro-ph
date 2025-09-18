@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 16 21:48:53 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Sep 17 21:01:12 CDT 2025)
+
+- **Possible Evidence for the Presence of Volatiles on the Warm Super-Earth TOI-270 b**
+[https://arxiv.org/abs/2509.14224]
+  + Michael Radica (6th author, Postdoctoral Scholar)
+
+- **Spatially resolved broad line region in a quasar at z=4: Dynamical black hole mass and prominent outflow**
+[https://arxiv.org/abs/2509.13911]
+  + Amanda Farah? (18th author, Graduate Student)
+
+- **Aeos is Mixing it Up: The (In)homogeneity of Metal Mixing Following Population III Star Formation**
+[https://arxiv.org/abs/2509.13580]
+  + Alexander Ji (5th author, Senior Member)
 
 - **DELVE Milky Way Satellite Census I: Satellite Population and Survey Selection Function**
 [https://arxiv.org/abs/2509.12313]
@@ -55,19 +67,4 @@
   + Joshua Sobrin? (88th author, Associate Fellow)
   + Matthew Young? (98th author, Associate Fellow)
   + Jessica Zebrowski? (99th author, KICP and Einstein Fellow)
-
-- **Volcanic Satellites Tidally Venting Na, K, SO2 in Optical & Infrared Light**
-[https://arxiv.org/abs/2509.08349]
-  + Diana Powell (18th author, Assistant Professor)
-
-- **Discovery of a $z \sim 0.8$ Ultra Steep Spectrum Radio Halo in the MeerKAT-South Pole Telescope Survey**
-[https://arxiv.org/abs/2509.08062]
-  + Lindsey Bleem (7th author, Senior Associate)
-  + Bradford A. Benson (13th author, Associate Professor)
-
-- **Acceleration of Heavy Ions at Non-Relativistic Collisionless Shocks**
-[https://arxiv.org/abs/2509.08061]
-  + Damiano Caprioli (1th author, Associate Professor)
-  + Miha Cernetic (3th author, Postdoctoral Scholar)
-  + Bricker Ostler (5th author, Graduate Student)
 
