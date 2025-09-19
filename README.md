@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 17 21:49:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Sep 18 21:04:11 CDT 2025)
+
+- **Constraining Cosmology with Double-Source-Plane Strong Gravitational Lenses From the AGEL Survey**
+[https://arxiv.org/abs/2509.15012]
+  + Anowar Shajib (3th author, KICP and Einstein Fellow)
+
+- **Sibling Sub-Neptunes Around Sibling M Dwarfs: TOI-521 and TOI-912**
+[https://arxiv.org/abs/2509.14782]
+  + Rafael Luque? (3th author, Postdoctoral Scholar)
+
+- **Mapping the SO2 Shoreline in Gas Giant Exoplanets**
+[https://arxiv.org/abs/2509.14318]
+  + Diana Powell (10th author, Assistant Professor)
 
 - **Possible Evidence for the Presence of Volatiles on the Warm Super-Earth TOI-270 b**
 [https://arxiv.org/abs/2509.14224]
@@ -41,30 +53,4 @@
 - **Precise Constraints on the Energy Budget of WASP-121 b from its JWST NIRISS/SOSS Phase Curve**
 [https://arxiv.org/abs/2509.09760]
   + Michael Radica (7th author, Postdoctoral Scholar)
-
-- **Detection of Millimeter-Wavelength Flares from Two Accreting White Dwarf Systems in the SPT-3G Galactic Plane Survey**
-[https://arxiv.org/abs/2509.08962]
-  + Paul Chichura? (3th author, Graduate Student)
-  + Adam Anderson? (5th author, Senior Associate)
-  + Melanie Archipley? (8th author, Associate Fellow)
-  + Amy Bender? (12th author, Senior Associate)
-  + Bradford A. Benson? (13th author, Associate Professor)
-  + Lindsey Bleem? (15th author, Senior Associate)
-  + John Carlstrom? (20th author, Senior Member)
-  + Chihway Chang? (21th author, Senior Member)
-  + Thomas Crawford? (26th author, Senior Researcher)
-  + Karia Dibert? (29th author, Graduate Student)
-  + Kyra Fichman? (37th author, Graduate Student)
-  + John Hood? (51th author, Associate Fellow)
-  + Alexander Hryciuk? (52th author, Graduate Student)
-  + Kayla Kornoelje? (59th author, Graduate Student)
-  + Emily Martsen? (66th author, Graduate Student)
-  + Tyler Natoli? (71th author, Senior Researcher)
-  + Yuuki Omori? (73th author, Senior Researcher)
-  + Wei Quan? (80th author, Associate Fellow)
-  + Alexandra Rahlin? (82th author, Research Assistant Professor)
-  + Aidan Simpson? (87th author, Graduate Student)
-  + Joshua Sobrin? (88th author, Associate Fellow)
-  + Matthew Young? (98th author, Associate Fellow)
-  + Jessica Zebrowski? (99th author, KICP and Einstein Fellow)
 
