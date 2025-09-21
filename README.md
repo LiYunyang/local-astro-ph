@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Sep 20 21:09:02 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Sep 20 21:57:08 CDT 2025)
 
 - **Constraining Cosmology with Double-Source-Plane Strong Gravitational Lenses From the AGEL Survey**
 [https://arxiv.org/abs/2509.15012]
