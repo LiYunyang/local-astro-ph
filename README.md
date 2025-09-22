@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Sep 20 21:57:08 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Sep 21 21:08:59 CDT 2025)
+
+- **Euclid preparation. Predicting star-forming galaxy scaling relations with the spectral stacking code SpectraPyle**
+[https://arxiv.org/abs/2509.16120]
+  + LianTao Wang? (30th author, Senior Member)
 
 - **Constraining Cosmology with Double-Source-Plane Strong Gravitational Lenses From the AGEL Survey**
 [https://arxiv.org/abs/2509.15012]
@@ -45,12 +49,4 @@
 - **Mitigating Random-Phase Sampling Noise in the Cepheid Period-Luminosity Relation: A Cross-Filter Consistency Approach**
 [https://arxiv.org/abs/2509.10901]
   + Wendy Freedman (4th author, Senior Member)
-
-- **Euclid: Early Release Observations -- The star cluster systems of the Local Group dwarf galaxies IC 10 and NGC 6822**
-[https://arxiv.org/abs/2509.10440]
-  + Alberto Castellano Mora? (98th author, Associate Fellow)
-
-- **Precise Constraints on the Energy Budget of WASP-121 b from its JWST NIRISS/SOSS Phase Curve**
-[https://arxiv.org/abs/2509.09760]
-  + Michael Radica (7th author, Postdoctoral Scholar)
 
