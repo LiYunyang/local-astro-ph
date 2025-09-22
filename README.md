@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Sep 21 21:08:59 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Sep 21 21:56:58 CDT 2025)
 
 - **Euclid preparation. Predicting star-forming galaxy scaling relations with the spectral stacking code SpectraPyle**
 [https://arxiv.org/abs/2509.16120]
