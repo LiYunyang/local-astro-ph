@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 22 21:01:43 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Sep 22 21:49:30 CDT 2025)
+
+- **DESI Strong Lens Foundry II: DESI Spectroscopy for Strong Lens Candidates**
+[https://arxiv.org/abs/2509.18089]
+  + Shrihan Agarwal? (7th author, Graduate Student)
+
+- **DESI Strong Lens Foundry III: Keck Spectroscopy for Strong Lenses Discovered Using Residual Neural Networks**
+[https://arxiv.org/abs/2509.18086]
+  + Shrihan Agarwal (1th author, Graduate Student)
+
+- **Quantifying the Effects of Parameters in Widespread SEP Events with EPREM**
+[https://arxiv.org/abs/2509.16401]
+  + Matthew Young (1th author, Associate Fellow)
+
+- **Hubble Space Telescope Imaging of Three Isolated Faint Dwarf Galaxies Beyond the Local Group: Pavo, Corvus A, and Kamino**
+[https://arxiv.org/abs/2509.16307]
+  + Alex Drlica-Wagner (9th author, Senior Member)
 
 - **Euclid preparation. Predicting star-forming galaxy scaling relations with the spectral stacking code SpectraPyle**
 [https://arxiv.org/abs/2509.16120]
@@ -45,8 +61,4 @@
 - **Cosmology with supernova Encore in the strong lensing cluster MACS J0138-2155: Time delays & Hubble constant measurement**
 [https://arxiv.org/abs/2509.12301]
   + Daniel Gilman? (13th author, Associate Fellow)
-
-- **Mitigating Random-Phase Sampling Noise in the Cepheid Period-Luminosity Relation: A Cross-Filter Consistency Approach**
-[https://arxiv.org/abs/2509.10901]
-  + Wendy Freedman (4th author, Senior Member)
 
