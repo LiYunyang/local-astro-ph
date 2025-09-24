@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 22 21:49:30 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Sep 23 21:02:44 CDT 2025)
+
+- **Biasing from galaxy trough and peak profiles with the DES Y3 redMaGiC galaxies and the weak lensing mass map**
+[https://arxiv.org/abs/2509.18967]
+  + Marco Gatti? (6th author, KICP Fellow)
+  + Chihway Chang? (17th author, Senior Member)
+  + Scott Dodelson? (20th author, Senior Associate)
+  + Alex Drlica-Wagner? (22th author, Senior Member)
+  + Joshua A. Frieman? (66th author, Chair)
+  + Chun-Hao To? (85th author, Associate Fellow)
+
+- **Efficient Particle Acceleration in 2.5-Dimensional, Hybrid-Kinetic Simulations of Decaying, Supersonic, Plasma Turbulence**
+[https://arxiv.org/abs/2509.18374]
+  + Damiano Caprioli (3th author, Associate Professor)
+
+- **Assessing the operating characteristics of an ion-milled phonon-mediated quantum parity detector**
+[https://arxiv.org/abs/2509.18637]
+  + Lanqing Yuan (6th author, Graduate Student)
 
 - **DESI Strong Lens Foundry II: DESI Spectroscopy for Strong Lens Candidates**
 [https://arxiv.org/abs/2509.18089]
@@ -45,20 +62,4 @@
 - **Aeos is Mixing it Up: The (In)homogeneity of Metal Mixing Following Population III Star Formation**
 [https://arxiv.org/abs/2509.13580]
   + Alexander Ji (5th author, Senior Member)
-
-- **DELVE Milky Way Satellite Census I: Satellite Population and Survey Selection Function**
-[https://arxiv.org/abs/2509.12313]
-  + Chin Yi Tan? (1th author, Graduate Student)
-  + Alex Drlica-Wagner? (2th author, Senior Member)
-  + Dhayaa Anbajagane? (12th author, Graduate Student)
-  + Chihway Chang? (16th author, Senior Member)
-  + Anirudh Chiti? (19th author, Brinson Prize Fellow)
-  + Alexander Ji? (24th author, Senior Member)
-  + Guilherme Limberg? (25th author, KICP Fellow)
-  + Joshua A. Frieman? (54th author, Chair)
-  + Chun-Hao To? (81th author, Associate Fellow)
-
-- **Cosmology with supernova Encore in the strong lensing cluster MACS J0138-2155: Time delays & Hubble constant measurement**
-[https://arxiv.org/abs/2509.12301]
-  + Daniel Gilman? (13th author, Associate Fellow)
 
