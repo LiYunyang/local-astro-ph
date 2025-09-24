@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 23 21:02:44 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Sep 23 21:50:48 CDT 2025)
 
 - **Biasing from galaxy trough and peak profiles with the DES Y3 redMaGiC galaxies and the weak lensing mass map**
 [https://arxiv.org/abs/2509.18967]
