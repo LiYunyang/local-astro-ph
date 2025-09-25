@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 24 21:03:42 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Sep 24 21:53:00 CDT 2025)
 
 - **Searching for GEMS: TOI-5349b is a Saturn-like planet orbiting a metal-rich early M-dwarf**
 [https://arxiv.org/abs/2509.19492]
