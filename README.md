@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 23 21:50:48 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Sep 24 21:03:42 CDT 2025)
+
+- **Searching for GEMS: TOI-5349b is a Saturn-like planet orbiting a metal-rich early M-dwarf**
+[https://arxiv.org/abs/2509.19492]
+  + Madison Brady (15th author, Graduate Student)
+  + Ritvik Basant (21th author, Graduate Student)
+  + Jacob L. Bean (22th author, Professor)
+  + Rafael Luque (28th author, Postdoctoral Scholar)
+
+- **A Yin-Yang Galaxy Cluster Merger in Abell 1914 Revealed by XRISM**
+[https://arxiv.org/abs/2509.19449]
+  + Annie Heinrich (1th author, Graduate Student)
+  + Irina Zhuravleva (3th author, Assistant Professor)
+  + Hannah McCall (5th author, Graduate Student)
+
+- **X-rays from Inelastic Dark Matter Freeze-in**
+[https://arxiv.org/abs/2509.19428]
+  + Gordan Krnjaic (1th author, Senior Member)
 
 - **Biasing from galaxy trough and peak profiles with the DES Y3 redMaGiC galaxies and the weak lensing mass map**
 [https://arxiv.org/abs/2509.18967]
@@ -50,16 +67,4 @@
 - **Mapping the SO2 Shoreline in Gas Giant Exoplanets**
 [https://arxiv.org/abs/2509.14318]
   + Diana Powell (10th author, Assistant Professor)
-
-- **Possible Evidence for the Presence of Volatiles on the Warm Super-Earth TOI-270 b**
-[https://arxiv.org/abs/2509.14224]
-  + Michael Radica (6th author, Postdoctoral Scholar)
-
-- **Spatially resolved broad line region in a quasar at z=4: Dynamical black hole mass and prominent outflow**
-[https://arxiv.org/abs/2509.13911]
-  + Amanda Farah? (18th author, Graduate Student)
-
-- **Aeos is Mixing it Up: The (In)homogeneity of Metal Mixing Following Population III Star Formation**
-[https://arxiv.org/abs/2509.13580]
-  + Alexander Ji (5th author, Senior Member)
 
