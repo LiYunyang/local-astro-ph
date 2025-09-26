@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 24 21:53:00 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Sep 25 21:03:32 CDT 2025)
+
+- **A DECADE of dwarfs: first detection of weak lensing around spectroscopically confirmed low-mass galaxies**
+[https://arxiv.org/abs/2509.20458]
+  + Chun-Hao To (1th author, Associate Fellow)
+  + Chihway Chang (2th author, Senior Member)
+  + Dhayaa Anbajagane (3th author, Graduate Student)
+  + Alex Drlica-Wagner (5th author, Senior Member)
+  + Marco Gatti? (15th author, KICP Fellow)
+  + Chin Yi Tan? (35th author, Graduate Student)
+
+- **Dwarf galaxy halo masses from spectroscopic and photometric lensing in DESI and DES**
+[https://arxiv.org/abs/2509.20434]
+  + Andrew Hearin (7th author, Senior Associate)
 
 - **Searching for GEMS: TOI-5349b is a Saturn-like planet orbiting a metal-rich early M-dwarf**
 [https://arxiv.org/abs/2509.19492]
@@ -55,16 +68,4 @@
 - **Euclid preparation. Predicting star-forming galaxy scaling relations with the spectral stacking code SpectraPyle**
 [https://arxiv.org/abs/2509.16120]
   + LianTao Wang? (30th author, Senior Member)
-
-- **Constraining Cosmology with Double-Source-Plane Strong Gravitational Lenses From the AGEL Survey**
-[https://arxiv.org/abs/2509.15012]
-  + Anowar Shajib (3th author, KICP and Einstein Fellow)
-
-- **Sibling Sub-Neptunes Around Sibling M Dwarfs: TOI-521 and TOI-912**
-[https://arxiv.org/abs/2509.14782]
-  + Rafael Luque? (3th author, Postdoctoral Scholar)
-
-- **Mapping the SO2 Shoreline in Gas Giant Exoplanets**
-[https://arxiv.org/abs/2509.14318]
-  + Diana Powell (10th author, Assistant Professor)
 
