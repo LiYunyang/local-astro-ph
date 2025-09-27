@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Sep 25 21:51:17 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri Sep 26 21:00:06 CDT 2025)
 
 - **A DECADE of dwarfs: first detection of weak lensing around spectroscopically confirmed low-mass galaxies**
 [https://arxiv.org/abs/2509.20458]
