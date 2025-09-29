@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Sep 28 21:05:36 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Sep 28 21:54:44 CDT 2025)
 
 - **High Proper Motion Discoveries from the UKIRT Hemisphere Survey**
 [https://arxiv.org/abs/2509.22605]
