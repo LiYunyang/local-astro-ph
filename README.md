@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 29 21:49:53 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Sep 30 21:10:24 CDT 2025)
+
+- **Hidden massive eclipsing binaries in red supergiant systems: The hierarchical triple system KQ Puppis and other candidates**
+[https://arxiv.org/abs/2509.25168]
+  + LianTao Wang? (7th author, Senior Member)
+
+- **Non-linear infusion of intrinsic alignment and source clustering: impact on non-Gaussian cosmic shear statistics**
+[https://arxiv.org/abs/2509.25166]
+  + Katrin Heitmann? (10th author, Senior Associate)
+
+- **Probing the \ion{He}{2} re-Ionization ERa via Absorbing \ion{C}{4} Historical Yield (HIERACHY) IV: A complex redshifted absorption system intrinsic to quasar**
+[https://arxiv.org/abs/2509.25029]
+  + Zhijie Qu (4th author, Postdoctoral Scholar)
+
+- **Constraining inhomogeneous energy injection from annihilating dark matter and primordial black holes with 21-cm cosmology**
+[https://arxiv.org/abs/2509.22772]
+  + Joshua Foster (2th author, Associate Fellow)
 
 - **High Proper Motion Discoveries from the UKIRT Hemisphere Survey**
 [https://arxiv.org/abs/2509.22605]
@@ -74,37 +90,4 @@
 - **X-rays from Inelastic Dark Matter Freeze-in**
 [https://arxiv.org/abs/2509.19428]
   + Gordan Krnjaic (1th author, Senior Member)
-
-- **Biasing from galaxy trough and peak profiles with the DES Y3 redMaGiC galaxies and the weak lensing mass map**
-[https://arxiv.org/abs/2509.18967]
-  + Marco Gatti? (6th author, KICP Fellow)
-  + Chihway Chang? (17th author, Senior Member)
-  + Scott Dodelson? (20th author, Senior Associate)
-  + Alex Drlica-Wagner? (22th author, Senior Member)
-  + Joshua A. Frieman? (66th author, Chair)
-  + Chun-Hao To? (85th author, Associate Fellow)
-
-- **Efficient Particle Acceleration in 2.5-Dimensional, Hybrid-Kinetic Simulations of Decaying, Supersonic, Plasma Turbulence**
-[https://arxiv.org/abs/2509.18374]
-  + Damiano Caprioli (3th author, Associate Professor)
-
-- **Assessing the operating characteristics of an ion-milled phonon-mediated quantum parity detector**
-[https://arxiv.org/abs/2509.18637]
-  + Lanqing Yuan (6th author, Graduate Student)
-
-- **DESI Strong Lens Foundry II: DESI Spectroscopy for Strong Lens Candidates**
-[https://arxiv.org/abs/2509.18089]
-  + Shrihan Agarwal? (7th author, Graduate Student)
-
-- **DESI Strong Lens Foundry III: Keck Spectroscopy for Strong Lenses Discovered Using Residual Neural Networks**
-[https://arxiv.org/abs/2509.18086]
-  + Shrihan Agarwal (1th author, Graduate Student)
-
-- **Quantifying the Effects of Parameters in Widespread SEP Events with EPREM**
-[https://arxiv.org/abs/2509.16401]
-  + Matthew Young (1th author, Associate Fellow)
-
-- **Hubble Space Telescope Imaging of Three Isolated Faint Dwarf Galaxies Beyond the Local Group: Pavo, Corvus A, and Kamino**
-[https://arxiv.org/abs/2509.16307]
-  + Alex Drlica-Wagner (9th author, Senior Member)
 
