@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 30 21:10:24 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Sep 30 22:00:01 CDT 2025)
 
 - **Hidden massive eclipsing binaries in red supergiant systems: The hierarchical triple system KQ Puppis and other candidates**
 [https://arxiv.org/abs/2509.25168]
