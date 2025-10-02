@@ -1,6 +1,31 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 30 22:00:01 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct  1 21:01:38 CDT 2025)
+
+- **Impact of projection-induced optical selection bias on the weak lensing mass calibration of galaxy clusters**
+[https://arxiv.org/abs/2510.00753]
+  + Chun-Hao To (6th author, Associate Fellow)
+
+- **Uncertainties in high-$z$ galaxy properties inferred from SED fitting using JWST NIRCam photometry**
+[https://arxiv.org/abs/2510.00400]
+  + Harley Katz (3th author, Senior Member)
+
+- **Progress towards stereo observation of ultra-high-energy cosmic rays with Fluorescence detector Array of Single-pixel Telescopes**
+[https://arxiv.org/abs/2510.00397]
+  + Paolo Privitera (26th author, Senior Member)
+  + Radomir Smida (29th author, Senior Researcher)
+
+- **A planetary system with a sub-Neptune planet in the habitable zone of TOI-2093**
+[https://arxiv.org/abs/2510.00299]
+  + Rafael Luque? (12th author, Postdoctoral Scholar)
+
+- **Effects of Primordial Black Holes on IGM History**
+[https://arxiv.org/abs/2510.00246]
+  + Nickolay Gnedin (2th author, Senior Member)
+
+- **The Simons Observatory: Characterization of All DC/RF Routing Wafers for Detector Modules**
+[https://arxiv.org/abs/2510.00176]
+  + Erin Healy (5th author, KICP Fellow)
 
 - **Hidden massive eclipsing binaries in red supergiant systems: The hierarchical triple system KQ Puppis and other candidates**
 [https://arxiv.org/abs/2509.25168]
@@ -73,21 +98,4 @@
 - **Dwarf galaxy halo masses from spectroscopic and photometric lensing in DESI and DES**
 [https://arxiv.org/abs/2509.20434]
   + Andrew Hearin (7th author, Senior Associate)
-
-- **Searching for GEMS: TOI-5349b is a Saturn-like planet orbiting a metal-rich early M-dwarf**
-[https://arxiv.org/abs/2509.19492]
-  + Madison Brady (15th author, Graduate Student)
-  + Ritvik Basant (21th author, Graduate Student)
-  + Jacob L. Bean (22th author, Professor)
-  + Rafael Luque (28th author, Postdoctoral Scholar)
-
-- **A Yin-Yang Galaxy Cluster Merger in Abell 1914 Revealed by XRISM**
-[https://arxiv.org/abs/2509.19449]
-  + Annie Heinrich (1th author, Graduate Student)
-  + Irina Zhuravleva (3th author, Assistant Professor)
-  + Hannah McCall (5th author, Graduate Student)
-
-- **X-rays from Inelastic Dark Matter Freeze-in**
-[https://arxiv.org/abs/2509.19428]
-  + Gordan Krnjaic (1th author, Senior Member)
 
