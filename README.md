@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct  1 21:01:38 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct  1 21:48:59 CDT 2025)
 
 - **Impact of projection-induced optical selection bias on the weak lensing mass calibration of galaxy clusters**
 [https://arxiv.org/abs/2510.00753]
