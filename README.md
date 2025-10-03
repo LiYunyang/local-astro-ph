@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct  1 21:48:59 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Oct  2 21:01:15 CDT 2025)
+
+- **Enhanced Matter Power Spectrum from Axion Kination after Big Bang Nucleosynthesis**
+[https://arxiv.org/abs/2510.01308]
+  + Keisuke Harigaya (4th author, Senior Member)
 
 - **Impact of projection-induced optical selection bias on the weak lensing mass calibration of galaxy clusters**
 [https://arxiv.org/abs/2510.00753]
@@ -85,17 +89,4 @@
   + Juan  Estrada? (3th author, Senior Associate)
   + Brian Nord? (5th author, Senior Associate)
   + Nathan Saffold? (6th author, Associate Fellow)
-
-- **A DECADE of dwarfs: first detection of weak lensing around spectroscopically confirmed low-mass galaxies**
-[https://arxiv.org/abs/2509.20458]
-  + Chun-Hao To (1th author, Associate Fellow)
-  + Chihway Chang (2th author, Senior Member)
-  + Dhayaa Anbajagane (3th author, Graduate Student)
-  + Alex Drlica-Wagner (5th author, Senior Member)
-  + Marco Gatti? (15th author, KICP Fellow)
-  + Chin Yi Tan? (35th author, Graduate Student)
-
-- **Dwarf galaxy halo masses from spectroscopic and photometric lensing in DESI and DES**
-[https://arxiv.org/abs/2509.20434]
-  + Andrew Hearin (7th author, Senior Associate)
 
