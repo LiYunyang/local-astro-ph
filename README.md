@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Oct  3 21:47:26 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Oct  4 21:09:15 CDT 2025)
 
 - **Enhanced Matter Power Spectrum from Axion Kination after Big Bang Nucleosynthesis**
 [https://arxiv.org/abs/2510.01308]
