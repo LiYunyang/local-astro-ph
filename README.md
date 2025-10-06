@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct  5 21:04:29 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Oct  5 21:52:34 CDT 2025)
 
 - **Dust scattering halo of 4U 1630-47: High resolution X-ray and mm observations constrain source and molecular cloud distances**
 [https://arxiv.org/abs/2510.02879]
