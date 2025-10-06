@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct  4 21:57:03 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Oct  5 21:04:29 CDT 2025)
+
+- **Dust scattering halo of 4U 1630-47: High resolution X-ray and mm observations constrain source and molecular cloud distances**
+[https://arxiv.org/abs/2510.02879]
+  + Joann Jones? (10th author, Graduate Student)
+
+- **The simulation chain for the Terzina Cherenkov telescope on board the NUSES space mission**
+[https://arxiv.org/abs/2510.02844]
+  + Angela Olinto? (50th author, Senior Member)
+
+- **No Observational Evidence for Dark Matter Nor a Large Metallicity Spread in the Extreme Milky Way Satellite Ursa Major III / UNIONS 1**
+[https://arxiv.org/abs/2510.02431]
+  + Daisy Bissonette (2th author, Graduate Student)
+  + Alexander Ji (3th author, Senior Member)
+  + Anirudh Chiti (5th author, Brinson Prize Fellow)
+
+- **ArgoLOOM: agentic AI for fundamental physics from quarks to cosmos**
+[https://arxiv.org/abs/2510.02426]
+  + Salman Habib? (7th author, Senior Associate)
+  + Katrin Heitmann? (8th author, Senior Associate)
 
 - **Enhanced Matter Power Spectrum from Axion Kination after Big Bang Nucleosynthesis**
 [https://arxiv.org/abs/2510.01308]
@@ -46,47 +65,4 @@
 - **Constraining inhomogeneous energy injection from annihilating dark matter and primordial black holes with 21-cm cosmology**
 [https://arxiv.org/abs/2509.22772]
   + Joshua Foster (2th author, Associate Fellow)
-
-- **High Proper Motion Discoveries from the UKIRT Hemisphere Survey**
-[https://arxiv.org/abs/2509.22605]
-  + David Martin (28th author, Graduate Student)
-
-- **Origin of gas in the Magellanic Bridge: MeerKAT detection of HI 21-cm absorption**
-[https://arxiv.org/abs/2509.21970]
-  + Hsiao-Wen Chen? (7th author, Senior Member)
-
-- **BICEP/Keck XX: Component-separated maps of polarized CMB and thermal dust emission using Planck and BICEP/Keck Observations through the 2018 Observing Season**
-[https://arxiv.org/abs/2509.21648]
-  + James Cornelison? (15th author, Associate Fellow)
-  + Scott Mackey? (54th author, Graduate Student)
-  + Abigail Vieregg? (87th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (94th author, KICP Fellow)
-
-- **A nearly pristine star from the Large Magellanic Cloud**
-[https://arxiv.org/abs/2509.21643]
-  + Alexander Ji (1th author, Senior Member)
-  + Hillary Andales (7th author, Graduate Student)
-  + Pierre Thibodeaux (11th author, Graduate Student)
-  + Guilherme Limberg (24th author, KICP Fellow)
-
-- **Limb Asymmetries on WASP-39b: A Multi-GCM Comparison of Chemistry, Clouds, and Hazes**
-[https://arxiv.org/abs/2509.21588]
-  + Maria Steinrueck (1th author, 51 Pegasi b Fellow)
-  + Dominic Samra (11th author, Postdoctoral Scholar)
-  + Diana Powell (19th author, Assistant Professor)
-
-- **The EBLM project XVI. Spin-orbit alignment of the low mass eclipsing binary EBLM J0021-16**
-[https://arxiv.org/abs/2509.21517]
-  + David Martin (2th author, Graduate Student)
-
-- **Formation of multiple dynamical classes in the Kuiper belt via disk dissipation**
-[https://arxiv.org/abs/2509.21437]
-  + Tommy Chi Ho Lau (1th author, Postdoctoral Scholar)
-
-- **Automating Sensor Characterization with Bayesian Optimization**
-[https://arxiv.org/abs/2509.21661]
-  + Julian  Cuevas-Zepeda? (1th author, Associate Fellow)
-  + Juan  Estrada? (3th author, Senior Associate)
-  + Brian Nord? (5th author, Senior Associate)
-  + Nathan Saffold? (6th author, Associate Fellow)
 
