@@ -1,6 +1,20 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct  6 21:02:11 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Oct  6 21:49:18 CDT 2025)
+
+- **Euclid preparation: Towards a DR1 application of higher-order weak lensing statistics**
+[https://arxiv.org/abs/2510.04953]
+  + Marco Gatti? (22th author, KICP Fellow)
+
+- **H I Properties of Field Galaxies at $\boldsymbol{z\approx 0.2}$-0.6: Insights into Declining Cosmic Star Formation**
+[https://arxiv.org/abs/2510.03400]
+  + Hsiao-Wen Chen (3th author, Senior Member)
+  + Zhijie Qu (18th author, Postdoctoral Scholar)
+
+- **Cosmological Hydrodynamics at Exascale: A Trillion-Particle Leap in Capability**
+[https://arxiv.org/abs/2510.03557]
+  + Salman Habib (5th author, Senior Associate)
+  + Katrin Heitmann (6th author, Senior Associate)
 
 - **Dust scattering halo of 4U 1630-47: High resolution X-ray and mm observations constrain source and molecular cloud distances**
 [https://arxiv.org/abs/2510.02879]
@@ -49,20 +63,4 @@
 - **The Simons Observatory: Characterization of All DC/RF Routing Wafers for Detector Modules**
 [https://arxiv.org/abs/2510.00176]
   + Erin Healy (5th author, KICP Fellow)
-
-- **Hidden massive eclipsing binaries in red supergiant systems: The hierarchical triple system KQ Puppis and other candidates**
-[https://arxiv.org/abs/2509.25168]
-  + LianTao Wang? (7th author, Senior Member)
-
-- **Non-linear infusion of intrinsic alignment and source clustering: impact on non-Gaussian cosmic shear statistics**
-[https://arxiv.org/abs/2509.25166]
-  + Katrin Heitmann? (10th author, Senior Associate)
-
-- **Probing the \ion{He}{2} re-Ionization ERa via Absorbing \ion{C}{4} Historical Yield (HIERACHY) IV: A complex redshifted absorption system intrinsic to quasar**
-[https://arxiv.org/abs/2509.25029]
-  + Zhijie Qu (4th author, Postdoctoral Scholar)
-
-- **Constraining inhomogeneous energy injection from annihilating dark matter and primordial black holes with 21-cm cosmology**
-[https://arxiv.org/abs/2509.22772]
-  + Joshua Foster (2th author, Associate Fellow)
 
