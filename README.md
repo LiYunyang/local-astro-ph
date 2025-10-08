@@ -1,6 +1,40 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct  6 21:49:18 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Oct  7 21:01:54 CDT 2025)
+
+- **MEGATRON: the impact of non-equilibrium effects and local radiation fields on the circumgalactic medium at cosmic noon**
+[https://arxiv.org/abs/2510.05667]
+  + Harley Katz (2th author, Senior Member)
+  + Autumn Pearce (16th author, Graduate Student)
+  + Francisco Rodriguez Montero (17th author, KICP Fellow)
+  + Wonjae Yee (25th author, Graduate Student)
+
+- **Everyone wants something better than $Λ$CDM**
+[https://arxiv.org/abs/2510.05483]
+  + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
+
+- **Declining metallicity and extended HeII in the outflow of an epoch of reionization analogue galaxy**
+[https://arxiv.org/abs/2510.05332]
+  + Harley Katz? (8th author, Senior Member)
+
+- **From X-rays to High-Energy Gamma-rays: A Comprehensive Multi-Wavelength Study of Early Gamma-Ray Burst Afterglows**
+[https://arxiv.org/abs/2510.05239]
+  + Shrihan Agarwal? (10th author, Graduate Student)
+
+- **MEGATRON: how the first stars create an iron metallicity plateau in the smallest dwarf galaxies**
+[https://arxiv.org/abs/2510.05232]
+  + Harley Katz (2th author, Senior Member)
+  + Alexander Ji (11th author, Senior Member)
+  + Autumn Pearce (17th author, Graduate Student)
+  + Francisco Rodriguez Montero (19th author, KICP Fellow)
+  + Wonjae Yee (26th author, Graduate Student)
+
+- **MEGATRON: Reproducing the Diversity of High-Redshift Galaxy Spectra with Cosmological Radiation Hydrodynamics Simulations**
+[https://arxiv.org/abs/2510.05201]
+  + Harley Katz (1th author, Senior Member)
+  + Autumn Pearce (15th author, Graduate Student)
+  + Francisco Rodriguez Montero (16th author, KICP Fellow)
+  + Wonjae Yee (24th author, Graduate Student)
 
 - **Euclid preparation: Towards a DR1 application of higher-order weak lensing statistics**
 [https://arxiv.org/abs/2510.04953]
