@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct  7 21:01:54 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Oct  7 21:49:31 CDT 2025)
 
 - **MEGATRON: the impact of non-equilibrium effects and local radiation fields on the circumgalactic medium at cosmic noon**
 [https://arxiv.org/abs/2510.05667]
