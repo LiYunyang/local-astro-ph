@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct  8 21:02:59 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct  8 21:51:39 CDT 2025)
 
 - **MEGATRON: The environments of Population III stars at Cosmic Dawn and their connection to present day galaxies**
 [https://arxiv.org/abs/2510.06853]
