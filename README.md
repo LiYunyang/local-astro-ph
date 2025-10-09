@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct  7 21:49:31 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct  8 21:02:59 CDT 2025)
+
+- **MEGATRON: The environments of Population III stars at Cosmic Dawn and their connection to present day galaxies**
+[https://arxiv.org/abs/2510.06853]
+  + Harley Katz (2th author, Senior Member)
+
+- **Benchmarking AI-evolved cosmological structure formation**
+[https://arxiv.org/abs/2510.06731]
+  + Salman Habib (3th author, Senior Associate)
+  + Katrin Heitmann (4th author, Senior Associate)
+
+- **MEGATRON: Disentangling Physical Processes and Observational Bias in the Multi-Phase ISM of High-Redshift Galaxies**
+[https://arxiv.org/abs/2510.06347]
+  + Harley Katz (2th author, Senior Member)
+
+- **MUSEQuBES: Physical conditions, origins, and multi-element abundances of the circumgalactic medium of an isolated, star-forming dwarf galaxy at z=0.57**
+[https://arxiv.org/abs/2510.06310]
+  + Zhijie Qu (6th author, Postdoctoral Scholar)
+  + Hsiao-Wen Chen (12th author, Senior Member)
+  + Suyash Kumar (14th author, Graduate Student)
 
 - **MEGATRON: the impact of non-equilibrium effects and local radiation fields on the circumgalactic medium at cosmic noon**
 [https://arxiv.org/abs/2510.05667]
@@ -72,29 +91,4 @@
 - **Enhanced Matter Power Spectrum from Axion Kination after Big Bang Nucleosynthesis**
 [https://arxiv.org/abs/2510.01308]
   + Keisuke Harigaya (4th author, Senior Member)
-
-- **Impact of projection-induced optical selection bias on the weak lensing mass calibration of galaxy clusters**
-[https://arxiv.org/abs/2510.00753]
-  + Chun-Hao To (6th author, Associate Fellow)
-
-- **Uncertainties in high-$z$ galaxy properties inferred from SED fitting using JWST NIRCam photometry**
-[https://arxiv.org/abs/2510.00400]
-  + Harley Katz (3th author, Senior Member)
-
-- **Progress towards stereo observation of ultra-high-energy cosmic rays with Fluorescence detector Array of Single-pixel Telescopes**
-[https://arxiv.org/abs/2510.00397]
-  + Paolo Privitera (26th author, Senior Member)
-  + Radomir Smida (29th author, Senior Researcher)
-
-- **A planetary system with a sub-Neptune planet in the habitable zone of TOI-2093**
-[https://arxiv.org/abs/2510.00299]
-  + Rafael Luque? (12th author, Postdoctoral Scholar)
-
-- **Effects of Primordial Black Holes on IGM History**
-[https://arxiv.org/abs/2510.00246]
-  + Nickolay Gnedin (2th author, Senior Member)
-
-- **The Simons Observatory: Characterization of All DC/RF Routing Wafers for Detector Modules**
-[https://arxiv.org/abs/2510.00176]
-  + Erin Healy (5th author, KICP Fellow)
 
