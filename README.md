@@ -1,6 +1,31 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct  8 21:51:39 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Oct  9 21:03:26 CDT 2025)
+
+- **Probing Anisotropic Cosmic Birefringence with Foreground-Marginalised SPT B-mode Likelihoods**
+[https://arxiv.org/abs/2510.07928]
+  + Jessica Zebrowski? (4th author, KICP and Einstein Fellow)
+
+- **Multi-modal Foundation Model for Cosmological Simulation Data**
+[https://arxiv.org/abs/2510.07684]
+  + Salman Habib (4th author, Senior Associate)
+
+- **XRISM/Resolve observations of Hercules X-1: vertical structure and kinematics of the disk wind**
+[https://arxiv.org/abs/2510.07615]
+  + Daniele Rogantini (12th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Robust Measurement of Stellar Streams Around the Milky Way: Correcting Spatially Variable Observational Selection Effects in Optical Imaging Surveys**
+[https://arxiv.org/abs/2510.07511]
+  + Alex Drlica-Wagner? (6th author, Senior Member)
+  + Joshua A. Frieman? (25th author, Chair)
+
+- **An extended and extremely thin gravitational arc from a lensed compact symmetric object at redshift 2.059**
+[https://arxiv.org/abs/2510.07386]
+  + Diana Powell? (3th author, Assistant Professor)
+
+- **A million-solar-mass object detected at cosmological distance using gravitational imaging**
+[https://arxiv.org/abs/2510.07382]
+  + Diana Powell? (1th author, Assistant Professor)
 
 - **MEGATRON: The environments of Population III stars at Cosmic Dawn and their connection to present day galaxies**
 [https://arxiv.org/abs/2510.06853]
@@ -87,8 +112,4 @@
 [https://arxiv.org/abs/2510.02426]
   + Salman Habib? (7th author, Senior Associate)
   + Katrin Heitmann? (8th author, Senior Associate)
-
-- **Enhanced Matter Power Spectrum from Axion Kination after Big Bang Nucleosynthesis**
-[https://arxiv.org/abs/2510.01308]
-  + Keisuke Harigaya (4th author, Senior Member)
 
