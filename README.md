@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct 11 21:06:10 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sat Oct 11 21:52:51 CDT 2025)
 
 - **Probing Anisotropic Cosmic Birefringence with Foreground-Marginalised SPT B-mode Likelihoods**
 [https://arxiv.org/abs/2510.07928]
