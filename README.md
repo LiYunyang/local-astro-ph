@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct 11 21:52:51 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Oct 12 21:08:37 CDT 2025)
+
+- **JWST Observations of SN 2024ggi II: NIRSpec Spectroscopy and CO Modeling at 285 and 385 Days Past the Explosion**
+[https://arxiv.org/abs/2510.09600]
+  + Suyash Kumar? (27th author, Graduate Student)
+  + LianTao Wang? (41th author, Senior Member)
+
+- **A Sharper View of the X-ray Spectrum of MCG--6-30-15 with XRISM, XMM-Newton and NuSTAR**
+[https://arxiv.org/abs/2510.08926]
+  + Daniele Rogantini (4th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **Probing Anisotropic Cosmic Birefringence with Foreground-Marginalised SPT B-mode Likelihoods**
 [https://arxiv.org/abs/2510.07928]
@@ -93,23 +102,4 @@
 [https://arxiv.org/abs/2510.03557]
   + Salman Habib (5th author, Senior Associate)
   + Katrin Heitmann (6th author, Senior Associate)
-
-- **Dust scattering halo of 4U 1630-47: High resolution X-ray and mm observations constrain source and molecular cloud distances**
-[https://arxiv.org/abs/2510.02879]
-  + Joann Jones? (10th author, Graduate Student)
-
-- **The simulation chain for the Terzina Cherenkov telescope on board the NUSES space mission**
-[https://arxiv.org/abs/2510.02844]
-  + Angela Olinto? (50th author, Senior Member)
-
-- **No Observational Evidence for Dark Matter Nor a Large Metallicity Spread in the Extreme Milky Way Satellite Ursa Major III / UNIONS 1**
-[https://arxiv.org/abs/2510.02431]
-  + Daisy Bissonette (2th author, Graduate Student)
-  + Alexander Ji (3th author, Senior Member)
-  + Anirudh Chiti (5th author, Brinson Prize Fellow)
-
-- **ArgoLOOM: agentic AI for fundamental physics from quarks to cosmos**
-[https://arxiv.org/abs/2510.02426]
-  + Salman Habib? (7th author, Senior Associate)
-  + Katrin Heitmann? (8th author, Senior Associate)
 
