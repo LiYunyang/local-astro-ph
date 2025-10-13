@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct 12 21:08:37 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Oct 12 21:58:48 CDT 2025)
 
 - **JWST Observations of SN 2024ggi II: NIRSpec Spectroscopy and CO Modeling at 285 and 385 Days Past the Explosion**
 [https://arxiv.org/abs/2510.09600]
