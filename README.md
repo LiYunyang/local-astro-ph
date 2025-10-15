@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 14 21:05:57 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Oct 14 21:55:02 CDT 2025)
 
 - **Mapping the Perseus Galaxy Cluster with XRISM: Gas Kinematic Features and their Implications for Turbulence**
 [https://arxiv.org/abs/2510.12782]
