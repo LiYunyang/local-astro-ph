@@ -1,6 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 14 21:55:02 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct 15 21:04:43 CDT 2025)
+
+- **$\texttt{SBi3PCF:}$ Simulation-based inference with the integrated 3PCF**
+[https://arxiv.org/abs/2510.13805]
+  + Dhayaa Anbajagane (4th author, Graduate Student)
+
+- **Discovery of red galaxy candidates at z ~ 12: Early dust growth or significant nebular emission with high-temperature stars?**
+[https://arxiv.org/abs/2510.13240]
+  + Harley Katz (7th author, Senior Member)
+
+- **Improved Absolute Polarization Calibrator for BICEP CMB Polarimeters**
+[https://arxiv.org/abs/2510.13032]
+  + James Cornelison? (15th author, Associate Fellow)
+  + Scott Mackey? (54th author, Graduate Student)
+  + Abigail Vieregg? (83th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (89th author, KICP Fellow)
 
 - **Mapping the Perseus Galaxy Cluster with XRISM: Gas Kinematic Features and their Implications for Turbulence**
 [https://arxiv.org/abs/2510.12782]
@@ -82,23 +97,4 @@
 - **A million-solar-mass object detected at cosmological distance using gravitational imaging**
 [https://arxiv.org/abs/2510.07382]
   + Diana Powell? (1th author, Assistant Professor)
-
-- **MEGATRON: The environments of Population III stars at Cosmic Dawn and their connection to present day galaxies**
-[https://arxiv.org/abs/2510.06853]
-  + Harley Katz (2th author, Senior Member)
-
-- **Benchmarking AI-evolved cosmological structure formation**
-[https://arxiv.org/abs/2510.06731]
-  + Salman Habib (3th author, Senior Associate)
-  + Katrin Heitmann (4th author, Senior Associate)
-
-- **MEGATRON: Disentangling Physical Processes and Observational Bias in the Multi-Phase ISM of High-Redshift Galaxies**
-[https://arxiv.org/abs/2510.06347]
-  + Harley Katz (2th author, Senior Member)
-
-- **MUSEQuBES: Physical conditions, origins, and multi-element abundances of the circumgalactic medium of an isolated, star-forming dwarf galaxy at z=0.57**
-[https://arxiv.org/abs/2510.06310]
-  + Zhijie Qu (6th author, Postdoctoral Scholar)
-  + Hsiao-Wen Chen (12th author, Senior Member)
-  + Suyash Kumar (14th author, Graduate Student)
 
