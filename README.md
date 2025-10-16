@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 15 21:04:43 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct 15 21:53:54 CDT 2025)
 
 - **$\texttt{SBi3PCF:}$ Simulation-based inference with the integrated 3PCF**
 [https://arxiv.org/abs/2510.13805]
