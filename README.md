@@ -1,6 +1,61 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 15 21:53:54 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Oct 16 21:04:13 CDT 2025)
+
+- **Phantom Mirage from Axion Dark Energy**
+[https://arxiv.org/abs/2510.14957]
+  + Rayne Liu (1th author, Graduate Student)
+  + Wayne Hu (3th author, Senior Member)
+
+- **Dark Matter Subhalos and Higher Order Catastrophes in Gravitational Wave Lensing**
+[https://arxiv.org/abs/2510.14953]
+  + Daniel Gilman (3th author, Associate Fellow)
+
+- **An On-Sky Atmospheric Calibration of SPT-SLIM**
+[https://arxiv.org/abs/2510.14220]
+  + Karia Dibert? (1th author, Graduate Student)
+  + Adam Anderson? (3th author, Senior Associate)
+  + Bradford A. Benson? (5th author, Associate Professor)
+  + John Carlstrom? (8th author, Senior Member)
+  + Chihway Chang? (10th author, Senior Member)
+  + Kyra Fichman? (12th author, Graduate Student)
+  + Tyler Natoli? (19th author, Senior Researcher)
+  + Alexandra Rahlin? (21th author, Research Assistant Professor)
+  + Matthew Young? (26th author, Associate Fellow)
+  + Cyndia Yu? (27th author, KICP Fellow)
+  + Jessica Zebrowski? (28th author, KICP and Einstein Fellow)
+
+- **Design and Performance of the SPT-SLIM Receiver Cryostat**
+[https://arxiv.org/abs/2510.14219]
+  + Matthew Young? (1th author, Associate Fellow)
+  + Adam Anderson? (3th author, Senior Associate)
+  + Bradford A. Benson? (5th author, Associate Professor)
+  + John Carlstrom? (8th author, Senior Member)
+  + Chihway Chang? (10th author, Senior Member)
+  + Karia Dibert? (11th author, Graduate Student)
+  + Kyra Fichman? (13th author, Graduate Student)
+  + Tyler Natoli? (22th author, Senior Researcher)
+  + Alexandra Rahlin? (24th author, Research Assistant Professor)
+  + Cyndia Yu? (29th author, KICP Fellow)
+  + Jessica Zebrowski? (30th author, KICP and Einstein Fellow)
+
+- **Probing cosmic velocities with the pairwise kinematic Sunyaev-Zel'dovich signal in DESI Bright Galaxy Sample DR1 and ACT DR6**
+[https://arxiv.org/abs/2510.14135]
+  + Patricio Gallardo? (4th author, KICP Fellow)
+
+- **Investigating Nonlinear Landau Damping in Hybrid Simulations**
+[https://arxiv.org/abs/2510.14031]
+  + Benedikt Schroer (1th author, Postdoctoral Scholar)
+  + Damiano Caprioli (2th author, Associate Professor)
+
+- **Constraining Power of Wavelet vs. Power Spectrum Statistics for CMB Lensing and Weak Lensing with Learned Binning**
+[https://arxiv.org/abs/2510.13968]
+  + Georgios Valogiannis (2th author, Associate Fellow)
+  + Marco Gatti (3th author, KICP Fellow)
+
+- **Large Neutrino "Collider"**
+[https://arxiv.org/abs/2510.13948]
+  + Bei Zhou (3th author, Associate Fellow)
 
 - **$\texttt{SBi3PCF:}$ Simulation-based inference with the integrated 3PCF**
 [https://arxiv.org/abs/2510.13805]
@@ -72,29 +127,4 @@
 - **A Sharper View of the X-ray Spectrum of MCG--6-30-15 with XRISM, XMM-Newton and NuSTAR**
 [https://arxiv.org/abs/2510.08926]
   + Daniele Rogantini (4th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Probing Anisotropic Cosmic Birefringence with Foreground-Marginalised SPT B-mode Likelihoods**
-[https://arxiv.org/abs/2510.07928]
-  + Jessica Zebrowski? (4th author, KICP and Einstein Fellow)
-
-- **Multi-modal Foundation Model for Cosmological Simulation Data**
-[https://arxiv.org/abs/2510.07684]
-  + Salman Habib (4th author, Senior Associate)
-
-- **XRISM/Resolve observations of Hercules X-1: vertical structure and kinematics of the disk wind**
-[https://arxiv.org/abs/2510.07615]
-  + Daniele Rogantini (12th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Robust Measurement of Stellar Streams Around the Milky Way: Correcting Spatially Variable Observational Selection Effects in Optical Imaging Surveys**
-[https://arxiv.org/abs/2510.07511]
-  + Alex Drlica-Wagner? (6th author, Senior Member)
-  + Joshua A. Frieman? (25th author, Chair)
-
-- **An extended and extremely thin gravitational arc from a lensed compact symmetric object at redshift 2.059**
-[https://arxiv.org/abs/2510.07386]
-  + Diana Powell? (3th author, Assistant Professor)
-
-- **A million-solar-mass object detected at cosmological distance using gravitational imaging**
-[https://arxiv.org/abs/2510.07382]
-  + Diana Powell? (1th author, Assistant Professor)
 
