@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Oct 17 21:00:09 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri Oct 17 21:48:15 CDT 2025)
 
 - **Phantom Mirage from Axion Dark Energy**
 [https://arxiv.org/abs/2510.14957]
