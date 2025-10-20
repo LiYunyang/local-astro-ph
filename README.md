@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct 18 22:01:27 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Oct 19 21:10:49 CDT 2025)
 
 - **Phantom Mirage from Axion Dark Energy**
 [https://arxiv.org/abs/2510.14957]
@@ -118,13 +118,4 @@
 - **The Importance of Being Adaptable: An Exploration of the Power and Limitations of Domain Adaptation for Simulation-Based Inference with Galaxy Clusters**
 [https://arxiv.org/abs/2510.09748]
   + Aleksandra  Ciprijanovic? (2th author, CASE Associate)
-
-- **JWST Observations of SN 2024ggi II: NIRSpec Spectroscopy and CO Modeling at 285 and 385 Days Past the Explosion**
-[https://arxiv.org/abs/2510.09600]
-  + Suyash Kumar? (27th author, Graduate Student)
-  + LianTao Wang? (41th author, Senior Member)
-
-- **A Sharper View of the X-ray Spectrum of MCG--6-30-15 with XRISM, XMM-Newton and NuSTAR**
-[https://arxiv.org/abs/2510.08926]
-  + Daniele Rogantini (4th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
