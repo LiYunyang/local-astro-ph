@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 20 21:06:32 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Oct 20 21:55:38 CDT 2025)
+
+- **Euclid preparation: The flat-sky approximation for the clustering of Euclid's photometric galaxies**
+[https://arxiv.org/abs/2510.17592]
+  + Alberto Castellano Mora? (92th author, Associate Fellow)
+
+- **The ALPINE-CRISTAL-JWST Survey: JWST/IFU Optical Observations for 18 Main-Sequence Galaxies at z=4-6**
+[https://arxiv.org/abs/2510.16111]
+  + Yunyang Li? (52th author, KICP Fellow)
+
+- **Detection of Compton scattering in the jet of 3C 84**
+[https://arxiv.org/abs/2510.16109]
+  + Irina Zhuravleva (80th author, Assistant Professor)
 
 - **Phantom Mirage from Axion Dark Energy**
 [https://arxiv.org/abs/2510.14957]
@@ -88,34 +100,4 @@
 - **The PHANGS-MUSE/HST-Halpha Nebulae Catalogue**
 [https://arxiv.org/abs/2510.11778]
   + Juliang Li? (24th author, Postdoctoral Scholar)
-
-- **The Sunburst Arc with JWST. IV. The importance of interaction, turbulence, and feedback for Lyman-continuum escape**
-[https://arxiv.org/abs/2510.11702]
-  + Erik Solhaug (14th author, Graduate Student)
-  + Michael D. Gladders (16th author, Professor)
-
-- **Ultra-Faint Milky Way Satellites Discovered in Carina, Phoenix, and Telescopium with DELVE Data Release 3**
-[https://arxiv.org/abs/2510.11684]
-  + Chin Yi Tan? (1th author, Graduate Student)
-  + Alex Drlica-Wagner? (6th author, Senior Member)
-  + Anirudh Chiti? (16th author, Brinson Prize Fellow)
-  + Alexander Ji? (18th author, Senior Member)
-  + Guilherme Limberg? (21th author, KICP Fellow)
-  + Joshua A. Frieman? (49th author, Chair)
-
-- **Asteroseismic investigation of HD 140283: The Methuselah star**
-[https://arxiv.org/abs/2510.11532]
-  + Yunyang Li? (3th author, KICP Fellow)
-
-- **JWST Catches a Strongly Gravitationally Lensed AGN In Transition from Type II to Type I**
-[https://arxiv.org/abs/2510.10376]
-  + Michael D. Gladders (2th author, Professor)
-
-- **A complex structure of escaping helium spanning more than half the orbit of the ultra-hot Jupiter WASP-121\,b**
-[https://arxiv.org/abs/2510.09809]
-  + Michael Radica (20th author, Postdoctoral Scholar)
-
-- **The Importance of Being Adaptable: An Exploration of the Power and Limitations of Domain Adaptation for Simulation-Based Inference with Galaxy Clusters**
-[https://arxiv.org/abs/2510.09748]
-  + Aleksandra  Ciprijanovic? (2th author, CASE Associate)
 
