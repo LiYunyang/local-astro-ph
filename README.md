@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 20 21:55:38 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Oct 21 21:08:30 CDT 2025)
 
 - **Euclid preparation: The flat-sky approximation for the clustering of Euclid's photometric galaxies**
 [https://arxiv.org/abs/2510.17592]
@@ -83,21 +83,4 @@
   + Scott Mackey? (54th author, Graduate Student)
   + Abigail Vieregg? (83th author, David N. Schramm Director and Senior Member)
   + Cyndia Yu? (89th author, KICP Fellow)
-
-- **Mapping the Perseus Galaxy Cluster with XRISM: Gas Kinematic Features and their Implications for Turbulence**
-[https://arxiv.org/abs/2510.12782]
-  + Irina Zhuravleva (2th author, Assistant Professor)
-  + Annie Heinrich (3th author, Graduate Student)
-
-- **Cloudy with a chance of starshine: Possible photometric signatures of nebular-dominated emission in $1.5 < z < 8.5$ JADES galaxies**
-[https://arxiv.org/abs/2510.12622]
-  + Harley Katz (4th author, Senior Member)
-
-- **Using gravitational lensing to probe for bright quintessential galaxies in the Epoch of Reionization**
-[https://arxiv.org/abs/2510.12097]
-  + Lindsey Bleem (8th author, Senior Associate)
-
-- **The PHANGS-MUSE/HST-Halpha Nebulae Catalogue**
-[https://arxiv.org/abs/2510.11778]
-  + Juliang Li? (24th author, Postdoctoral Scholar)
 
