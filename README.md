@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 21 21:08:30 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Oct 21 21:59:35 CDT 2025)
 
 - **Euclid preparation: The flat-sky approximation for the clustering of Euclid's photometric galaxies**
 [https://arxiv.org/abs/2510.17592]
