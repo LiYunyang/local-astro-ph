@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 22 21:05:34 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct 22 21:54:11 CDT 2025)
 
 - **$H_0$ Without the Sound Horizon (or Supernovae): A 2% Measurement in DESI DR1**
 [https://arxiv.org/abs/2510.19149]
