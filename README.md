@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 21 21:59:35 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct 22 21:05:34 CDT 2025)
+
+- **$H_0$ Without the Sound Horizon (or Supernovae): A 2% Measurement in DESI DR1**
+[https://arxiv.org/abs/2510.19149]
+  + Chun-Hao To? (9th author, Associate Fellow)
+
+- **Constraints on Axion-Like Particles from VERITAS Observations of a Flaring Radio Galaxy in the Perseus Cluster**
+[https://arxiv.org/abs/2510.19010]
+  + Suyash Kumar? (33th author, Graduate Student)
 
 - **Euclid preparation: The flat-sky approximation for the clustering of Euclid's photometric galaxies**
 [https://arxiv.org/abs/2510.17592]
@@ -68,19 +76,4 @@
 - **Large Neutrino "Collider"**
 [https://arxiv.org/abs/2510.13948]
   + Bei Zhou (3th author, Associate Fellow)
-
-- **$\texttt{SBi3PCF:}$ Simulation-based inference with the integrated 3PCF**
-[https://arxiv.org/abs/2510.13805]
-  + Dhayaa Anbajagane (4th author, Graduate Student)
-
-- **Discovery of red galaxy candidates at z ~ 12: Early dust growth or significant nebular emission with high-temperature stars?**
-[https://arxiv.org/abs/2510.13240]
-  + Harley Katz (7th author, Senior Member)
-
-- **Improved Absolute Polarization Calibrator for BICEP CMB Polarimeters**
-[https://arxiv.org/abs/2510.13032]
-  + James Cornelison? (15th author, Associate Fellow)
-  + Scott Mackey? (54th author, Graduate Student)
-  + Abigail Vieregg? (83th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (89th author, KICP Fellow)
 
