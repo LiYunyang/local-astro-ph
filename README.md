@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Oct 24 21:03:55 CDT 2025)
+## Latest Astro-ph Papers (Generated on Fri Oct 24 21:52:53 CDT 2025)
 
 - **Addressing Synchrotron Challenges for CMB Observations: ELFS-SA Collaboration for Robust Foreground Removal**
 [https://arxiv.org/abs/2510.20793]
