@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct 25 21:58:53 CDT 2025)
+## Latest Astro-ph Papers (Generated on Sun Oct 26 21:12:27 CDT 2025)
+
+- **Observation of In-ice Askaryan Radiation from High-Energy Cosmic Rays**
+[https://arxiv.org/abs/2510.21104]
+  + Nathaniel Alden? (2th author, Graduate Student)
+  + Cosmin Deaconu? (22th author, Senior Researcher)
+  + Eric Oberla? (53th author, Senior Researcher)
+  + Abigail Vieregg? (69th author, David N. Schramm Director and Senior Member)
+  + Philipp Windischhofer? (73th author, Associate Fellow)
+
+- **SENSEI: A Search for Diurnal Modulation in sub-GeV Dark Matter Scattering**
+[https://arxiv.org/abs/2510.20889]
+  + Ana Martina Botti (2th author, Associate Fellow)
+  + Alex Drlica-Wagner (8th author, Senior Member)
+  + Juan  Estrada (10th author, Senior Associate)
+  + Nathan Saffold (20th author, Associate Fellow)
+  + Edgar Marrufo Villalpando (26th author, Graduate Student)
 
 - **Addressing Synchrotron Challenges for CMB Observations: ELFS-SA Collaboration for Robust Foreground Removal**
 [https://arxiv.org/abs/2510.20793]
