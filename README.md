@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 27 21:06:03 CDT 2025)
+## Latest Astro-ph Papers (Generated on Mon Oct 27 21:56:55 CDT 2025)
 
 - **Observation of In-ice Askaryan Radiation from High-Energy Cosmic Rays**
 [https://arxiv.org/abs/2510.21104]
