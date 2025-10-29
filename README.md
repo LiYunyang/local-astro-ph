@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 28 21:10:45 CDT 2025)
+## Latest Astro-ph Papers (Generated on Tue Oct 28 22:01:30 CDT 2025)
 
 - **Horizontal and vertical exoplanet thermal structure from a JWST spectroscopic eclipse map**
 [https://arxiv.org/abs/2510.24708]
