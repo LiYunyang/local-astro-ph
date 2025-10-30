@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 29 21:09:53 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct 29 22:00:07 CDT 2025)
 
 - **Cosmological Constraints from Dark Energy Survey Year 1 Cluster Lensing and Abundances with Simulation-based Forward-Modeling**
 [https://arxiv.org/abs/2510.25706]
