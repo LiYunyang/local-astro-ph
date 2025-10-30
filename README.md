@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 28 22:01:30 CDT 2025)
+## Latest Astro-ph Papers (Generated on Wed Oct 29 21:09:53 CDT 2025)
+
+- **Cosmological Constraints from Dark Energy Survey Year 1 Cluster Lensing and Abundances with Simulation-based Forward-Modeling**
+[https://arxiv.org/abs/2510.25706]
+  + Chun-Hao To (6th author, Associate Fellow)
+
+- **Extreme equivalent width-selected low-mass starbursts at $z=4-9$: insights into their role in cosmic reionization**
+[https://arxiv.org/abs/2510.25647]
+  + Wayne Hu? (14th author, Senior Member)
+
+- **BEBOP VIII. SOPHIE radial velocities reveal an eccentric, circumbinary brown dwarf**
+[https://arxiv.org/abs/2510.25329]
+  + David Martin (12th author, Graduate Student)
+
+- **The White Dwarf Initial-Final Mass Relation from Open Clusters in Gaia DR3**
+[https://arxiv.org/abs/2510.24877]
+  + David Miller (1th author, Senior Member)
+
+- **End-to-End Data Analysis Methods for the CUORE Experiment**
+[https://arxiv.org/abs/2510.25720]
+  + Rayne Liu? (64th author, Graduate Student)
 
 - **Horizontal and vertical exoplanet thermal structure from a JWST spectroscopic eclipse map**
 [https://arxiv.org/abs/2510.24708]
@@ -123,12 +143,4 @@
 - **The Sagittarius C Complex in the Mid-Infrared with SOFIA/FORCAST**
 [https://arxiv.org/abs/2510.19908]
   + Roy Zhao (1th author, Graduate Student)
-
-- **$H_0$ Without the Sound Horizon (or Supernovae): A 2% Measurement in DESI DR1**
-[https://arxiv.org/abs/2510.19149]
-  + Chun-Hao To? (9th author, Associate Fellow)
-
-- **Constraints on Axion-Like Particles from VERITAS Observations of a Flaring Radio Galaxy in the Perseus Cluster**
-[https://arxiv.org/abs/2510.19010]
-  + Suyash Kumar? (33th author, Graduate Student)
 
