@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 29 22:00:07 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Oct 30 21:08:12 CDT 2025)
+
+- **XRISM Observations of The Prototypical Cold Front in Abell 3667**
+[https://arxiv.org/abs/2510.26405]
+  + Irina Zhuravleva (15th author, Assistant Professor)
 
 - **Cosmological Constraints from Dark Energy Survey Year 1 Cluster Lensing and Abundances with Simulation-based Forward-Modeling**
 [https://arxiv.org/abs/2510.25706]
@@ -122,25 +126,4 @@
   + Juan  Estrada (10th author, Senior Associate)
   + Nathan Saffold (20th author, Associate Fellow)
   + Edgar Marrufo Villalpando (26th author, Graduate Student)
-
-- **Addressing Synchrotron Challenges for CMB Observations: ELFS-SA Collaboration for Robust Foreground Removal**
-[https://arxiv.org/abs/2510.20793]
-  + Abigail Lee? (15th author, Graduate Student)
-
-- **Iskay2: Signal Extraction of the Kinematic Sunyaev-Zel'dovich Effect Through The Pairwise Estimator. Pipeline and Validation**
-[https://arxiv.org/abs/2510.20715]
-  + Patricio Gallardo (1th author, KICP Fellow)
-
-- **Observationally derived change in the star formation rate as mergers progress**
-[https://arxiv.org/abs/2510.20697]
-  + LianTao Wang? (2th author, Senior Member)
-
-- **Detection of ultra-high-energy cosmic rays in the southern hemisphere with FAST: data acquisition and preliminary results**
-[https://arxiv.org/abs/2510.20522]
-  + Paolo Privitera (19th author, Senior Member)
-  + Radomir Smida (23th author, Senior Researcher)
-
-- **The Sagittarius C Complex in the Mid-Infrared with SOFIA/FORCAST**
-[https://arxiv.org/abs/2510.19908]
-  + Roy Zhao (1th author, Graduate Student)
 
