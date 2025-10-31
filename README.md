@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Oct 30 21:08:12 CDT 2025)
+## Latest Astro-ph Papers (Generated on Thu Oct 30 21:59:35 CDT 2025)
 
 - **XRISM Observations of The Prototypical Cold Front in Abell 3667**
 [https://arxiv.org/abs/2510.26405]
