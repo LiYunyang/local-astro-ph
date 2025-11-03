@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov  2 20:11:30 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Nov  2 21:02:03 CST 2025)
+
+- **DiffstarPop: A generative physical model of galaxy star formation history**
+[https://arxiv.org/abs/2510.27604]
+  + Andrew Hearin (2th author, Senior Associate)
+
+- **The He I D3 Line as a Proxy for Magnetic Activity using EXPRES Solar Observations**
+[https://arxiv.org/abs/2510.27059]
+  + Lily Zhao (3th author, Sagan Fellow)
 
 - **XRISM Observations of The Prototypical Cold Front in Abell 3667**
 [https://arxiv.org/abs/2510.26405]
@@ -110,20 +118,4 @@
 [https://arxiv.org/abs/2510.23336]
   + Ana Martina Botti (3th author, Associate Fellow)
   + Juan  Estrada (7th author, Senior Associate)
-
-- **Observation of In-ice Askaryan Radiation from High-Energy Cosmic Rays**
-[https://arxiv.org/abs/2510.21104]
-  + Nathaniel Alden? (2th author, Graduate Student)
-  + Cosmin Deaconu? (22th author, Senior Researcher)
-  + Eric Oberla? (53th author, Senior Researcher)
-  + Abigail Vieregg? (69th author, David N. Schramm Director and Senior Member)
-  + Philipp Windischhofer? (73th author, Associate Fellow)
-
-- **SENSEI: A Search for Diurnal Modulation in sub-GeV Dark Matter Scattering**
-[https://arxiv.org/abs/2510.20889]
-  + Ana Martina Botti (2th author, Associate Fellow)
-  + Alex Drlica-Wagner (8th author, Senior Member)
-  + Juan  Estrada (10th author, Senior Associate)
-  + Nathan Saffold (20th author, Associate Fellow)
-  + Edgar Marrufo Villalpando (26th author, Graduate Student)
 
