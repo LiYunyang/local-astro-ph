@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov  2 21:02:03 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Nov  3 20:08:32 CST 2025)
 
 - **DiffstarPop: A generative physical model of galaxy star formation history**
 [https://arxiv.org/abs/2510.27604]
