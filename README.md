@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov  3 20:59:21 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Nov  4 20:09:25 CST 2025)
+
+- **$Λ$CDM: The path forward**
+[https://arxiv.org/abs/2511.01814]
+  + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
 
 - **DiffstarPop: A generative physical model of galaxy star formation history**
 [https://arxiv.org/abs/2510.27604]
@@ -79,43 +83,4 @@
 - **A Viable New Model for Dark Matter**
 [https://arxiv.org/abs/2510.24114]
   + Alex Thomas? (2th author, Graduate Student)
-
-- **Dark Energy Survey Year 6 Results: Redshift Calibration of the Weak Lensing Source Galaxies**
-[https://arxiv.org/abs/2510.23566]
-  + Giulia Giannini? (10th author, Associate Fellow)
-  + Dhayaa Anbajagane? (15th author, Graduate Student)
-  + Scott Dodelson? (16th author, Senior Associate)
-  + Chihway Chang? (20th author, Senior Member)
-  + Marco Gatti? (24th author, KICP Fellow)
-  + Chun-Hao To? (31th author, Associate Fellow)
-  + Alex Drlica-Wagner? (52th author, Senior Member)
-  + Joshua A. Frieman? (59th author, Chair)
-
-- **Dark Energy Survey Year 6 Results: Clustering-redshifts and importance sampling of Self-Organised-Maps $n(z)$ realizations for $3\times2$pt samples**
-[https://arxiv.org/abs/2510.23565]
-  + Giulia Giannini? (4th author, Associate Fellow)
-  + Chun-Hao To? (7th author, Associate Fellow)
-  + Marco Gatti? (11th author, KICP Fellow)
-  + Dhayaa Anbajagane? (13th author, Graduate Student)
-  + Chihway Chang? (17th author, Senior Member)
-  + Scott Dodelson? (20th author, Senior Associate)
-  + Alex Drlica-Wagner? (50th author, Senior Member)
-  + Joshua A. Frieman? (56th author, Chair)
-
-- **Galactic bars and active galactic nucleus fuelling in the second half of cosmic history**
-[https://arxiv.org/abs/2510.23522]
-  + LianTao Wang? (3th author, Senior Member)
-
-- **Fundamental effective temperature measurements for eclipsing binary stars -- VI. Improved methodology and application to the circumbinary planet host star BEBOP-3**
-[https://arxiv.org/abs/2510.23218]
-  + David Martin? (6th author, Graduate Student)
-
-- **XRISM constraints on the velocity power spectrum in the Coma cluster**
-[https://arxiv.org/abs/2510.21918]
-  + Irina Zhuravleva? (5th author, Assistant Professor)
-
-- **Charge Trap Analysis in a SENSEI Skipper-CCD: Understanding Low-Energy Backgrounds in Rare-Event Searches**
-[https://arxiv.org/abs/2510.23336]
-  + Ana Martina Botti (3th author, Associate Fellow)
-  + Juan  Estrada (7th author, Senior Associate)
 
