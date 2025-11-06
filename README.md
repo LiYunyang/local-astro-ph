@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov  5 20:09:25 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Nov  5 21:00:57 CST 2025)
+
+- **Euclid Quick Data Release (Q1). The average far-infrared properties of \Euclid-selected star-forming galaxies**
+[https://arxiv.org/abs/2511.02989]
+  + LianTao Wang? (13th author, Senior Member)
+
+- **Euclid: Quick Data Release (Q1) -- Secondary nuclei in early-type galaxies**
+[https://arxiv.org/abs/2511.02988]
+  + LianTao Wang? (13th author, Senior Member)
+
+- **The SPHEREx Satellite Mission**
+[https://arxiv.org/abs/2511.02985]
+  + Lindsey Bleem (9th author, Senior Associate)
+
+- **Euclid: Quick Data Release (Q1)- The connection between galaxy close encounters and radio activity**
+[https://arxiv.org/abs/2511.02970]
+  + LianTao Wang? (7th author, Senior Member)
 
 - **Thermal and Electrical Properties of Prototype Readout Components for CMB-S4**
 [https://arxiv.org/abs/2511.02173]
@@ -21,24 +37,4 @@
 - **XRISM Observations of The Prototypical Cold Front in Abell 3667**
 [https://arxiv.org/abs/2510.26405]
   + Irina Zhuravleva (15th author, Assistant Professor)
-
-- **Cosmological Constraints from Dark Energy Survey Year 1 Cluster Lensing and Abundances with Simulation-based Forward-Modeling**
-[https://arxiv.org/abs/2510.25706]
-  + Chun-Hao To (6th author, Associate Fellow)
-
-- **Extreme equivalent width-selected low-mass starbursts at $z=4-9$: insights into their role in cosmic reionization**
-[https://arxiv.org/abs/2510.25647]
-  + Wayne Hu? (14th author, Senior Member)
-
-- **BEBOP VIII. SOPHIE radial velocities reveal an eccentric, circumbinary brown dwarf**
-[https://arxiv.org/abs/2510.25329]
-  + David Martin (12th author, Graduate Student)
-
-- **The White Dwarf Initial-Final Mass Relation from Open Clusters in Gaia DR3**
-[https://arxiv.org/abs/2510.24877]
-  + David Miller (1th author, Senior Member)
-
-- **End-to-End Data Analysis Methods for the CUORE Experiment**
-[https://arxiv.org/abs/2510.25720]
-  + Rayne Liu? (64th author, Graduate Student)
 
