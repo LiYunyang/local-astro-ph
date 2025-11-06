@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov  4 21:00:15 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Nov  5 20:09:25 CST 2025)
 
 - **Thermal and Electrical Properties of Prototype Readout Components for CMB-S4**
 [https://arxiv.org/abs/2511.02173]
