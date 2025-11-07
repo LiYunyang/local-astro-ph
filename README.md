@@ -1,8 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov  6 20:08:20 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Nov  6 20:59:40 CST 2025)
 
-- **Euclid Quick Data Release (Q1). The average far-infrared properties of \Euclid-selected star-forming galaxies**
+- **Dark Energy Survey Year 3 results: Simulation-based $w$CDM inference from weak lensing and galaxy clustering maps with deep learning. I. Analysis design**
+[https://arxiv.org/abs/2511.04681]
+  + Dhayaa Anbajagane? (7th author, Graduate Student)
+  + Marco Gatti? (10th author, KICP Fellow)
+  + Chihway Chang? (19th author, Senior Member)
+  + Scott Dodelson? (25th author, Senior Associate)
+  + Chun-Hao To? (100th author, Associate Fellow)
+
+- **Euclid Quick Data Release (Q1). The average far-infrared properties of Euclid-selected star-forming galaxies**
 [https://arxiv.org/abs/2511.02989]
   + LianTao Wang? (13th author, Senior Member)
 
@@ -33,8 +41,4 @@
 - **The He I D3 Line as a Proxy for Magnetic Activity using EXPRES Solar Observations**
 [https://arxiv.org/abs/2510.27059]
   + Lily Zhao (3th author, Sagan Fellow)
-
-- **XRISM Observations of The Prototypical Cold Front in Abell 3667**
-[https://arxiv.org/abs/2510.26405]
-  + Irina Zhuravleva (15th author, Assistant Professor)
 
