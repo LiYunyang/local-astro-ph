@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov  5 21:00:57 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Nov  6 20:08:20 CST 2025)
 
 - **Euclid Quick Data Release (Q1). The average far-infrared properties of \Euclid-selected star-forming galaxies**
 [https://arxiv.org/abs/2511.02989]
