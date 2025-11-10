@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov  9 20:11:46 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Nov  9 21:02:25 CST 2025)
+
+- **A subpopulation of low-mass, spinning black holes: signatures of dynamical assembly**
+[https://arxiv.org/abs/2511.05316]
+  + Thomas Callister (2th author, KICP and Schmidt Fellow)
+
+- **How Low Can You Go: Constraining the Effects of Catalog Incompleteness on Dark Siren Cosmology**
+[https://arxiv.org/abs/2511.04786]
+  + Daniel E. Holz (5th author, Professor)
+
+- **Dents in the Mirror: A Novel Probe of Dark Matter Substructure in Galaxy Clusters from the Astrometric Asymmetry of Lensed Arcs**
+[https://arxiv.org/abs/2511.04748]
+  + Daniel Gilman (2th author, Associate Fellow)
+
+- **Large-Scale Structure Probes of the Post-Inflationary Axiverse**
+[https://arxiv.org/abs/2511.04734]
+  + Georgios Valogiannis (3th author, Associate Fellow)
 
 - **Dark Energy Survey Year 3 results: Simulation-based $w$CDM inference from weak lensing and galaxy clustering maps with deep learning. I. Analysis design**
 [https://arxiv.org/abs/2511.04681]
@@ -33,12 +49,4 @@
 - **$Λ$CDM: The path forward**
 [https://arxiv.org/abs/2511.01814]
   + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
-
-- **DiffstarPop: A generative physical model of galaxy star formation history**
-[https://arxiv.org/abs/2510.27604]
-  + Andrew Hearin (2th author, Senior Associate)
-
-- **The He I D3 Line as a Proxy for Magnetic Activity using EXPRES Solar Observations**
-[https://arxiv.org/abs/2510.27059]
-  + Lily Zhao (3th author, Sagan Fellow)
 
