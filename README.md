@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Nov  8 21:00:52 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Nov  9 20:11:46 CST 2025)
 
 - **Dark Energy Survey Year 3 results: Simulation-based $w$CDM inference from weak lensing and galaxy clustering maps with deep learning. I. Analysis design**
 [https://arxiv.org/abs/2511.04681]
