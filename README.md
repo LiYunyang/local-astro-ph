@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 10 20:09:45 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Nov 10 21:00:56 CST 2025)
 
 - **A subpopulation of low-mass, spinning black holes: signatures of dynamical assembly**
 [https://arxiv.org/abs/2511.05316]
