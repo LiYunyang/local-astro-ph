@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 11 20:08:55 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Nov 11 21:00:44 CST 2025)
+
+- **JWST Lensed Quasar Dark Matter Survey III: Dark Matter Sensitive Flux Ratios and Warm Dark Matter Constraint from the Full Sample**
+[https://arxiv.org/abs/2511.07765]
+  + Daniel Gilman? (3th author, Associate Fellow)
+
+- **Effect of ionizing photon escape fraction in faint galaxies on modeling reionization history of the universe**
+[https://arxiv.org/abs/2511.07543]
+  + Andrey Kravtsov (2th author, Senior Member)
+  + Harley Katz (3th author, Senior Member)
+
+- **The Dark Energy Survey Supernova Program: A Reanalysis Of Cosmology Results And Evidence For Evolving Dark Energy With An Updated Type Ia Supernova Calibration**
+[https://arxiv.org/abs/2511.07517]
+  + Richard Kessler? (4th author, Senior Researcher)
+  + Joshua A. Frieman? (17th author, Chair)
+  + Scott Dodelson? (43th author, Senior Associate)
+  + Chun-Hao To? (80th author, Associate Fellow)
+
+- **JWST lensed quasar dark matter survey IV: Stringent warm dark matter constraints from the joint reconstruction of extended lensed arcs and quasar flux ratios**
+[https://arxiv.org/abs/2511.07513]
+  + Daniel Gilman (1th author, Associate Fellow)
 
 - **An XMM-Newton View of the ANdromeda Galaxy as Explored in a Legacy Survey (New-ANGELS) II: Luminosity Function of X-ray Sources**
 [https://arxiv.org/abs/2511.05856]
@@ -49,8 +69,4 @@
 - **Euclid: Quick Data Release (Q1)- The connection between galaxy close encounters and radio activity**
 [https://arxiv.org/abs/2511.02970]
   + LianTao Wang? (7th author, Senior Member)
-
-- **Thermal and Electrical Properties of Prototype Readout Components for CMB-S4**
-[https://arxiv.org/abs/2511.02173]
-  + Amy Bender (4th author, Senior Associate)
 
