@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 10 21:00:56 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Nov 11 20:08:55 CST 2025)
+
+- **An XMM-Newton View of the ANdromeda Galaxy as Explored in a Legacy Survey (New-ANGELS) II: Luminosity Function of X-ray Sources**
+[https://arxiv.org/abs/2511.05856]
+  + Zhijie Qu (4th author, Postdoctoral Scholar)
+
+- **EDGE-INFERNO: How chemical enrichment assumptions impact the individual stars of a simulated ultra-faint dwarf galaxy**
+[https://arxiv.org/abs/2511.05695]
+  + Alexander Ji (6th author, Senior Member)
 
 - **A subpopulation of low-mass, spinning black holes: signatures of dynamical assembly**
 [https://arxiv.org/abs/2511.05316]
@@ -45,8 +53,4 @@
 - **Thermal and Electrical Properties of Prototype Readout Components for CMB-S4**
 [https://arxiv.org/abs/2511.02173]
   + Amy Bender (4th author, Senior Associate)
-
-- **$Λ$CDM: The path forward**
-[https://arxiv.org/abs/2511.01814]
-  + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
 
