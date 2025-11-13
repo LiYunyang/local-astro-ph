@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 12 20:10:38 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Nov 12 21:01:18 CST 2025)
+
+- **No TiO detected in the hot Neptune-desert planet LTT-9779 b in reflected light at high spectral resolution**
+[https://arxiv.org/abs/2511.08691]
+  + Michael Radica (7th author, Postdoctoral Scholar)
+
+- **Euclid preparation. Non-Gaussianity of 2-point statistics likelihood: Precise analysis of the matter power spectrum distribution**
+[https://arxiv.org/abs/2511.08266]
+  + Alberto Castellano Mora? (97th author, Associate Fellow)
 
 - **JWST Lensed Quasar Dark Matter Survey III: Dark Matter Sensitive Flux Ratios and Warm Dark Matter Constraint from the Full Sample**
 [https://arxiv.org/abs/2511.07765]
@@ -53,20 +61,4 @@
   + Chihway Chang? (19th author, Senior Member)
   + Scott Dodelson? (25th author, Senior Associate)
   + Chun-Hao To? (100th author, Associate Fellow)
-
-- **Euclid Quick Data Release (Q1). The average far-infrared properties of Euclid-selected star-forming galaxies**
-[https://arxiv.org/abs/2511.02989]
-  + LianTao Wang? (13th author, Senior Member)
-
-- **Euclid: Quick Data Release (Q1) -- Secondary nuclei in early-type galaxies**
-[https://arxiv.org/abs/2511.02988]
-  + LianTao Wang? (13th author, Senior Member)
-
-- **The SPHEREx Satellite Mission**
-[https://arxiv.org/abs/2511.02985]
-  + Lindsey Bleem (9th author, Senior Associate)
-
-- **Euclid: Quick Data Release (Q1)- The connection between galaxy close encounters and radio activity**
-[https://arxiv.org/abs/2511.02970]
-  + LianTao Wang? (7th author, Senior Member)
 
