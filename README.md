@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 11 21:00:44 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Nov 12 20:10:38 CST 2025)
 
 - **JWST Lensed Quasar Dark Matter Survey III: Dark Matter Sensitive Flux Ratios and Warm Dark Matter Constraint from the Full Sample**
 [https://arxiv.org/abs/2511.07765]
