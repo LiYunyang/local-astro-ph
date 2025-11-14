@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 12 21:01:18 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Nov 13 20:09:23 CST 2025)
 
 - **No TiO detected in the hot Neptune-desert planet LTT-9779 b in reflected light at high spectral resolution**
 [https://arxiv.org/abs/2511.08691]
