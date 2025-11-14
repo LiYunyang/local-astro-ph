@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 13 20:09:23 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Nov 13 21:00:55 CST 2025)
+
+- **Dark Matter and Baryon Asymmetry from Monopole-Axion Interactions**
+[https://arxiv.org/abs/2511.10603]
+  + Keisuke Harigaya (2th author, Senior Member)
+  + Huangyu Xiao (4th author, Associate Fellow)
 
 - **No TiO detected in the hot Neptune-desert planet LTT-9779 b in reflected light at high spectral resolution**
 [https://arxiv.org/abs/2511.08691]
@@ -53,12 +58,4 @@
 - **Large-Scale Structure Probes of the Post-Inflationary Axiverse**
 [https://arxiv.org/abs/2511.04734]
   + Georgios Valogiannis (3th author, Associate Fellow)
-
-- **Dark Energy Survey Year 3 results: Simulation-based $w$CDM inference from weak lensing and galaxy clustering maps with deep learning. I. Analysis design**
-[https://arxiv.org/abs/2511.04681]
-  + Dhayaa Anbajagane? (7th author, Graduate Student)
-  + Marco Gatti? (10th author, KICP Fellow)
-  + Chihway Chang? (19th author, Senior Member)
-  + Scott Dodelson? (25th author, Senior Associate)
-  + Chun-Hao To? (100th author, Associate Fellow)
 
