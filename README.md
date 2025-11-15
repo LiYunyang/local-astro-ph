@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 13 21:00:55 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Nov 14 20:06:57 CST 2025)
 
 - **Dark Matter and Baryon Asymmetry from Monopole-Axion Interactions**
 [https://arxiv.org/abs/2511.10603]
