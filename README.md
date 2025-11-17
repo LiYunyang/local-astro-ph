@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov 16 20:10:05 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Nov 16 21:01:29 CST 2025)
+
+- **Hybrid Simulations of Supersonic Shear Flows: I) Particle Acceleration**
+[https://arxiv.org/abs/2511.10739]
+  + Damiano Caprioli (2th author, Associate Professor)
+
+- **\textit{Euclid}: From Galaxies to Gravitational Waves -- Forecasting Stochastic Gravitational Wave Background Anisotropies and Their Cross-Correlation**
+[https://arxiv.org/abs/2511.11509]
+  + Alberto Castellano Mora? (89th author, Associate Fellow)
 
 - **Dark Matter and Baryon Asymmetry from Monopole-Axion Interactions**
 [https://arxiv.org/abs/2511.10603]
@@ -42,20 +50,4 @@
 - **EDGE-INFERNO: How chemical enrichment assumptions impact the individual stars of a simulated ultra-faint dwarf galaxy**
 [https://arxiv.org/abs/2511.05695]
   + Alexander Ji (6th author, Senior Member)
-
-- **A subpopulation of low-mass, spinning black holes: signatures of dynamical assembly**
-[https://arxiv.org/abs/2511.05316]
-  + Thomas Callister (2th author, KICP and Schmidt Fellow)
-
-- **How Low Can You Go: Constraining the Effects of Catalog Incompleteness on Dark Siren Cosmology**
-[https://arxiv.org/abs/2511.04786]
-  + Daniel E. Holz (5th author, Professor)
-
-- **Dents in the Mirror: A Novel Probe of Dark Matter Substructure in Galaxy Clusters from the Astrometric Asymmetry of Lensed Arcs**
-[https://arxiv.org/abs/2511.04748]
-  + Daniel Gilman (2th author, Associate Fellow)
-
-- **Large-Scale Structure Probes of the Post-Inflationary Axiverse**
-[https://arxiv.org/abs/2511.04734]
-  + Georgios Valogiannis (3th author, Associate Fellow)
 
