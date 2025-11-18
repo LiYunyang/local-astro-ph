@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 17 20:08:58 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Nov 17 21:00:24 CST 2025)
 
 - **Hybrid Simulations of Supersonic Shear Flows: I) Particle Acceleration**
 [https://arxiv.org/abs/2511.10739]
