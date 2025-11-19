@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 17 21:00:24 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Nov 18 20:08:44 CST 2025)
+
+- **Investigating the Dark Energy Constraint from Strongly Lensed AGN at LSST-Scale**
+[https://arxiv.org/abs/2511.13669]
+  + Anowar Shajib (7th author, KICP and Einstein Fellow)
+
+- **The Chandra Strong Lens Sample: Measuring the Dynamical States and Relaxation Fraction of a Sample of 28 Strong Lensing Selected Galaxy Clusters**
+[https://arxiv.org/abs/2511.12707]
+  + Michael D. Gladders (6th author, Professor)
+
+- **The Impact of Orbital Anisotropy Assumptions in Lensing-Dynamics Modeling**
+[https://arxiv.org/abs/2511.12013]
+  + Anowar Shajib (3th author, KICP and Einstein Fellow)
 
 - **Hybrid Simulations of Supersonic Shear Flows: I) Particle Acceleration**
 [https://arxiv.org/abs/2511.10739]
@@ -41,13 +53,5 @@
 
 - **JWST lensed quasar dark matter survey IV: Stringent warm dark matter constraints from the joint reconstruction of extended lensed arcs and quasar flux ratios**
 [https://arxiv.org/abs/2511.07513]
-  + Daniel Gilman (1th author, Associate Fellow)
-
-- **An XMM-Newton View of the ANdromeda Galaxy as Explored in a Legacy Survey (New-ANGELS) II: Luminosity Function of X-ray Sources**
-[https://arxiv.org/abs/2511.05856]
-  + Zhijie Qu (4th author, Postdoctoral Scholar)
-
-- **EDGE-INFERNO: How chemical enrichment assumptions impact the individual stars of a simulated ultra-faint dwarf galaxy**
-[https://arxiv.org/abs/2511.05695]
-  + Alexander Ji (6th author, Senior Member)
+  + Daniel Gilman? (1th author, Associate Fellow)
 
