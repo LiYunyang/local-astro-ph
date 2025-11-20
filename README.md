@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 18 21:00:21 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Nov 19 20:08:07 CST 2025)
 
 - **Large Scale White Noise and Cosmology**
 [https://arxiv.org/abs/2511.13866]
