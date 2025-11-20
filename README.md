@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 19 20:08:07 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Nov 19 20:58:52 CST 2025)
+
+- **Toward Complete Merger Identification at Cosmic Noon with Deep Learning**
+[https://arxiv.org/abs/2511.15006]
+  + Aleksandra  Ciprijanovic (2th author, CASE Associate)
 
 - **Large Scale White Noise and Cosmology**
 [https://arxiv.org/abs/2511.13866]
@@ -30,8 +34,4 @@
 [https://arxiv.org/abs/2511.10603]
   + Keisuke Harigaya (2th author, Senior Member)
   + Huangyu Xiao (4th author, Associate Fellow)
-
-- **No TiO detected in the hot Neptune-desert planet LTT-9779 b in reflected light at high spectral resolution**
-[https://arxiv.org/abs/2511.08691]
-  + Michael Radica (7th author, Postdoctoral Scholar)
 
