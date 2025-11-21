@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 19 20:58:52 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Nov 20 20:08:20 CST 2025)
 
 - **Toward Complete Merger Identification at Cosmic Noon with Deep Learning**
 [https://arxiv.org/abs/2511.15006]
