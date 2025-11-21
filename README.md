@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 20 20:08:20 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Nov 20 20:59:23 CST 2025)
+
+- **Unveiling Chemical Enrichment in the Abell 2029 Core with XRISM, XMM-Newton, and Chandra**
+[https://arxiv.org/abs/2511.15809]
+  + Irina Zhuravleva (8th author, Assistant Professor)
+
+- **The Noisy Universe**
+[https://arxiv.org/abs/2511.15803]
+  + Albert Stebbins (3th author, Senior Associate)
+
+- **How Bright in Gravitational Waves are Millisecond Pulsars for the Galactic Center GeV Gamma-Ray Excess? A Systematic Study**
+[https://arxiv.org/abs/2511.15793]
+  + Bei Zhou (2th author, Associate Fellow)
 
 - **Toward Complete Merger Identification at Cosmic Noon with Deep Learning**
 [https://arxiv.org/abs/2511.15006]
@@ -29,9 +41,4 @@
 - **\textit{Euclid}: From Galaxies to Gravitational Waves -- Forecasting Stochastic Gravitational Wave Background Anisotropies and Their Cross-Correlation**
 [https://arxiv.org/abs/2511.11509]
   + Alberto Castellano Mora? (89th author, Associate Fellow)
-
-- **Dark Matter and Baryon Asymmetry from Monopole-Axion Interactions**
-[https://arxiv.org/abs/2511.10603]
-  + Keisuke Harigaya (2th author, Senior Member)
-  + Huangyu Xiao (4th author, Associate Fellow)
 
