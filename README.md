@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Nov 22 21:05:54 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Nov 23 20:13:08 CST 2025)
 
 - **Unveiling Chemical Enrichment in the Abell 2029 Core with XRISM, XMM-Newton, and Chandra**
 [https://arxiv.org/abs/2511.15809]
