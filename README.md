@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov 23 20:13:08 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Nov 23 21:03:37 CST 2025)
+
+- **Deep Learning Analysis of Ions Accelerated at Shocks**
+[https://arxiv.org/abs/2511.17363]
+  + Damiano Caprioli (2th author, Associate Professor)
+  + Miha Cernetic (4th author, Postdoctoral Scholar)
+
+- **On the baryon budget in the X-ray-emitting circumgalactic medium of Milky Way-mass galaxies**
+[https://arxiv.org/abs/2511.17313]
+  + Zhijie Qu (6th author, Postdoctoral Scholar)
+
+- **Quantifying the impact of selection effects on FRB DM-$z$ relation cosmological inference**
+[https://arxiv.org/abs/2511.16850]
+  + Dhayaa Anbajagane (6th author, Graduate Student)
 
 - **Unveiling Chemical Enrichment in the Abell 2029 Core with XRISM, XMM-Newton, and Chandra**
 [https://arxiv.org/abs/2511.15809]
@@ -33,12 +46,4 @@
 - **The Impact of Orbital Anisotropy Assumptions in Lensing-Dynamics Modeling**
 [https://arxiv.org/abs/2511.12013]
   + Anowar Shajib (3th author, KICP and Einstein Fellow)
-
-- **Hybrid Simulations of Supersonic Shear Flows: I) Particle Acceleration**
-[https://arxiv.org/abs/2511.10739]
-  + Damiano Caprioli (2th author, Associate Professor)
-
-- **\textit{Euclid}: From Galaxies to Gravitational Waves -- Forecasting Stochastic Gravitational Wave Background Anisotropies and Their Cross-Correlation**
-[https://arxiv.org/abs/2511.11509]
-  + Alberto Castellano Mora? (89th author, Associate Fellow)
 
