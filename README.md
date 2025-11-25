@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov 23 21:03:37 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Nov 24 20:09:54 CST 2025)
 
 - **Deep Learning Analysis of Ions Accelerated at Shocks**
 [https://arxiv.org/abs/2511.17363]
