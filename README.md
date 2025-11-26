@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 25 20:10:10 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Nov 25 21:01:15 CST 2025)
+
+- **Precise mass and radius determination for two new and one known Neptune-sized planets around G Dwarf hosts**
+[https://arxiv.org/abs/2511.20119]
+  + Rafael Luque (49th author, Postdoctoral Scholar)
 
 - **An Overabundance of Radio-AGN in the SPT2349-56 Protocluster: Preheating the Intra-Cluster Medium**
 [https://arxiv.org/abs/2511.17814]
@@ -38,8 +42,4 @@
 - **Toward Complete Merger Identification at Cosmic Noon with Deep Learning**
 [https://arxiv.org/abs/2511.15006]
   + Aleksandra  Ciprijanovic (2th author, CASE Associate)
-
-- **Large Scale White Noise and Cosmology**
-[https://arxiv.org/abs/2511.13866]
-  + Albert Stebbins (3th author, Senior Associate)
 
