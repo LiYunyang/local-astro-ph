@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 24 21:01:27 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Nov 25 20:10:10 CST 2025)
+
+- **An Overabundance of Radio-AGN in the SPT2349-56 Protocluster: Preheating the Intra-Cluster Medium**
+[https://arxiv.org/abs/2511.17814]
+  + Melanie Archipley (6th author, Associate Fellow)
+
+- **Neural posterior estimation of the line-of-sight and subhalo populations in galaxy-scale strong lensing systems**
+[https://arxiv.org/abs/2511.17732]
+  + Daniel Gilman (3th author, Associate Fellow)
 
 - **Deep Learning Analysis of Ions Accelerated at Shocks**
 [https://arxiv.org/abs/2511.17363]
@@ -34,16 +42,4 @@
 - **Large Scale White Noise and Cosmology**
 [https://arxiv.org/abs/2511.13866]
   + Albert Stebbins (3th author, Senior Associate)
-
-- **Investigating the Dark Energy Constraint from Strongly Lensed AGN at LSST-Scale**
-[https://arxiv.org/abs/2511.13669]
-  + Anowar Shajib (7th author, KICP and Einstein Fellow)
-
-- **The Chandra Strong Lens Sample: Measuring the Dynamical States and Relaxation Fraction of a Sample of 28 Strong Lensing Selected Galaxy Clusters**
-[https://arxiv.org/abs/2511.12707]
-  + Michael D. Gladders (6th author, Professor)
-
-- **The Impact of Orbital Anisotropy Assumptions in Lensing-Dynamics Modeling**
-[https://arxiv.org/abs/2511.12013]
-  + Anowar Shajib (3th author, KICP and Einstein Fellow)
 
