@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 26 20:08:25 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Nov 26 21:00:19 CST 2025)
 
 - **Precise mass and radius determination for two new and one known Neptune-sized planets around G Dwarf hosts**
 [https://arxiv.org/abs/2511.20119]
@@ -38,8 +38,4 @@
 - **How Bright in Gravitational Waves are Millisecond Pulsars for the Galactic Center GeV Gamma-Ray Excess? A Systematic Study**
 [https://arxiv.org/abs/2511.15793]
   + Bei Zhou (2th author, Associate Fellow)
-
-- **Toward Complete Merger Identification at Cosmic Noon with Deep Learning**
-[https://arxiv.org/abs/2511.15006]
-  + Aleksandra  Ciprijanovic (2th author, CASE Associate)
 
