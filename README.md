@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 26 21:00:19 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Nov 27 20:08:04 CST 2025)
 
 - **Precise mass and radius determination for two new and one known Neptune-sized planets around G Dwarf hosts**
 [https://arxiv.org/abs/2511.20119]
