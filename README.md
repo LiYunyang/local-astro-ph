@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec  1 20:11:30 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Dec  1 21:02:15 CST 2025)
 
 - **The EBLM Project XVIII. 3D Obliquities of Five Low-Mass Eclipsing Binaries**
 [https://arxiv.org/abs/2511.23430]
