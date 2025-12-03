@@ -1,6 +1,20 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec  2 20:11:14 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Dec  2 21:01:49 CST 2025)
+
+- **$S^5$: Tidal Disruption in Crater 2 and Formation of Diffuse Dwarf Galaxies in the Local Group**
+[https://arxiv.org/abs/2512.02177]
+  + Guilherme Limberg (1th author, KICP Fellow)
+  + Alexander Ji (2th author, Senior Member)
+  + Alex Drlica-Wagner (13th author, Senior Member)
+
+- **Possible $ν$ Source Class: 3-sigma Detection of High-Energy Neutrinos from Supermassive Black Hole Binary Candidates**
+[https://arxiv.org/abs/2512.02099]
+  + Bei Zhou (3th author, Associate Fellow)
+
+- **Photon (Non)Conservation in the Reduced Speed of Light Approximation and How to (Almost) Fix It**
+[https://arxiv.org/abs/2512.02094]
+  + Nickolay Gnedin (1th author, Senior Member)
 
 - **JWST & the Waz Arc I: Spatially Resolving the Physical Conditions within a Post-Starburst Galaxy at Redshift 5 with NIRSpec IFS**
 [https://arxiv.org/abs/2512.02000]
@@ -69,12 +83,4 @@
 - **Precise mass and radius determination for two new and one known Neptune-sized planets around G Dwarf hosts**
 [https://arxiv.org/abs/2511.20119]
   + Rafael Luque (49th author, Postdoctoral Scholar)
-
-- **An Overabundance of Radio-AGN in the SPT2349-56 Protocluster: Preheating the Intra-Cluster Medium**
-[https://arxiv.org/abs/2511.17814]
-  + Melanie Archipley (6th author, Associate Fellow)
-
-- **Neural posterior estimation of the line-of-sight and subhalo populations in galaxy-scale strong lensing systems**
-[https://arxiv.org/abs/2511.17732]
-  + Daniel Gilman (3th author, Associate Fellow)
 
