@@ -1,6 +1,48 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec  1 21:02:15 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Dec  2 20:11:14 CST 2025)
+
+- **JWST & the Waz Arc I: Spatially Resolving the Physical Conditions within a Post-Starburst Galaxy at Redshift 5 with NIRSpec IFS**
+[https://arxiv.org/abs/2512.02000]
+  + Michael D. Gladders (12th author, Professor)
+  + Erik Solhaug (25th author, Graduate Student)
+
+- **Giant Outer Transiting Exoplanet Mass (GOTEM) Survey.VII. TOI-6041: a multi-planet system including a warm Neptune exhibiting strong TTVs**
+[https://arxiv.org/abs/2512.01911]
+  + Samuel McDermott? (71th author, Senior Researcher)
+
+- **A window for water-hydrogen demixing on warm metal-rich sub-Neptunes**
+[https://arxiv.org/abs/2512.01805]
+  + Leslie Rogers (5th author, Associate Professor)
+  + Fernanda Correa Horta (6th author, Graduate Student)
+
+- **GASTRO library II: Exploring Chemical Bimodalities in Disk Galaxies with GSE-like Mergers and Massive Star-forming Clumps**
+[https://arxiv.org/abs/2512.01293]
+  + Guilherme Limberg (5th author, KICP Fellow)
+
+- **OzDES Reverberation Mapping of Active Galactic Nuclei: Final Data Release, Black-Hole Mass Results, & Scaling Relations**
+[https://arxiv.org/abs/2512.01261]
+  + Chun-Hao To? (53th author, Associate Fellow)
+
+- **Starspots and Flares are Generally Not Correlated**
+[https://arxiv.org/abs/2512.01051]
+  + David Martin (3th author, Graduate Student)
+
+- **Dynamical Heating from Dark Compact Objects and Axion Minihalos: Implications for the 21-cm Signal**
+[https://arxiv.org/abs/2512.00169]
+  + Huangyu Xiao (4th author, Associate Fellow)
+
+- **The role of prompt cusps in driving the core collapse of SIDM halos**
+[https://arxiv.org/abs/2512.00145]
+  + Daniel Gilman (2th author, Associate Fellow)
+
+- **Widen the Resonance at Ultra-High Energies: Novel Probes of Neutrino Self-interactions in the High-Mass Regime**
+[https://arxiv.org/abs/2512.00165]
+  + Bei Zhou (4th author, Associate Fellow)
+
+- **Cosmology of Gravi-Axions**
+[https://arxiv.org/abs/2512.00154]
+  + Leah Jenks (3th author, KICP Fellow)
 
 - **The EBLM Project XVIII. 3D Obliquities of Five Low-Mass Eclipsing Binaries**
 [https://arxiv.org/abs/2511.23430]
@@ -35,17 +77,4 @@
 - **Neural posterior estimation of the line-of-sight and subhalo populations in galaxy-scale strong lensing systems**
 [https://arxiv.org/abs/2511.17732]
   + Daniel Gilman (3th author, Associate Fellow)
-
-- **Deep Learning Analysis of Ions Accelerated at Shocks**
-[https://arxiv.org/abs/2511.17363]
-  + Damiano Caprioli (2th author, Associate Professor)
-  + Miha Cernetic (4th author, Postdoctoral Scholar)
-
-- **On the baryon budget in the X-ray-emitting circumgalactic medium of Milky Way-mass galaxies**
-[https://arxiv.org/abs/2511.17313]
-  + Zhijie Qu (6th author, Postdoctoral Scholar)
-
-- **Quantifying the impact of selection effects on FRB DM-$z$ relation cosmological inference**
-[https://arxiv.org/abs/2511.16850]
-  + Dhayaa Anbajagane (6th author, Graduate Student)
 
