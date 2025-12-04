@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec  3 20:11:35 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Dec  3 21:02:26 CST 2025)
+
+- **TDCOSMO. XXIV. Measurement of the Hubble constant from the doubly lensed quasar HE1104-1805**
+[https://arxiv.org/abs/2512.03178]
+  + Elizabeth Buckley-Geer (9th author, Senior Associate)
+  + Anowar Shajib (15th author, KICP and Einstein Fellow)
+
+- **Infrared emission from $z \sim 6.5$ quasar host galaxies: a direct estimate of dust physical properties**
+[https://arxiv.org/abs/2512.03143]
+  + Fei Xu? (9th author, Graduate Student)
+
+- **The Mass-Metallicity Relation and its Observational Effects at z~3-6**
+[https://arxiv.org/abs/2512.03134]
+  + Harley Katz (14th author, Senior Member)
+
+- **A Thermal Relic Encyclopedia: Dark Matter Candidates Coupled to Quarks**
+[https://arxiv.org/abs/2512.03133]
+  + Gordan Krnjaic (2th author, Senior Member)
 
 - **$S^5$: Tidal Disruption in Crater 2 and Formation of Diffuse Dwarf Galaxies in the Local Group**
 [https://arxiv.org/abs/2512.02177]
@@ -79,8 +96,4 @@
 - **Little Red Dots host Black Hole Stars: A unified family of gas-reddened AGN revealed by JWST/NIRSpec spectroscopy**
 [https://arxiv.org/abs/2511.21820]
   + Harley Katz (9th author, Senior Member)
-
-- **Precise mass and radius determination for two new and one known Neptune-sized planets around G Dwarf hosts**
-[https://arxiv.org/abs/2511.20119]
-  + Rafael Luque (49th author, Postdoctoral Scholar)
 
