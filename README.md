@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec  2 21:01:49 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Dec  3 20:11:35 CST 2025)
 
 - **$S^5$: Tidal Disruption in Crater 2 and Formation of Diffuse Dwarf Galaxies in the Local Group**
 [https://arxiv.org/abs/2512.02177]
