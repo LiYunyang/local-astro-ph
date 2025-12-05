@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Dec  4 20:11:43 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Dec  4 21:02:39 CST 2025)
+
+- **Line-of-sight shear in SLACS strong lenses II: validation tests with an extended sample**
+[https://arxiv.org/abs/2512.05050]
+  + Anowar Shajib (3th author, KICP and Einstein Fellow)
+
+- **Separating flare and secondary atmospheric signals with RADYN modeling of near-infrared JWST transmission spectroscopy observations of TRAPPIST-1**
+[https://arxiv.org/abs/2512.04265]
+  + Michael Radica (3th author, Postdoctoral Scholar)
+
+- **Confronting cosmic shear astrophysical uncertainties: DES Year 3 revisited**
+[https://arxiv.org/abs/2512.04209]
+  + Marco Gatti (12th author, KICP Fellow)
 
 - **TDCOSMO. XXIV. Measurement of the Hubble constant from the doubly lensed quasar HE1104-1805**
 [https://arxiv.org/abs/2512.03178]
