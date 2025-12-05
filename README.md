@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec  3 21:02:26 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Dec  4 20:11:43 CST 2025)
 
 - **TDCOSMO. XXIV. Measurement of the Hubble constant from the doubly lensed quasar HE1104-1805**
 [https://arxiv.org/abs/2512.03178]
