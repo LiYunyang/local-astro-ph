@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Dec  5 20:07:39 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Dec  5 20:58:04 CST 2025)
 
 - **Line-of-sight shear in SLACS strong lenses II: validation tests with an extended sample**
 [https://arxiv.org/abs/2512.05050]
