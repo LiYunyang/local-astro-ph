@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Dec  7 20:12:01 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Dec  7 21:03:10 CST 2025)
+
+- **Constraints on nDGP gravity from SPT galaxy clusters with DES and HST weak-lensing mass calibration and from Planck PR4 CMB anisotropies**
+[https://arxiv.org/abs/2512.05819]
+  + Lindsey Bleem? (10th author, Senior Associate)
+  + Chun-Hao To? (50th author, Associate Fellow)
 
 - **Line-of-sight shear in SLACS strong lenses II: validation tests with an extended sample**
 [https://arxiv.org/abs/2512.05050]
@@ -86,26 +91,4 @@
 - **Cosmology of Gravi-Axions**
 [https://arxiv.org/abs/2512.00154]
   + Leah Jenks (3th author, KICP Fellow)
-
-- **The EBLM Project XVIII. 3D Obliquities of Five Low-Mass Eclipsing Binaries**
-[https://arxiv.org/abs/2511.23430]
-  + David Martin (2th author, Graduate Student)
-
-- **Detection of the Pairwise Kinematic Sunyaev-Zel'dovich Effect and Pairwise Velocity with DESI DR1 Galaxies and ACT DR6 and Planck CMB Data**
-[https://arxiv.org/abs/2511.23417]
-  + Patricio Gallardo (2th author, KICP Fellow)
-  + Rayne Liu? (27th author, Graduate Student)
-
-- **Tracing Structure: Shape and Centroid Deviations in 39 Strong Lensing Clusters as a Test of Cluster Formation Predictions**
-[https://arxiv.org/abs/2511.22661]
-  + Michael D. Gladders (5th author, Professor)
-
-- **Modeling Galaxy Formation in Cosmological Simulations with CRK-HACC**
-[https://arxiv.org/abs/2511.21921]
-  + Salman Habib (4th author, Senior Associate)
-  + Katrin Heitmann (5th author, Senior Associate)
-
-- **Little Red Dots host Black Hole Stars: A unified family of gas-reddened AGN revealed by JWST/NIRSpec spectroscopy**
-[https://arxiv.org/abs/2511.21820]
-  + Harley Katz (9th author, Senior Member)
 
