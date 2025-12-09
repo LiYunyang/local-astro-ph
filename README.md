@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec  8 20:11:35 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Dec  8 21:02:14 CST 2025)
 
 - **Constraints on nDGP gravity from SPT galaxy clusters with DES and HST weak-lensing mass calibration and from Planck PR4 CMB anisotropies**
 [https://arxiv.org/abs/2512.05819]
