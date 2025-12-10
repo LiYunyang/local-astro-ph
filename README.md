@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec  8 21:02:14 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Dec  9 20:12:46 CST 2025)
+
+- **DESI Strong Lens Foundry V: A Sample of HST-Observed Strong Lenses Modeled with GIGA-Lens**
+[https://arxiv.org/abs/2512.07823]
+  + Shrihan Agarwal? (9th author, Graduate Student)
+
+- **Rebrightenings of gamma-ray burst afterglows from an increasing magnetic inclination angle of a nascent magnetar**
+[https://arxiv.org/abs/2512.06394]
+  + Juliang Li? (2th author, Postdoctoral Scholar)
+
+- **A Fully Photometric Approach to Type Ia Supernova Cosmology in the LSST Era: Host Galaxy Redshifts and Supernova Classification**
+[https://arxiv.org/abs/2512.06319]
+  + Richard Kessler (2th author, Senior Researcher)
+
+- **Possible $ν$ Source Class: 3-sigma Detection of High-Energy Neutrinos from Supermassive Black Hole Binary Candidates**
+[https://arxiv.org/abs/2512.02099]
+  + Bei Zhou (3th author, Associate Fellow)
+
+- **Widen the Resonance at Ultra-High Energies: Novel Probes of Neutrino Self-interactions in the High-Mass Regime**
+[https://arxiv.org/abs/2512.00165]
+  + Bei Zhou (4th author, Associate Fellow)
 
 - **Constraints on nDGP gravity from SPT galaxy clusters with DES and HST weak-lensing mass calibration and from Planck PR4 CMB anisotropies**
 [https://arxiv.org/abs/2512.05819]
@@ -42,53 +62,7 @@
   + Alexander Ji (2th author, Senior Member)
   + Alex Drlica-Wagner (13th author, Senior Member)
 
-- **Possible $ν$ Source Class: 3-sigma Detection of High-Energy Neutrinos from Supermassive Black Hole Binary Candidates**
-[https://arxiv.org/abs/2512.02099]
-  + Bei Zhou (3th author, Associate Fellow)
-
 - **Photon (Non)Conservation in the Reduced Speed of Light Approximation and How to (Almost) Fix It**
 [https://arxiv.org/abs/2512.02094]
   + Nickolay Gnedin (1th author, Senior Member)
-
-- **JWST & the Waz Arc I: Spatially Resolving the Physical Conditions within a Post-Starburst Galaxy at Redshift 5 with NIRSpec IFS**
-[https://arxiv.org/abs/2512.02000]
-  + Michael D. Gladders (12th author, Professor)
-  + Erik Solhaug (25th author, Graduate Student)
-
-- **Giant Outer Transiting Exoplanet Mass (GOTEM) Survey.VII. TOI-6041: a multi-planet system including a warm Neptune exhibiting strong TTVs**
-[https://arxiv.org/abs/2512.01911]
-  + Samuel McDermott? (71th author, Senior Researcher)
-
-- **A window for water-hydrogen demixing on warm metal-rich sub-Neptunes**
-[https://arxiv.org/abs/2512.01805]
-  + Leslie Rogers (5th author, Associate Professor)
-  + Fernanda Correa Horta (6th author, Graduate Student)
-
-- **GASTRO library II: Exploring Chemical Bimodalities in Disk Galaxies with GSE-like Mergers and Massive Star-forming Clumps**
-[https://arxiv.org/abs/2512.01293]
-  + Guilherme Limberg (5th author, KICP Fellow)
-
-- **OzDES Reverberation Mapping of Active Galactic Nuclei: Final Data Release, Black-Hole Mass Results, & Scaling Relations**
-[https://arxiv.org/abs/2512.01261]
-  + Chun-Hao To? (53th author, Associate Fellow)
-
-- **Starspots and Flares are Generally Not Correlated**
-[https://arxiv.org/abs/2512.01051]
-  + David Martin (3th author, Graduate Student)
-
-- **Dynamical Heating from Dark Compact Objects and Axion Minihalos: Implications for the 21-cm Signal**
-[https://arxiv.org/abs/2512.00169]
-  + Huangyu Xiao (4th author, Associate Fellow)
-
-- **The role of prompt cusps in driving the core collapse of SIDM halos**
-[https://arxiv.org/abs/2512.00145]
-  + Daniel Gilman (2th author, Associate Fellow)
-
-- **Widen the Resonance at Ultra-High Energies: Novel Probes of Neutrino Self-interactions in the High-Mass Regime**
-[https://arxiv.org/abs/2512.00165]
-  + Bei Zhou (4th author, Associate Fellow)
-
-- **Cosmology of Gravi-Axions**
-[https://arxiv.org/abs/2512.00154]
-  + Leah Jenks (3th author, KICP Fellow)
 
