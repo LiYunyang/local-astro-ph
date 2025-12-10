@@ -1,6 +1,31 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec  9 20:12:46 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Dec  9 21:03:18 CST 2025)
+
+- **Foreground Mitigation for CMB Lensing with the Global Minimum Variance Quadratic Estimator**
+[https://arxiv.org/abs/2512.08908]
+  + Yuuki Omori (4th author, Senior Researcher)
+
+- **A search for successful and choked jets in nearby broad-lined Type Ic supernovae**
+[https://arxiv.org/abs/2512.08822]
+  + Bei Zhou (9th author, Associate Fellow)
+
+- **Euclid Quick Data Release (Q1): Euclid spectroscopy of QSOs. 1. Identification and redshift determination of 3500 bright QSOs**
+[https://arxiv.org/abs/2512.08803]
+  + LianTao Wang? (8th author, Senior Member)
+
+- **Forecasting Dark Matter Subhalo Constraints from Stellar Streams using Implicit Likelihood Inference**
+[https://arxiv.org/abs/2512.07960]
+  + Scott Dodelson (5th author, Senior Associate)
+
+- **The dynamic central environment of NGC 3516 revealed by XRISM**
+[https://arxiv.org/abs/2512.07950]
+  + Daniele Rogantini (6th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Detecting Neutrino Emission from Supernova Remnants: A Theoretically Motivated Target Catalog**
+[https://arxiv.org/abs/2512.07940]
+  + Emily Simon (1th author, Graduate Student)
+  + Damiano Caprioli (3th author, Associate Professor)
 
 - **DESI Strong Lens Foundry V: A Sample of HST-Observed Strong Lenses Modeled with GIGA-Lens**
 [https://arxiv.org/abs/2512.07823]
@@ -55,14 +80,4 @@
 - **A Thermal Relic Encyclopedia: Dark Matter Candidates Coupled to Quarks**
 [https://arxiv.org/abs/2512.03133]
   + Gordan Krnjaic (2th author, Senior Member)
-
-- **$S^5$: Tidal Disruption in Crater 2 and Formation of Diffuse Dwarf Galaxies in the Local Group**
-[https://arxiv.org/abs/2512.02177]
-  + Guilherme Limberg (1th author, KICP Fellow)
-  + Alexander Ji (2th author, Senior Member)
-  + Alex Drlica-Wagner (13th author, Senior Member)
-
-- **Photon (Non)Conservation in the Reduced Speed of Light Approximation and How to (Almost) Fix It**
-[https://arxiv.org/abs/2512.02094]
-  + Nickolay Gnedin (1th author, Senior Member)
 
