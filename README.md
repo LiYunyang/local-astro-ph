@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec  9 21:03:18 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Dec 10 20:12:57 CST 2025)
 
 - **Foreground Mitigation for CMB Lensing with the Global Minimum Variance Quadratic Estimator**
 [https://arxiv.org/abs/2512.08908]
