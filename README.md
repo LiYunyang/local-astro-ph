@@ -1,6 +1,17 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec 10 20:12:57 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Dec 10 21:04:04 CST 2025)
+
+- **On the connection between galaxy orientation and halo absorption properties**
+[https://arxiv.org/abs/2512.09075]
+  + Hsiao-Wen Chen (3th author, Senior Member)
+
+- **Probing jet base emission of M87* with the 2021 Event Horizon Telescope observations**
+[https://arxiv.org/abs/2512.08970]
+  + Bradford A. Benson (32th author, Associate Professor)
+  + John Carlstrom (44th author, Senior Member)
+  + Paul Chichura (53th author, Graduate Student)
+  + Thomas Crawford (58th author, Senior Researcher)
 
 - **Foreground Mitigation for CMB Lensing with the Global Minimum Variance Quadratic Estimator**
 [https://arxiv.org/abs/2512.08908]
@@ -63,21 +74,4 @@
 - **Confronting cosmic shear astrophysical uncertainties: DES Year 3 revisited**
 [https://arxiv.org/abs/2512.04209]
   + Marco Gatti (12th author, KICP Fellow)
-
-- **TDCOSMO. XXIV. Measurement of the Hubble constant from the doubly lensed quasar HE1104-1805**
-[https://arxiv.org/abs/2512.03178]
-  + Elizabeth Buckley-Geer (9th author, Senior Associate)
-  + Anowar Shajib (15th author, KICP and Einstein Fellow)
-
-- **Infrared emission from $z \sim 6.5$ quasar host galaxies: a direct estimate of dust physical properties**
-[https://arxiv.org/abs/2512.03143]
-  + Fei Xu? (9th author, Graduate Student)
-
-- **The Mass-Metallicity Relation and its Observational Effects at z~3-6**
-[https://arxiv.org/abs/2512.03134]
-  + Harley Katz (14th author, Senior Member)
-
-- **A Thermal Relic Encyclopedia: Dark Matter Candidates Coupled to Quarks**
-[https://arxiv.org/abs/2512.03133]
-  + Gordan Krnjaic (2th author, Senior Member)
 
