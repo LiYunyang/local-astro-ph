@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec 10 21:04:04 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Dec 11 20:12:57 CST 2025)
 
 - **On the connection between galaxy orientation and halo absorption properties**
 [https://arxiv.org/abs/2512.09075]
