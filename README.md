@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Dec 11 20:12:57 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Dec 11 21:03:40 CST 2025)
+
+- **A Stellar Magnesium to Silicon ratio in the atmosphere of an exoplanet**
+[https://arxiv.org/abs/2512.10904]
+  + Jacob L. Bean (10th author, Professor)
+
+- **Diversity in the haziness and chemistry of temperate sub-Neptunes**
+[https://arxiv.org/abs/2512.10876]
+  + Michael Radica (13th author, Postdoctoral Scholar)
+
+- **Detailed Chemical Abundance Analysis of the Brightest Stars in the Turranburra and Willka Yaku Stellar Streams**
+[https://arxiv.org/abs/2512.10003]
+  + Alexander Ji (4th author, Senior Member)
+  + Guilherme Limberg (21th author, KICP Fellow)
+
+- **Characterizing the Roman Grism Redshift Efficiency of Type Ia Supernova Host Galaxies for the High-Latitude Time-Domain Survey**
+[https://arxiv.org/abs/2512.09993]
+  + Richard Kessler? (5th author, Senior Researcher)
 
 - **On the connection between galaxy orientation and halo absorption properties**
 [https://arxiv.org/abs/2512.09075]
@@ -62,16 +79,4 @@
 [https://arxiv.org/abs/2512.05819]
   + Lindsey Bleem? (10th author, Senior Associate)
   + Chun-Hao To? (50th author, Associate Fellow)
-
-- **Line-of-sight shear in SLACS strong lenses II: validation tests with an extended sample**
-[https://arxiv.org/abs/2512.05050]
-  + Anowar Shajib (3th author, KICP and Einstein Fellow)
-
-- **Separating flare and secondary atmospheric signals with RADYN modeling of near-infrared JWST transmission spectroscopy observations of TRAPPIST-1**
-[https://arxiv.org/abs/2512.04265]
-  + Michael Radica (3th author, Postdoctoral Scholar)
-
-- **Confronting cosmic shear astrophysical uncertainties: DES Year 3 revisited**
-[https://arxiv.org/abs/2512.04209]
-  + Marco Gatti (12th author, KICP Fellow)
 
