@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Dec 12 20:09:50 CST 2025)
+## Latest Astro-ph Papers (Generated on Fri Dec 12 21:01:24 CST 2025)
 
 - **A Stellar Magnesium to Silicon ratio in the atmosphere of an exoplanet**
 [https://arxiv.org/abs/2512.10904]
