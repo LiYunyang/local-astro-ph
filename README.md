@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Dec 14 20:13:04 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Dec 14 21:07:36 CST 2025)
 
 - **A Stellar Magnesium to Silicon ratio in the atmosphere of an exoplanet**
 [https://arxiv.org/abs/2512.10904]
@@ -74,9 +74,4 @@
 - **Widen the Resonance at Ultra-High Energies: Novel Probes of Neutrino Self-interactions in the High-Mass Regime**
 [https://arxiv.org/abs/2512.00165]
   + Bei Zhou (4th author, Associate Fellow)
-
-- **Constraints on nDGP gravity from SPT galaxy clusters with DES and HST weak-lensing mass calibration and from Planck PR4 CMB anisotropies**
-[https://arxiv.org/abs/2512.05819]
-  + Lindsey Bleem? (10th author, Senior Associate)
-  + Chun-Hao To? (50th author, Associate Fellow)
 
