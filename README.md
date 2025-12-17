@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec 16 20:11:13 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Dec 16 21:02:33 CST 2025)
 
 - **XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**
 [https://arxiv.org/abs/2512.13682]
@@ -47,29 +47,4 @@
   + John Carlstrom (44th author, Senior Member)
   + Paul Chichura (53th author, Graduate Student)
   + Thomas Crawford (58th author, Senior Researcher)
-
-- **Foreground Mitigation for CMB Lensing with the Global Minimum Variance Quadratic Estimator**
-[https://arxiv.org/abs/2512.08908]
-  + Yuuki Omori (4th author, Senior Researcher)
-
-- **A search for successful and choked jets in nearby broad-lined Type Ic supernovae**
-[https://arxiv.org/abs/2512.08822]
-  + Bei Zhou (9th author, Associate Fellow)
-
-- **Euclid Quick Data Release (Q1): Euclid spectroscopy of QSOs. 1. Identification and redshift determination of 3500 bright QSOs**
-[https://arxiv.org/abs/2512.08803]
-  + LianTao Wang? (8th author, Senior Member)
-
-- **Forecasting Dark Matter Subhalo Constraints from Stellar Streams using Implicit Likelihood Inference**
-[https://arxiv.org/abs/2512.07960]
-  + Scott Dodelson (5th author, Senior Associate)
-
-- **The dynamic central environment of NGC 3516 revealed by XRISM**
-[https://arxiv.org/abs/2512.07950]
-  + Daniele Rogantini (6th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Detecting Neutrino Emission from Supernova Remnants: A Theoretically Motivated Target Catalog**
-[https://arxiv.org/abs/2512.07940]
-  + Emily Simon (1th author, Graduate Student)
-  + Damiano Caprioli (3th author, Associate Professor)
 
