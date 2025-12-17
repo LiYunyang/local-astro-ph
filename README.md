@@ -1,6 +1,24 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec 15 21:03:53 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Dec 16 20:11:13 CST 2025)
+
+- **XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**
+[https://arxiv.org/abs/2512.13682]
+  + LianTao Wang? (11th author, Senior Member)
+
+- **Kinematics of H I and O VI Absorbers: Insights into the Turbulence Driver of the Multiphase Circumgalactic Medium**
+[https://arxiv.org/abs/2512.12958]
+  + Zhijie Qu (1th author, Postdoctoral Scholar)
+  + Hsiao-Wen Chen (2th author, Senior Member)
+
+- **Disentangling AGN Feedback and Sloshing in the Perseus Cluster with XRISM: Insights from Simulations**
+[https://arxiv.org/abs/2512.12754]
+  + Irina Zhuravleva (4th author, Assistant Professor)
+  + Annie Heinrich (8th author, Graduate Student)
+
+- **Particle Acceleration in Magnetized Shear-Driven Turbulence**
+[https://arxiv.org/abs/2512.12720]
+  + Damiano Caprioli (5th author, Associate Professor)
 
 - **A Stellar Magnesium to Silicon ratio in the atmosphere of an exoplanet**
 [https://arxiv.org/abs/2512.10904]
@@ -54,24 +72,4 @@
 [https://arxiv.org/abs/2512.07940]
   + Emily Simon (1th author, Graduate Student)
   + Damiano Caprioli (3th author, Associate Professor)
-
-- **DESI Strong Lens Foundry V: A Sample of HST-Observed Strong Lenses Modeled with GIGA-Lens**
-[https://arxiv.org/abs/2512.07823]
-  + Shrihan Agarwal? (9th author, Graduate Student)
-
-- **Rebrightenings of gamma-ray burst afterglows from an increasing magnetic inclination angle of a nascent magnetar**
-[https://arxiv.org/abs/2512.06394]
-  + Juliang Li? (2th author, Postdoctoral Scholar)
-
-- **A Fully Photometric Approach to Type Ia Supernova Cosmology in the LSST Era: Host Galaxy Redshifts and Supernova Classification**
-[https://arxiv.org/abs/2512.06319]
-  + Richard Kessler (2th author, Senior Researcher)
-
-- **Possible $ν$ Source Class: 3-sigma Detection of High-Energy Neutrinos from Supermassive Black Hole Binary Candidates**
-[https://arxiv.org/abs/2512.02099]
-  + Bei Zhou (3th author, Associate Fellow)
-
-- **Widen the Resonance at Ultra-High Energies: Novel Probes of Neutrino Self-interactions in the High-Mass Regime**
-[https://arxiv.org/abs/2512.00165]
-  + Bei Zhou (4th author, Associate Fellow)
 
