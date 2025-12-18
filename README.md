@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec 16 21:02:33 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Dec 17 20:11:47 CST 2025)
 
 - **XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**
 [https://arxiv.org/abs/2512.13682]
