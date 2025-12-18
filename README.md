@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec 17 20:11:47 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Dec 17 21:02:56 CST 2025)
+
+- **AMKID -- a large KID-based camera at the APEX telescope**
+[https://arxiv.org/abs/2512.14905]
+  + LianTao Wang? (26th author, Senior Member)
+
+- **Gamma-Ray and AntiMatter Survey(GRAMS) experiment**
+[https://arxiv.org/abs/2512.14913]
+  + Kenichi Sakai? (42th author, Research Scientist)
 
 - **XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**
 [https://arxiv.org/abs/2512.13682]
@@ -36,15 +44,4 @@
 - **Characterizing the Roman Grism Redshift Efficiency of Type Ia Supernova Host Galaxies for the High-Latitude Time-Domain Survey**
 [https://arxiv.org/abs/2512.09993]
   + Richard Kessler? (5th author, Senior Researcher)
-
-- **On the connection between galaxy orientation and halo absorption properties**
-[https://arxiv.org/abs/2512.09075]
-  + Hsiao-Wen Chen (3th author, Senior Member)
-
-- **Probing jet base emission of M87* with the 2021 Event Horizon Telescope observations**
-[https://arxiv.org/abs/2512.08970]
-  + Bradford A. Benson (32th author, Associate Professor)
-  + John Carlstrom (44th author, Senior Member)
-  + Paul Chichura (53th author, Graduate Student)
-  + Thomas Crawford (58th author, Senior Researcher)
 
