@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Dec 17 21:02:56 CST 2025)
+## Latest Astro-ph Papers (Generated on Thu Dec 18 20:12:56 CST 2025)
 
 - **AMKID -- a large KID-based camera at the APEX telescope**
 [https://arxiv.org/abs/2512.14905]
