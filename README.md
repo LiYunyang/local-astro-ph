@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Dec 20 21:07:01 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Dec 21 20:13:17 CST 2025)
 
 - **A Square Kilometre Array Pulsar Census**
 [https://arxiv.org/abs/2512.16153]
