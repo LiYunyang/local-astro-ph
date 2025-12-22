@@ -1,6 +1,20 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Dec 21 20:13:17 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Dec 21 21:09:11 CST 2025)
+
+- **Validating the performance of the Radio Neutrino Observatory in Greenland using cosmic-ray air showers**
+[https://arxiv.org/abs/2512.17664]
+  + Shrihan Agarwal? (1th author, Graduate Student)
+  + Nathaniel Alden? (3th author, Graduate Student)
+  + Cosmin Deaconu? (20th author, Senior Researcher)
+  + Eric Oberla? (55th author, Senior Researcher)
+  + Abigail Vieregg? (74th author, David N. Schramm Director and Senior Member)
+  + Christoph Welling? (77th author, KICP Fellow)
+  + Philipp Windischhofer? (79th author, Associate Fellow)
+
+- **Creation of spin-3/2 dark matter via cosmological gravitational particle production**
+[https://arxiv.org/abs/2512.16976]
+  + Edward Kolb (1th author, Senior Member)
 
 - **A Square Kilometre Array Pulsar Census**
 [https://arxiv.org/abs/2512.16153]
