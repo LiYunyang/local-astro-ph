@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec 22 20:13:10 CST 2025)
+## Latest Astro-ph Papers (Generated on Mon Dec 22 21:05:01 CST 2025)
 
 - **Validating the performance of the Radio Neutrino Observatory in Greenland using cosmic-ray air showers**
 [https://arxiv.org/abs/2512.17664]
