@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec 23 20:12:47 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Dec 23 21:03:53 CST 2025)
+
+- **Lyman Continuum escaping from in-situ formed stars in a tidal bridge at z = 3**
+[https://arxiv.org/abs/2512.19967]
+  + Erik Solhaug? (11th author, Graduate Student)
+
+- **VERITAS contributions to the 39th International Cosmic Ray Conference**
+[https://arxiv.org/abs/2512.19835]
+  + Suyash Kumar? (29th author, Graduate Student)
 
 - **Weak Lensing Mass Calibration of the ACT DR5 Galaxy Clusters with the DES Year 3 Weak Lensing Data**
 [https://arxiv.org/abs/2512.18935]
@@ -44,8 +52,4 @@
 - **Gamma-Ray and AntiMatter Survey(GRAMS) experiment**
 [https://arxiv.org/abs/2512.14913]
   + Kenichi Sakai? (42th author, Research Scientist)
-
-- **XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**
-[https://arxiv.org/abs/2512.13682]
-  + LianTao Wang? (11th author, Senior Member)
 
