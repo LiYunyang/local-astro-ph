@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Dec 22 21:05:01 CST 2025)
+## Latest Astro-ph Papers (Generated on Tue Dec 23 20:12:47 CST 2025)
+
+- **Weak Lensing Mass Calibration of the ACT DR5 Galaxy Clusters with the DES Year 3 Weak Lensing Data**
+[https://arxiv.org/abs/2512.18935]
+  + Chihway Chang? (11th author, Senior Member)
+  + Scott Dodelson? (15th author, Senior Associate)
+  + Marco Gatti? (22th author, KICP Fellow)
+  + Joshua A. Frieman? (69th author, Chair)
+  + Chun-Hao To? (94th author, Associate Fellow)
 
 - **Validating the performance of the Radio Neutrino Observatory in Greenland using cosmic-ray air showers**
 [https://arxiv.org/abs/2512.17664]
@@ -40,18 +48,4 @@
 - **XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**
 [https://arxiv.org/abs/2512.13682]
   + LianTao Wang? (11th author, Senior Member)
-
-- **Kinematics of H I and O VI Absorbers: Insights into the Turbulence Driver of the Multiphase Circumgalactic Medium**
-[https://arxiv.org/abs/2512.12958]
-  + Zhijie Qu (1th author, Postdoctoral Scholar)
-  + Hsiao-Wen Chen (2th author, Senior Member)
-
-- **Disentangling AGN Feedback and Sloshing in the Perseus Cluster with XRISM: Insights from Simulations**
-[https://arxiv.org/abs/2512.12754]
-  + Irina Zhuravleva (4th author, Assistant Professor)
-  + Annie Heinrich (8th author, Graduate Student)
-
-- **Particle Acceleration in Magnetized Shear-Driven Turbulence**
-[https://arxiv.org/abs/2512.12720]
-  + Damiano Caprioli (5th author, Associate Professor)
 
