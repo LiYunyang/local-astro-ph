@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec 23 21:03:53 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Dec 24 20:13:09 CST 2025)
 
 - **Lyman Continuum escaping from in-situ formed stars in a tidal bridge at z = 3**
 [https://arxiv.org/abs/2512.19967]
@@ -44,12 +44,4 @@
 [https://arxiv.org/abs/2512.15833]
   + Sanah Bhimani? (42th author, Postdoctoral Scholar)
   + Rahul Datta? (96th author, Research Scientist)
-
-- **AMKID -- a large KID-based camera at the APEX telescope**
-[https://arxiv.org/abs/2512.14905]
-  + LianTao Wang? (26th author, Senior Member)
-
-- **Gamma-Ray and AntiMatter Survey(GRAMS) experiment**
-[https://arxiv.org/abs/2512.14913]
-  + Kenichi Sakai? (42th author, Research Scientist)
 
