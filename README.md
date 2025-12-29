@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Dec 27 21:12:58 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Dec 28 20:13:27 CST 2025)
 
 - **Lyman Continuum escaping from in-situ formed stars in a tidal bridge at z = 3**
 [https://arxiv.org/abs/2512.19967]
