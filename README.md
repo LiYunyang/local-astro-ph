@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Dec 28 20:13:27 CST 2025)
+## Latest Astro-ph Papers (Generated on Sun Dec 28 21:13:06 CST 2025)
 
 - **Lyman Continuum escaping from in-situ formed stars in a tidal bridge at z = 3**
 [https://arxiv.org/abs/2512.19967]
@@ -31,17 +31,4 @@
 - **Creation of spin-3/2 dark matter via cosmological gravitational particle production**
 [https://arxiv.org/abs/2512.16976]
   + Edward Kolb (1th author, Senior Member)
-
-- **A Square Kilometre Array Pulsar Census**
-[https://arxiv.org/abs/2512.16153]
-  + Chin Yi Tan? (4th author, Graduate Student)
-
-- **Cosmological Constraints from Full-Scale Clustering and Galaxy-Galaxy Lensing with DESI DR1**
-[https://arxiv.org/abs/2512.15962]
-  + Andrew Hearin (3th author, Senior Associate)
-
-- **The Simons Observatory: forecasted constraints on primordial gravitational waves with the expanded array of Small Aperture Telescopes**
-[https://arxiv.org/abs/2512.15833]
-  + Sanah Bhimani? (42th author, Postdoctoral Scholar)
-  + Rahul Datta? (96th author, Research Scientist)
 
