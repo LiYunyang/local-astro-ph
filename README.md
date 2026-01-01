@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Dec 30 21:05:12 CST 2025)
+## Latest Astro-ph Papers (Generated on Wed Dec 31 20:13:44 CST 2025)
 
 - **Heavy dark matter in rapidly evolving massive stars**
 [https://arxiv.org/abs/2512.22727]
