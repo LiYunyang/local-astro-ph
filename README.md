@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jan  3 21:14:19 CST 2026)
+## Latest Astro-ph Papers (Generated on Sun Jan  4 20:13:43 CST 2026)
 
 - **Feeling Blue: Constructing a Robust SALT3 UV Template and Constraining its Redshift Dependency**
 [https://arxiv.org/abs/2512.25064]
