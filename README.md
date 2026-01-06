@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jan  4 21:15:31 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Jan  5 20:13:16 CST 2026)
 
 - **XRISM finds the Changing-Look AGN NGC 1365 in an extended low state: A dense, highly ionized outflow obscures the central source**
 [https://arxiv.org/abs/2601.00795]
