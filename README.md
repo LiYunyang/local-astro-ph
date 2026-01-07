@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan  6 20:13:09 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Jan  6 21:06:53 CST 2026)
+
+- **E-XQR-30: Evidence for an Increase in the Ionization State of Metal Absorbers from z~6 to z~2**
+[https://arxiv.org/abs/2601.02634]
+  + Hsiao-Wen Chen? (9th author, Senior Member)
+
+- **A possible challenge for Cold and Warm Dark Matter**
+[https://arxiv.org/abs/2601.02466]
+  + Diana Powell? (4th author, Assistant Professor)
+
+- **Exposure-averaged Gaussian Processes for Combining Overlapping Datasets**
+[https://arxiv.org/abs/2601.02462]
+  + Lily Zhao (4th author, Sagan Fellow)
 
 - **Uncovering Hidden Systematics in Extreme-Precision Radial Velocity Measurements**
 [https://arxiv.org/abs/2601.02296]
