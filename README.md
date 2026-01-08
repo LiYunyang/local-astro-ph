@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan  6 21:06:53 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Jan  7 20:13:11 CST 2026)
 
 - **E-XQR-30: Evidence for an Increase in the Ionization State of Metal Absorbers from z~6 to z~2**
 [https://arxiv.org/abs/2601.02634]
