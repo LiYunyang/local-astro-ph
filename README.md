@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan  7 20:13:11 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Jan  7 21:07:06 CST 2026)
+
+- **A census of star-formation and gas mass tracers in two lensed $z \sim 4$ dusty star-forming galaxies**
+[https://arxiv.org/abs/2601.04133]
+  + Melanie Archipley (7th author, Associate Fellow)
+
+- **The maximum mass ratio of hierarchical mergers may cause the $q$-$χ_{\rm eff}$ correlation**
+[https://arxiv.org/abs/2601.03457]
+  + Amanda Farah (2th author, Graduate Student)
+
+- **The steep redshift evolution of the hierarchical merger rate may cause the $z$-$χ_{\rm eff}$ correlation**
+[https://arxiv.org/abs/2601.03456]
+  + Amanda Farah (1th author, Graduate Student)
 
 - **E-XQR-30: Evidence for an Increase in the Ionization State of Metal Absorbers from z~6 to z~2**
 [https://arxiv.org/abs/2601.02634]
@@ -68,8 +80,4 @@
 [https://arxiv.org/abs/2512.23899]
   + Gabriela Marques (2th author, Associate Fellow)
   + Albert Stebbins (7th author, Senior Associate)
-
-- **Heavy dark matter in rapidly evolving massive stars**
-[https://arxiv.org/abs/2512.22727]
-  + Sandra Robles (1th author, Associate Fellow)
 
