@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan  7 21:07:06 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Jan  8 20:13:15 CST 2026)
 
 - **A census of star-formation and gas mass tracers in two lensed $z \sim 4$ dusty star-forming galaxies**
 [https://arxiv.org/abs/2601.04133]
