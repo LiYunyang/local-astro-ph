@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jan  8 20:13:15 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Jan  8 21:07:43 CST 2026)
+
+- **Spectator Composes a Gravitational Canon: Spectator-field-triggered Phase Transition During Inflation and its Anisotropic Gravitational Wave Signals**
+[https://arxiv.org/abs/2601.04307]
+  + Keisuke Harigaya (2th author, Senior Member)
 
 - **A census of star-formation and gas mass tracers in two lensed $z \sim 4$ dusty star-forming galaxies**
 [https://arxiv.org/abs/2601.04133]
@@ -54,30 +58,4 @@
   + Ana Martina Botti (1th author, Associate Fellow)
   + Juan  Estrada (5th author, Senior Associate)
   + Nathan Saffold (7th author, Associate Fellow)
-
-- **Feeling Blue: Constructing a Robust SALT3 UV Template and Constraining its Redshift Dependency**
-[https://arxiv.org/abs/2512.25064]
-  + Richard Kessler (6th author, Senior Researcher)
-
-- **Picture an Astronomer: Best Practices for Retaining Talent in Astrophysics**
-[https://arxiv.org/abs/2512.24465]
-  + Ava Polzin (1th author, Graduate Student)
-  + Nathaniel Alden (7th author, Graduate Student)
-  + Melanie Archipley (10th author, Associate Fellow)
-  + Bradford A. Benson (13th author, Associate Professor)
-  + Madison Brady (16th author, Graduate Student)
-  + Hsiao-Wen Chen (20th author, Senior Member)
-  + Anirudh Chiti (22th author, Brinson Prize Fellow)
-  + Daniel Glazer (27th author, Graduate Student)
-  + Ryn Grutkoski (31th author, Graduate Student)
-  + Tanvi Karwal (38th author, KICP Fellow)
-  + Andrey Kravtsov (42th author, Senior Member)
-  + Alexandra Rahlin (69th author, Research Assistant Professor)
-  + Francisco Rodriguez Montero (71th author, KICP Fellow)
-  + Chin Yi Tan (79th author, Graduate Student)
-
-- **The Tianlai-WIYN North Celestial Cap Redshift Survey**
-[https://arxiv.org/abs/2512.23899]
-  + Gabriela Marques (2th author, Associate Fellow)
-  + Albert Stebbins (7th author, Senior Associate)
 
