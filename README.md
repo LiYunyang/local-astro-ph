@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jan 10 20:13:47 CST 2026)
+## Latest Astro-ph Papers (Generated on Sat Jan 10 21:13:59 CST 2026)
 
 - **Spectator Composes a Gravitational Canon: Spectator-field-triggered Phase Transition During Inflation and its Anisotropic Gravitational Wave Signals**
 [https://arxiv.org/abs/2601.04307]
