@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jan 11 20:13:24 CST 2026)
+## Latest Astro-ph Papers (Generated on Sun Jan 11 21:12:46 CST 2026)
+
+- **A Minimalist Merger Interpretation of XRISM's Gas Velocity Measurements in the Coma Cluster**
+[https://arxiv.org/abs/2601.05803]
+  + Irina Zhuravleva (6th author, Assistant Professor)
 
 - **Spectator Composes a Gravitational Canon: Spectator-field-triggered Phase Transition During Inflation and its Anisotropic Gravitational Wave Signals**
 [https://arxiv.org/abs/2601.04307]
@@ -41,21 +45,4 @@
 - **Analysis of 14 Years of X-Ray Emission From SN 2011DH**
 [https://arxiv.org/abs/2601.01365]
   + Vikram Dwarkadas (2th author, Research Professor)
-
-- **XRISM finds the Changing-Look AGN NGC 1365 in an extended low state: A dense, highly ionized outflow obscures the central source**
-[https://arxiv.org/abs/2601.00795]
-  + Daniele Rogantini (21th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Ring Asymmetry and Spin in M87***
-[https://arxiv.org/abs/2601.00394]
-  + Bradford A. Benson (21th author, Associate Professor)
-  + John Carlstrom (35th author, Senior Member)
-  + Paul Chichura (43th author, Graduate Student)
-  + Thomas Crawford (46th author, Senior Researcher)
-
-- **Light-tight skipper-CCDs for X-ray detection in space**
-[https://arxiv.org/abs/2601.00127]
-  + Ana Martina Botti (1th author, Associate Fellow)
-  + Juan  Estrada (5th author, Senior Associate)
-  + Nathan Saffold (7th author, Associate Fellow)
 
