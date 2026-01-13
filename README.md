@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jan 11 21:12:46 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Jan 12 20:13:11 CST 2026)
 
 - **A Minimalist Merger Interpretation of XRISM's Gas Velocity Measurements in the Coma Cluster**
 [https://arxiv.org/abs/2601.05803]
