@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jan 12 21:06:23 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Jan 13 20:13:18 CST 2026)
+
+- **Euclid preparation. Testing analytic models of galaxy intrinsic alignments in the Euclid Flagship simulation**
+[https://arxiv.org/abs/2601.07784]
+  + Alberto Castellano Mora? (100th author, Associate Fellow)
+
+- **Emulator-Based Inference of Cosmological Subgrid Models**
+[https://arxiv.org/abs/2601.07306]
+  + Katrin Heitmann (6th author, Senior Associate)
+  + Salman Habib (7th author, Senior Associate)
 
 - **A Minimalist Merger Interpretation of XRISM's Gas Velocity Measurements in the Coma Cluster**
 [https://arxiv.org/abs/2601.05803]
@@ -33,16 +42,4 @@
 - **Exposure-averaged Gaussian Processes for Combining Overlapping Datasets**
 [https://arxiv.org/abs/2601.02462]
   + Lily Zhao (4th author, Sagan Fellow)
-
-- **Uncovering Hidden Systematics in Extreme-Precision Radial Velocity Measurements**
-[https://arxiv.org/abs/2601.02296]
-  + Lily Zhao (1th author, Sagan Fellow)
-
-- **The MUSCLES Extension for Atmospheric Transmission Spectroscopy: Spectral energy distributions for 20 exoplanet host stars that JWST observed in Cycle 1**
-[https://arxiv.org/abs/2601.01628]
-  + Jacob L. Bean (9th author, Professor)
-
-- **Analysis of 14 Years of X-Ray Emission From SN 2011DH**
-[https://arxiv.org/abs/2601.01365]
-  + Vikram Dwarkadas (2th author, Research Professor)
 
