@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan 13 20:13:18 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Jan 13 21:12:07 CST 2026)
+
+- **Signatures of a subpopulation of hierarchical mergers in the GWTC-4 gravitational-wave dataset**
+[https://arxiv.org/abs/2601.07908]
+  + Thomas Callister (2th author, KICP and Schmidt Fellow)
 
 - **Euclid preparation. Testing analytic models of galaxy intrinsic alignments in the Euclid Flagship simulation**
 [https://arxiv.org/abs/2601.07784]
@@ -30,16 +34,4 @@
 - **The steep redshift evolution of the hierarchical merger rate may cause the $z$-$χ_{\rm eff}$ correlation**
 [https://arxiv.org/abs/2601.03456]
   + Amanda Farah (1th author, Graduate Student)
-
-- **E-XQR-30: Evidence for an Increase in the Ionization State of Metal Absorbers from z~6 to z~2**
-[https://arxiv.org/abs/2601.02634]
-  + Hsiao-Wen Chen? (9th author, Senior Member)
-
-- **A possible challenge for Cold and Warm Dark Matter**
-[https://arxiv.org/abs/2601.02466]
-  + Diana Powell? (4th author, Assistant Professor)
-
-- **Exposure-averaged Gaussian Processes for Combining Overlapping Datasets**
-[https://arxiv.org/abs/2601.02462]
-  + Lily Zhao (4th author, Sagan Fellow)
 
