@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan 14 20:13:14 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Jan 14 21:07:56 CST 2026)
 
 - **Signatures of a subpopulation of hierarchical mergers in the GWTC-4 gravitational-wave dataset**
 [https://arxiv.org/abs/2601.07908]
@@ -22,16 +22,4 @@
 - **Spectator Composes a Gravitational Canon: Spectator-field-triggered Phase Transition During Inflation and its Anisotropic Gravitational Wave Signals**
 [https://arxiv.org/abs/2601.04307]
   + Keisuke Harigaya (2th author, Senior Member)
-
-- **A census of star-formation and gas mass tracers in two lensed $z \sim 4$ dusty star-forming galaxies**
-[https://arxiv.org/abs/2601.04133]
-  + Melanie Archipley (7th author, Associate Fellow)
-
-- **The maximum mass ratio of hierarchical mergers may cause the $q$-$χ_{\rm eff}$ correlation**
-[https://arxiv.org/abs/2601.03457]
-  + Amanda Farah (2th author, Graduate Student)
-
-- **The steep redshift evolution of the hierarchical merger rate may cause the $z$-$χ_{\rm eff}$ correlation**
-[https://arxiv.org/abs/2601.03456]
-  + Amanda Farah (1th author, Graduate Student)
 
