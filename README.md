@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan 13 21:12:07 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Jan 14 20:13:14 CST 2026)
 
 - **Signatures of a subpopulation of hierarchical mergers in the GWTC-4 gravitational-wave dataset**
 [https://arxiv.org/abs/2601.07908]
