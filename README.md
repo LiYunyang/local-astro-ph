@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jan 17 20:13:21 CST 2026)
+## Latest Astro-ph Papers (Generated on Sat Jan 17 21:12:38 CST 2026)
 
 - **Discovery of the First Five Carbon-Enhanced Metal-Poor Stars in the LMC**
 [https://arxiv.org/abs/2601.10514]
