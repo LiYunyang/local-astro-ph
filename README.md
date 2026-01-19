@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jan 18 20:13:30 CST 2026)
+## Latest Astro-ph Papers (Generated on Sun Jan 18 21:13:01 CST 2026)
+
+- **Light Dark Matter Search with 7.8 Tonne-Year of Ionization-Only Data in XENONnT**
+[https://arxiv.org/abs/2601.11296]
+  + David Martin? (9th author, Graduate Student)
+  + Luca Grandi? (54th author, Senior Member)
 
 - **Discovery of the First Five Carbon-Enhanced Metal-Poor Stars in the LMC**
 [https://arxiv.org/abs/2601.10514]
@@ -31,8 +36,4 @@
 [https://arxiv.org/abs/2601.07306]
   + Katrin Heitmann (6th author, Senior Associate)
   + Salman Habib (7th author, Senior Associate)
-
-- **A Minimalist Merger Interpretation of XRISM's Gas Velocity Measurements in the Coma Cluster**
-[https://arxiv.org/abs/2601.05803]
-  + Irina Zhuravleva (6th author, Assistant Professor)
 
