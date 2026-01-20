@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jan 18 21:13:01 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Jan 19 20:13:13 CST 2026)
 
 - **Light Dark Matter Search with 7.8 Tonne-Year of Ionization-Only Data in XENONnT**
 [https://arxiv.org/abs/2601.11296]
