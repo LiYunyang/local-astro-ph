@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan 21 21:12:41 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Jan 22 20:13:23 CST 2026)
 
 - **Dark Energy Survey Year 6 Results: Galaxy-galaxy lensing**
 [https://arxiv.org/abs/2601.15175]
