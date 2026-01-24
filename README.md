@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Jan 23 20:12:58 CST 2026)
+## Latest Astro-ph Papers (Generated on Fri Jan 23 21:04:26 CST 2026)
 
 - **HE0144-4657: A Carbon-Enhanced Ultra Metal-Poor Star ([Fe/H] ~ -4.1) from the Helmi Stream Disrupted Dwarf Galaxy**
 [https://arxiv.org/abs/2601.15974]
