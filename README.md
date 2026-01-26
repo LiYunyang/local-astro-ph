@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jan 25 20:13:45 CST 2026)
+## Latest Astro-ph Papers (Generated on Sun Jan 25 21:15:51 CST 2026)
+
+- **Dynamics of AGN feedback in the X-ray bright East and Southwest arms of M87, mapped by XRISM**
+[https://arxiv.org/abs/2601.16901]
+  + Hannah McCall? (9th author, Graduate Student)
+  + Irina Zhuravleva? (14th author, Assistant Professor)
+
+- **Illuminating the Physics of Cosmic Origin and Evolution: A UK Space Frontiers 2035 White Paper**
+[https://arxiv.org/abs/2601.16761]
+  + Andrew Hearin (50th author, Senior Associate)
 
 - **HE0144-4657: A Carbon-Enhanced Ultra Metal-Poor Star ([Fe/H] ~ -4.1) from the Helmi Stream Disrupted Dwarf Galaxy**
 [https://arxiv.org/abs/2601.15974]
@@ -101,21 +110,4 @@
 [https://arxiv.org/abs/2601.11296]
   + David Martin? (9th author, Graduate Student)
   + Luca Grandi? (54th author, Senior Member)
-
-- **Discovery of the First Five Carbon-Enhanced Metal-Poor Stars in the LMC**
-[https://arxiv.org/abs/2601.10514]
-  + Alexander Ji (3th author, Senior Member)
-  + Guilherme Limberg (10th author, KICP Fellow)
-
-- **TOI-3862 b: A dense super-Neptune deep in the hot Neptune desert**
-[https://arxiv.org/abs/2601.10450]
-  + Rafael Luque (53th author, Postdoctoral Scholar)
-
-- **Extracting intrinsic alignments in the Dark Energy Survey's year 1 data, using the self-calibration method and LSST-DESC tools**
-[https://arxiv.org/abs/2601.10314]
-  + Chihway Chang (6th author, Senior Member)
-
-- **Calibrating Mid-Infrared Emission Features As Diagnostics of Star Formation in Infrared-Luminous Galaxies via Radiative Transfer Modeling**
-[https://arxiv.org/abs/2601.09810]
-  + LianTao Wang? (16th author, Senior Member)
 
