@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jan 26 20:13:37 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Jan 26 21:13:06 CST 2026)
 
 - **Dynamics of AGN feedback in the X-ray bright East and Southwest arms of M87, mapped by XRISM**
 [https://arxiv.org/abs/2601.16901]
