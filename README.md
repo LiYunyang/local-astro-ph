@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jan 27 20:13:16 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Jan 27 21:11:12 CST 2026)
 
 - **Dynamics of AGN feedback in the X-ray bright East and Southwest arms of M87, mapped by XRISM**
 [https://arxiv.org/abs/2601.16901]
@@ -76,33 +76,4 @@
 - **The Carousel Lens I: A Spectroscopic Survey of the Carousel Lens Field**
 [https://arxiv.org/abs/2601.14422]
   + Anowar Shajib (19th author, KICP and Einstein Fellow)
-
-- **Opportunities in AI/ML for the Rubin LSST Dark Energy Science Collaboration**
-[https://arxiv.org/abs/2601.14235]
-  + Chihway Chang (13th author, Senior Member)
-  + Alex Drlica-Wagner (23th author, Senior Member)
-  + Yuuki Omori (45th author, Senior Researcher)
-
-- **The JEM-EUSO Collaboration: Contributions to the 39th International Cosmic Ray Conference (ICRC2025)**
-[https://arxiv.org/abs/2601.14107]
-  + George Filippatos? (53th author, Associate Fellow)
-
-- **Mass density structuring around galaxy formation sites: impact on galaxy basic properties**
-[https://arxiv.org/abs/2601.13431]
-  + Sandra Robles (1th author, Associate Fellow)
-
-- **Locating the missing large-scale emission in the jet of M87* with short EHT baselines**
-[https://arxiv.org/abs/2601.13356]
-  + Bradford A. Benson (31th author, Associate Professor)
-  + John Carlstrom (43th author, Senior Member)
-  + Paul Chichura (52th author, Graduate Student)
-  + Thomas Crawford (57th author, Senior Researcher)
-
-- **Combined LOFAR-uGMRT analysis of the diffuse radio emission in the massive clusters Abell 773 and Abell 1351**
-[https://arxiv.org/abs/2601.13316]
-  + Sugata Paul? (19th author, Graduate Student)
-
-- **Analytic Modeling of Tidally Locked Rocky Planet Atmospheres Across Dynamical Regimes**
-[https://arxiv.org/abs/2601.12556]
-  + Diana Powell (2th author, Assistant Professor)
 
