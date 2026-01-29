@@ -1,6 +1,40 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan 28 20:13:59 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Jan 28 21:18:52 CST 2026)
+
+- **SPT-3G D1: A Measurement of Secondary Cosmic Microwave Background Anisotropy Power**
+[https://arxiv.org/abs/2601.20551]
+  + Adam Anderson? (4th author, Senior Associate)
+  + Melanie Archipley? (6th author, Associate Fellow)
+  + Amy Bender? (10th author, Senior Associate)
+  + Bradford A. Benson? (11th author, Associate Professor)
+  + Lindsey Bleem? (13th author, Senior Associate)
+  + John Carlstrom? (19th author, Senior Member)
+  + Chihway Chang? (21th author, Senior Member)
+  + Paul Chichura? (22th author, Graduate Student)
+  + Thomas Crawford? (26th author, Senior Researcher)
+  + Karia Dibert? (29th author, Graduate Student)
+  + Kyra Fichman? (38th author, Graduate Student)
+  + John Hood? (54th author, Associate Fellow)
+  + Alexander Hryciuk? (55th author, Graduate Student)
+  + Tanisha Jhaveri? (56th author, Graduate Student)
+  + Kayla Kornoelje? (61th author, Graduate Student)
+  + Yunyang Li? (64th author, KICP Fellow)
+  + Emily Martsen? (70th author, Graduate Student)
+  + Tyler Natoli? (75th author, Senior Researcher)
+  + Yuuki Omori? (77th author, Senior Researcher)
+  + Wei Quan? (84th author, Associate Fellow)
+  + Alexandra Rahlin? (87th author, Research Assistant Professor)
+  + Aidan Simpson? (92th author, Graduate Student)
+  + Joshua Sobrin? (93th author, Associate Fellow)
+
+- **A GLIMPSE into the UV Continuum Slopes of the Faintest Galaxies in the Epoch of Reionization**
+[https://arxiv.org/abs/2601.19995]
+  + Harley Katz (20th author, Senior Member)
+
+- **A constrained linear model for continuum normalization of stellar spectra**
+[https://arxiv.org/abs/2601.19973]
+  + Lily Zhao (6th author, Sagan Fellow)
 
 - **Dynamics of AGN feedback in the X-ray bright East and Southwest arms of M87, mapped by XRISM**
 [https://arxiv.org/abs/2601.16901]
@@ -14,66 +48,4 @@
 - **HE0144-4657: A Carbon-Enhanced Ultra Metal-Poor Star ([Fe/H] ~ -4.1) from the Helmi Stream Disrupted Dwarf Galaxy**
 [https://arxiv.org/abs/2601.15974]
   + Guilherme Limberg (2th author, KICP Fellow)
-
-- **Dark Energy Survey Year 6 Results: Galaxy-galaxy lensing**
-[https://arxiv.org/abs/2601.15175]
-  + Giulia Giannini? (1th author, Associate Fellow)
-  + Georgios Zacharegkas? (7th author, Associate Fellow)
-  + Dhayaa Anbajagane? (11th author, Graduate Student)
-  + Chihway Chang? (20th author, Senior Member)
-  + Alex Drlica-Wagner? (24th author, Senior Member)
-  + Marco Gatti? (27th author, KICP Fellow)
-  + Joshua A. Frieman? (69th author, Chair)
-  + Stephen Kent? (85th author, CASE Associate)
-
-- **Dark Energy Survey: DESI-Independent Angular BAO Measurement**
-[https://arxiv.org/abs/2601.14864]
-  + Alex Drlica-Wagner? (14th author, Senior Member)
-  + Joshua A. Frieman? (46th author, Chair)
-  + Marco Gatti? (48th author, KICP Fellow)
-
-- **Dark Energy Survey Year 6 Results: Weak Lensing and Galaxy Clustering Cosmological Analysis Framework**
-[https://arxiv.org/abs/2601.14859]
-  + Dhayaa Anbajagane? (13th author, Graduate Student)
-  + Chihway Chang? (16th author, Senior Member)
-  + Giulia Giannini? (18th author, Associate Fellow)
-  + Scott Dodelson? (21th author, Senior Associate)
-  + Alex Drlica-Wagner? (63th author, Senior Member)
-  + Joshua A. Frieman? (70th author, Chair)
-  + Marco Gatti? (72th author, KICP Fellow)
-
-- **Dark Energy Survey Year 6 Results: Magnification modeling and its impact on galaxy clustering and galaxy-galaxy lensing cosmology**
-[https://arxiv.org/abs/2601.14833]
-  + Dhayaa Anbajagane? (3th author, Graduate Student)
-  + Chihway Chang? (21th author, Senior Member)
-  + Giulia Giannini? (28th author, Associate Fellow)
-  + Scott Dodelson? (48th author, Senior Associate)
-
-- **Dark Energy Survey Year 6 Results: Cosmological Constraints from Galaxy Clustering and Weak Lensing**
-[https://arxiv.org/abs/2601.14559]
-  + Dhayaa Anbajagane? (9th author, Graduate Student)
-  + Chihway Chang? (34th author, Senior Member)
-  + Scott Dodelson? (46th author, Senior Associate)
-  + Alex Drlica-Wagner? (48th author, Senior Member)
-  + Juan  Estrada? (51th author, Senior Associate)
-  + Joshua A. Frieman? (59th author, Chair)
-  + Marco Gatti? (61th author, KICP Fellow)
-  + Giulia Giannini? (63th author, Associate Fellow)
-  + Stephen Kent? (86th author, CASE Associate)
-  + Richard G. Kron? (89th author, Professor Emeritus)
-
-- **Dark Energy Survey Year 6 Results: MagLim++ Lens Sample Selection and Measurements of Galaxy Clustering**
-[https://arxiv.org/abs/2601.14484]
-  + Alex Drlica-Wagner? (41th author, Senior Member)
-  + Marco Gatti? (47th author, KICP Fellow)
-  + Giulia Giannini? (49th author, Associate Fellow)
-  + Chun-Hao To? (84th author, Associate Fellow)
-
-- **Deep Chandra Observations of the z = 1.16 Relaxed, Cool-core Galaxy Cluster SPT-CL J2215-3537**
-[https://arxiv.org/abs/2601.14425]
-  + Lindsey Bleem (8th author, Senior Associate)
-
-- **The Carousel Lens I: A Spectroscopic Survey of the Carousel Lens Field**
-[https://arxiv.org/abs/2601.14422]
-  + Anowar Shajib (19th author, KICP and Einstein Fellow)
 
