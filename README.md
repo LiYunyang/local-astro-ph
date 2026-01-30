@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jan 29 20:14:20 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Jan 29 21:19:02 CST 2026)
+
+- **Evaluating Classifications of Extremely Metal-poor Candidates Selected from Gaia XP Spectra**
+[https://arxiv.org/abs/2601.21292]
+  + Alexander Ji (3th author, Senior Member)
+
+- **Euclid preparation. Decomposing components of the extragalactic background light using multi-band intensity mapping cross-correlations**
+[https://arxiv.org/abs/2601.21111]
+  + Alberto Castellano Mora? (92th author, Associate Fellow)
+
+- **A Universal CMB $B$-Mode Spectrum from Early Causal Tensor Sources**
+[https://arxiv.org/abs/2601.20967]
+  + Gordan Krnjaic (3th author, Senior Member)
+
+- **First constraints on causal sources of primordial gravitational waves from BICEP/Keck, SPTpol, SPT-3G, Planck and WMAP $B$-mode data**
+[https://arxiv.org/abs/2601.20958]
+  + Jessica Zebrowski (1th author, KICP and Einstein Fellow)
+  + Gordan Krnjaic (5th author, Senior Member)
 
 - **SPT-3G D1: A Measurement of Secondary Cosmic Microwave Background Anisotropy Power**
 [https://arxiv.org/abs/2601.20551]
@@ -44,8 +61,4 @@
 - **Illuminating the Physics of Cosmic Origin and Evolution: A UK Space Frontiers 2035 White Paper**
 [https://arxiv.org/abs/2601.16761]
   + Andrew Hearin (50th author, Senior Associate)
-
-- **HE0144-4657: A Carbon-Enhanced Ultra Metal-Poor Star ([Fe/H] ~ -4.1) from the Helmi Stream Disrupted Dwarf Galaxy**
-[https://arxiv.org/abs/2601.15974]
-  + Guilherme Limberg (2th author, KICP Fellow)
 
