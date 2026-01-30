@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jan 28 21:18:52 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Jan 29 20:14:20 CST 2026)
 
 - **SPT-3G D1: A Measurement of Secondary Cosmic Microwave Background Anisotropy Power**
 [https://arxiv.org/abs/2601.20551]
