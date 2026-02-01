@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jan 31 20:14:57 CST 2026)
+## Latest Astro-ph Papers (Generated on Sat Jan 31 21:34:15 CST 2026)
 
 - **Evaluating Classifications of Extremely Metal-poor Candidates Selected from Gaia XP Spectra**
 [https://arxiv.org/abs/2601.21292]
