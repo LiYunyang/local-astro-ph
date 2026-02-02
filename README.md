@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb  1 20:14:46 CST 2026)
+## Latest Astro-ph Papers (Generated on Sun Feb  1 21:28:20 CST 2026)
+
+- **The Simons Observatory: On-sky performance of radio-transparent multi-layer insulation (RT-MLI) using Styroace-II Styrofoam**
+[https://arxiv.org/abs/2601.23168]
+  + Aashrita Mangu (9th author, Associate Fellow)
+  + Alex Thomas (14th author, Graduate Student)
 
 - **Evaluating Classifications of Extremely Metal-poor Candidates Selected from Gaia XP Spectra**
 [https://arxiv.org/abs/2601.21292]
@@ -52,13 +57,4 @@
 - **A constrained linear model for continuum normalization of stellar spectra**
 [https://arxiv.org/abs/2601.19973]
   + Lily Zhao (6th author, Sagan Fellow)
-
-- **Dynamics of AGN feedback in the X-ray bright East and Southwest arms of M87, mapped by XRISM**
-[https://arxiv.org/abs/2601.16901]
-  + Hannah McCall? (9th author, Graduate Student)
-  + Irina Zhuravleva? (14th author, Assistant Professor)
-
-- **Illuminating the Physics of Cosmic Origin and Evolution: A UK Space Frontiers 2035 White Paper**
-[https://arxiv.org/abs/2601.16761]
-  + Andrew Hearin (50th author, Senior Associate)
 
