@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb  2 20:14:16 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Feb  2 21:24:29 CST 2026)
 
 - **The Simons Observatory: On-sky performance of radio-transparent multi-layer insulation (RT-MLI) using Styroace-II Styrofoam**
 [https://arxiv.org/abs/2601.23168]
