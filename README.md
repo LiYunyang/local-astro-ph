@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb  3 20:14:16 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Feb  3 21:21:15 CST 2026)
+
+- **Euclid. Properties and performance of the NISP signal estimator**
+[https://arxiv.org/abs/2602.03574]
+  + Alberto Castellano Mora? (100th author, Associate Fellow)
+
+- **Inferring Interstellar Medium Density, Temperature, and Metallicity from Turbulent H II Regions**
+[https://arxiv.org/abs/2602.02949]
+  + Harley Katz (3th author, Senior Member)
 
 - **X-ray characterization of fully-depleted p-channel Skipper-CCDs for the DarkNESS mission**
 [https://arxiv.org/abs/2602.02461]
