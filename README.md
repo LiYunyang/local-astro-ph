@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb  2 21:24:29 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Feb  3 20:14:16 CST 2026)
+
+- **X-ray characterization of fully-depleted p-channel Skipper-CCDs for the DarkNESS mission**
+[https://arxiv.org/abs/2602.02461]
+  + Ana Martina Botti (2th author, Associate Fellow)
+  + Alex Drlica-Wagner (6th author, Senior Member)
+  + Juan  Estrada (7th author, Senior Associate)
+  + Brandon Roach (12th author, KICP Fellow)
+  + Nathan Saffold (13th author, Associate Fellow)
 
 - **The Simons Observatory: On-sky performance of radio-transparent multi-layer insulation (RT-MLI) using Styroace-II Styrofoam**
 [https://arxiv.org/abs/2601.23168]
