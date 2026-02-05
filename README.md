@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb  3 21:21:15 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Feb  4 20:14:28 CST 2026)
 
 - **Euclid. Properties and performance of the NISP signal estimator**
 [https://arxiv.org/abs/2602.03574]
