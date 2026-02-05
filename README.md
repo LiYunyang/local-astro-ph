@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb  4 20:14:28 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Feb  4 21:24:52 CST 2026)
 
 - **Euclid. Properties and performance of the NISP signal estimator**
 [https://arxiv.org/abs/2602.03574]
@@ -39,38 +39,4 @@
 [https://arxiv.org/abs/2601.20958]
   + Jessica Zebrowski (1th author, KICP and Einstein Fellow)
   + Gordan Krnjaic (5th author, Senior Member)
-
-- **SPT-3G D1: A Measurement of Secondary Cosmic Microwave Background Anisotropy Power**
-[https://arxiv.org/abs/2601.20551]
-  + Adam Anderson? (4th author, Senior Associate)
-  + Melanie Archipley? (6th author, Associate Fellow)
-  + Amy Bender? (10th author, Senior Associate)
-  + Bradford A. Benson? (11th author, Associate Professor)
-  + Lindsey Bleem? (13th author, Senior Associate)
-  + John Carlstrom? (19th author, Senior Member)
-  + Chihway Chang? (21th author, Senior Member)
-  + Paul Chichura? (22th author, Graduate Student)
-  + Thomas Crawford? (26th author, Senior Researcher)
-  + Karia Dibert? (29th author, Graduate Student)
-  + Kyra Fichman? (38th author, Graduate Student)
-  + John Hood? (54th author, Associate Fellow)
-  + Alexander Hryciuk? (55th author, Graduate Student)
-  + Tanisha Jhaveri? (56th author, Graduate Student)
-  + Kayla Kornoelje? (61th author, Graduate Student)
-  + Yunyang Li? (64th author, KICP Fellow)
-  + Emily Martsen? (70th author, Graduate Student)
-  + Tyler Natoli? (75th author, Senior Researcher)
-  + Yuuki Omori? (77th author, Senior Researcher)
-  + Wei Quan? (84th author, Associate Fellow)
-  + Alexandra Rahlin? (87th author, Research Assistant Professor)
-  + Aidan Simpson? (92th author, Graduate Student)
-  + Joshua Sobrin? (93th author, Associate Fellow)
-
-- **A GLIMPSE into the UV Continuum Slopes of the Faintest Galaxies in the Epoch of Reionization**
-[https://arxiv.org/abs/2601.19995]
-  + Harley Katz (20th author, Senior Member)
-
-- **A constrained linear model for continuum normalization of stellar spectra**
-[https://arxiv.org/abs/2601.19973]
-  + Lily Zhao (6th author, Sagan Fellow)
 
