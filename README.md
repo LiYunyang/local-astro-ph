@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb  8 21:29:58 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Feb  9 20:14:59 CST 2026)
 
 - **Mapping plasma properties of Cassiopeia A with XRISM/Resolve: a Bayesian analysis via UltraSPEX**
 [https://arxiv.org/abs/2602.06952]
