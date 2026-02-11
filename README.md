@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb  9 21:34:23 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Feb 10 20:14:48 CST 2026)
+
+- **A tension between dust and gas radii: the role of substructures and external photoevaporation in protoplanetary disks**
+[https://arxiv.org/abs/2602.07528]
+  + Tommy Chi Ho Lau (7th author, Postdoctoral Scholar)
 
 - **Mapping plasma properties of Cassiopeia A with XRISM/Resolve: a Bayesian analysis via UltraSPEX**
 [https://arxiv.org/abs/2602.06952]
@@ -39,12 +43,4 @@
 - **Inferring Interstellar Medium Density, Temperature, and Metallicity from Turbulent H II Regions**
 [https://arxiv.org/abs/2602.02949]
   + Harley Katz (3th author, Senior Member)
-
-- **X-ray characterization of fully-depleted p-channel Skipper-CCDs for the DarkNESS mission**
-[https://arxiv.org/abs/2602.02461]
-  + Ana Martina Botti (2th author, Associate Fellow)
-  + Alex Drlica-Wagner (6th author, Senior Member)
-  + Juan  Estrada (7th author, Senior Associate)
-  + Brandon Roach (12th author, KICP Fellow)
-  + Nathan Saffold (13th author, Associate Fellow)
 
