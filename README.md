@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 11 21:30:18 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Feb 12 20:14:45 CST 2026)
 
 - **Measurement of the Full Shape of the Thermal Sunyaev-Zeldovich Power Spectrum from South Pole Telescope and {\it Herschel}-SPIRE Observations**
 [https://arxiv.org/abs/2602.10107]
