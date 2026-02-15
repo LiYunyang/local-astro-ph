@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Feb 14 20:14:32 CST 2026)
+## Latest Astro-ph Papers (Generated on Sat Feb 14 21:29:42 CST 2026)
 
 - **The Dark Side of the Moon: Listening to Scalar-Induced Gravitational Waves**
 [https://arxiv.org/abs/2602.12252]
