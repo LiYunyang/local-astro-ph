@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb 15 21:28:57 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Feb 16 20:14:21 CST 2026)
 
 - **Dark matter effects on the properties of hybrid neutron stars**
 [https://arxiv.org/abs/2602.12495]
