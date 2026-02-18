@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb 16 21:25:10 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Feb 17 20:14:26 CST 2026)
+
+- **I-Band Asymptotic Giant Branch (IAGB) Stars: II. A First Estimate of their Precision and a Differential Zero Point**
+[https://arxiv.org/abs/2602.14304]
+  + Wendy Freedman (1th author, Senior Member)
+  + Abigail Lee (5th author, Graduate Student)
+  + Kayla Owens (6th author, Graduate Student)
+
+- **I-Band Asymptotic Giant Branch (IAGB) Stars: I. Exploring a New Standard Candle for the Extragalactic Distance Scale**
+[https://arxiv.org/abs/2602.14242]
+  + Wendy Freedman (2th author, Senior Member)
+  + Abigail Lee (5th author, Graduate Student)
+  + Kayla Owens (6th author, Graduate Student)
+
+- **S-PLUS: Beyond Spectroscopy IV. Stellar Parameters and Elemental-abundance Ratios for Six Million Stars from DR4 and First Results for the Magellanic Clouds**
+[https://arxiv.org/abs/2602.14087]
+  + Guilherme Limberg (11th author, KICP Fellow)
+
+- **Revising the Milky Way Cepheid Calibration: Quantifying and Correcting for Previously Undetected Distance Modulus Errors in the Gaia-based Multi-Wavelength Period-Luminosity Relations**
+[https://arxiv.org/abs/2602.13397]
+  + Wendy Freedman (2th author, Senior Member)
 
 - **Dark matter effects on the properties of hybrid neutron stars**
 [https://arxiv.org/abs/2602.12495]
@@ -86,8 +106,4 @@
 - **NIAC project report: Solar system-scale VLBI to dramatically improve cosmological distance measurements**
 [https://arxiv.org/abs/2602.09141]
   + Huangyu Xiao (10th author, Associate Fellow)
-
-- **A tension between dust and gas radii: the role of substructures and external photoevaporation in protoplanetary disks**
-[https://arxiv.org/abs/2602.07528]
-  + Tommy Chi Ho Lau (7th author, Postdoctoral Scholar)
 
