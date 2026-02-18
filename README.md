@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb 17 20:14:26 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Feb 17 21:26:57 CST 2026)
 
 - **I-Band Asymptotic Giant Branch (IAGB) Stars: II. A First Estimate of their Precision and a Differential Zero Point**
 [https://arxiv.org/abs/2602.14304]
@@ -63,47 +63,4 @@
   + Alexandra Rahlin? (88th author, Research Assistant Professor)
   + Aidan Simpson? (94th author, Graduate Student)
   + Joshua Sobrin? (95th author, Associate Fellow)
-
-- **Measurement of the Full Shape of the Thermal Sunyaev-Zeldovich Power Spectrum from South Pole Telescope and {\it Herschel}-SPIRE Observations**
-[https://arxiv.org/abs/2602.10107]
-  + Dhayaa Anbajagane? (3th author, Graduate Student)
-  + Adam Anderson? (4th author, Senior Associate)
-  + Melanie Archipley? (6th author, Associate Fellow)
-  + Amy Bender? (13th author, Senior Associate)
-  + Bradford A. Benson? (14th author, Associate Professor)
-  + Lindsey Bleem? (16th author, Senior Associate)
-  + John Carlstrom? (23th author, Senior Member)
-  + Chihway Chang? (25th author, Senior Member)
-  + Paul Chichura? (28th author, Graduate Student)
-  + Thomas Crawford? (34th author, Senior Researcher)
-  + Karia Dibert? (38th author, Graduate Student)
-  + Kyra Fichman? (47th author, Graduate Student)
-  + John Hood? (66th author, Associate Fellow)
-  + Alexander Hryciuk? (68th author, Graduate Student)
-  + Tanisha Jhaveri? (72th author, Graduate Student)
-  + Kayla Kornoelje? (77th author, Graduate Student)
-  + Abigail Lee? (79th author, Graduate Student)
-  + Yunyang Li? (81th author, KICP Fellow)
-  + Emily Martsen? (89th author, Graduate Student)
-  + Jeffrey McMahon? (90th author, Senior Member)
-  + Tyler Natoli? (95th author, Senior Researcher)
-  + Yuuki Omori? (99th author, Senior Researcher)
-
-- **Dark Energy Survey Year 6 Results: Cosmological Constraints from Cosmic Shear**
-[https://arxiv.org/abs/2602.10065]
-  + Dhayaa Anbajagane? (7th author, Graduate Student)
-  + Chihway Chang? (29th author, Senior Member)
-  + Alex Drlica-Wagner? (44th author, Senior Member)
-  + Joshua A. Frieman? (52th author, Chair)
-  + Marco Gatti? (54th author, KICP Fellow)
-  + Giulia Giannini? (55th author, Associate Fellow)
-  + Stephen Kent? (74th author, CASE Associate)
-
-- **Modeling Redshift Uncertainties in Roman Weak Lensing Cosmology**
-[https://arxiv.org/abs/2602.09230]
-  + Chun-Hao To (5th author, Associate Fellow)
-
-- **NIAC project report: Solar system-scale VLBI to dramatically improve cosmological distance measurements**
-[https://arxiv.org/abs/2602.09141]
-  + Huangyu Xiao (10th author, Associate Fellow)
 
