@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb 17 21:26:57 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Feb 18 20:14:11 CST 2026)
 
 - **I-Band Asymptotic Giant Branch (IAGB) Stars: II. A First Estimate of their Precision and a Differential Zero Point**
 [https://arxiv.org/abs/2602.14304]
