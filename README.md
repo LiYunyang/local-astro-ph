@@ -1,6 +1,30 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 18 20:14:11 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Feb 18 21:26:20 CST 2026)
+
+- **Searching for White Dwarf Candidates Formed Through Binary evolution in Star Clusters**
+[https://arxiv.org/abs/2602.16550]
+  + David Miller (3th author, Senior Member)
+
+- **Euclid preparation. Impact of galaxy intrinsic alignment modelling choices on Euclid 3x2pt cosmology**
+[https://arxiv.org/abs/2602.16448]
+  + Alberto Castellano Mora? (94th author, Associate Fellow)
+
+- **SPT-CL J0417-4748: A Deep Chandra Study of a Relaxed Galaxy Cluster Without Central Star Formation**
+[https://arxiv.org/abs/2602.16295]
+  + Lindsey Bleem (7th author, Senior Associate)
+
+- **The Carousel Lens II: Cosmological Constraints with GIGA-Lens**
+[https://arxiv.org/abs/2602.16077]
+  + Shrihan Agarwal (8th author, Graduate Student)
+
+- **The LOFAR Two-metre Sky Survey: VII. Third Data Release**
+[https://arxiv.org/abs/2602.15949]
+  + Savdeep Sethi? (94th author, Senior Associate)
+
+- **Statistics of Daily Modulation in Dark Matter Direct Detection Experiments**
+[https://arxiv.org/abs/2602.15947]
+  + Joshua Foster (2th author, Associate Fellow)
 
 - **I-Band Asymptotic Giant Branch (IAGB) Stars: II. A First Estimate of their Precision and a Differential Zero Point**
 [https://arxiv.org/abs/2602.14304]
