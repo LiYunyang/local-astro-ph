@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 18 21:26:20 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Feb 19 20:14:06 CST 2026)
 
 - **Searching for White Dwarf Candidates Formed Through Binary evolution in Star Clusters**
 [https://arxiv.org/abs/2602.16550]
