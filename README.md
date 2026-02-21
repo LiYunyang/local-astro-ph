@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb 19 21:22:38 CST 2026)
+## Latest Astro-ph Papers (Generated on Fri Feb 20 20:14:00 CST 2026)
 
 - **A Chemodynamical Census of the Milky Way's Ultra-Faint Compact Satellites. I. A First Population-Level Look at the Internal Kinematics and Metallicities of 19 Extremely-Low-Mass Halo Stellar Systems**
 [https://arxiv.org/abs/2602.17652]
