@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb 22 20:14:32 CST 2026)
+## Latest Astro-ph Papers (Generated on Sun Feb 22 21:28:46 CST 2026)
+
+- **Euclid: An automated system to match Rubin transient alerts to Euclid observations**
+[https://arxiv.org/abs/2602.18173]
+  + Alberto Castellano Mora? (96th author, Associate Fellow)
 
 - **A Chemodynamical Census of the Milky Way's Ultra-Faint Compact Satellites. I. A First Population-Level Look at the Internal Kinematics and Metallicities of 19 Extremely-Low-Mass Halo Stellar Systems**
 [https://arxiv.org/abs/2602.17652]
@@ -68,8 +72,4 @@
 - **Revising the Milky Way Cepheid Calibration: Quantifying and Correcting for Previously Undetected Distance Modulus Errors in the Gaia-based Multi-Wavelength Period-Luminosity Relations**
 [https://arxiv.org/abs/2602.13397]
   + Wendy Freedman (2th author, Senior Member)
-
-- **Dark matter effects on the properties of hybrid neutron stars**
-[https://arxiv.org/abs/2602.12495]
-  + Hsiao-Wen Chen? (3th author, Senior Member)
 
