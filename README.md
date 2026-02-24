@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Feb 22 21:28:46 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Feb 23 20:14:31 CST 2026)
 
 - **Euclid: An automated system to match Rubin transient alerts to Euclid observations**
 [https://arxiv.org/abs/2602.18173]
