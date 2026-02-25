@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb 24 20:14:17 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Feb 24 21:25:57 CST 2026)
+
+- **Evidence for Sympathetic Flaring in TESS Data**
+[https://arxiv.org/abs/2602.20311]
+  + David Martin (3th author, Graduate Student)
+
+- **Low-Energy Radon Backgrounds from Electrode Grids in Dual-Phase Xenon TPCs**
+[https://arxiv.org/abs/2602.21177]
+  + Hsiao-Wen Chen? (40th author, Senior Member)
 
 - **The major merger-active galactic nucleus connection up to the cosmic noon**
 [https://arxiv.org/abs/2602.19997]
