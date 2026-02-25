@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Feb 23 21:24:48 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Feb 24 20:14:17 CST 2026)
+
+- **The major merger-active galactic nucleus connection up to the cosmic noon**
+[https://arxiv.org/abs/2602.19997]
+  + LianTao Wang? (3th author, Senior Member)
 
 - **Euclid: An automated system to match Rubin transient alerts to Euclid observations**
 [https://arxiv.org/abs/2602.18173]
@@ -52,24 +56,4 @@
 - **Statistics of Daily Modulation in Dark Matter Direct Detection Experiments**
 [https://arxiv.org/abs/2602.15947]
   + Joshua Foster (2th author, Associate Fellow)
-
-- **I-Band Asymptotic Giant Branch (IAGB) Stars: II. A First Estimate of their Precision and a Differential Zero Point**
-[https://arxiv.org/abs/2602.14304]
-  + Wendy Freedman (1th author, Senior Member)
-  + Abigail Lee (5th author, Graduate Student)
-  + Kayla Owens (6th author, Graduate Student)
-
-- **I-Band Asymptotic Giant Branch (IAGB) Stars: I. Exploring a New Standard Candle for the Extragalactic Distance Scale**
-[https://arxiv.org/abs/2602.14242]
-  + Wendy Freedman (2th author, Senior Member)
-  + Abigail Lee (5th author, Graduate Student)
-  + Kayla Owens (6th author, Graduate Student)
-
-- **S-PLUS: Beyond Spectroscopy IV. Stellar Parameters and Elemental-abundance Ratios for Six Million Stars from DR4 and First Results for the Magellanic Clouds**
-[https://arxiv.org/abs/2602.14087]
-  + Guilherme Limberg (11th author, KICP Fellow)
-
-- **Revising the Milky Way Cepheid Calibration: Quantifying and Correcting for Previously Undetected Distance Modulus Errors in the Gaia-based Multi-Wavelength Period-Luminosity Relations**
-[https://arxiv.org/abs/2602.13397]
-  + Wendy Freedman (2th author, Senior Member)
 
