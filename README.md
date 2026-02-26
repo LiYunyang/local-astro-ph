@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Feb 24 21:25:57 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Feb 25 20:14:01 CST 2026)
 
 - **Evidence for Sympathetic Flaring in TESS Data**
 [https://arxiv.org/abs/2602.20311]
