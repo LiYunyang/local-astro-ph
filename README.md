@@ -1,6 +1,33 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 25 20:14:01 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Feb 25 21:23:01 CST 2026)
+
+- **Probing Large-scale Structure and the Multi-Phase IGM at the Cosmic Noon -- Insights from a Joint Survey with Euclid, CSST, JPCam, and JUST**
+[https://arxiv.org/abs/2602.22004]
+  + Zhijie Qu (4th author, Postdoctoral Scholar)
+
+- **CALIMA: On-the-fly dust and PAH evolution for radiation-hydrodynamics galaxy formation simulations**
+[https://arxiv.org/abs/2602.21790]
+  + Francisco Rodriguez Montero (1th author, KICP Fellow)
+  + Harley Katz (3th author, Senior Member)
+
+- **Intracluster Medium Fluctuations on Scales up to 1 Mpc: A Combined eROSITA and SPT/Planck Analysis of Abell 3266**
+[https://arxiv.org/abs/2602.21443]
+  + Annie Heinrich? (2th author, Graduate Student)
+  + Irina Zhuravleva? (4th author, Assistant Professor)
+
+- **The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy**
+[https://arxiv.org/abs/2602.21283]
+  + Anirudh Chiti (4th author, Brinson Prize Fellow)
+  + Guilherme Limberg (7th author, KICP Fellow)
+  + Alex Drlica-Wagner (19th author, Senior Member)
+  + Alexander Ji (20th author, Senior Member)
+
+- **A Path to an All-Sky Survey with Roman**
+[https://arxiv.org/abs/2602.21280]
+  + Anirudh Chiti (2th author, Brinson Prize Fellow)
+  + Alex Drlica-Wagner (17th author, Senior Member)
+  + Alexander Ji (28th author, Senior Member)
 
 - **Evidence for Sympathetic Flaring in TESS Data**
 [https://arxiv.org/abs/2602.20311]
@@ -40,28 +67,4 @@
 - **Rescuing Overabundant Dark Matter with a Strongly First Order Phase Transition in the Dark Sector**
 [https://arxiv.org/abs/2602.16822]
   + Carlos Wagner (3th author, Senior Member)
-
-- **Searching for White Dwarf Candidates Formed Through Binary evolution in Star Clusters**
-[https://arxiv.org/abs/2602.16550]
-  + David Miller (3th author, Senior Member)
-
-- **Euclid preparation. Impact of galaxy intrinsic alignment modelling choices on Euclid 3x2pt cosmology**
-[https://arxiv.org/abs/2602.16448]
-  + Alberto Castellano Mora? (94th author, Associate Fellow)
-
-- **SPT-CL J0417-4748: A Deep Chandra Study of a Relaxed Galaxy Cluster Without Central Star Formation**
-[https://arxiv.org/abs/2602.16295]
-  + Lindsey Bleem (7th author, Senior Associate)
-
-- **The Carousel Lens II: Cosmological Constraints with GIGA-Lens**
-[https://arxiv.org/abs/2602.16077]
-  + Shrihan Agarwal (8th author, Graduate Student)
-
-- **The LOFAR Two-metre Sky Survey: VII. Third Data Release**
-[https://arxiv.org/abs/2602.15949]
-  + Savdeep Sethi? (94th author, Senior Associate)
-
-- **Statistics of Daily Modulation in Dark Matter Direct Detection Experiments**
-[https://arxiv.org/abs/2602.15947]
-  + Joshua Foster (2th author, Associate Fellow)
 
