@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Feb 25 21:23:01 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Feb 26 20:14:05 CST 2026)
 
 - **Probing Large-scale Structure and the Multi-Phase IGM at the Cosmic Noon -- Insights from a Joint Survey with Euclid, CSST, JPCam, and JUST**
 [https://arxiv.org/abs/2602.22004]
