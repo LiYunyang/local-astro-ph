@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb 26 20:14:05 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Feb 26 21:20:47 CST 2026)
+
+- **Variability of the X-ray obscuring wind in Mrk 335 with XMM-Newton/RGS**
+[https://arxiv.org/abs/2602.23255]
+  + Daniele Rogantini (1th author, Margaret Burbidge Prize Postdoctoral Fellow)
+  + Irina Zhuravleva (13th author, Assistant Professor)
+
+- **It's a matter of time: Empirical Constraints on Supernova Yields and Delay Times from Dwarf Spheroidal Galaxies**
+[https://arxiv.org/abs/2602.22333]
+  + Alexander Ji (2th author, Senior Member)
 
 - **Probing Large-scale Structure and the Multi-Phase IGM at the Cosmic Noon -- Insights from a Joint Survey with Euclid, CSST, JPCam, and JUST**
 [https://arxiv.org/abs/2602.22004]
@@ -44,27 +53,4 @@
 - **Euclid: An automated system to match Rubin transient alerts to Euclid observations**
 [https://arxiv.org/abs/2602.18173]
   + Alberto Castellano Mora? (96th author, Associate Fellow)
-
-- **A Chemodynamical Census of the Milky Way's Ultra-Faint Compact Satellites. I. A First Population-Level Look at the Internal Kinematics and Metallicities of 19 Extremely-Low-Mass Halo Stellar Systems**
-[https://arxiv.org/abs/2602.17652]
-  + Alexander Ji (6th author, Senior Member)
-  + Alex Drlica-Wagner (7th author, Senior Member)
-  + Daisy Bissonette (13th author, Graduate Student)
-  + Anirudh Chiti (15th author, Brinson Prize Fellow)
-
-- **Under Pressure: UV Emission Line Ratios as Barometers of AGN Feedback Mechanisms**
-[https://arxiv.org/abs/2602.17039]
-  + Hsiao-Wen Chen (4th author, Senior Member)
-
-- **ELVES-Field: Isolated Dwarf Galaxy Quenched Fractions Rise Below $M_* \approx 10^7$ $M_\odot$**
-[https://arxiv.org/abs/2602.16778]
-  + Alex Drlica-Wagner (4th author, Senior Member)
-
-- **A Sample of Nearby Isolated Dwarf Galaxies: A First Look at the Mass Function of Field Dwarfs**
-[https://arxiv.org/abs/2602.16766]
-  + Alex Drlica-Wagner (4th author, Senior Member)
-
-- **Rescuing Overabundant Dark Matter with a Strongly First Order Phase Transition in the Dark Sector**
-[https://arxiv.org/abs/2602.16822]
-  + Carlos Wagner (3th author, Senior Member)
 
