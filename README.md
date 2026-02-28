@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Feb 26 21:20:47 CST 2026)
+## Latest Astro-ph Papers (Generated on Fri Feb 27 20:13:43 CST 2026)
 
 - **Variability of the X-ray obscuring wind in Mrk 335 with XMM-Newton/RGS**
 [https://arxiv.org/abs/2602.23255]
