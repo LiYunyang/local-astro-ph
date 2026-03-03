@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Mar  1 21:21:51 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Mar  2 20:14:28 CST 2026)
 
 - **Discovery of a nearby radio relic in the low-mass, merging cluster Abell 4067**
 [https://arxiv.org/abs/2602.24206]
