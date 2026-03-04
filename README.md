@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar  2 21:24:12 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Mar  3 20:14:15 CST 2026)
+
+- **SIMPLIFI-Study of Interstellar Magnetic Polarization: A Legacy Investigation of Filaments. II. Enhancement of grain alignment near embedded protostars in the DR21 Ridge**
+[https://arxiv.org/abs/2603.00246]
+  + Suyash Kumar? (1th author, Graduate Student)
+
+- **The Star Formation History of WLM from Asymptotic Giant Branch Stars and The Discovery of a Possible Accreted System in its Outer Disk**
+[https://arxiv.org/abs/2603.00243]
+  + Abigail Lee (1th author, Graduate Student)
 
 - **Discovery of a nearby radio relic in the low-mass, merging cluster Abell 4067**
 [https://arxiv.org/abs/2602.24206]
@@ -70,8 +78,4 @@
 - **Low-Energy Radon Backgrounds from Electrode Grids in Dual-Phase Xenon TPCs**
 [https://arxiv.org/abs/2602.21177]
   + Hsiao-Wen Chen? (40th author, Senior Member)
-
-- **The major merger-active galactic nucleus connection up to the cosmic noon**
-[https://arxiv.org/abs/2602.19997]
-  + LianTao Wang? (3th author, Senior Member)
 
