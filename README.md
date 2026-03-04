@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar  3 20:14:15 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Mar  3 21:18:44 CST 2026)
+
+- **FEASTS and MHONGOOSE: HI Column Density Distribution at $z=0$ for $N_\mathrm{HI}>10^{17.8}\, \mathrm{cm}^{-2}$**
+[https://arxiv.org/abs/2603.02670]
+  + Zhijie Qu (6th author, Postdoctoral Scholar)
+
+- **Quantifying Element Importance for Mass Recovery from Population III Supernova Yield Fits**
+[https://arxiv.org/abs/2603.02440]
+  + Alexander Ji (2th author, Senior Member)
 
 - **SIMPLIFI-Study of Interstellar Magnetic Polarization: A Legacy Investigation of Filaments. II. Enhancement of grain alignment near embedded protostars in the DR21 Ridge**
 [https://arxiv.org/abs/2603.00246]
@@ -70,12 +78,4 @@
   + Anirudh Chiti (2th author, Brinson Prize Fellow)
   + Alex Drlica-Wagner (17th author, Senior Member)
   + Alexander Ji (28th author, Senior Member)
-
-- **Evidence for Sympathetic Flaring in TESS Data**
-[https://arxiv.org/abs/2602.20311]
-  + David Martin (3th author, Graduate Student)
-
-- **Low-Energy Radon Backgrounds from Electrode Grids in Dual-Phase Xenon TPCs**
-[https://arxiv.org/abs/2602.21177]
-  + Hsiao-Wen Chen? (40th author, Senior Member)
 
