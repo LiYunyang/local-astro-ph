@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar  4 20:14:07 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Mar  4 21:20:33 CST 2026)
+
+- **DESI DR2 Baryon Acoustic Oscillations from the Lyman Alpha Forest Multipoles**
+[https://arxiv.org/abs/2603.04281]
+  + Juan  Estrada? (14th author, Senior Associate)
+
+- **New Thermal-Relic Targets for sub-GeV Dark Matter Direct Detection**
+[https://arxiv.org/abs/2603.03444]
+  + Gordan Krnjaic (2th author, Senior Member)
 
 - **FEASTS and MHONGOOSE: HI Column Density Distribution at $z=0$ for $N_\mathrm{HI}>10^{17.8}\, \mathrm{cm}^{-2}$**
 [https://arxiv.org/abs/2603.02670]
@@ -51,31 +59,4 @@
 - **It's a matter of time: Empirical Constraints on Supernova Yields and Delay Times from Dwarf Spheroidal Galaxies**
 [https://arxiv.org/abs/2602.22333]
   + Alexander Ji (2th author, Senior Member)
-
-- **Probing Large-scale Structure and the Multi-Phase IGM at the Cosmic Noon -- Insights from a Joint Survey with Euclid, CSST, JPCam, and JUST**
-[https://arxiv.org/abs/2602.22004]
-  + Zhijie Qu (4th author, Postdoctoral Scholar)
-
-- **CALIMA: On-the-fly dust and PAH evolution for radiation-hydrodynamics galaxy formation simulations**
-[https://arxiv.org/abs/2602.21790]
-  + Francisco Rodriguez Montero (1th author, KICP Fellow)
-  + Harley Katz (3th author, Senior Member)
-
-- **Intracluster Medium Fluctuations on Scales up to 1 Mpc: A Combined eROSITA and SPT/Planck Analysis of Abell 3266**
-[https://arxiv.org/abs/2602.21443]
-  + Annie Heinrich? (2th author, Graduate Student)
-  + Irina Zhuravleva? (4th author, Assistant Professor)
-
-- **The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy**
-[https://arxiv.org/abs/2602.21283]
-  + Anirudh Chiti (4th author, Brinson Prize Fellow)
-  + Guilherme Limberg (7th author, KICP Fellow)
-  + Alex Drlica-Wagner (19th author, Senior Member)
-  + Alexander Ji (20th author, Senior Member)
-
-- **A Path to an All-Sky Survey with Roman**
-[https://arxiv.org/abs/2602.21280]
-  + Anirudh Chiti (2th author, Brinson Prize Fellow)
-  + Alex Drlica-Wagner (17th author, Senior Member)
-  + Alexander Ji (28th author, Senior Member)
 
