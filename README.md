@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar  3 21:18:44 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Mar  4 20:14:07 CST 2026)
 
 - **FEASTS and MHONGOOSE: HI Column Density Distribution at $z=0$ for $N_\mathrm{HI}>10^{17.8}\, \mathrm{cm}^{-2}$**
 [https://arxiv.org/abs/2603.02670]
