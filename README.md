@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar  4 21:20:33 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Mar  5 20:14:14 CST 2026)
 
 - **DESI DR2 Baryon Acoustic Oscillations from the Lyman Alpha Forest Multipoles**
 [https://arxiv.org/abs/2603.04281]
