@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Mar  5 20:14:14 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Mar  5 21:19:16 CST 2026)
+
+- **Euclid: A blue galaxy population and a brightest cluster galaxy in the making in a $z\sim1.74$ MaDCoWS2 galaxy cluster candidate**
+[https://arxiv.org/abs/2603.04960]
+  + Alex Alarcon Gonzalez? (2th author, CASE Associate)
+  + Alberto Castellano Mora? (99th author, Associate Fellow)
+
+- **EBLM XVII - Tidal Synchronization and Circularization in Tight Stellar Binaries**
+[https://arxiv.org/abs/2603.04554]
+  + David Martin (2th author, Graduate Student)
 
 - **DESI DR2 Baryon Acoustic Oscillations from the Lyman Alpha Forest Multipoles**
 [https://arxiv.org/abs/2603.04281]
@@ -50,13 +59,4 @@
 - **High-Precision Mass Measurements of Proton-Rich Rh, Pd, Cd isotopes in the vicinity of 100Sn and Impact on X-Ray Burst and Supernova Nucleosynthesis**
 [https://arxiv.org/abs/2602.23776]
   + Michael Zhang? (26th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Variability of the X-ray obscuring wind in Mrk 335 with XMM-Newton/RGS**
-[https://arxiv.org/abs/2602.23255]
-  + Daniele Rogantini (1th author, Margaret Burbidge Prize Postdoctoral Fellow)
-  + Irina Zhuravleva (13th author, Assistant Professor)
-
-- **It's a matter of time: Empirical Constraints on Supernova Yields and Delay Times from Dwarf Spheroidal Galaxies**
-[https://arxiv.org/abs/2602.22333]
-  + Alexander Ji (2th author, Senior Member)
 
