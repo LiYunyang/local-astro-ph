@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Mar  6 20:13:47 CST 2026)
+## Latest Astro-ph Papers (Generated on Fri Mar  6 21:16:16 CST 2026)
 
 - **Euclid: A blue galaxy population and a brightest cluster galaxy in the making in a $z\sim1.74$ MaDCoWS2 galaxy cluster candidate**
 [https://arxiv.org/abs/2603.04960]
