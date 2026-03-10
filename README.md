@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Mar  8 22:24:30 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Mar  9 21:14:23 CDT 2026)
 
 - **The Collective Voice of Ly$α$ Emitters: Insights from JWST Stacked Spectroscopy**
 [https://arxiv.org/abs/2603.06409]
