@@ -1,6 +1,27 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar  9 22:18:51 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Mar 10 21:14:12 CDT 2026)
+
+- **Probing Physics Beyond the Standard Model through Combined Analyses of Next-Generation Type Ia Supernova, CMB, and BAO Surveys**
+[https://arxiv.org/abs/2603.09973]
+  + Richard Kessler (8th author, Senior Researcher)
+  + Georgios Valogiannis (12th author, Associate Fellow)
+
+- **Epicyclic Density Variations in the Indus Stellar Stream**
+[https://arxiv.org/abs/2603.09305]
+  + Alexander Ji (6th author, Senior Member)
+  + Guilherme Limberg (13th author, KICP Fellow)
+
+- **Optical calibration systems of the Pacific Ocean Neutrino Experiment**
+[https://arxiv.org/abs/2603.09495]
+  + Alexandra Rahlin? (66th author, Research Assistant Professor)
+
+- **BICEP/Keck XXI: Constraints on Early-Universe Parity Violation from Multipole-Dependent Birefringence**
+[https://arxiv.org/abs/2603.06812]
+  + James Cornelison (15th author, Associate Fellow)
+  + Scott Mackey (54th author, Graduate Student)
+  + Abigail Vieregg (87th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu (94th author, KICP Fellow)
 
 - **The Collective Voice of Ly$α$ Emitters: Insights from JWST Stacked Spectroscopy**
 [https://arxiv.org/abs/2603.06409]
@@ -26,20 +47,4 @@
 - **New Thermal-Relic Targets for sub-GeV Dark Matter Direct Detection**
 [https://arxiv.org/abs/2603.03444]
   + Gordan Krnjaic (2th author, Senior Member)
-
-- **FEASTS and MHONGOOSE: HI Column Density Distribution at $z=0$ for $N_\mathrm{HI}>10^{17.8}\, \mathrm{cm}^{-2}$**
-[https://arxiv.org/abs/2603.02670]
-  + Zhijie Qu (6th author, Postdoctoral Scholar)
-
-- **Quantifying Element Importance for Mass Recovery from Population III Supernova Yield Fits**
-[https://arxiv.org/abs/2603.02440]
-  + Alexander Ji (2th author, Senior Member)
-
-- **SIMPLIFI-Study of Interstellar Magnetic Polarization: A Legacy Investigation of Filaments. II. Enhancement of grain alignment near embedded protostars in the DR21 Ridge**
-[https://arxiv.org/abs/2603.00246]
-  + Suyash Kumar? (1th author, Graduate Student)
-
-- **The Star Formation History of WLM from Asymptotic Giant Branch Stars and The Discovery of a Possible Accreted System in its Outer Disk**
-[https://arxiv.org/abs/2603.00243]
-  + Abigail Lee (1th author, Graduate Student)
 
