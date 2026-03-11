@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 10 21:14:12 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Mar 10 22:19:02 CDT 2026)
 
 - **Probing Physics Beyond the Standard Model through Combined Analyses of Next-Generation Type Ia Supernova, CMB, and BAO Surveys**
 [https://arxiv.org/abs/2603.09973]
