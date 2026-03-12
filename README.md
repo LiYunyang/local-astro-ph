@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 11 21:14:19 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Mar 11 22:22:19 CDT 2026)
 
 - **Euclid: The linear-construction covariance and cosmology**
 [https://arxiv.org/abs/2603.10735]
