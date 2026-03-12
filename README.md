@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 10 22:19:02 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Mar 11 21:14:19 CDT 2026)
+
+- **Euclid: The linear-construction covariance and cosmology**
+[https://arxiv.org/abs/2603.10735]
+  + Alberto Castellano Mora? (86th author, Associate Fellow)
+
+- **A Kiloparsec-Scale Stellar Cavity in the Center of Abell402-BCG May be Caused by Dynamic Interactions with an Ultramassive Black Hole**
+[https://arxiv.org/abs/2603.10104]
+  + Michael D. Gladders (9th author, Professor)
 
 - **Probing Physics Beyond the Standard Model through Combined Analyses of Next-Generation Type Ia Supernova, CMB, and BAO Surveys**
 [https://arxiv.org/abs/2603.09973]
@@ -39,12 +47,4 @@
 - **EBLM XVII - Tidal Synchronization and Circularization in Tight Stellar Binaries**
 [https://arxiv.org/abs/2603.04554]
   + David Martin (2th author, Graduate Student)
-
-- **DESI DR2 Baryon Acoustic Oscillations from the Lyman Alpha Forest Multipoles**
-[https://arxiv.org/abs/2603.04281]
-  + Juan  Estrada? (14th author, Senior Associate)
-
-- **New Thermal-Relic Targets for sub-GeV Dark Matter Direct Detection**
-[https://arxiv.org/abs/2603.03444]
-  + Gordan Krnjaic (2th author, Senior Member)
 
