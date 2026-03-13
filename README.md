@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 11 22:22:19 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Mar 12 21:14:17 CDT 2026)
+
+- **FlowSN: Normalising Flows for Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology**
+[https://arxiv.org/abs/2603.11165]
+  + Richard Kessler (5th author, Senior Researcher)
 
 - **Euclid: The linear-construction covariance and cosmology**
 [https://arxiv.org/abs/2603.10735]
@@ -38,13 +42,4 @@
 - **Latin American HECAP Physics Briefing Book 2025**
 [https://arxiv.org/abs/2603.06291]
   + Juan  Estrada (9th author, Senior Associate)
-
-- **Euclid: A blue galaxy population and a brightest cluster galaxy in the making in a $z\sim1.74$ MaDCoWS2 galaxy cluster candidate**
-[https://arxiv.org/abs/2603.04960]
-  + Alex Alarcon Gonzalez? (2th author, CASE Associate)
-  + Alberto Castellano Mora? (99th author, Associate Fellow)
-
-- **EBLM XVII - Tidal Synchronization and Circularization in Tight Stellar Binaries**
-[https://arxiv.org/abs/2603.04554]
-  + David Martin (2th author, Graduate Student)
 
