@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Mar 12 21:14:17 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Mar 12 22:19:57 CDT 2026)
 
 - **FlowSN: Normalising Flows for Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology**
 [https://arxiv.org/abs/2603.11165]
