@@ -1,8 +1,20 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Mar 14 22:35:00 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Mar 15 21:14:53 CDT 2026)
 
-- **FlowSN: Normalising Flows for Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology**
+- **Euclid preparation. Far-infrared predictions for Euclid galaxy catalogues: cluster, protocluster, and field**
+[https://arxiv.org/abs/2603.13195]
+  + LianTao Wang? (10th author, Senior Member)
+
+- **Euclid preparation. Simulated galaxy catalogues for non-standard cosmological models**
+[https://arxiv.org/abs/2603.13148]
+  + Alberto Castellano Mora? (98th author, Associate Fellow)
+
+- **A near field guide to Roman's wide-area surveys**
+[https://arxiv.org/abs/2603.12981]
+  + Abigail Lee (9th author, Graduate Student)
+
+- **FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology**
 [https://arxiv.org/abs/2603.11165]
   + Richard Kessler (5th author, Senior Researcher)
 
@@ -34,12 +46,4 @@
   + Scott Mackey (54th author, Graduate Student)
   + Abigail Vieregg (87th author, David N. Schramm Director and Senior Member)
   + Cyndia Yu (94th author, KICP Fellow)
-
-- **The Collective Voice of Ly$α$ Emitters: Insights from JWST Stacked Spectroscopy**
-[https://arxiv.org/abs/2603.06409]
-  + Wayne Hu? (15th author, Senior Member)
-
-- **Latin American HECAP Physics Briefing Book 2025**
-[https://arxiv.org/abs/2603.06291]
-  + Juan  Estrada (9th author, Senior Associate)
 
