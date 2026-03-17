@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar 16 21:14:35 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Mar 16 22:23:50 CDT 2026)
 
 - **Euclid preparation. Far-infrared predictions for Euclid galaxy catalogues: cluster, protocluster, and field**
 [https://arxiv.org/abs/2603.13195]
