@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 17 21:14:39 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Mar 17 22:28:49 CDT 2026)
 
 - **Gravitational-Wave Propagation Through the Axiverse**
 [https://arxiv.org/abs/2603.15838]
