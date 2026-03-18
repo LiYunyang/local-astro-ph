@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar 16 22:23:50 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Mar 17 21:14:39 CDT 2026)
+
+- **Gravitational-Wave Propagation Through the Axiverse**
+[https://arxiv.org/abs/2603.15838]
+  + Leah Jenks (1th author, KICP Fellow)
+
+- **A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST**
+[https://arxiv.org/abs/2603.13471]
+  + Harley Katz (6th author, Senior Member)
+
+- **Dark Matter Search with the DEAP-3600 Detector using the Profile Likelihood Ratio Method**
+[https://arxiv.org/abs/2603.13965]
+  + Matthew Baldwin? (8th author, Graduate Student)
 
 - **Euclid preparation. Far-infrared predictions for Euclid galaxy catalogues: cluster, protocluster, and field**
 [https://arxiv.org/abs/2603.13195]
@@ -25,25 +37,4 @@
 - **A Kiloparsec-Scale Stellar Cavity in the Center of Abell402-BCG May be Caused by Dynamic Interactions with an Ultramassive Black Hole**
 [https://arxiv.org/abs/2603.10104]
   + Michael D. Gladders (9th author, Professor)
-
-- **Probing Physics Beyond the Standard Model through Combined Analyses of Next-Generation Type Ia Supernova, CMB, and BAO Surveys**
-[https://arxiv.org/abs/2603.09973]
-  + Richard Kessler (8th author, Senior Researcher)
-  + Georgios Valogiannis (12th author, Associate Fellow)
-
-- **Epicyclic Density Variations in the Indus Stellar Stream**
-[https://arxiv.org/abs/2603.09305]
-  + Alexander Ji (6th author, Senior Member)
-  + Guilherme Limberg (13th author, KICP Fellow)
-
-- **Optical calibration systems of the Pacific Ocean Neutrino Experiment**
-[https://arxiv.org/abs/2603.09495]
-  + Alexandra Rahlin? (66th author, Research Assistant Professor)
-
-- **BICEP/Keck XXI: Constraints on Early-Universe Parity Violation from Multipole-Dependent Birefringence**
-[https://arxiv.org/abs/2603.06812]
-  + James Cornelison (15th author, Associate Fellow)
-  + Scott Mackey (54th author, Graduate Student)
-  + Abigail Vieregg (87th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu (94th author, KICP Fellow)
 
