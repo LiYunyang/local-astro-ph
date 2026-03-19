@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 18 21:14:36 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Mar 18 22:29:10 CDT 2026)
+
+- **VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**
+[https://arxiv.org/abs/2603.17511]
+  + Suyash Kumar? (32th author, Graduate Student)
+
+- **SLSim: a strong lensing population simulation package**
+[https://arxiv.org/abs/2603.17138]
+  + Anowar Shajib (21th author, KICP and Einstein Fellow)
+  + Richard Kessler (36th author, Senior Researcher)
+
+- **Anti-Solar Differential Rotation May Have Revived Magnetic Braking in the Subgiant 31 Aquilae**
+[https://arxiv.org/abs/2603.17001]
+  + Derek Buzasi (4th author, Senior Instructional Professor)
+
+- **Resonant scattering at the center of the galaxy cluster PKS 0745-191 with XRISM**
+[https://arxiv.org/abs/2603.16263]
+  + Irina Zhuravleva (13th author, Assistant Professor)
 
 - **Gravitational-Wave Propagation Through the Axiverse**
 [https://arxiv.org/abs/2603.15838]
@@ -29,12 +46,4 @@
 - **FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology**
 [https://arxiv.org/abs/2603.11165]
   + Richard Kessler (5th author, Senior Researcher)
-
-- **Euclid: The linear-construction covariance and cosmology**
-[https://arxiv.org/abs/2603.10735]
-  + Alberto Castellano Mora? (86th author, Associate Fellow)
-
-- **A Kiloparsec-Scale Stellar Cavity in the Center of Abell402-BCG May be Caused by Dynamic Interactions with an Ultramassive Black Hole**
-[https://arxiv.org/abs/2603.10104]
-  + Michael D. Gladders (9th author, Professor)
 
