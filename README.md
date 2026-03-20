@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 18 22:29:10 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Mar 19 21:14:18 CDT 2026)
+
+- **Setting SAIL: Leveraging Scientist-AI-Loops for Rigorous Visualization Tools**
+[https://arxiv.org/abs/2603.18145]
+  + Georgios Valogiannis (10th author, Associate Fellow)
 
 - **VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**
 [https://arxiv.org/abs/2603.17511]
@@ -42,8 +46,4 @@
 - **A near field guide to Roman's wide-area surveys**
 [https://arxiv.org/abs/2603.12981]
   + Abigail Lee (9th author, Graduate Student)
-
-- **FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology**
-[https://arxiv.org/abs/2603.11165]
-  + Richard Kessler (5th author, Senior Researcher)
 
