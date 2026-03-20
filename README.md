@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Mar 19 21:14:18 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Mar 19 22:21:28 CDT 2026)
 
 - **Setting SAIL: Leveraging Scientist-AI-Loops for Rigorous Visualization Tools**
 [https://arxiv.org/abs/2603.18145]
