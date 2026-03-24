@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Mar 22 22:30:51 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Mar 23 21:14:19 CDT 2026)
 
 - **SPT-3G D1: Maps of the millimeter-wave sky from 2019 and 2020 observations of the SPT-3G Main field**
 [https://arxiv.org/abs/2603.20163]
