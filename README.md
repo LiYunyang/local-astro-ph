@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar 23 21:14:19 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Mar 23 22:24:16 CDT 2026)
+
+- **Investigation of the Microquasar SS 433 with VERITAS**
+[https://arxiv.org/abs/2603.22105]
+  + Suyash Kumar? (33th author, Graduate Student)
 
 - **SPT-3G D1: Maps of the millimeter-wave sky from 2019 and 2020 observations of the SPT-3G Main field**
 [https://arxiv.org/abs/2603.20163]
@@ -55,12 +59,4 @@
 - **Gravitational-Wave Propagation Through the Axiverse**
 [https://arxiv.org/abs/2603.15838]
   + Leah Jenks (1th author, KICP Fellow)
-
-- **A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST**
-[https://arxiv.org/abs/2603.13471]
-  + Harley Katz (6th author, Senior Member)
-
-- **Dark Matter Search with the DEAP-3600 Detector using the Profile Likelihood Ratio Method**
-[https://arxiv.org/abs/2603.13965]
-  + Matthew Baldwin? (8th author, Graduate Student)
 
