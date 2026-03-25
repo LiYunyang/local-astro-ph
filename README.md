@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 24 21:14:40 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Mar 24 22:27:32 CDT 2026)
 
 - **A systematic study of AGN feedback in a disk galaxy II: MACER prediction of X-ray surface brightness profile and comparison with eROSITA observations**
 [https://arxiv.org/abs/2603.22412]
