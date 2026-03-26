@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 25 21:14:45 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Mar 25 22:32:32 CDT 2026)
 
 - **The Vera C. Rubin Observatory Data Preview 1**
 [https://arxiv.org/abs/2603.23786]
