@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 24 22:27:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Mar 25 21:14:45 CDT 2026)
+
+- **The Vera C. Rubin Observatory Data Preview 1**
+[https://arxiv.org/abs/2603.23786]
+  + Chihway Chang (51th author, Senior Member)
+
+- **Brightest Cluster Galaxy ellipticity as proxy for halo shape: Orientation bias, assembly bias, and potential selection effects in SZ-selected clusters**
+[https://arxiv.org/abs/2603.23689]
+  + Lindsey Bleem (8th author, Senior Associate)
+  + Chihway Chang (22th author, Senior Member)
+  + Scott Dodelson (27th author, Senior Associate)
+  + Alex Drlica-Wagner (29th author, Senior Member)
+  + Marco Gatti (33th author, KICP Fellow)
+  + Michael D. Gladders (35th author, Professor)
 
 - **A systematic study of AGN feedback in a disk galaxy II: MACER prediction of X-ray surface brightness profile and comparison with eROSITA observations**
 [https://arxiv.org/abs/2603.22412]
@@ -55,17 +68,4 @@
 - **Setting SAIL: Leveraging Scientist-AI-Loops for Rigorous Visualization Tools**
 [https://arxiv.org/abs/2603.18145]
   + Georgios Valogiannis (10th author, Associate Fellow)
-
-- **VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**
-[https://arxiv.org/abs/2603.17511]
-  + Suyash Kumar? (32th author, Graduate Student)
-
-- **SLSim: a strong lensing population simulation package**
-[https://arxiv.org/abs/2603.17138]
-  + Anowar Shajib (21th author, KICP and Einstein Fellow)
-  + Richard Kessler (36th author, Senior Researcher)
-
-- **Anti-Solar Differential Rotation May Have Revived Magnetic Braking in the Subgiant 31 Aquilae**
-[https://arxiv.org/abs/2603.17001]
-  + Derek Buzasi (4th author, Senior Instructional Professor)
 
