@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Mar 25 22:32:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Mar 26 21:14:52 CDT 2026)
+
+- **CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**
+[https://arxiv.org/abs/2603.25731]
+  + Tanvi Karwal (2th author, KICP Fellow)
+
+- **Large-scale weak lensing convergence in nonlinear general relativity**
+[https://arxiv.org/abs/2603.24838]
+  + Hayley Macpherson (1th author, KICP and  Einstein Fellow)
 
 - **The Vera C. Rubin Observatory Data Preview 1**
 [https://arxiv.org/abs/2603.23786]
@@ -64,8 +72,4 @@
   + Abigail Vieregg? (89th author, David N. Schramm Director and Senior Member)
   + Matthew Young? (94th author, Associate Fellow)
   + Jessica Zebrowski? (95th author, KICP and Einstein Fellow)
-
-- **Setting SAIL: Leveraging Scientist-AI-Loops for Rigorous Visualization Tools**
-[https://arxiv.org/abs/2603.18145]
-  + Georgios Valogiannis (10th author, Associate Fellow)
 
