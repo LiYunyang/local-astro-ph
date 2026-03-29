@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Mar 27 22:25:46 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sat Mar 28 21:14:58 CDT 2026)
 
 - **CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**
 [https://arxiv.org/abs/2603.25731]
