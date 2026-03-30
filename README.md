@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Mar 28 22:37:57 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Mar 29 21:15:06 CDT 2026)
+
+- **The atmosphere of K2-18 b: The role of hazes, clouds and photoelectrons**
+[https://arxiv.org/abs/2603.26474]
+  + Rayne Liu? (2th author, Graduate Student)
+
+- **Scylla at APOGEE: The Impact of Starbursts on the Chemical Evolution of the Magellanic Clouds**
+[https://arxiv.org/abs/2603.25909]
+  + Alexander Ji (8th author, Senior Member)
+
+- **TOI-7169 b: A Hot Jupiter Transiting a Metal-Poor Star**
+[https://arxiv.org/abs/2603.25787]
+  + Anirudh Chiti (8th author, Brinson Prize Fellow)
 
 - **CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**
 [https://arxiv.org/abs/2603.25731]
@@ -44,32 +56,7 @@
 [https://arxiv.org/abs/2603.22105]
   + Suyash Kumar? (33th author, Graduate Student)
 
-- **SPT-3G D1: Maps of the millimeter-wave sky from 2019 and 2020 observations of the SPT-3G Main field**
-[https://arxiv.org/abs/2603.20163]
-  + Wei Quan? (1th author, Associate Fellow)
-  + Yuuki Omori? (5th author, Senior Researcher)
-  + Adam Anderson? (8th author, Senior Associate)
-  + Melanie Archipley? (10th author, Associate Fellow)
-  + Amy Bender? (14th author, Senior Associate)
-  + Bradford A. Benson? (15th author, Associate Professor)
-  + Lindsey Bleem? (17th author, Senior Associate)
-  + John Carlstrom? (21th author, Senior Member)
-  + Chihway Chang? (23th author, Senior Member)
-  + Paul Chichura? (24th author, Graduate Student)
-  + Thomas Crawford? (28th author, Senior Researcher)
-  + Karia Dibert? (30th author, Graduate Student)
-  + Kyra Fichman? (37th author, Graduate Student)
-  + John Hood? (48th author, Associate Fellow)
-  + Alexander Hryciuk? (49th author, Graduate Student)
-  + Tanisha Jhaveri? (50th author, Graduate Student)
-  + Kayla Kornoelje? (54th author, Graduate Student)
-  + Yunyang Li? (57th author, KICP Fellow)
-  + Emily Martsen? (63th author, Graduate Student)
-  + Tyler Natoli? (68th author, Senior Researcher)
-  + Alexandra Rahlin? (77th author, Research Assistant Professor)
-  + Aidan Simpson? (82th author, Graduate Student)
-  + Joshua Sobrin? (83th author, Associate Fellow)
-  + Abigail Vieregg? (89th author, David N. Schramm Director and Senior Member)
-  + Matthew Young? (94th author, Associate Fellow)
-  + Jessica Zebrowski? (95th author, KICP and Einstein Fellow)
+- **The search for Population III: Confirmation of a HeII emitter with no metal lines at z=10.6**
+[https://arxiv.org/abs/2603.20362]
+  + Harley Katz (18th author, Senior Member)
 
