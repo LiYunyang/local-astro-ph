@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Mar 29 22:40:00 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Mar 30 21:14:52 CDT 2026)
 
 - **The atmosphere of K2-18 b: The role of hazes, clouds and photoelectrons**
 [https://arxiv.org/abs/2603.26474]
