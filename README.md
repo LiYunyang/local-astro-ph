@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Mar 30 21:14:52 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Mar 30 22:34:04 CDT 2026)
 
 - **The atmosphere of K2-18 b: The role of hazes, clouds and photoelectrons**
 [https://arxiv.org/abs/2603.26474]
@@ -51,12 +51,4 @@
 - **Kinetic Isocurvature Perturbation**
 [https://arxiv.org/abs/2603.22394]
   + Keisuke Harigaya (4th author, Senior Member)
-
-- **Investigation of the Microquasar SS 433 with VERITAS**
-[https://arxiv.org/abs/2603.22105]
-  + Suyash Kumar? (33th author, Graduate Student)
-
-- **The search for Population III: Confirmation of a HeII emitter with no metal lines at z=10.6**
-[https://arxiv.org/abs/2603.20362]
-  + Harley Katz (18th author, Senior Member)
 
