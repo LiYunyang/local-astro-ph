@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 31 21:15:29 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Mar 31 22:41:39 CDT 2026)
 
 - **Cloudy With a Chance of Meatballs**
 [https://arxiv.org/abs/2603.29883]
