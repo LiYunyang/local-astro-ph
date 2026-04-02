@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Mar 31 22:41:39 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr  1 21:14:38 CDT 2026)
+
+- **Information content of JWST transmission spectroscopy of the exoplanet HAT-P-12b from the optical to the mid-infrared**
+[https://arxiv.org/abs/2604.01219]
+  + Patrick E. Palmer? (10th author, Professor Emeritus)
+
+- **Calibrating optical galaxy cluster projection effects with sparse spectroscopic samples: A clustering redshift approach**
+[https://arxiv.org/abs/2604.00420]
+  + Chun-Hao To (4th author, Associate Fellow)
 
 - **Cloudy With a Chance of Meatballs**
 [https://arxiv.org/abs/2603.29883]
@@ -33,17 +41,4 @@
 - **Large-scale weak lensing convergence in nonlinear general relativity**
 [https://arxiv.org/abs/2603.24838]
   + Hayley Macpherson (1th author, KICP and  Einstein Fellow)
-
-- **The Vera C. Rubin Observatory Data Preview 1**
-[https://arxiv.org/abs/2603.23786]
-  + Chihway Chang (51th author, Senior Member)
-
-- **Brightest Cluster Galaxy ellipticity as proxy for halo shape: Orientation bias, assembly bias, and potential selection effects in SZ-selected clusters**
-[https://arxiv.org/abs/2603.23689]
-  + Lindsey Bleem (8th author, Senior Associate)
-  + Chihway Chang (22th author, Senior Member)
-  + Scott Dodelson (27th author, Senior Associate)
-  + Alex Drlica-Wagner (29th author, Senior Member)
-  + Marco Gatti (33th author, KICP Fellow)
-  + Michael D. Gladders (35th author, Professor)
 
