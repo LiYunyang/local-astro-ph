@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr  1 21:14:38 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr  1 22:31:23 CDT 2026)
 
 - **Information content of JWST transmission spectroscopy of the exoplanet HAT-P-12b from the optical to the mid-infrared**
 [https://arxiv.org/abs/2604.01219]
