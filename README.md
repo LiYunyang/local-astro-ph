@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Apr  2 21:14:42 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Apr  2 22:32:10 CDT 2026)
 
 - **CORSIKA 8: A General Framework for Particle Cascade Simulations**
 [https://arxiv.org/abs/2604.01850]
