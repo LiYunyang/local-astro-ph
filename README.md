@@ -1,6 +1,33 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr  1 22:31:23 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Apr  2 21:14:42 CDT 2026)
+
+- **CORSIKA 8: A General Framework for Particle Cascade Simulations**
+[https://arxiv.org/abs/2604.01850]
+  + Cosmin Deaconu? (8th author, Senior Researcher)
+  + Philipp Windischhofer? (36th author, Associate Fellow)
+
+- **The impact of the eROSITA bubbles on Galactic cosmic-ray transport**
+[https://arxiv.org/abs/2604.01815]
+  + Benedikt Schroer (1th author, Postdoctoral Scholar)
+
+- **Three Thousand Motion-Confirmed L and T Dwarf Candidates from the Backyard Worlds:~Planet 9 Citizen Science Project**
+[https://arxiv.org/abs/2604.01323]
+  + David Martin (43th author, Graduate Student)
+
+- **Euclid preparation. Non-Gaussianity of 2-pt statistics likelihood: Parameter inference with a non-Gaussian likelihood in Fourier and configuration space**
+[https://arxiv.org/abs/2604.01309]
+  + Alberto Castellano Mora? (92th author, Associate Fellow)
+
+- **X-ray Response of the Fully-Depleted, p-Channel SiSeRO-CCD**
+[https://arxiv.org/abs/2604.02272]
+  + Julian  Cuevas-Zepeda (1th author, Associate Fellow)
+  + Nathan Saffold (5th author, Associate Fellow)
+  + Juan  Estrada (6th author, Senior Associate)
+
+- **Supermassive Primordial Black Holes from a Catalyzed Dark Phase Transition for Little Red Dots**
+[https://arxiv.org/abs/2604.01304]
+  + Huangyu Xiao (5th author, Associate Fellow)
 
 - **Information content of JWST transmission spectroscopy of the exoplanet HAT-P-12b from the optical to the mid-infrared**
 [https://arxiv.org/abs/2604.01219]
@@ -33,12 +60,4 @@
 - **TOI-7169 b: A Hot Jupiter Transiting a Metal-Poor Star**
 [https://arxiv.org/abs/2603.25787]
   + Anirudh Chiti (8th author, Brinson Prize Fellow)
-
-- **CMB constraints on dark matter-proton scattering: investigating prior-volume effects using profile likelihoods**
-[https://arxiv.org/abs/2603.25731]
-  + Tanvi Karwal (2th author, KICP Fellow)
-
-- **Large-scale weak lensing convergence in nonlinear general relativity**
-[https://arxiv.org/abs/2603.24838]
-  + Hayley Macpherson (1th author, KICP and  Einstein Fellow)
 
