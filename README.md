@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Apr  4 22:38:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Apr  5 21:15:20 CDT 2026)
+
+- **The South Pole Telescope AGN Monitoring Campaign: First Release of SPTpol Bright AGN Light Curves**
+[https://arxiv.org/abs/2604.02529]
+  + Adam Anderson? (3th author, Senior Associate)
+  + Melanie Archipley? (4th author, Associate Fellow)
+  + Amy Bender? (7th author, Senior Associate)
+  + Bradford A. Benson? (8th author, Associate Professor)
+  + Lindsey Bleem? (10th author, Senior Associate)
+  + John Carlstrom? (11th author, Senior Member)
+  + Chihway Chang? (12th author, Senior Member)
+  + Thomas Crawford? (18th author, Senior Researcher)
+  + Abigail Lee? (37th author, Graduate Student)
+  + Jeffrey McMahon? (42th author, Senior Member)
+  + Stephan Meyer? (43th author, Senior Member)
+  + Tyler Natoli? (45th author, Senior Researcher)
+  + Aidan Simpson? (58th author, Graduate Student)
+  + Jessica Zebrowski? (69th author, KICP and Einstein Fellow)
 
 - **CORSIKA 8: A General Framework for Particle Cascade Simulations**
 [https://arxiv.org/abs/2604.01850]
@@ -48,16 +65,4 @@
 - **New Constraints on the M Dwarf Cosmic Shoreline from a Galaxy Far, Far Away**
 [https://arxiv.org/abs/2603.29743]
   + Michael Radica (1th author, Postdoctoral Scholar)
-
-- **The atmosphere of K2-18 b: The role of hazes, clouds and photoelectrons**
-[https://arxiv.org/abs/2603.26474]
-  + Rayne Liu? (2th author, Graduate Student)
-
-- **Scylla at APOGEE: The Impact of Starbursts on the Chemical Evolution of the Magellanic Clouds**
-[https://arxiv.org/abs/2603.25909]
-  + Alexander Ji (8th author, Senior Member)
-
-- **TOI-7169 b: A Hot Jupiter Transiting a Metal-Poor Star**
-[https://arxiv.org/abs/2603.25787]
-  + Anirudh Chiti (8th author, Brinson Prize Fellow)
 
