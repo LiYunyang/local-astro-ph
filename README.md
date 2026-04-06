@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Apr  5 21:15:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Apr  5 22:39:48 CDT 2026)
 
 - **The South Pole Telescope AGN Monitoring Campaign: First Release of SPTpol Bright AGN Light Curves**
 [https://arxiv.org/abs/2604.02529]
