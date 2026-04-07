@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr  6 21:14:57 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Apr  6 22:34:09 CDT 2026)
+
+- **SPURS: Evidence for Clumpy Neutral Envelopes and Ionized IGM Surrounding Little Red Dots in Abell 2744 from Ultra-Deep Rest-UV Spectroscopy**
+[https://arxiv.org/abs/2604.03563]
+  + Harley Katz (5th author, Senior Member)
+
+- **Silicon, sulfur and iron in the interstellar medium: a high-resolution X-ray spectral study of GX 340+0**
+[https://arxiv.org/abs/2604.03375]
+  + Daniele Rogantini (1th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **The South Pole Telescope AGN Monitoring Campaign: First Release of SPTpol Bright AGN Light Curves**
 [https://arxiv.org/abs/2604.02529]
