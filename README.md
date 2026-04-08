@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr  7 21:14:45 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Apr  7 22:35:10 CDT 2026)
 
 - **Forward analytical model for the optical selection bias on galaxy cluster lensing profiles**
 [https://arxiv.org/abs/2604.05833]
