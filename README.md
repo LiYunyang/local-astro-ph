@@ -1,6 +1,30 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr  6 22:34:09 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Apr  7 21:14:45 CDT 2026)
+
+- **Forward analytical model for the optical selection bias on galaxy cluster lensing profiles**
+[https://arxiv.org/abs/2604.05833]
+  + Chun-Hao To? (5th author, Associate Fellow)
+
+- **JWST Lensed Quasar Dark Matter Survey V: Measuring the minimum halo mass with strong gravitational lensing**
+[https://arxiv.org/abs/2604.05237]
+  + Daniel Gilman? (2th author, Associate Fellow)
+
+- **The JWST Search for Earth-Luna Analogs: Upper Limits on Exomoons and Refined Ephemerides for TOI 700 d and e**
+[https://arxiv.org/abs/2604.05235]
+  + Jacob L. Bean (4th author, Professor)
+
+- **Implications of low neutron star merger rates for gamma-ray bursts, r-process production and Galactic double neutron stars**
+[https://arxiv.org/abs/2604.05059]
+  + Alexander Ji (2th author, Senior Member)
+
+- **Super-Solar Metallicity and Tentative Evidence for Photochemistry on WASP-96b from JWST and Ground-Based VLT Transmission Spectroscopy**
+[https://arxiv.org/abs/2604.05049]
+  + Michael Radica (1th author, Postdoctoral Scholar)
+
+- **Wide Jets or Low Rates: Reconciling Short GRB and Gravitational-Wave Neutron Star Merger Rates**
+[https://arxiv.org/abs/2604.05046]
+  + Amanda Farah (4th author, Graduate Student)
 
 - **SPURS: Evidence for Clumpy Neutral Envelopes and Ionized IGM Surrounding Little Red Dots in Abell 2744 from Ultra-Deep Rest-UV Spectroscopy**
 [https://arxiv.org/abs/2604.03563]
@@ -61,16 +85,4 @@
 - **Calibrating optical galaxy cluster projection effects with sparse spectroscopic samples: A clustering redshift approach**
 [https://arxiv.org/abs/2604.00420]
   + Chun-Hao To (4th author, Associate Fellow)
-
-- **Cloudy With a Chance of Meatballs**
-[https://arxiv.org/abs/2603.29883]
-  + Wolf Cukier (1th author, Graduate Student)
-  + Dominic Samra (2th author, Postdoctoral Scholar)
-  + Vighnesh Nagpal (3th author, Graduate Student)
-  + Diana Powell (4th author, Assistant Professor)
-  + Maria Steinrueck (5th author, 51 Pegasi b Fellow)
-
-- **New Constraints on the M Dwarf Cosmic Shoreline from a Galaxy Far, Far Away**
-[https://arxiv.org/abs/2603.29743]
-  + Michael Radica (1th author, Postdoctoral Scholar)
 
