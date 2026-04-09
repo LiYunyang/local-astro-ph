@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr  8 21:14:48 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr  8 22:32:51 CDT 2026)
 
 - **Planet-induced Periodic Modulation of Stellar Activity in GJ~436: Insights into a Warm Neptune's Magnetic Field**
 [https://arxiv.org/abs/2604.06969]
