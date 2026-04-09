@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr  7 22:35:10 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr  8 21:14:48 CDT 2026)
+
+- **Planet-induced Periodic Modulation of Stellar Activity in GJ~436: Insights into a Warm Neptune's Magnetic Field**
+[https://arxiv.org/abs/2604.06969]
+  + Rafael Luque? (3th author, Postdoctoral Scholar)
 
 - **Forward analytical model for the optical selection bias on galaxy cluster lensing profiles**
 [https://arxiv.org/abs/2604.05833]
@@ -77,12 +81,4 @@
 - **Supermassive Primordial Black Holes from a Catalyzed Dark Phase Transition for Little Red Dots**
 [https://arxiv.org/abs/2604.01304]
   + Huangyu Xiao (5th author, Associate Fellow)
-
-- **Information content of JWST transmission spectroscopy of the exoplanet HAT-P-12b from the optical to the mid-infrared**
-[https://arxiv.org/abs/2604.01219]
-  + Patrick E. Palmer? (10th author, Professor Emeritus)
-
-- **Calibrating optical galaxy cluster projection effects with sparse spectroscopic samples: A clustering redshift approach**
-[https://arxiv.org/abs/2604.00420]
-  + Chun-Hao To (4th author, Associate Fellow)
 
