@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr  8 22:32:51 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Apr  9 21:15:20 CDT 2026)
+
+- **Disentangling cosmic distance tensions with early and late dark energy**
+[https://arxiv.org/abs/2604.08530]
+  + Tanisha Jhaveri (1th author, Graduate Student)
+  + Tanvi Karwal (2th author, KICP Fellow)
+  + Thomas Crawford (3th author, Senior Researcher)
+  + Wayne Hu (4th author, Senior Member)
+
+- **Development of Faster and More Accurate Supernova Localization at Super-Kamiokande**
+[https://arxiv.org/abs/2604.07702]
+  + David Martin? (87th author, Graduate Student)
+
+- **On the Information Content of Ariel Transmission Spectra: Reassessing the Tier System**
+[https://arxiv.org/abs/2604.07598]
+  + Michael Radica (1th author, Postdoctoral Scholar)
+
+- **LSST Strong Lensing Systems Dark Matter Sensitivity Analysis with Neural Ratio Estimators**
+[https://arxiv.org/abs/2604.07438]
+  + Daniel Gilman (4th author, Associate Fellow)
 
 - **Planet-induced Periodic Modulation of Stellar Activity in GJ~436: Insights into a Warm Neptune's Magnetic Field**
 [https://arxiv.org/abs/2604.06969]
@@ -54,31 +73,4 @@
   + Tyler Natoli? (45th author, Senior Researcher)
   + Aidan Simpson? (58th author, Graduate Student)
   + Jessica Zebrowski? (69th author, KICP and Einstein Fellow)
-
-- **CORSIKA 8: A General Framework for Particle Cascade Simulations**
-[https://arxiv.org/abs/2604.01850]
-  + Cosmin Deaconu? (8th author, Senior Researcher)
-  + Philipp Windischhofer? (36th author, Associate Fellow)
-
-- **The impact of the eROSITA bubbles on Galactic cosmic-ray transport**
-[https://arxiv.org/abs/2604.01815]
-  + Benedikt Schroer (1th author, Postdoctoral Scholar)
-
-- **Three Thousand Motion-Confirmed L and T Dwarf Candidates from the Backyard Worlds:~Planet 9 Citizen Science Project**
-[https://arxiv.org/abs/2604.01323]
-  + David Martin (43th author, Graduate Student)
-
-- **Euclid preparation. Non-Gaussianity of 2-pt statistics likelihood: Parameter inference with a non-Gaussian likelihood in Fourier and configuration space**
-[https://arxiv.org/abs/2604.01309]
-  + Alberto Castellano Mora? (92th author, Associate Fellow)
-
-- **X-ray Response of the Fully-Depleted, p-Channel SiSeRO-CCD**
-[https://arxiv.org/abs/2604.02272]
-  + Julian  Cuevas-Zepeda (1th author, Associate Fellow)
-  + Nathan Saffold (5th author, Associate Fellow)
-  + Juan  Estrada (6th author, Senior Associate)
-
-- **Supermassive Primordial Black Holes from a Catalyzed Dark Phase Transition for Little Red Dots**
-[https://arxiv.org/abs/2604.01304]
-  + Huangyu Xiao (5th author, Associate Fellow)
 
