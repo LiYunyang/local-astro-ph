@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Apr  9 21:15:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Apr  9 22:40:04 CDT 2026)
 
 - **Disentangling cosmic distance tensions with early and late dark energy**
 [https://arxiv.org/abs/2604.08530]
