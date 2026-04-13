@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Apr 11 22:42:19 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Apr 12 21:15:34 CDT 2026)
+
+- **Primordial Neutron Stars**
+[https://arxiv.org/abs/2604.08651]
+  + Gordan Krnjaic (1th author, Senior Member)
+  + Huangyu Xiao (3th author, Associate Fellow)
 
 - **Disentangling cosmic distance tensions with early and late dark energy**
 [https://arxiv.org/abs/2604.08530]
@@ -56,21 +61,4 @@
 - **Silicon, sulfur and iron in the interstellar medium: a high-resolution X-ray spectral study of GX 340+0**
 [https://arxiv.org/abs/2604.03375]
   + Daniele Rogantini (1th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **The South Pole Telescope AGN Monitoring Campaign: First Release of SPTpol Bright AGN Light Curves**
-[https://arxiv.org/abs/2604.02529]
-  + Adam Anderson? (3th author, Senior Associate)
-  + Melanie Archipley? (4th author, Associate Fellow)
-  + Amy Bender? (7th author, Senior Associate)
-  + Bradford A. Benson? (8th author, Associate Professor)
-  + Lindsey Bleem? (10th author, Senior Associate)
-  + John Carlstrom? (11th author, Senior Member)
-  + Chihway Chang? (12th author, Senior Member)
-  + Thomas Crawford? (18th author, Senior Researcher)
-  + Abigail Lee? (37th author, Graduate Student)
-  + Jeffrey McMahon? (42th author, Senior Member)
-  + Stephan Meyer? (43th author, Senior Member)
-  + Tyler Natoli? (45th author, Senior Researcher)
-  + Aidan Simpson? (58th author, Graduate Student)
-  + Jessica Zebrowski? (69th author, KICP and Einstein Fellow)
 
