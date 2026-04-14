@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 13 21:15:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Apr 13 22:40:09 CDT 2026)
+
+- **Full-polarization millimeter wavelength variability of Sagittarius A* during the 2018 EHT campaign**
+[https://arxiv.org/abs/2604.10287]
+  + Bradford A. Benson (30th author, Associate Professor)
+  + John Carlstrom (43th author, Senior Member)
+  + Thomas Crawford (56th author, Senior Researcher)
+
+- **Time-resolved XRISM spectroscopy reveals the evolution and structure of the corona in MCG-6-30-15**
+[https://arxiv.org/abs/2604.09761]
+  + Daniele Rogantini? (10th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **Primordial Neutron Stars**
 [https://arxiv.org/abs/2604.08651]
@@ -53,12 +63,4 @@
 - **Wide Jets or Low Rates: Reconciling Short GRB and Gravitational-Wave Neutron Star Merger Rates**
 [https://arxiv.org/abs/2604.05046]
   + Amanda Farah (4th author, Graduate Student)
-
-- **SPURS: Evidence for Clumpy Neutral Envelopes and Ionized IGM Surrounding Little Red Dots in Abell 2744 from Ultra-Deep Rest-UV Spectroscopy**
-[https://arxiv.org/abs/2604.03563]
-  + Harley Katz (5th author, Senior Member)
-
-- **Silicon, sulfur and iron in the interstellar medium: a high-resolution X-ray spectral study of GX 340+0**
-[https://arxiv.org/abs/2604.03375]
-  + Daniele Rogantini (1th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
