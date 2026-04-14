@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Apr 12 22:45:10 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Apr 13 21:15:32 CDT 2026)
 
 - **Primordial Neutron Stars**
 [https://arxiv.org/abs/2604.08651]
