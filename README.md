@@ -1,6 +1,33 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 13 22:40:09 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Apr 14 21:15:24 CDT 2026)
+
+- **The $R$-Process Alliance: Actinide Abundances, Variation, and Evolution in Metal-Poor Stars**
+[https://arxiv.org/abs/2604.12892]
+  + Alexander Ji (4th author, Senior Member)
+
+- **21 cm Power Spectrum Analysis of North Celestial Pole Observations with the Tianlai Dish Pathfinder Array**
+[https://arxiv.org/abs/2604.12200]
+  + Albert Stebbins (10th author, Senior Associate)
+
+- **Spatially Resolved Kinematics of SLACS Lens Galaxies. II: Breaking Degeneracies with Lensing and Dynamical Models**
+[https://arxiv.org/abs/2604.12155]
+  + Anowar Shajib (6th author, KICP and Einstein Fellow)
+
+- **An Atmosphere on the Ultra-Short Period super-Earth HD 3167 b**
+[https://arxiv.org/abs/2604.11911]
+  + Qiao Xue (2th author, Graduate Student)
+  + Michael Zhang (8th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Jacob L. Bean (10th author, Professor)
+  + Rafael Luque (15th author, Postdoctoral Scholar)
+
+- **Hybrid Simulations of Supersonic Shear Flows: II) Cosmic Ray Viscosity**
+[https://arxiv.org/abs/2604.11901]
+  + Damiano Caprioli (2th author, Associate Professor)
+
+- **SN 2022riv in RX J2129: Discovery, Spectroscopic Classification, and Microlensing of a Strongly Lensed Type Ia Supernova from JWST and HST Observations**
+[https://arxiv.org/abs/2604.11882]
+  + Daniel Gilman (23th author, Associate Fellow)
 
 - **Full-polarization millimeter wavelength variability of Sagittarius A* during the 2018 EHT campaign**
 [https://arxiv.org/abs/2604.10287]
@@ -39,28 +66,4 @@
 - **Planet-induced Periodic Modulation of Stellar Activity in GJ~436: Insights into a Warm Neptune's Magnetic Field**
 [https://arxiv.org/abs/2604.06969]
   + Rafael Luque? (3th author, Postdoctoral Scholar)
-
-- **Forward analytical model for the optical selection bias on galaxy cluster lensing profiles**
-[https://arxiv.org/abs/2604.05833]
-  + Chun-Hao To? (5th author, Associate Fellow)
-
-- **JWST Lensed Quasar Dark Matter Survey V: Measuring the minimum halo mass with strong gravitational lensing**
-[https://arxiv.org/abs/2604.05237]
-  + Daniel Gilman? (2th author, Associate Fellow)
-
-- **The JWST Search for Earth-Luna Analogs: Upper Limits on Exomoons and Refined Ephemerides for TOI 700 d and e**
-[https://arxiv.org/abs/2604.05235]
-  + Jacob L. Bean (4th author, Professor)
-
-- **Implications of low neutron star merger rates for gamma-ray bursts, r-process production and Galactic double neutron stars**
-[https://arxiv.org/abs/2604.05059]
-  + Alexander Ji (2th author, Senior Member)
-
-- **Super-Solar Metallicity and Tentative Evidence for Photochemistry on WASP-96b from JWST and Ground-Based VLT Transmission Spectroscopy**
-[https://arxiv.org/abs/2604.05049]
-  + Michael Radica (1th author, Postdoctoral Scholar)
-
-- **Wide Jets or Low Rates: Reconciling Short GRB and Gravitational-Wave Neutron Star Merger Rates**
-[https://arxiv.org/abs/2604.05046]
-  + Amanda Farah (4th author, Graduate Student)
 
