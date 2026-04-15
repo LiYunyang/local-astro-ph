@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 14 21:15:24 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Apr 14 22:39:30 CDT 2026)
 
 - **The $R$-Process Alliance: Actinide Abundances, Variation, and Evolution in Metal-Poor Stars**
 [https://arxiv.org/abs/2604.12892]
