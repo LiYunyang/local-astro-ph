@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 15 21:15:47 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr 15 22:42:41 CDT 2026)
 
 - **TDCOSMO XXV: A "soup-to-nuts" 6.5% $H_0$ measurement $-$ strong lensing and dynamics with a maximally flexible mass sheet**
 [https://arxiv.org/abs/2604.14145]
