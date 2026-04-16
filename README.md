@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 14 22:39:30 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr 15 21:15:47 CDT 2026)
+
+- **TDCOSMO XXV: A "soup-to-nuts" 6.5% $H_0$ measurement $-$ strong lensing and dynamics with a maximally flexible mass sheet**
+[https://arxiv.org/abs/2604.14145]
+  + Anowar Shajib (10th author, KICP and Einstein Fellow)
+
+- **ALESS--JWST: Dust-driven Morphologies and Hidden Stellar Mass in $z\sim3$ Sub-millimeter Galaxies**
+[https://arxiv.org/abs/2604.13408]
+  + Juliang Li? (1th author, Postdoctoral Scholar)
+
+- **The DECam MAGIC Survey: Investigating the Jet Stellar Stream with Photometric Metallicities**
+[https://arxiv.org/abs/2604.13374]
+  + Anirudh Chiti? (2th author, Brinson Prize Fellow)
+  + Alexander Ji? (4th author, Senior Member)
+  + Guilherme Limberg? (5th author, KICP Fellow)
+  + Alex Drlica-Wagner? (9th author, Senior Member)
+
+- **SN 2022riv in RX J2129: Discovery, Spectroscopic Classification, and Microlensing of a Strongly Lensed Type Ia Supernova from JWST and HST Observations**
+[https://arxiv.org/abs/2604.11882]
+  + Daniel Gilman (23th author, Associate Fellow)
 
 - **The $R$-Process Alliance: Actinide Abundances, Variation, and Evolution in Metal-Poor Stars**
 [https://arxiv.org/abs/2604.12892]
@@ -24,10 +43,6 @@
 - **Hybrid Simulations of Supersonic Shear Flows: II) Cosmic Ray Viscosity**
 [https://arxiv.org/abs/2604.11901]
   + Damiano Caprioli (2th author, Associate Professor)
-
-- **SN 2022riv in RX J2129: Discovery, Spectroscopic Classification, and Microlensing of a Strongly Lensed Type Ia Supernova from JWST and HST Observations**
-[https://arxiv.org/abs/2604.11882]
-  + Daniel Gilman (23th author, Associate Fellow)
 
 - **Full-polarization millimeter wavelength variability of Sagittarius A* during the 2018 EHT campaign**
 [https://arxiv.org/abs/2604.10287]
@@ -62,8 +77,4 @@
 - **LSST Strong Lensing Systems Dark Matter Sensitivity Analysis with Neural Ratio Estimators**
 [https://arxiv.org/abs/2604.07438]
   + Daniel Gilman (4th author, Associate Fellow)
-
-- **Planet-induced Periodic Modulation of Stellar Activity in GJ~436: Insights into a Warm Neptune's Magnetic Field**
-[https://arxiv.org/abs/2604.06969]
-  + Rafael Luque? (3th author, Postdoctoral Scholar)
 
