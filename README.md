@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 15 22:42:41 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Apr 16 21:15:29 CDT 2026)
+
+- **Las Cumbres Observatory Gravitational-Wave Follow-up in O3 and O4: Strengths and Weaknesses of a Rapid Response Galaxy Targeted Strategy**
+[https://arxiv.org/abs/2604.15129]
+  + Daniel E. Holz (15th author, Professor)
+
+- **Forecasting neutrino mass constraints from the Nancy Grace Roman Space Telescope**
+[https://arxiv.org/abs/2604.14504]
+  + Andrew Hearin (3th author, Senior Associate)
+
+- **The Atacama Cosmology Telescope: A Test of the Gravitational Force Law on Cosmological Scales Using the Kinematic Sunyaev-Zeldovich Effect**
+[https://arxiv.org/abs/2604.14327]
+  + Patricio Gallardo (1th author, KICP Fellow)
+  + Erin Healy (14th author, KICP Fellow)
 
 - **TDCOSMO XXV: A "soup-to-nuts" 6.5% $H_0$ measurement $-$ strong lensing and dynamics with a maximally flexible mass sheet**
 [https://arxiv.org/abs/2604.14145]
@@ -58,23 +71,4 @@
 [https://arxiv.org/abs/2604.08651]
   + Gordan Krnjaic (1th author, Senior Member)
   + Huangyu Xiao (3th author, Associate Fellow)
-
-- **Disentangling cosmic distance tensions with early and late dark energy**
-[https://arxiv.org/abs/2604.08530]
-  + Tanisha Jhaveri (1th author, Graduate Student)
-  + Tanvi Karwal (2th author, KICP Fellow)
-  + Thomas Crawford (3th author, Senior Researcher)
-  + Wayne Hu (4th author, Senior Member)
-
-- **Development of Faster and More Accurate Supernova Localization at Super-Kamiokande**
-[https://arxiv.org/abs/2604.07702]
-  + David Martin? (87th author, Graduate Student)
-
-- **On the Information Content of Ariel Transmission Spectra: Reassessing the Tier System**
-[https://arxiv.org/abs/2604.07598]
-  + Michael Radica (1th author, Postdoctoral Scholar)
-
-- **LSST Strong Lensing Systems Dark Matter Sensitivity Analysis with Neural Ratio Estimators**
-[https://arxiv.org/abs/2604.07438]
-  + Daniel Gilman (4th author, Associate Fellow)
 
