@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Apr 16 22:41:28 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Apr 17 21:14:44 CDT 2026)
 
 - **Las Cumbres Observatory Gravitational-Wave Follow-up in O3 and O4: Strengths and Weaknesses of a Rapid Response Galaxy Targeted Strategy**
 [https://arxiv.org/abs/2604.15129]
