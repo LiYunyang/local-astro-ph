@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Apr 18 22:44:11 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Apr 19 21:15:40 CDT 2026)
+
+- **Measuring the rate of glitches in interferometric gravitational wave detectors with a hierarchical Bayesian model**
+[https://arxiv.org/abs/2604.16039]
+  + Colm Talbot (2th author, Associate Fellow)
 
 - **Las Cumbres Observatory Gravitational-Wave Follow-up in O3 and O4: Strengths and Weaknesses of a Rapid Response Galaxy Targeted Strategy**
 [https://arxiv.org/abs/2604.15129]
@@ -66,9 +70,4 @@
 - **Time-resolved XRISM spectroscopy reveals the evolution and structure of the corona in MCG-6-30-15**
 [https://arxiv.org/abs/2604.09761]
   + Daniele Rogantini? (10th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Primordial Neutron Stars**
-[https://arxiv.org/abs/2604.08651]
-  + Gordan Krnjaic (1th author, Senior Member)
-  + Huangyu Xiao (3th author, Associate Fellow)
 
