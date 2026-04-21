@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 20 21:15:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Apr 20 22:42:12 CDT 2026)
+
+- **Molecular Clouds at the Edge of the Galaxy II. Physical properties and scaling relations**
+[https://arxiv.org/abs/2604.18382]
+  + Juliang Li? (22th author, Postdoctoral Scholar)
+
+- **Characterizing the velocity anisotropy of the Milky Way's stellar halo**
+[https://arxiv.org/abs/2604.18278]
+  + Guilherme Limberg? (7th author, KICP Fellow)
+
+- **Signatures of Suppressed Matter Clustering revealed by Fast Radio Bursts**
+[https://arxiv.org/abs/2604.17162]
+  + Dhayaa Anbajagane (5th author, Graduate Student)
+
+- **The Metallicity Gradient of Sagittarius Dwarf Spheroidal Galaxy Prior to Infall Constrained by S-PLUS Observations of its Tidal Stream**
+[https://arxiv.org/abs/2604.16727]
+  + Guilherme Limberg (2th author, KICP Fellow)
+
+- **A search for the first galaxies across $>0.6$ deg$^2$ of JWST imaging: new evidence for a rapid decline in star-formation activity at $z>12$**
+[https://arxiv.org/abs/2604.16666]
+  + Ian Holst? (18th author, Graduate Student)
 
 - **Measuring the rate of glitches in interferometric gravitational wave detectors with a hierarchical Bayesian model**
 [https://arxiv.org/abs/2604.16039]
@@ -60,14 +80,4 @@
 - **Hybrid Simulations of Supersonic Shear Flows: II) Cosmic Ray Viscosity**
 [https://arxiv.org/abs/2604.11901]
   + Damiano Caprioli (2th author, Associate Professor)
-
-- **Full-polarization millimeter wavelength variability of Sagittarius A* during the 2018 EHT campaign**
-[https://arxiv.org/abs/2604.10287]
-  + Bradford A. Benson (30th author, Associate Professor)
-  + John Carlstrom (43th author, Senior Member)
-  + Thomas Crawford (56th author, Senior Researcher)
-
-- **Time-resolved XRISM spectroscopy reveals the evolution and structure of the corona in MCG-6-30-15**
-[https://arxiv.org/abs/2604.09761]
-  + Daniele Rogantini? (10th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
