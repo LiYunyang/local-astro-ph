@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Apr 19 22:45:00 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Apr 20 21:15:32 CDT 2026)
 
 - **Measuring the rate of glitches in interferometric gravitational wave detectors with a hierarchical Bayesian model**
 [https://arxiv.org/abs/2604.16039]
