@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 20 22:42:12 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Apr 21 21:15:26 CDT 2026)
+
+- **Calibration-Induced Systematics in SALT3 Training and Their Impact on Dark Energy Constraints from Stage IV Supernova Surveys**
+[https://arxiv.org/abs/2604.19746]
+  + Richard Kessler (3th author, Senior Researcher)
 
 - **Molecular Clouds at the Edge of the Galaxy II. Physical properties and scaling relations**
 [https://arxiv.org/abs/2604.18382]
@@ -57,27 +61,4 @@
 - **SN 2022riv in RX J2129: Discovery, Spectroscopic Classification, and Microlensing of a Strongly Lensed Type Ia Supernova from JWST and HST Observations**
 [https://arxiv.org/abs/2604.11882]
   + Daniel Gilman (23th author, Associate Fellow)
-
-- **The $R$-Process Alliance: Actinide Abundances, Variation, and Evolution in Metal-Poor Stars**
-[https://arxiv.org/abs/2604.12892]
-  + Alexander Ji (4th author, Senior Member)
-
-- **21 cm Power Spectrum Analysis of North Celestial Pole Observations with the Tianlai Dish Pathfinder Array**
-[https://arxiv.org/abs/2604.12200]
-  + Albert Stebbins (10th author, Senior Associate)
-
-- **Spatially Resolved Kinematics of SLACS Lens Galaxies. II: Breaking Degeneracies with Lensing and Dynamical Models**
-[https://arxiv.org/abs/2604.12155]
-  + Anowar Shajib (6th author, KICP and Einstein Fellow)
-
-- **An Atmosphere on the Ultra-Short Period super-Earth HD 3167 b**
-[https://arxiv.org/abs/2604.11911]
-  + Qiao Xue (2th author, Graduate Student)
-  + Michael Zhang (8th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Jacob L. Bean (10th author, Professor)
-  + Rafael Luque (15th author, Postdoctoral Scholar)
-
-- **Hybrid Simulations of Supersonic Shear Flows: II) Cosmic Ray Viscosity**
-[https://arxiv.org/abs/2604.11901]
-  + Damiano Caprioli (2th author, Associate Professor)
 
