@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 21 21:15:26 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Apr 21 22:40:24 CDT 2026)
 
 - **Calibration-Induced Systematics in SALT3 Training and Their Impact on Dark Energy Constraints from Stage IV Supernova Surveys**
 [https://arxiv.org/abs/2604.19746]
