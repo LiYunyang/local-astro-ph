@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 21 22:40:24 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr 22 21:15:32 CDT 2026)
+
+- **Cold molecular gas distribution and kinematics in the low-metallicity dusty starburst of Mrk 996 resolved with ALMA**
+[https://arxiv.org/abs/2604.20080]
+  + Katie Harrington? (10th author, Senior Associate)
+
+- **The General Antiparticle Spectrometer (GAPS) Antarctic Balloon Payload**
+[https://arxiv.org/abs/2604.19830]
+  + Brandon Roach (46th author, KICP Fellow)
+  + Nathan Saffold (48th author, Associate Fellow)
 
 - **Calibration-Induced Systematics in SALT3 Training and Their Impact on Dark Energy Constraints from Stage IV Supernova Surveys**
 [https://arxiv.org/abs/2604.19746]
@@ -42,23 +51,4 @@
 [https://arxiv.org/abs/2604.14327]
   + Patricio Gallardo (1th author, KICP Fellow)
   + Erin Healy (14th author, KICP Fellow)
-
-- **TDCOSMO XXV: A "soup-to-nuts" 6.5% $H_0$ measurement $-$ strong lensing and dynamics with a maximally flexible mass sheet**
-[https://arxiv.org/abs/2604.14145]
-  + Anowar Shajib (10th author, KICP and Einstein Fellow)
-
-- **ALESS--JWST: Dust-driven Morphologies and Hidden Stellar Mass in $z\sim3$ Sub-millimeter Galaxies**
-[https://arxiv.org/abs/2604.13408]
-  + Juliang Li? (1th author, Postdoctoral Scholar)
-
-- **The DECam MAGIC Survey: Investigating the Jet Stellar Stream with Photometric Metallicities**
-[https://arxiv.org/abs/2604.13374]
-  + Anirudh Chiti? (2th author, Brinson Prize Fellow)
-  + Alexander Ji? (4th author, Senior Member)
-  + Guilherme Limberg? (5th author, KICP Fellow)
-  + Alex Drlica-Wagner? (9th author, Senior Member)
-
-- **SN 2022riv in RX J2129: Discovery, Spectroscopic Classification, and Microlensing of a Strongly Lensed Type Ia Supernova from JWST and HST Observations**
-[https://arxiv.org/abs/2604.11882]
-  + Daniel Gilman (23th author, Associate Fellow)
 
