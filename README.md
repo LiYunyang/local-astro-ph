@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 22 21:15:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr 22 22:42:38 CDT 2026)
 
 - **Cold molecular gas distribution and kinematics in the low-metallicity dusty starburst of Mrk 996 resolved with ALMA**
 [https://arxiv.org/abs/2604.20080]
