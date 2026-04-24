@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 22 22:42:38 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Apr 23 21:15:33 CDT 2026)
 
 - **Cold molecular gas distribution and kinematics in the low-metallicity dusty starburst of Mrk 996 resolved with ALMA**
 [https://arxiv.org/abs/2604.20080]
@@ -38,17 +38,4 @@
 - **Measuring the rate of glitches in interferometric gravitational wave detectors with a hierarchical Bayesian model**
 [https://arxiv.org/abs/2604.16039]
   + Colm Talbot (2th author, Associate Fellow)
-
-- **Las Cumbres Observatory Gravitational-Wave Follow-up in O3 and O4: Strengths and Weaknesses of a Rapid Response Galaxy Targeted Strategy**
-[https://arxiv.org/abs/2604.15129]
-  + Daniel E. Holz (15th author, Professor)
-
-- **Forecasting neutrino mass constraints from the Nancy Grace Roman Space Telescope**
-[https://arxiv.org/abs/2604.14504]
-  + Andrew Hearin (3th author, Senior Associate)
-
-- **The Atacama Cosmology Telescope: A Test of the Gravitational Force Law on Cosmological Scales Using the Kinematic Sunyaev-Zeldovich Effect**
-[https://arxiv.org/abs/2604.14327]
-  + Patricio Gallardo (1th author, KICP Fellow)
-  + Erin Healy (14th author, KICP Fellow)
 
