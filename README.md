@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Apr 26 21:15:51 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Apr 26 22:45:23 CDT 2026)
 
 - **Backlighting the Cosmic Web with Fast Radio Bursts: An Anthology of Dispersion Measure Cross-Correlations with Large-Scale Structure and Baryon Tracers**
 [https://arxiv.org/abs/2604.22105]
