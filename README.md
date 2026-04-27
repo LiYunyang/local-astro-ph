@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Apr 25 22:45:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Apr 26 21:15:51 CDT 2026)
+
+- **Backlighting the Cosmic Web with Fast Radio Bursts: An Anthology of Dispersion Measure Cross-Correlations with Large-Scale Structure and Baryon Tracers**
+[https://arxiv.org/abs/2604.22105]
+  + Dhayaa Anbajagane (4th author, Graduate Student)
+
+- **A SPHEREx Pipeline and Spectral Library for Ultracool Dwarfs**
+[https://arxiv.org/abs/2604.22012]
+  + David Martin (43th author, Graduate Student)
+
+- **The Simons Observatory: Improved Cryogenic Struts for use in the Large Aperture Telescope Receiver**
+[https://arxiv.org/abs/2604.21975]
+  + Anna Kofman (2th author, Associate Fellow)
 
 - **Cold molecular gas distribution and kinematics in the low-metallicity dusty starburst of Mrk 996 resolved with ALMA**
 [https://arxiv.org/abs/2604.20080]
@@ -34,8 +46,4 @@
 - **A search for the first galaxies across $>0.6$ deg$^2$ of JWST imaging: new evidence for a rapid decline in star-formation activity at $z>12$**
 [https://arxiv.org/abs/2604.16666]
   + Ian Holst? (18th author, Graduate Student)
-
-- **Measuring the rate of glitches in interferometric gravitational wave detectors with a hierarchical Bayesian model**
-[https://arxiv.org/abs/2604.16039]
-  + Colm Talbot (2th author, Associate Fellow)
 
