@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 28 21:16:03 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Apr 28 22:45:37 CDT 2026)
 
 - **From short-lived to long-lived clouds: impact of star formation models on giant molecular cloud evolution in simulations of an NGC 300-like galaxy**
 [https://arxiv.org/abs/2604.25911]
