@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Apr 27 22:45:34 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Apr 28 21:16:03 CDT 2026)
+
+- **From short-lived to long-lived clouds: impact of star formation models on giant molecular cloud evolution in simulations of an NGC 300-like galaxy**
+[https://arxiv.org/abs/2604.25911]
+  + Harley Katz (5th author, Senior Member)
+
+- **Testing template-fitting models for the multipoles of the two-point clustering of galaxy clusters**
+[https://arxiv.org/abs/2604.25762]
+  + Alberto Castellano Mora? (90th author, Associate Fellow)
+
+- **Euclid: Asteroid rotation periods from the Euclid Ecliptic Survey**
+[https://arxiv.org/abs/2604.25652]
+  + Alberto Castellano Mora? (99th author, Associate Fellow)
+
+- **TDCOSMO XXVI: Uniform lens modeling of eight doubly imaged quasars**
+[https://arxiv.org/abs/2604.24908]
+  + Anowar Shajib (4th author, KICP and Einstein Fellow)
 
 - **Probable Detection of a Cooler Gas Component in the Perseus Cluster with XRISM**
 [https://arxiv.org/abs/2604.22975]
@@ -27,8 +43,4 @@
 [https://arxiv.org/abs/2604.19830]
   + Brandon Roach (46th author, KICP Fellow)
   + Nathan Saffold (48th author, Associate Fellow)
-
-- **Calibration-Induced Systematics in SALT3 Training and Their Impact on Dark Energy Constraints from Stage IV Supernova Surveys**
-[https://arxiv.org/abs/2604.19746]
-  + Richard Kessler (3th author, Senior Researcher)
 
