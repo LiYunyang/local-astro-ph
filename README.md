@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 29 21:16:19 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr 29 22:45:39 CDT 2026)
 
 - **Euclid preparation. Refining input galaxy shape distributions for shear calibration simulations**
 [https://arxiv.org/abs/2604.26684]
