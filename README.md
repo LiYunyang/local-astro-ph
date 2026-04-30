@@ -1,6 +1,17 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Apr 28 22:45:37 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Apr 29 21:16:19 CDT 2026)
+
+- **Euclid preparation. Refining input galaxy shape distributions for shear calibration simulations**
+[https://arxiv.org/abs/2604.26684]
+  + Alberto Castellano Mora? (93th author, Associate Fellow)
+
+- **RV and TTV Measurements of Two Transiting Long-Period Giants around TOI-4600**
+[https://arxiv.org/abs/2604.26426]
+  + Jacob L. Bean (6th author, Professor)
+  + Madison Brady (7th author, Graduate Student)
+  + Ritvik Basant (14th author, Graduate Student)
+  + Tanya Das (18th author, Postdoctoral Scholar)
 
 - **From short-lived to long-lived clouds: impact of star formation models on giant molecular cloud evolution in simulations of an NGC 300-like galaxy**
 [https://arxiv.org/abs/2604.25911]
@@ -34,13 +45,4 @@
 - **The Simons Observatory: Improved Cryogenic Struts for use in the Large Aperture Telescope Receiver**
 [https://arxiv.org/abs/2604.21975]
   + Anna Kofman (2th author, Associate Fellow)
-
-- **Cold molecular gas distribution and kinematics in the low-metallicity dusty starburst of Mrk 996 resolved with ALMA**
-[https://arxiv.org/abs/2604.20080]
-  + Katie Harrington? (10th author, Senior Associate)
-
-- **The General Antiparticle Spectrometer (GAPS) Antarctic Balloon Payload**
-[https://arxiv.org/abs/2604.19830]
-  + Brandon Roach (46th author, KICP Fellow)
-  + Nathan Saffold (48th author, Associate Fellow)
 
