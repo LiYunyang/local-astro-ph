@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Apr 29 22:45:39 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Apr 30 21:16:21 CDT 2026)
+
+- **Finding the one: identifying the host of compact binary mergers**
+[https://arxiv.org/abs/2604.28132]
+  + Daniel E. Holz (3th author, Professor)
+
+- **Iron He-triplet signatures of shocks in the hottest galaxy clusters. Z/W line ratio, line broadening, and electron-ion temperature equilibration**
+[https://arxiv.org/abs/2604.27212]
+  + Annie Heinrich (5th author, Graduate Student)
+  + Irina Zhuravleva (6th author, Assistant Professor)
+
+- **The major cluster merger in Abell 2034 as seen by XRISM: Strong turbulence and spectral anomalies?**
+[https://arxiv.org/abs/2604.27161]
+  + Annie Heinrich (1th author, Graduate Student)
+  + Irina Zhuravleva (2th author, Assistant Professor)
+  + Daniele Rogantini (5th author, Margaret Burbidge Prize Postdoctoral Fellow)
+  + Hannah McCall (6th author, Graduate Student)
 
 - **Euclid preparation. Refining input galaxy shape distributions for shear calibration simulations**
 [https://arxiv.org/abs/2604.26684]
