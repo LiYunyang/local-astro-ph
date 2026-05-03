@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri May  1 22:43:36 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sat May  2 21:16:06 CDT 2026)
 
 - **Finding the one: identifying the host of compact binary mergers**
 [https://arxiv.org/abs/2604.28132]
