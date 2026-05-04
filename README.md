@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May  2 22:45:42 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun May  3 21:16:08 CDT 2026)
+
+- **Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**
+[https://arxiv.org/abs/2605.00821]
+  + Katrin Heitmann? (4th author, Senior Associate)
+
+- **$4\times3$ Point Correlation Functions in Galaxy Surveys: Impact of Baryonic Feedback**
+[https://arxiv.org/abs/2605.00818]
+  + Katrin Heitmann (6th author, Senior Associate)
+
+- **Confirmation of Fe I on MASCARA-5 b's Dayside Observed With EXPRES**
+[https://arxiv.org/abs/2605.00154]
+  + Lily Zhao (8th author, Sagan Fellow)
 
 - **Finding the one: identifying the host of compact binary mergers**
 [https://arxiv.org/abs/2604.28132]
@@ -49,16 +61,4 @@
 [https://arxiv.org/abs/2604.22975]
   + Irina Zhuravleva (5th author, Assistant Professor)
   + Annie Heinrich (7th author, Graduate Student)
-
-- **Backlighting the Cosmic Web with Fast Radio Bursts: An Anthology of Dispersion Measure Cross-Correlations with Large-Scale Structure and Baryon Tracers**
-[https://arxiv.org/abs/2604.22105]
-  + Dhayaa Anbajagane (4th author, Graduate Student)
-
-- **A SPHEREx Pipeline and Spectral Library for Ultracool Dwarfs**
-[https://arxiv.org/abs/2604.22012]
-  + David Martin (43th author, Graduate Student)
-
-- **The Simons Observatory: Improved Cryogenic Struts for use in the Large Aperture Telescope Receiver**
-[https://arxiv.org/abs/2604.21975]
-  + Anna Kofman (2th author, Associate Fellow)
 
