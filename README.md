@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun May  3 21:16:08 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun May  3 22:45:45 CDT 2026)
 
 - **Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**
 [https://arxiv.org/abs/2605.00821]
