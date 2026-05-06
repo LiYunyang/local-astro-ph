@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May  5 21:16:04 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue May  5 22:45:39 CDT 2026)
 
 - **The First Look of Gaia: Daily data quality and instrument health assessment with automated early warnings**
 [https://arxiv.org/abs/2605.03721]
