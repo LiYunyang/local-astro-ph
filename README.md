@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May  6 21:16:17 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed May  6 22:45:36 CDT 2026)
 
 - **Horizontal transport as a source of disequilibrium chemistry on the nightside of a hot exoplanet**
 [https://arxiv.org/abs/2605.04936]
