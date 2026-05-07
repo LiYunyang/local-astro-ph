@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May  5 22:45:39 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed May  6 21:16:17 CDT 2026)
+
+- **Horizontal transport as a source of disequilibrium chemistry on the nightside of a hot exoplanet**
+[https://arxiv.org/abs/2605.04936]
+  + Jacob L. Bean (11th author, Professor)
+
+- **Sensitivity of the As-Built Askaryan Radio Array to Ultra-High Energy Neutrinos**
+[https://arxiv.org/abs/2605.04268]
+  + Nathaniel Alden? (2th author, Graduate Student)
+  + Cosmin Deaconu? (21th author, Senior Researcher)
+  + Eric Oberla? (50th author, Senior Researcher)
+  + Abigail Vieregg? (66th author, David N. Schramm Director and Senior Member)
+  + Philipp Windischhofer? (70th author, Associate Fellow)
 
 - **The First Look of Gaia: Daily data quality and instrument health assessment with automated early warnings**
 [https://arxiv.org/abs/2605.03721]
@@ -82,15 +94,4 @@
   + Irina Zhuravleva (2th author, Assistant Professor)
   + Daniele Rogantini (5th author, Margaret Burbidge Prize Postdoctoral Fellow)
   + Hannah McCall (6th author, Graduate Student)
-
-- **Euclid preparation. Refining input galaxy shape distributions for shear calibration simulations**
-[https://arxiv.org/abs/2604.26684]
-  + Alberto Castellano Mora? (93th author, Associate Fellow)
-
-- **RV and TTV Measurements of Two Transiting Long-Period Giants around TOI-4600**
-[https://arxiv.org/abs/2604.26426]
-  + Jacob L. Bean (6th author, Professor)
-  + Madison Brady (7th author, Graduate Student)
-  + Ritvik Basant (14th author, Graduate Student)
-  + Tanya Das (18th author, Postdoctoral Scholar)
 
