@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May  6 22:45:36 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu May  7 21:16:42 CDT 2026)
+
+- **What You Don't Know Won't Hurt You: Self-Consistent Hierarchical Inference with Unknown Follow-up Selection Strategies**
+[https://arxiv.org/abs/2605.06636]
+  + Amanda Farah (2th author, Graduate Student)
+
+- **Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves**
+[https://arxiv.org/abs/2605.05304]
+  + Leah Jenks (2th author, KICP Fellow)
+  + Edward Kolb (3th author, Senior Member)
 
 - **Horizontal transport as a source of disequilibrium chemistry on the nightside of a hot exoplanet**
 [https://arxiv.org/abs/2605.04936]
@@ -78,20 +87,4 @@
 - **Confirmation of Fe I on MASCARA-5 b's Dayside Observed With EXPRES**
 [https://arxiv.org/abs/2605.00154]
   + Lily Zhao (8th author, Sagan Fellow)
-
-- **Finding the one: identifying the host of compact binary mergers**
-[https://arxiv.org/abs/2604.28132]
-  + Daniel E. Holz (3th author, Professor)
-
-- **Iron He-triplet signatures of shocks in the hottest galaxy clusters. Z/W line ratio, line broadening, and electron-ion temperature equilibration**
-[https://arxiv.org/abs/2604.27212]
-  + Annie Heinrich (5th author, Graduate Student)
-  + Irina Zhuravleva (6th author, Assistant Professor)
-
-- **The major cluster merger in Abell 2034 as seen by XRISM: Strong turbulence and spectral anomalies?**
-[https://arxiv.org/abs/2604.27161]
-  + Annie Heinrich (1th author, Graduate Student)
-  + Irina Zhuravleva (2th author, Assistant Professor)
-  + Daniele Rogantini (5th author, Margaret Burbidge Prize Postdoctoral Fellow)
-  + Hannah McCall (6th author, Graduate Student)
 
