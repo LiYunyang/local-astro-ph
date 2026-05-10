@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri May  8 22:45:22 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sat May  9 21:16:14 CDT 2026)
 
 - **What You Don't Know Won't Hurt You: Self-Consistent Hierarchical Inference with Unknown Follow-up Selection Strategies**
 [https://arxiv.org/abs/2605.06636]
