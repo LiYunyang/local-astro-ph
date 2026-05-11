@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May  9 22:45:49 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun May 10 21:16:49 CDT 2026)
+
+- **HAT-P-70b through the Eyes of MAROON-X: Constraining Elemental Abundances of Metals and Insights on Atmosphere Dynamics**
+[https://arxiv.org/abs/2605.07873]
+  + Jacob L. Bean (6th author, Professor)
+
+- **A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at $z\sim6-8$**
+[https://arxiv.org/abs/2605.06770]
+  + Harley Katz (18th author, Senior Member)
 
 - **What You Don't Know Won't Hurt You: Self-Consistent Hierarchical Inference with Unknown Follow-up Selection Strategies**
 [https://arxiv.org/abs/2605.06636]
@@ -75,16 +83,4 @@
   + Abigail Vieregg? (86th author, David N. Schramm Director and Senior Member)
   + Matthew Young? (91th author, Associate Fellow)
   + Jessica Zebrowski? (92th author, KICP and Einstein Fellow)
-
-- **Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era**
-[https://arxiv.org/abs/2605.00821]
-  + Katrin Heitmann? (4th author, Senior Associate)
-
-- **$4\times3$ Point Correlation Functions in Galaxy Surveys: Impact of Baryonic Feedback**
-[https://arxiv.org/abs/2605.00818]
-  + Katrin Heitmann (6th author, Senior Associate)
-
-- **Confirmation of Fe I on MASCARA-5 b's Dayside Observed With EXPRES**
-[https://arxiv.org/abs/2605.00154]
-  + Lily Zhao (8th author, Sagan Fellow)
 
