@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun May 10 22:46:17 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon May 11 21:16:20 CDT 2026)
 
 - **HAT-P-70b through the Eyes of MAROON-X: Constraining Elemental Abundances of Metals and Insights on Atmosphere Dynamics**
 [https://arxiv.org/abs/2605.07873]
