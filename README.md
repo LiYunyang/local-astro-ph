@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon May 11 22:45:41 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue May 12 21:16:49 CDT 2026)
 
 - **HAT-P-70b through the Eyes of MAROON-X: Constraining Elemental Abundances of Metals and Insights on Atmosphere Dynamics**
 [https://arxiv.org/abs/2605.07873]
@@ -30,8 +30,4 @@
   + Eric Oberla? (50th author, Senior Researcher)
   + Abigail Vieregg? (66th author, David N. Schramm Director and Senior Member)
   + Philipp Windischhofer? (70th author, Associate Fellow)
-
-- **The First Look of Gaia: Daily data quality and instrument health assessment with automated early warnings**
-[https://arxiv.org/abs/2605.03721]
-  + Alberto Castellano Mora? (16th author, Associate Fellow)
 
