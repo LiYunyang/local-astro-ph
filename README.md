@@ -1,6 +1,17 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 12 22:46:03 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed May 13 21:16:52 CDT 2026)
+
+- **COOL-LAMPS IX: A Rare Duo of Quasars Each Lensed by a Single Massive Galaxy Cluster**
+[https://arxiv.org/abs/2605.13514]
+  + Erik Solhaug (1th author, Graduate Student)
+  + Michael D. Gladders (2th author, Professor)
+
+- **The Metallicity Distribution of the Ultra-Faint Dwarf Galaxy Segue 1**
+[https://arxiv.org/abs/2605.12810]
+  + Daisy Bissonette (1th author, Graduate Student)
+  + Alexander Ji (2th author, Senior Member)
+  + Anirudh Chiti (5th author, Brinson Prize Fellow)
 
 - **HAT-P-70b through the Eyes of MAROON-X: Constraining Elemental Abundances of Metals and Insights on Atmosphere Dynamics**
 [https://arxiv.org/abs/2605.07873]
@@ -18,16 +29,4 @@
 [https://arxiv.org/abs/2605.05304]
   + Leah Jenks (2th author, KICP Fellow)
   + Edward Kolb (3th author, Senior Member)
-
-- **Horizontal transport as a source of disequilibrium chemistry on the nightside of a hot exoplanet**
-[https://arxiv.org/abs/2605.04936]
-  + Jacob L. Bean (11th author, Professor)
-
-- **Sensitivity of the As-Built Askaryan Radio Array to Ultra-High Energy Neutrinos**
-[https://arxiv.org/abs/2605.04268]
-  + Nathaniel Alden? (2th author, Graduate Student)
-  + Cosmin Deaconu? (21th author, Senior Researcher)
-  + Eric Oberla? (50th author, Senior Researcher)
-  + Abigail Vieregg? (66th author, David N. Schramm Director and Senior Member)
-  + Philipp Windischhofer? (70th author, Associate Fellow)
 
