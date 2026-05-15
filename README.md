@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May 13 22:45:56 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu May 14 21:16:56 CDT 2026)
 
 - **COOL-LAMPS IX: A Rare Duo of Quasars Each Lensed by a Single Massive Galaxy Cluster**
 [https://arxiv.org/abs/2605.13514]
@@ -20,13 +20,4 @@
 - **A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at $z\sim6-8$**
 [https://arxiv.org/abs/2605.06770]
   + Harley Katz (18th author, Senior Member)
-
-- **What You Don't Know Won't Hurt You: Self-Consistent Hierarchical Inference with Unknown Follow-up Selection Strategies**
-[https://arxiv.org/abs/2605.06636]
-  + Amanda Farah (2th author, Graduate Student)
-
-- **Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves**
-[https://arxiv.org/abs/2605.05304]
-  + Leah Jenks (2th author, KICP Fellow)
-  + Edward Kolb (3th author, Senior Member)
 
