@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu May 14 22:46:12 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri May 15 21:16:03 CDT 2026)
 
 - **COOL-LAMPS IX: A Rare Duo of Quasars Each Lensed by a Single Massive Galaxy Cluster**
 [https://arxiv.org/abs/2605.13514]
