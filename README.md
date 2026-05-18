@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May 16 22:46:07 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun May 17 21:17:05 CDT 2026)
+
+- **Entity -- Hardware-agnostic Particle-in-Cell Code for Plasma Astrophysics. III: Higher-order shape functions & generalized field stencils**
+[https://arxiv.org/abs/2605.15260]
+  + Damiano Caprioli (5th author, Associate Professor)
 
 - **COOL-LAMPS IX: A Rare Duo of Quasars Each Lensed by a Single Massive Galaxy Cluster**
 [https://arxiv.org/abs/2605.13514]
@@ -12,12 +16,4 @@
   + Daisy Bissonette (1th author, Graduate Student)
   + Alexander Ji (2th author, Senior Member)
   + Anirudh Chiti (5th author, Brinson Prize Fellow)
-
-- **HAT-P-70b through the Eyes of MAROON-X: Constraining Elemental Abundances of Metals and Insights on Atmosphere Dynamics**
-[https://arxiv.org/abs/2605.07873]
-  + Jacob L. Bean (6th author, Professor)
-
-- **A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at $z\sim6-8$**
-[https://arxiv.org/abs/2605.06770]
-  + Harley Katz (18th author, Senior Member)
 
