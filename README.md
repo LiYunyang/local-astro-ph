@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun May 17 22:46:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon May 18 21:17:26 CDT 2026)
 
 - **Entity -- Hardware-agnostic Particle-in-Cell Code for Plasma Astrophysics. III: Higher-order shape functions & generalized field stencils**
 [https://arxiv.org/abs/2605.15260]
