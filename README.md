@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 19 21:17:45 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue May 19 22:46:13 CDT 2026)
 
 - **High-resolution X-ray spectroscopy with XRISM/Resolve reveals super-Solar abundance ratios in Virgo/M87**
 [https://arxiv.org/abs/2605.18989]
