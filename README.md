@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri May 22 21:16:26 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri May 22 22:45:43 CDT 2026)
 
 - **Euclid: Early Release Observations -- The formation of peanutty dwarf galaxies in Perseus**
 [https://arxiv.org/abs/2605.21342]
