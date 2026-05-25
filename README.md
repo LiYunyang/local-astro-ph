@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun May 24 21:17:44 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun May 24 22:46:44 CDT 2026)
 
 - **The $τ$ of Neutral Hydrogen: Increased CMB Optical Depth at Long Wavelengths**
 [https://arxiv.org/abs/2605.22934]
