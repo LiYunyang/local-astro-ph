@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May 23 22:46:25 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun May 24 21:17:44 CDT 2026)
+
+- **The $τ$ of Neutral Hydrogen: Increased CMB Optical Depth at Long Wavelengths**
+[https://arxiv.org/abs/2605.22934]
+  + David Zegeye (4th author, Graduate Student)
 
 - **Euclid: Early Release Observations -- The formation of peanutty dwarf galaxies in Perseus**
 [https://arxiv.org/abs/2605.21342]
@@ -18,8 +22,4 @@
 - **WIMP-like Dark Matter Without Thermalization At Freeze-Out**
 [https://arxiv.org/abs/2605.20186]
   + Gordan Krnjaic (2th author, Senior Member)
-
-- **Entity -- Hardware-agnostic Particle-in-Cell Code for Plasma Astrophysics. III: Higher-order shape functions & generalized field stencils**
-[https://arxiv.org/abs/2605.15260]
-  + Damiano Caprioli (5th author, Associate Professor)
 
