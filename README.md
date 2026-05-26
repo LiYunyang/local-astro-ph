@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon May 25 21:16:50 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon May 25 22:46:14 CDT 2026)
+
+- **Legacy analysis of Milky Way dwarf spheroidal satellite galaxies: an update**
+[https://arxiv.org/abs/2605.25586]
+  + Alex Drlica-Wagner? (5th author, Senior Member)
+
+- **Pushing the Limit of Asteroseismic Detection for Cool Dwarfs using TESS and Deep Learning**
+[https://arxiv.org/abs/2605.24269]
+  + Derek Buzasi (3th author, Senior Instructional Professor)
 
 - **The $τ$ of Neutral Hydrogen: Increased CMB Optical Depth at Long Wavelengths**
 [https://arxiv.org/abs/2605.22934]
