@@ -1,6 +1,35 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon May 25 22:46:14 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue May 26 21:17:55 CDT 2026)
+
+- **The Neptunian ridge planet WASP-156 b does not have a polar orbit**
+[https://arxiv.org/abs/2605.27291]
+  + Jacob L. Bean? (11th author, Professor)
+  + Madison Brady? (13th author, Graduate Student)
+
+- **Constraints on Dynamical Dark Energy from Multiple Probes in the Full Dark Energy Survey**
+[https://arxiv.org/abs/2605.27221]
+  + Dhayaa Anbajagane? (9th author, Graduate Student)
+  + Chihway Chang? (34th author, Senior Member)
+  + Scott Dodelson? (49th author, Senior Associate)
+  + Alex Drlica-Wagner? (52th author, Senior Member)
+  + Joshua A. Frieman? (62th author, Chair)
+  + Marco Gatti? (65th author, KICP Fellow)
+  + Giulia Giannini? (66th author, Associate Fellow)
+  + Stephen Kent? (85th author, CASE Associate)
+  + Richard Kessler? (86th author, Senior Researcher)
+  + Richard G. Kron? (90th author, Professor Emeritus)
+
+- **The DECam MAGIC Survey $-$ Mapping the Ancient Galaxy in CaHK: Overview and Summary of Early Science**
+[https://arxiv.org/abs/2605.26581]
+  + Anirudh Chiti? (1th author, Brinson Prize Fellow)
+  + Alex Drlica-Wagner? (2th author, Senior Member)
+  + Alexander Ji? (9th author, Senior Member)
+  + Guilherme Limberg? (10th author, KICP Fellow)
+
+- **The role of the Hubble Space Telescope in advancing our understanding of atmospheric escape in exoplanets**
+[https://arxiv.org/abs/2605.26140]
+  + Michael Zhang (11th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **Legacy analysis of Milky Way dwarf spheroidal satellite galaxies: an update**
 [https://arxiv.org/abs/2605.25586]
@@ -21,13 +50,4 @@
 - **The \emph{R}-process Alliance: A Bright, Strongly \emph{R}-process-enhanced Extremely Metal-poor Star Observed with GHOST**
 [https://arxiv.org/abs/2605.20614]
   + Anirudh Chiti (4th author, Brinson Prize Fellow)
-
-- **High-resolution X-ray spectroscopy with XRISM/Resolve reveals super-Solar abundance ratios in Virgo/M87**
-[https://arxiv.org/abs/2605.18989]
-  + Hannah McCall? (21th author, Graduate Student)
-  + Irina Zhuravleva? (29th author, Assistant Professor)
-
-- **WIMP-like Dark Matter Without Thermalization At Freeze-Out**
-[https://arxiv.org/abs/2605.20186]
-  + Gordan Krnjaic (2th author, Senior Member)
 
