@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 26 21:17:55 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue May 26 22:46:44 CDT 2026)
 
 - **The Neptunian ridge planet WASP-156 b does not have a polar orbit**
 [https://arxiv.org/abs/2605.27291]
