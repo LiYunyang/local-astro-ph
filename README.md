@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May 27 21:16:41 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed May 27 22:46:29 CDT 2026)
 
 - **The unique ability of the Hubble Space Telescope to characterize young exoplanet environments**
 [https://arxiv.org/abs/2605.28768]
