@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue May 26 22:46:44 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed May 27 21:16:41 CDT 2026)
+
+- **The unique ability of the Hubble Space Telescope to characterize young exoplanet environments**
+[https://arxiv.org/abs/2605.28768]
+  + Vighnesh Nagpal (8th author, Graduate Student)
 
 - **The Neptunian ridge planet WASP-156 b does not have a polar orbit**
 [https://arxiv.org/abs/2605.27291]
@@ -42,12 +46,4 @@
 - **The $τ$ of Neutral Hydrogen: Increased CMB Optical Depth at Long Wavelengths**
 [https://arxiv.org/abs/2605.22934]
   + David Zegeye (4th author, Graduate Student)
-
-- **Euclid: Early Release Observations -- The formation of peanutty dwarf galaxies in Perseus**
-[https://arxiv.org/abs/2605.21342]
-  + Alberto Castellano Mora? (86th author, Associate Fellow)
-
-- **The \emph{R}-process Alliance: A Bright, Strongly \emph{R}-process-enhanced Extremely Metal-poor Star Observed with GHOST**
-[https://arxiv.org/abs/2605.20614]
-  + Anirudh Chiti (4th author, Brinson Prize Fellow)
 
