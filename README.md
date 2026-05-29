@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed May 27 22:46:29 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu May 28 21:17:32 CDT 2026)
+
+- **High-S/N Quasar Observations with HST/COS: Deep Fields for Spectroscopy**
+[https://arxiv.org/abs/2605.29949]
+  + Hsiao-Wen Chen (16th author, Senior Member)
+  + Zhijie Qu (44th author, Postdoctoral Scholar)
+
+- **Gamma-ray signature of superluminous supernovae: Fermi-LAT GeV detection of SN 2017egm and evidence of a central engine**
+[https://arxiv.org/abs/2605.29909]
+  + Juliang Li? (63th author, Postdoctoral Scholar)
+
+- **Dust grain chemistry in the diffuse ISM towards the black hole transient GX 339-4**
+[https://arxiv.org/abs/2605.28947]
+  + Daniele Rogantini? (11th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Characterization of Spurious Charge in SENSEI Skipper-CCDs**
+[https://arxiv.org/abs/2605.30281]
+  + Ana Martina Botti (4th author, Associate Fellow)
+  + Alex Drlica-Wagner (7th author, Senior Member)
+  + Juan  Estrada (9th author, Senior Associate)
+  + Nathan Saffold (16th author, Associate Fellow)
 
 - **The unique ability of the Hubble Space Telescope to characterize young exoplanet environments**
 [https://arxiv.org/abs/2605.28768]
