@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu May 28 22:46:23 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri May 29 21:17:05 CDT 2026)
 
 - **High-S/N Quasar Observations with HST/COS: Deep Fields for Spectroscopy**
 [https://arxiv.org/abs/2605.29949]
