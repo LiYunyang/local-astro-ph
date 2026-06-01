@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun May 31 21:17:04 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun May 31 22:47:10 CDT 2026)
 
 - **Statistical imprints of wave-like dark matter on multiply-imaged galaxies in strong cluster lenses from JWST**
 [https://arxiv.org/abs/2605.30649]
