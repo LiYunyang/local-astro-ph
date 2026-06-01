@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat May 30 22:46:49 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun May 31 21:17:04 CDT 2026)
+
+- **Statistical imprints of wave-like dark matter on multiply-imaged galaxies in strong cluster lenses from JWST**
+[https://arxiv.org/abs/2605.30649]
+  + Daniel Gilman (2th author, Associate Fellow)
+
+- **RUBIES: The Evolution of the Ionization Parameter from 0 < z < 9**
+[https://arxiv.org/abs/2605.30410]
+  + Harley Katz (9th author, Senior Member)
 
 - **High-S/N Quasar Observations with HST/COS: Deep Fields for Spectroscopy**
 [https://arxiv.org/abs/2605.29949]
@@ -62,8 +70,4 @@
 - **Pushing the Limit of Asteroseismic Detection for Cool Dwarfs using TESS and Deep Learning**
 [https://arxiv.org/abs/2605.24269]
   + Derek Buzasi (3th author, Senior Instructional Professor)
-
-- **The $τ$ of Neutral Hydrogen: Increased CMB Optical Depth at Long Wavelengths**
-[https://arxiv.org/abs/2605.22934]
-  + David Zegeye (4th author, Graduate Student)
 
