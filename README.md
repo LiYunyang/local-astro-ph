@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun  1 22:46:57 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jun  2 21:17:23 CDT 2026)
+
+- **KRONOS I: The $1{-}2.8μ$m JWST Transmission Spectrum of the 23 Myr V1298 Tau c**
+[https://arxiv.org/abs/2606.03740]
+  + Michael Radica (9th author, Postdoctoral Scholar)
+  + Rafael Luque (14th author, Postdoctoral Scholar)
+
+- **The UV Side of Little Red Dots: Red, Compact, and Iron-Enhanced Rest-UV Emission with a Strong Downturn around Ly$α$**
+[https://arxiv.org/abs/2606.03522]
+  + Harley Katz (3th author, Senior Member)
+
+- **Euclid: Early Release Observations -- Internal kinematics and the convective-transition gap of NGC 6397**
+[https://arxiv.org/abs/2606.02703]
+  + Alberto Castellano Mora? (92th author, Associate Fellow)
 
 - **The Murchison Widefield Array Phase III upgrade: Sensitivity Doubled, Number of Baselines Quadrupled, Flexibility Enhanced, and EoR Observations Optimised**
 [https://arxiv.org/abs/2606.01644]
@@ -50,33 +63,4 @@
 - **The unique ability of the Hubble Space Telescope to characterize young exoplanet environments**
 [https://arxiv.org/abs/2605.28768]
   + Vighnesh Nagpal (8th author, Graduate Student)
-
-- **The Neptunian ridge planet WASP-156 b does not have a polar orbit**
-[https://arxiv.org/abs/2605.27291]
-  + Jacob L. Bean? (11th author, Professor)
-  + Madison Brady? (13th author, Graduate Student)
-
-- **Constraints on Dynamical Dark Energy from Multiple Probes in the Full Dark Energy Survey**
-[https://arxiv.org/abs/2605.27221]
-  + Dhayaa Anbajagane? (9th author, Graduate Student)
-  + Chihway Chang? (34th author, Senior Member)
-  + Scott Dodelson? (49th author, Senior Associate)
-  + Alex Drlica-Wagner? (52th author, Senior Member)
-  + Joshua A. Frieman? (62th author, Chair)
-  + Marco Gatti? (65th author, KICP Fellow)
-  + Giulia Giannini? (66th author, Associate Fellow)
-  + Stephen Kent? (85th author, CASE Associate)
-  + Richard Kessler? (86th author, Senior Researcher)
-  + Richard G. Kron? (90th author, Professor Emeritus)
-
-- **The DECam MAGIC Survey $-$ Mapping the Ancient Galaxy in CaHK: Overview and Summary of Early Science**
-[https://arxiv.org/abs/2605.26581]
-  + Anirudh Chiti? (1th author, Brinson Prize Fellow)
-  + Alex Drlica-Wagner? (2th author, Senior Member)
-  + Alexander Ji? (9th author, Senior Member)
-  + Guilherme Limberg? (10th author, KICP Fellow)
-
-- **The role of the Hubble Space Telescope in advancing our understanding of atmospheric escape in exoplanets**
-[https://arxiv.org/abs/2605.26140]
-  + Michael Zhang (11th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
 
