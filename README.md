@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun  2 22:47:08 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jun  3 21:17:22 CDT 2026)
 
 - **KRONOS I: The $1{-}2.8μ$m JWST Transmission Spectrum of the 23 Myr V1298 Tau c**
 [https://arxiv.org/abs/2606.03740]
@@ -59,8 +59,4 @@
   + Alex Drlica-Wagner (7th author, Senior Member)
   + Juan  Estrada (9th author, Senior Associate)
   + Nathan Saffold (16th author, Associate Fellow)
-
-- **The unique ability of the Hubble Space Telescope to characterize young exoplanet environments**
-[https://arxiv.org/abs/2605.28768]
-  + Vighnesh Nagpal (8th author, Graduate Student)
 
