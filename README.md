@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun  3 21:17:22 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jun  3 22:47:02 CDT 2026)
 
 - **KRONOS I: The $1{-}2.8μ$m JWST Transmission Spectrum of the 23 Myr V1298 Tau c**
 [https://arxiv.org/abs/2606.03740]
