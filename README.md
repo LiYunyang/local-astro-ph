@@ -1,6 +1,31 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun  3 22:47:02 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jun  4 21:17:09 CDT 2026)
+
+- **Minor Ions as a Diagnostic of Solar Wind Heating: Inverted Mass-to-Charge Scaling in Imbalanced Turbulence**
+[https://arxiv.org/abs/2606.06340]
+  + Michael Zhang (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **gr8stars II : judgement day for spectroscopic parameter model systematics**
+[https://arxiv.org/abs/2606.06234]
+  + Lily Zhao (21th author, Sagan Fellow)
+
+- **On the potential for inhomogeneities to mimic an evolving dark energy**
+[https://arxiv.org/abs/2606.05479]
+  + Hayley Macpherson (1th author, KICP and  Einstein Fellow)
+  + Georgios Valogiannis (2th author, Associate Fellow)
+
+- **The DESI results impact the local determination of $H_0$**
+[https://arxiv.org/abs/2606.05358]
+  + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
+
+- **A Decade to Map the Diffuse Universe: FRB-QSO Pairs with HST/COS Spectroscopy**
+[https://arxiv.org/abs/2606.05310]
+  + Sunil Simha (4th author, Associate Fellow)
+
+- **The free-streaming length of dark matter from JWST observations of 28 strong gravitational lenses**
+[https://arxiv.org/abs/2606.05277]
+  + Daniel Gilman? (1th author, Associate Fellow)
 
 - **KRONOS I: The $1{-}2.8μ$m JWST Transmission Spectrum of the 23 Myr V1298 Tau c**
 [https://arxiv.org/abs/2606.03740]
@@ -39,24 +64,4 @@
 - **RUBIES: The Evolution of the Ionization Parameter from 0 < z < 9**
 [https://arxiv.org/abs/2605.30410]
   + Harley Katz (9th author, Senior Member)
-
-- **High-S/N Quasar Observations with HST/COS: Deep Fields for Spectroscopy**
-[https://arxiv.org/abs/2605.29949]
-  + Hsiao-Wen Chen (16th author, Senior Member)
-  + Zhijie Qu (44th author, Postdoctoral Scholar)
-
-- **Gamma-ray signature of superluminous supernovae: Fermi-LAT GeV detection of SN 2017egm and evidence of a central engine**
-[https://arxiv.org/abs/2605.29909]
-  + Juliang Li? (63th author, Postdoctoral Scholar)
-
-- **Dust grain chemistry in the diffuse ISM towards the black hole transient GX 339-4**
-[https://arxiv.org/abs/2605.28947]
-  + Daniele Rogantini? (11th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Characterization of Spurious Charge in SENSEI Skipper-CCDs**
-[https://arxiv.org/abs/2605.30281]
-  + Ana Martina Botti (4th author, Associate Fellow)
-  + Alex Drlica-Wagner (7th author, Senior Member)
-  + Juan  Estrada (9th author, Senior Associate)
-  + Nathan Saffold (16th author, Associate Fellow)
 
