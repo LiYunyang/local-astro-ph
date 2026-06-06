@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Jun  5 21:16:39 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Jun  5 22:46:05 CDT 2026)
 
 - **Minor Ions as a Diagnostic of Solar Wind Heating: Inverted Mass-to-Charge Scaling in Imbalanced Turbulence**
 [https://arxiv.org/abs/2606.06340]
