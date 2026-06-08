@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jun  7 21:17:33 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Jun  7 22:47:04 CDT 2026)
 
 - **The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements**
 [https://arxiv.org/abs/2606.07497]
