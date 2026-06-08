@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jun  6 22:46:53 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Jun  7 21:17:33 CDT 2026)
+
+- **The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements**
+[https://arxiv.org/abs/2606.07497]
+  + Jacob L. Bean (20th author, Professor)
 
 - **Minor Ions as a Diagnostic of Solar Wind Heating: Inverted Mass-to-Charge Scaling in Imbalanced Turbulence**
 [https://arxiv.org/abs/2606.06340]
@@ -56,12 +60,4 @@
 - **Magnesium Silicate Clouds in the Atmosphere of HD 209458b from a Rule-Based Tree-Structured Data Reduction**
 [https://arxiv.org/abs/2606.00177]
   + Diana Powell (8th author, Assistant Professor)
-
-- **Statistical imprints of wave-like dark matter on multiply-imaged galaxies in strong cluster lenses from JWST**
-[https://arxiv.org/abs/2605.30649]
-  + Daniel Gilman (2th author, Associate Fellow)
-
-- **RUBIES: The Evolution of the Ionization Parameter from 0 < z < 9**
-[https://arxiv.org/abs/2605.30410]
-  + Harley Katz (9th author, Senior Member)
 
