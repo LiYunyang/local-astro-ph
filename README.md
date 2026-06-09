@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun  8 21:16:34 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jun  8 22:46:03 CDT 2026)
+
+- **CORALIE radial-velocity search for companions around evolved stars (CASCADES) V. Three planetary companions and achievable precision**
+[https://arxiv.org/abs/2606.09072]
+  + Rafael Luque? (7th author, Postdoctoral Scholar)
+
+- **The origin of WHAM Point Source~46**
+[https://arxiv.org/abs/2606.08987]
+  + David Martin? (10th author, Graduate Student)
+
+- **Do Vision-Language Models See Dwarf Galaxies the Way We Do?**
+[https://arxiv.org/abs/2606.07779]
+  + Chin Yi Tan (2th author, Graduate Student)
+  + Alex Drlica-Wagner (4th author, Senior Member)
+
+- **Euclid Quick Data Release (Q1): The impact of AGN emission on SED-derived physical properties**
+[https://arxiv.org/abs/2606.07750]
+  + LianTao Wang? (26th author, Senior Member)
 
 - **The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements**
 [https://arxiv.org/abs/2606.07497]
@@ -43,21 +60,4 @@
 - **Euclid: Early Release Observations -- Internal kinematics and the convective-transition gap of NGC 6397**
 [https://arxiv.org/abs/2606.02703]
   + Alberto Castellano Mora? (92th author, Associate Fellow)
-
-- **The Murchison Widefield Array Phase III upgrade: Sensitivity Doubled, Number of Baselines Quadrupled, Flexibility Enhanced, and EoR Observations Optimised**
-[https://arxiv.org/abs/2606.01644]
-  + Joann Jones? (5th author, Graduate Student)
-
-- **JAXtronomy: A JAX port of lenstronomy**
-[https://arxiv.org/abs/2606.01547]
-  + Daniel Gilman (3th author, Associate Fellow)
-  + Anowar Shajib (5th author, KICP and Einstein Fellow)
-
-- **Prospects for Astrobiology and Technosignature Searches with the Vera C. Rubin Observatory Legacy Survey of Space and Time**
-[https://arxiv.org/abs/2606.00574]
-  + Aleksandra  Ciprijanovic (3th author, CASE Associate)
-
-- **Magnesium Silicate Clouds in the Atmosphere of HD 209458b from a Rule-Based Tree-Structured Data Reduction**
-[https://arxiv.org/abs/2606.00177]
-  + Diana Powell (8th author, Assistant Professor)
 
