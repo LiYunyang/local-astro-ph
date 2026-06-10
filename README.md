@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun  9 21:17:11 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jun  9 22:46:32 CDT 2026)
 
 - **Multiphase images of a powerful supernova-driven wind in the early Universe**
 [https://arxiv.org/abs/2606.10271]
