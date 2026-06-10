@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun  8 22:46:03 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jun  9 21:17:11 CDT 2026)
+
+- **Multiphase images of a powerful supernova-driven wind in the early Universe**
+[https://arxiv.org/abs/2606.10271]
+  + Juliang Li? (24th author, Postdoctoral Scholar)
+
+- **Discovery and Spectroscopic Characterization of a Distant, Compact Milky Way Satellite in Gemini**
+[https://arxiv.org/abs/2606.09975]
+  + Chin Yi Tan? (3th author, Graduate Student)
+  + Alex Drlica-Wagner? (7th author, Senior Member)
+  + Guilherme Limberg? (17th author, KICP Fellow)
+  + Aashay Pai? (25th author, Graduate Student)
+
+- **Flux-cube reconstruction from slitless spectroscopy**
+[https://arxiv.org/abs/2606.09974]
+  + Richard Kessler? (16th author, Senior Researcher)
+
+- **KRONOS I: The $1{-}2.8μ$m JWST Transmission Spectrum of the 23 Myr V1298 Tau c**
+[https://arxiv.org/abs/2606.03740]
+  + Michael Radica (9th author, Postdoctoral Scholar)
+  + Rafael Luque (14th author, Postdoctoral Scholar)
 
 - **CORALIE radial-velocity search for companions around evolved stars (CASCADES) V. Three planetary companions and achievable precision**
 [https://arxiv.org/abs/2606.09072]
@@ -47,17 +67,4 @@
 - **The free-streaming length of dark matter from JWST observations of 28 strong gravitational lenses**
 [https://arxiv.org/abs/2606.05277]
   + Daniel Gilman? (1th author, Associate Fellow)
-
-- **KRONOS I: The $1{-}2.8μ$m JWST Transmission Spectrum of the 23 Myr V1298 Tau c**
-[https://arxiv.org/abs/2606.03740]
-  + Michael Radica (9th author, Postdoctoral Scholar)
-  + Rafael Luque (14th author, Postdoctoral Scholar)
-
-- **The UV Side of Little Red Dots: Red, Compact, and Iron-Enhanced Rest-UV Emission with a Strong Downturn around Ly$α$**
-[https://arxiv.org/abs/2606.03522]
-  + Harley Katz (3th author, Senior Member)
-
-- **Euclid: Early Release Observations -- Internal kinematics and the convective-transition gap of NGC 6397**
-[https://arxiv.org/abs/2606.02703]
-  + Alberto Castellano Mora? (92th author, Associate Fellow)
 
