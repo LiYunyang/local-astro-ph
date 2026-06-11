@@ -1,6 +1,30 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun  9 22:46:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jun 10 21:17:56 CDT 2026)
+
+- **Towards Practical Field-Level Inference for Weak Lensing**
+[https://arxiv.org/abs/2606.12255]
+  + Yuuki Omori (1th author, Senior Researcher)
+  + Chihway Chang (3th author, Senior Member)
+
+- **SN 1006: A Cosmic Laboratory for Investigating Shock Acceleration Physics**
+[https://arxiv.org/abs/2606.12111]
+  + Damiano Caprioli (3th author, Associate Professor)
+
+- **Revealing Cosmic Ecosystems with the Hubble Space Telescope in 2030s and Beyond**
+[https://arxiv.org/abs/2606.11506]
+  + Hsiao-Wen Chen (13th author, Senior Member)
+
+- **Investigating the role of turbulence in the interstellar medium in $z\sim3$ dusty star-forming galaxies using kpc-resolution ALMA dust and gas maps**
+[https://arxiv.org/abs/2606.11444]
+  + Juliang Li? (7th author, Postdoctoral Scholar)
+
+- **Dark Energy Survey Year 3 results: optimized $w$CDM simulation-based inference with weak lensing map-level hybrid statistics**
+[https://arxiv.org/abs/2606.11309]
+  + Marco Gatti? (6th author, KICP Fellow)
+  + Alex Drlica-Wagner? (21th author, Senior Member)
+  + Joshua A. Frieman? (65th author, Chair)
+  + Chun-Hao To? (83th author, Associate Fellow)
 
 - **Multiphase images of a powerful supernova-driven wind in the early Universe**
 [https://arxiv.org/abs/2606.10271]
