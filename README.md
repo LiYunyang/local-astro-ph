@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun 10 22:46:54 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jun 11 21:17:18 CDT 2026)
 
 - **Towards Practical Field-Level Inference for Weak Lensing**
 [https://arxiv.org/abs/2606.12255]
@@ -66,29 +66,4 @@
 - **The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements**
 [https://arxiv.org/abs/2606.07497]
   + Jacob L. Bean (20th author, Professor)
-
-- **Minor Ions as a Diagnostic of Solar Wind Heating: Inverted Mass-to-Charge Scaling in Imbalanced Turbulence**
-[https://arxiv.org/abs/2606.06340]
-  + Michael Zhang (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **gr8stars II : judgement day for spectroscopic parameter model systematics**
-[https://arxiv.org/abs/2606.06234]
-  + Lily Zhao (21th author, Sagan Fellow)
-
-- **On the potential for inhomogeneities to mimic an evolving dark energy**
-[https://arxiv.org/abs/2606.05479]
-  + Hayley Macpherson (1th author, KICP and  Einstein Fellow)
-  + Georgios Valogiannis (2th author, Associate Fellow)
-
-- **The DESI results impact the local determination of $H_0$**
-[https://arxiv.org/abs/2606.05358]
-  + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
-
-- **A Decade to Map the Diffuse Universe: FRB-QSO Pairs with HST/COS Spectroscopy**
-[https://arxiv.org/abs/2606.05310]
-  + Sunil Simha (4th author, Associate Fellow)
-
-- **The free-streaming length of dark matter from JWST observations of 28 strong gravitational lenses**
-[https://arxiv.org/abs/2606.05277]
-  + Daniel Gilman? (1th author, Associate Fellow)
 
