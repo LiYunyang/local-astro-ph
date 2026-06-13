@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jun 11 22:46:59 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Jun 12 21:17:12 CDT 2026)
 
 - **Towards Practical Field-Level Inference for Weak Lensing**
 [https://arxiv.org/abs/2606.12255]
