@@ -1,6 +1,25 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jun 13 22:47:04 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Jun 14 21:17:11 CDT 2026)
+
+- **Transitions in the Mass-ratio and Spin Properties of Binary Black Holes in GWTC-5**
+[https://arxiv.org/abs/2606.14472]
+  + Thomas Callister (3th author, KICP and Schmidt Fellow)
+
+- **Exploring the nature of Galactic unassociated sources detected by the Fermi-LAT**
+[https://arxiv.org/abs/2606.14244]
+  + Juliang Li? (66th author, Postdoctoral Scholar)
+
+- **Controlling instrumental systematics for the BICEP inflation survey**
+[https://arxiv.org/abs/2606.13942]
+  + James Cornelison? (15th author, Associate Fellow)
+  + Scott Mackey? (53th author, Graduate Student)
+  + Abigail Vieregg? (85th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (92th author, KICP Fellow)
+
+- **Observational Biases and Improved Modelling of Off-axis Relativistic Jets**
+[https://arxiv.org/abs/2606.13806]
+  + Audrey Scott? (2th author, Graduate Student)
 
 - **Towards Practical Field-Level Inference for Weak Lensing**
 [https://arxiv.org/abs/2606.12255]
@@ -62,8 +81,4 @@
 - **Euclid Quick Data Release (Q1): The impact of AGN emission on SED-derived physical properties**
 [https://arxiv.org/abs/2606.07750]
   + LianTao Wang? (26th author, Senior Member)
-
-- **The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements**
-[https://arxiv.org/abs/2606.07497]
-  + Jacob L. Bean (20th author, Professor)
 
