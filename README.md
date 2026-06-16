@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun 15 21:17:13 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jun 15 22:47:21 CDT 2026)
+
+- **KRONOS II: Solar-like Umbra and Penumbra Properties on the Young Sun V1298~Tau**
+[https://arxiv.org/abs/2606.16782]
+  + Rafael Luque (12th author, Postdoctoral Scholar)
+  + Michael Radica (16th author, Postdoctoral Scholar)
 
 - **Transitions in the Mass-ratio and Spin Properties of Binary Black Holes in GWTC-5**
 [https://arxiv.org/abs/2606.14472]
@@ -64,21 +69,4 @@
 [https://arxiv.org/abs/2606.03740]
   + Michael Radica (9th author, Postdoctoral Scholar)
   + Rafael Luque (14th author, Postdoctoral Scholar)
-
-- **CORALIE radial-velocity search for companions around evolved stars (CASCADES) V. Three planetary companions and achievable precision**
-[https://arxiv.org/abs/2606.09072]
-  + Rafael Luque? (7th author, Postdoctoral Scholar)
-
-- **The origin of WHAM Point Source~46**
-[https://arxiv.org/abs/2606.08987]
-  + David Martin? (10th author, Graduate Student)
-
-- **Do Vision-Language Models See Dwarf Galaxies the Way We Do?**
-[https://arxiv.org/abs/2606.07779]
-  + Chin Yi Tan (2th author, Graduate Student)
-  + Alex Drlica-Wagner (4th author, Senior Member)
-
-- **Euclid Quick Data Release (Q1): The impact of AGN emission on SED-derived physical properties**
-[https://arxiv.org/abs/2606.07750]
-  + LianTao Wang? (26th author, Senior Member)
 
