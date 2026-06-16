@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jun 14 22:47:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jun 15 21:17:13 CDT 2026)
 
 - **Transitions in the Mass-ratio and Spin Properties of Binary Black Holes in GWTC-5**
 [https://arxiv.org/abs/2606.14472]
