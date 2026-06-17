@@ -1,6 +1,15 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun 15 22:47:21 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jun 16 21:17:34 CDT 2026)
+
+- **Tracing the very early disruption of the Sagittarius dwarf galaxy in the distant Milky Way halo**
+[https://arxiv.org/abs/2606.17754]
+  + Alexander Ji (5th author, Senior Member)
+
+- **Reduced Effective Viscosity from Anisotropic Transport and Plasma Instabilities in the Sloshing Cores of Galaxy Clusters**
+[https://arxiv.org/abs/2606.17371]
+  + Annie Heinrich (3th author, Graduate Student)
+  + Irina Zhuravleva (6th author, Assistant Professor)
 
 - **KRONOS II: Solar-like Umbra and Penumbra Properties on the Young Sun V1298~Tau**
 [https://arxiv.org/abs/2606.16782]
@@ -49,24 +58,4 @@
   + Alex Drlica-Wagner? (21th author, Senior Member)
   + Joshua A. Frieman? (65th author, Chair)
   + Chun-Hao To? (83th author, Associate Fellow)
-
-- **Multiphase images of a powerful supernova-driven wind in the early Universe**
-[https://arxiv.org/abs/2606.10271]
-  + Juliang Li? (24th author, Postdoctoral Scholar)
-
-- **Discovery and Spectroscopic Characterization of a Distant, Compact Milky Way Satellite in Gemini**
-[https://arxiv.org/abs/2606.09975]
-  + Chin Yi Tan? (3th author, Graduate Student)
-  + Alex Drlica-Wagner? (7th author, Senior Member)
-  + Guilherme Limberg? (17th author, KICP Fellow)
-  + Aashay Pai? (25th author, Graduate Student)
-
-- **Flux-cube reconstruction from slitless spectroscopy**
-[https://arxiv.org/abs/2606.09974]
-  + Richard Kessler? (16th author, Senior Researcher)
-
-- **KRONOS I: The $1{-}2.8μ$m JWST Transmission Spectrum of the 23 Myr V1298 Tau c**
-[https://arxiv.org/abs/2606.03740]
-  + Michael Radica (9th author, Postdoctoral Scholar)
-  + Rafael Luque (14th author, Postdoctoral Scholar)
 
