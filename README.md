@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 16 21:17:34 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jun 16 22:47:32 CDT 2026)
 
 - **Tracing the very early disruption of the Sagittarius dwarf galaxy in the distant Milky Way halo**
 [https://arxiv.org/abs/2606.17754]
