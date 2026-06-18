@@ -1,6 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 16 22:47:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jun 17 21:17:21 CDT 2026)
+
+- **Three dimensional temporal evolution of photochemical haze in exoplanet atmospheres I. Description and test application to HD 189733b**
+[https://arxiv.org/abs/2606.19056]
+  + Maria Steinrueck (2th author, 51 Pegasi b Fellow)
+  + Diana Powell (4th author, Assistant Professor)
+
+- **Impact of inhomogeneous curvature on growth rate measurements from magnitude fluctuations**
+[https://arxiv.org/abs/2606.18437]
+  + Hayley Macpherson (3th author, KICP and  Einstein Fellow)
+
+- **Revisiting the Exo-Mercury Candidate GJ 367 b with ESPRESSO and a Self-Consistent Tidal Distortion Model**
+[https://arxiv.org/abs/2606.18355]
+  + Michael Zhang (16th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Leslie Rogers (17th author, Associate Professor)
+
+- **The Maximum Density of a Collisionally-Produced Planet is A Function of its Mass and Orbital Period**
+[https://arxiv.org/abs/2606.18336]
+  + Madison Brady (1th author, Graduate Student)
+
+- **Projecting the ultimate pulsar timing sensitivity to dark matter substructure in a stochastic gravitational wave background**
+[https://arxiv.org/abs/2606.18329]
+  + Joshua Foster (1th author, Associate Fellow)
 
 - **Tracing the very early disruption of the Sagittarius dwarf galaxy in the distant Milky Way halo**
 [https://arxiv.org/abs/2606.17754]
@@ -34,28 +56,4 @@
 - **Observational Biases and Improved Modelling of Off-axis Relativistic Jets**
 [https://arxiv.org/abs/2606.13806]
   + Audrey Scott? (2th author, Graduate Student)
-
-- **Towards Practical Field-Level Inference for Weak Lensing**
-[https://arxiv.org/abs/2606.12255]
-  + Yuuki Omori (1th author, Senior Researcher)
-  + Chihway Chang (3th author, Senior Member)
-
-- **SN 1006: A Cosmic Laboratory for Investigating Shock Acceleration Physics**
-[https://arxiv.org/abs/2606.12111]
-  + Damiano Caprioli (3th author, Associate Professor)
-
-- **Revealing Cosmic Ecosystems with the Hubble Space Telescope in 2030s and Beyond**
-[https://arxiv.org/abs/2606.11506]
-  + Hsiao-Wen Chen (13th author, Senior Member)
-
-- **Investigating the role of turbulence in the interstellar medium in $z\sim3$ dusty star-forming galaxies using kpc-resolution ALMA dust and gas maps**
-[https://arxiv.org/abs/2606.11444]
-  + Juliang Li? (7th author, Postdoctoral Scholar)
-
-- **Dark Energy Survey Year 3 results: optimized $w$CDM simulation-based inference with weak lensing map-level hybrid statistics**
-[https://arxiv.org/abs/2606.11309]
-  + Marco Gatti? (6th author, KICP Fellow)
-  + Alex Drlica-Wagner? (21th author, Senior Member)
-  + Joshua A. Frieman? (65th author, Chair)
-  + Chun-Hao To? (83th author, Associate Fellow)
 
