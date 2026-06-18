@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun 17 21:17:21 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jun 17 22:47:01 CDT 2026)
 
 - **Three dimensional temporal evolution of photochemical haze in exoplanet atmospheres I. Description and test application to HD 189733b**
 [https://arxiv.org/abs/2606.19056]
