@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun 17 22:47:01 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jun 18 21:22:29 CDT 2026)
+
+- **The SPHEREx View of Galaxy Clusters: A Simulation-based Validation of the Forced Photometry Pipeline for Extended Sources**
+[https://arxiv.org/abs/2606.19875]
+  + Lindsey Bleem (3th author, Senior Associate)
 
 - **Three dimensional temporal evolution of photochemical haze in exoplanet atmospheres I. Description and test application to HD 189733b**
 [https://arxiv.org/abs/2606.19056]
