@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Jun 19 22:46:30 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sat Jun 20 21:17:07 CDT 2026)
 
 - **The SPHEREx View of Galaxy Clusters: A Simulation-based Validation of the Forced Photometry Pipeline for Extended Sources**
 [https://arxiv.org/abs/2606.19875]
