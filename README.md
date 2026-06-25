@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jun 24 21:17:02 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jun 24 22:46:13 CDT 2026)
 
 - **Kepler Image-Subtracted Light Curves and Variable Star Catalog of NGC 6819**
 [https://arxiv.org/abs/2606.24114]
