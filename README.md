@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 23 22:46:13 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jun 24 21:17:02 CDT 2026)
 
 - **Kepler Image-Subtracted Light Curves and Variable Star Catalog of NGC 6819**
 [https://arxiv.org/abs/2606.24114]
@@ -91,13 +91,4 @@
 - **Projecting the ultimate pulsar timing sensitivity to dark matter substructure in a stochastic gravitational wave background**
 [https://arxiv.org/abs/2606.18329]
   + Joshua Foster (1th author, Associate Fellow)
-
-- **Tracing the very early disruption of the Sagittarius dwarf galaxy in the distant Milky Way halo**
-[https://arxiv.org/abs/2606.17754]
-  + Alexander Ji (5th author, Senior Member)
-
-- **Reduced Effective Viscosity from Anisotropic Transport and Plasma Instabilities in the Sloshing Cores of Galaxy Clusters**
-[https://arxiv.org/abs/2606.17371]
-  + Annie Heinrich (3th author, Graduate Student)
-  + Irina Zhuravleva (6th author, Assistant Professor)
 
