@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jun 25 21:16:55 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jun 25 22:46:37 CDT 2026)
 
 - **Semi-empirical Predictions for Ultra-deep Radio Counts of Star-forming Galaxies with the SKAO**
 [https://arxiv.org/abs/2606.26773]
