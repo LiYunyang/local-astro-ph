@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jun 27 22:46:35 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Jun 28 21:16:59 CDT 2026)
+
+- **Unveiling the Microhertz Gravitational-Wave Sky with the Square Kilometre Array Observatory**
+[https://arxiv.org/abs/2606.27418]
+  + Joshua Foster (3th author, Associate Fellow)
 
 - **Semi-empirical Predictions for Ultra-deep Radio Counts of Star-forming Galaxies with the SKAO**
 [https://arxiv.org/abs/2606.26773]
@@ -152,8 +156,4 @@
 - **Towards LLM-Powered Automation of a Dark Matter Constraint Repository**
 [https://arxiv.org/abs/2606.21658]
   + Lanqing Yuan (1th author, Graduate Student)
-
-- **The SPHEREx View of Galaxy Clusters: A Simulation-based Validation of the Forced Photometry Pipeline for Extended Sources**
-[https://arxiv.org/abs/2606.19875]
-  + Lindsey Bleem (3th author, Senior Associate)
 
