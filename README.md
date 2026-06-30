@@ -1,6 +1,31 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun 29 21:17:05 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jun 29 22:46:15 CDT 2026)
+
+- **CARMApy: An Open-Source Python Framework for Simulating Microphysical Clouds in Planetary Atmospheres**
+[https://arxiv.org/abs/2606.30438]
+  + Wolf Cukier (1th author, Graduate Student)
+  + Diana Powell (2th author, Assistant Professor)
+  + Dominic Samra (5th author, Postdoctoral Scholar)
+  + Vighnesh Nagpal (6th author, Graduate Student)
+
+- **Sloshing Motions in Abell 3571 Revealed by XRISM/Resolve Velocity Mapping**
+[https://arxiv.org/abs/2606.30413]
+  + Hannah McCall (5th author, Graduate Student)
+  + Irina Zhuravleva (6th author, Assistant Professor)
+  + Annie Heinrich (11th author, Graduate Student)
+  + Daniele Rogantini (12th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Kinematics of Weak Cool-Core Cluster A3571 Observed with XRISM: Low Cooling Rate Balanced by Low Heating Rate**
+[https://arxiv.org/abs/2606.29988]
+  + Hannah McCall (1th author, Graduate Student)
+  + Irina Zhuravleva (2th author, Assistant Professor)
+  + Annie Heinrich (4th author, Graduate Student)
+  + Daniele Rogantini (10th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Improving the Precision of Line-by-Line Radial Velocities: A Data-Driven Iterative Algorithm for Spectral Line Selection**
+[https://arxiv.org/abs/2606.29552]
+  + Lily Zhao (5th author, Sagan Fellow)
 
 - **Unveiling the Microhertz Gravitational-Wave Sky with the Square Kilometre Array Observatory**
 [https://arxiv.org/abs/2606.27418]
@@ -126,34 +151,4 @@
   + Vighnesh Nagpal (4th author, Graduate Student)
   + Jacob L. Bean (8th author, Professor)
   + Madison Brady (14th author, Graduate Student)
-
-- **Magnetic field strengths of hot giant exoplanets consistent with Solar System values**
-[https://arxiv.org/abs/2606.22455]
-  + Jacob L. Bean (19th author, Professor)
-
-- **Variables in S-PLUS: I. Multiband period-luminosity relations and reddening maps of the Magellanic Clouds using classical Cepheids**
-[https://arxiv.org/abs/2606.20953]
-  + Guilherme Limberg (7th author, KICP Fellow)
-
-- **LEGGOS I: The JWST LEGGOS Survey -- LEnsing and Galaxy Growth: Observing Substructures -- Unpacks the Nature of Clumpy Star Formation and Quenching in Gravitationally Lensed Galaxies beyond Cosmic Noon**
-[https://arxiv.org/abs/2606.20845]
-  + Michael D. Gladders (15th author, Professor)
-  + Erik Solhaug (35th author, Graduate Student)
-
-- **Euclid: Quick Data Release (Q1) -- LensMC shear measurement catalogue for cluster lensing science**
-[https://arxiv.org/abs/2606.20829]
-  + Alberto Castellano Mora? (90th author, Associate Fellow)
-
-- **LEGGOS II: A Strong Lens Model and Source-Plane Projection of the Clumpy Star-Forming Galaxy SGASJ111020.0+645950.8 at z=2.48**
-[https://arxiv.org/abs/2606.20804]
-  + Michael D. Gladders (7th author, Professor)
-
-- **Raising the reionization optical depth with inflationary CMB features**
-[https://arxiv.org/abs/2606.20795]
-  + Tanisha Jhaveri (1th author, Graduate Student)
-  + Wayne Hu (2th author, Senior Member)
-
-- **Towards LLM-Powered Automation of a Dark Matter Constraint Repository**
-[https://arxiv.org/abs/2606.21658]
-  + Lanqing Yuan (1th author, Graduate Student)
 
