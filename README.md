@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jun 28 22:46:51 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jun 29 21:17:05 CDT 2026)
 
 - **Unveiling the Microhertz Gravitational-Wave Sky with the Square Kilometre Array Observatory**
 [https://arxiv.org/abs/2606.27418]
