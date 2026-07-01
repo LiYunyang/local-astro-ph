@@ -1,6 +1,51 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jun 29 22:46:15 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jun 30 21:16:59 CDT 2026)
+
+- **Joint inference of weak lensing convergence map and cosmology with diffusion models**
+[https://arxiv.org/abs/2606.31988]
+  + Chihway Chang (2th author, Senior Member)
+
+- **An overview of stray light findings and interpretation during on-sky commissioning of LSSTCam**
+[https://arxiv.org/abs/2606.31945]
+  + Alex Drlica-Wagner (2th author, Senior Member)
+  + Aashay Pai (6th author, Graduate Student)
+
+- **Investigation and Mitigation of a Prominent Off-Axis Stray Light Path in Rubin Observatory Commissioning**
+[https://arxiv.org/abs/2606.31939]
+  + Alex Drlica-Wagner (1th author, Senior Member)
+  + Aashay Pai (10th author, Graduate Student)
+
+- **Mechanical Studies of an Additional Light Baffle for the LSST Camera**
+[https://arxiv.org/abs/2606.31898]
+  + Alex Drlica-Wagner (4th author, Senior Member)
+  + Aashay Pai (7th author, Graduate Student)
+
+- **In Situ Measurements of the Reflectances of the LSSTCam Optics and Assessing the Impact of Optical Ghosts**
+[https://arxiv.org/abs/2606.31826]
+  + Aashay Pai (1th author, Graduate Student)
+  + Alex Drlica-Wagner (2th author, Senior Member)
+
+- **Modeling of the diffuse background produced by the Vera C. Rubin Observatory M2 baffle scattered light**
+[https://arxiv.org/abs/2606.31793]
+  + Aashay Pai (4th author, Graduate Student)
+
+- **JWST Medium-Resolution Infrared Spectroscopy of SN 2022acko: Tracing Molecule Formation in the Nebular Phase**
+[https://arxiv.org/abs/2606.31176]
+  + Suyash Kumar? (21th author, Graduate Student)
+  + LianTao Wang? (30th author, Senior Member)
+
+- **Deep Learning for Astrophysics: An Open Textbook from the NASA Cosmic Origins AI/ML Science and Technology Interest Group**
+[https://arxiv.org/abs/2606.30855]
+  + Georgios Valogiannis (22th author, Associate Fellow)
+
+- **JWST spectroscopy of galaxies at $z>10$: Damped Ly$α$ absorbers reveal efficient star formation and hidden redshift biases**
+[https://arxiv.org/abs/2606.30787]
+  + Harley Katz (14th author, Senior Member)
+
+- **Little Red Dots as Intermediate Mass, Super-Eddington Engines: Insights from Type IIn Supernovae and The 1837-1856 Great Eruption of $η$ Carinae**
+[https://arxiv.org/abs/2606.30711]
+  + Harley Katz (6th author, Senior Member)
 
 - **CARMApy: An Open-Source Python Framework for Simulating Microphysical Clouds in Planetary Atmospheres**
 [https://arxiv.org/abs/2606.30438]
@@ -117,38 +162,4 @@
 - **Cosmological gravitational particle production in multifield inflation**
 [https://arxiv.org/abs/2606.25015]
   + Edward Kolb (1th author, Senior Member)
-
-- **Kepler Image-Subtracted Light Curves and Variable Star Catalog of NGC 6819**
-[https://arxiv.org/abs/2606.24114]
-  + Kyle M. Cudworth (9th author, Professor Emeritus)
-
-- **Hydrogen airglow from an escaping ultrahot Jupiter atmosphere**
-[https://arxiv.org/abs/2606.23899]
-  + Michael Zhang (14th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Photochemical Production of CS2 in Temperate-to-Warm Gas Giant Exoplanet Atmospheres**
-[https://arxiv.org/abs/2606.23820]
-  + Vighnesh Nagpal (2th author, Graduate Student)
-  + Michael Zhang (3th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Qiao Xue (4th author, Graduate Student)
-  + Jacob L. Bean (6th author, Professor)
-  + Madison Brady (13th author, Graduate Student)
-
-- **First measurement of narrow-line flux ratios for a lensed quasar with JWST/NIRSpec IFS**
-[https://arxiv.org/abs/2606.23808]
-  + Anowar Shajib (4th author, KICP and Einstein Fellow)
-  + Daniel Gilman (6th author, Associate Fellow)
-
-- **Accurate modeling for 3$\times$2pt analyses in Roman and Rubin: a study of model approximations**
-[https://arxiv.org/abs/2606.23781]
-  + Chihway Chang (2th author, Senior Member)
-  + Chun-Hao To (5th author, Associate Fellow)
-
-- **C, N, O, S, and photochemistry in a temperate giant planet orbiting a late M dwarf**
-[https://arxiv.org/abs/2606.23774]
-  + Michael Zhang (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Qiao Xue (2th author, Graduate Student)
-  + Vighnesh Nagpal (4th author, Graduate Student)
-  + Jacob L. Bean (8th author, Professor)
-  + Madison Brady (14th author, Graduate Student)
 
