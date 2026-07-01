@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 30 21:16:59 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jun 30 22:46:41 CDT 2026)
 
 - **Joint inference of weak lensing convergence map and cosmology with diffusion models**
 [https://arxiv.org/abs/2606.31988]
