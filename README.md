@@ -1,6 +1,45 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jun 30 22:46:41 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jul  1 21:16:55 CDT 2026)
+
+- **Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in 5 year data from the SPT-3G Main Survey**
+[https://arxiv.org/abs/2607.01175]
+  + Lindsey Bleem? (1th author, Senior Associate)
+  + Kayla Kornoelje? (3th author, Graduate Student)
+  + Joshua Sobrin? (5th author, Associate Fellow)
+  + Adam Anderson? (8th author, Senior Associate)
+  + Melanie Archipley? (11th author, Associate Fellow)
+  + Amy Bender? (17th author, Senior Associate)
+  + Bradford A. Benson? (18th author, Associate Professor)
+  + John Carlstrom? (27th author, Senior Member)
+  + Chihway Chang? (31th author, Senior Member)
+  + Paul Chichura? (32th author, Graduate Student)
+  + Thomas Crawford? (37th author, Senior Researcher)
+  + Karia Dibert? (44th author, Graduate Student)
+  + Kyra Fichman? (54th author, Graduate Student)
+  + Michael D. Gladders? (64th author, Professor)
+  + John Hood? (75th author, Associate Fellow)
+  + Alexander Hryciuk? (76th author, Graduate Student)
+  + Tanisha Jhaveri? (78th author, Graduate Student)
+  + Stephen Kent? (79th author, CASE Associate)
+  + Yunyang Li? (88th author, KICP Fellow)
+  + Emily Martsen? (96th author, Graduate Student)
+
+- **Distinct spin properties and astrophysical origin of low mass binary black holes in gravitational wave data**
+[https://arxiv.org/abs/2607.00565]
+  + Thomas Callister (4th author, KICP and Schmidt Fellow)
+
+- **The Rubin Observatory Target-of-Opportunity System in the First Year of Operations**
+[https://arxiv.org/abs/2607.00217]
+  + Alex Drlica-Wagner (13th author, Senior Member)
+
+- **How can we finally see the first light? Status and perspective in the search for Population III stars**
+[https://arxiv.org/abs/2607.00167]
+  + Harley Katz (5th author, Senior Member)
+
+- **Dark matter energy exchange in stars orbiting supermassive black holes**
+[https://arxiv.org/abs/2607.00840]
+  + Sandra Robles (5th author, Associate Fellow)
 
 - **Joint inference of weak lensing convergence map and cosmology with diffusion models**
 [https://arxiv.org/abs/2606.31988]
@@ -127,39 +166,4 @@
   + Abigail Vieregg? (89th author, David N. Schramm Director and Senior Member)
   + Matthew Young? (94th author, Associate Fellow)
   + Jessica Zebrowski? (95th author, KICP and Einstein Fellow)
-
-- **Broadband multiwavelength properties of the archetypal blazar 3C 279 during the 2017 Event Horizon Telescope campaign**
-[https://arxiv.org/abs/2606.25868]
-  + Bradford A. Benson (30th author, Associate Professor)
-  + John Carlstrom (44th author, Senior Member)
-  + Paul Chichura (52th author, Graduate Student)
-  + Thomas Crawford (56th author, Senior Researcher)
-
-- **Euclid: Precise inference of defocus wavefront error from image diffraction spike measurements**
-[https://arxiv.org/abs/2606.25625]
-  + Alberto Castellano Mora? (92th author, Associate Fellow)
-
-- **Gravitational Light Deflection with SKA-VLBI and Its Application to Precision Tests of General Relativity**
-[https://arxiv.org/abs/2606.25549]
-  + Yunyang Li? (1th author, KICP Fellow)
-  + Juliang Li? (2th author, Postdoctoral Scholar)
-
-- **Compact Objects Revealed by SKA and SKA-VLBI**
-[https://arxiv.org/abs/2606.25543]
-  + Yunyang Li? (2th author, KICP Fellow)
-  + Juliang Li? (4th author, Postdoctoral Scholar)
-
-- **Deep Imaging of Grus II and Horologium II: Structure and Extent of Two Ultra-Faint Milky Way Satellites**
-[https://arxiv.org/abs/2606.25058]
-  + Anirudh Chiti (3th author, Brinson Prize Fellow)
-  + Alexander Ji? (7th author, Senior Member)
-  + Guilherme Limberg? (14th author, KICP Fellow)
-
-- **Constraining the Physical Properties of Quadruply Lensed Quasars using Optical-to-X-Ray Data**
-[https://arxiv.org/abs/2606.25028]
-  + Daniel Gilman (4th author, Associate Fellow)
-
-- **Cosmological gravitational particle production in multifield inflation**
-[https://arxiv.org/abs/2606.25015]
-  + Edward Kolb (1th author, Senior Member)
 
