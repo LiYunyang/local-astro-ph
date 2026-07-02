@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul  1 21:16:55 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jul  1 22:46:15 CDT 2026)
 
 - **Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in 5 year data from the SPT-3G Main Survey**
 [https://arxiv.org/abs/2607.01175]
