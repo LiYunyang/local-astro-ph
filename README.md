@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul  1 22:46:15 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Jul  3 00:06:54 CDT 2026)
 
 - **Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in 5 year data from the SPT-3G Main Survey**
 [https://arxiv.org/abs/2607.01175]
@@ -114,56 +114,4 @@
 - **Unveiling the Microhertz Gravitational-Wave Sky with the Square Kilometre Array Observatory**
 [https://arxiv.org/abs/2606.27418]
   + Joshua Foster (3th author, Associate Fellow)
-
-- **Semi-empirical Predictions for Ultra-deep Radio Counts of Star-forming Galaxies with the SKAO**
-[https://arxiv.org/abs/2606.26773]
-  + Agustin Lapi? (7th author, Associate Fellow)
-
-- **Detectors for CLASS-W2: The second 90 GHz telescope of the Cosmology Large Angular Scale Surveyor**
-[https://arxiv.org/abs/2606.26576]
-  + Yunyang Li (20th author, KICP Fellow)
-
-- **In situ cryogenic characterization of proton damage in thick p-channel skipper CCDs**
-[https://arxiv.org/abs/2606.26409]
-  + Brandon Roach (1th author, KICP Fellow)
-  + Alex Drlica-Wagner (3th author, Senior Member)
-  + Ana Martina Botti (5th author, Associate Fellow)
-  + Julian  Cuevas-Zepeda (7th author, Associate Fellow)
-  + Juan  Estrada (8th author, Senior Associate)
-  + Agustin Lapi (13th author, Associate Fellow)
-  + Nathan Saffold (15th author, Associate Fellow)
-
-- **The 10-15 GHz radio continuum survey of the Galactic Plane with SKAO**
-[https://arxiv.org/abs/2606.26278]
-  + Fei Xu? (32th author, Graduate Student)
-
-- **Cross-correlation of SPT-3G D1 CMB lensing and DES Y3 galaxy lensing**
-[https://arxiv.org/abs/2606.26223]
-  + Yuuki Omori? (2th author, Senior Researcher)
-  + Adam Anderson? (4th author, Senior Associate)
-  + Melanie Archipley? (6th author, Associate Fellow)
-  + Amy Bender? (10th author, Senior Associate)
-  + Bradford A. Benson? (11th author, Associate Professor)
-  + Lindsey Bleem? (13th author, Senior Associate)
-  + John Carlstrom? (18th author, Senior Member)
-  + Chihway Chang? (20th author, Senior Member)
-  + Chihway Chang? (21th author, Senior Member)
-  + Paul Chichura? (22th author, Graduate Student)
-  + Thomas Crawford? (26th author, Senior Researcher)
-  + Karia Dibert? (29th author, Graduate Student)
-  + Kyra Fichman? (36th author, Graduate Student)
-  + John Hood? (48th author, Associate Fellow)
-  + Alexander Hryciuk? (49th author, Graduate Student)
-  + Tanisha Jhaveri? (51th author, Graduate Student)
-  + Kayla Kornoelje? (55th author, Graduate Student)
-  + Yunyang Li? (58th author, KICP Fellow)
-  + Emily Martsen? (64th author, Graduate Student)
-  + Tyler Natoli? (69th author, Senior Researcher)
-  + Wei Quan? (75th author, Associate Fellow)
-  + Alexandra Rahlin? (77th author, Research Assistant Professor)
-  + Aidan Simpson? (82th author, Graduate Student)
-  + Joshua Sobrin? (83th author, Associate Fellow)
-  + Abigail Vieregg? (89th author, David N. Schramm Director and Senior Member)
-  + Matthew Young? (94th author, Associate Fellow)
-  + Jessica Zebrowski? (95th author, KICP and Einstein Fellow)
 
