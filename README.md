@@ -1,6 +1,56 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul  6 01:50:55 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jul  7 00:14:35 CDT 2026)
+
+- **Trigger system for the Payload for Ultrahigh Energy Observations (PUEO) balloon-borne neutrino detector**
+[https://arxiv.org/abs/2607.05285]
+  + Cosmin Deaconu? (23th author, Senior Researcher)
+  + Anna Kofman? (32th author, Associate Fellow)
+  + Scott Mackey? (40th author, Graduate Student)
+  + Zachary Martin? (41th author, Graduate Student)
+  + Keith McBride? (42th author, Associate Fellow)
+  + Eric Oberla? (48th author, Senior Researcher)
+  + Rachel Scrandis? (53th author, Graduate Student)
+  + Abigail Vieregg? (59th author, David N. Schramm Director and Senior Member)
+  + Christoph Welling? (62th author, KICP Fellow)
+  + Philipp Windischhofer? (63th author, Associate Fellow)
+
+- **In-Band Scattering and Absorption of Infrared Blocking Foam Filters for Millimeter-wave Cameras**
+[https://arxiv.org/abs/2607.05003]
+  + Alex Thomas (1th author, Graduate Student)
+  + Shreya  Sutariya (3th author, Graduate Student)
+  + Erin Healy (9th author, KICP Fellow)
+  + Claire  Lessler (10th author, Graduate Student)
+  + Aashrita Mangu (11th author, Associate Fellow)
+  + Jeffrey McMahon (12th author, Senior Member)
+
+- **A new model of quasar mass evolution**
+[https://arxiv.org/abs/2607.04705]
+  + Michael Zhang? (2th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **A 3D-Printed Millimeter-Wave Inline Waveguide-to-Coplanar-Waveguide Transition to Enable Dense Spectrometer Arrays for Intensity Mapping Surveys**
+[https://arxiv.org/abs/2607.04258]
+  + Austin Stover (1th author, Graduate Student)
+  + Juliang Li (2th author, Postdoctoral Scholar)
+  + Morgana Iacocca (4th author, Graduate Student)
+  + Audrey Scott (5th author, Graduate Student)
+  + Jessica Zebrowski (6th author, KICP and Einstein Fellow)
+
+- **Euclid: Measuring the intrinsic alignment of galaxies around cosmic voids in the \Euclid Flagship simulation\**
+[https://arxiv.org/abs/2607.03312]
+  + Alberto Castellano Mora? (94th author, Associate Fellow)
+
+- **A Square Kilometre Array Pulsar Census**
+[https://arxiv.org/abs/2607.03090]
+  + Chin Yi Tan? (4th author, Graduate Student)
+
+- **Kinetic temperature of massive star-forming molecular clumps measured with formaldehyde VI. The photodissociation region M17SW**
+[https://arxiv.org/abs/2607.03084]
+  + Juliang Li? (19th author, Postdoctoral Scholar)
+
+- **S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups**
+[https://arxiv.org/abs/2607.02706]
+  + Alex Alarcon Gonzalez? (9th author, CASE Associate)
 
 - **Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in 5 year data from the SPT-3G Main Survey**
 [https://arxiv.org/abs/2607.01175]
@@ -110,8 +160,4 @@
 - **Improving the Precision of Line-by-Line Radial Velocities: A Data-Driven Iterative Algorithm for Spectral Line Selection**
 [https://arxiv.org/abs/2606.29552]
   + Lily Zhao (5th author, Sagan Fellow)
-
-- **Unveiling the Microhertz Gravitational-Wave Sky with the Square Kilometre Array Observatory**
-[https://arxiv.org/abs/2606.27418]
-  + Joshua Foster (3th author, Associate Fellow)
 
