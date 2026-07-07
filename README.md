@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul  7 00:14:35 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jul  7 01:28:16 CDT 2026)
 
 - **Trigger system for the Payload for Ultrahigh Energy Observations (PUEO) balloon-borne neutrino detector**
 [https://arxiv.org/abs/2607.05285]
