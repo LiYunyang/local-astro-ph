@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul  7 23:39:39 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jul  8 00:35:17 CDT 2026)
 
 - **CMB Lensing Reconstruction Using Two Years of Temperature Data from the SPT-3G Summer Survey**
 [https://arxiv.org/abs/2607.05784]
