@@ -1,6 +1,34 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul  7 01:28:16 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jul  7 23:39:39 CDT 2026)
+
+- **CMB Lensing Reconstruction Using Two Years of Temperature Data from the SPT-3G Summer Survey**
+[https://arxiv.org/abs/2607.05784]
+  + Yunyang Li? (4th author, KICP Fellow)
+  + Adam Anderson? (6th author, Senior Associate)
+  + Melanie Archipley? (8th author, Associate Fellow)
+  + Amy Bender? (12th author, Senior Associate)
+  + Bradford A. Benson? (13th author, Associate Professor)
+  + Lindsey Bleem? (15th author, Senior Associate)
+  + John Carlstrom? (20th author, Senior Member)
+  + Chihway Chang? (22th author, Senior Member)
+  + Paul Chichura? (23th author, Graduate Student)
+  + Thomas Crawford? (27th author, Senior Researcher)
+  + Karia Dibert? (30th author, Graduate Student)
+  + Kyra Fichman? (37th author, Graduate Student)
+  + John Hood? (48th author, Associate Fellow)
+  + Alexander Hryciuk? (49th author, Graduate Student)
+  + Tanisha Jhaveri? (51th author, Graduate Student)
+  + Kayla Kornoelje? (55th author, Graduate Student)
+  + Emily Martsen? (62th author, Graduate Student)
+  + Tyler Natoli? (67th author, Senior Researcher)
+  + Wei Quan? (74th author, Associate Fellow)
+  + Alexandra Rahlin? (76th author, Research Assistant Professor)
+  + Aidan Simpson? (81th author, Graduate Student)
+  + Joshua Sobrin? (82th author, Associate Fellow)
+  + Abigail Vieregg? (88th author, David N. Schramm Director and Senior Member)
+  + Matthew Young? (93th author, Associate Fellow)
+  + Jessica Zebrowski? (94th author, KICP and Einstein Fellow)
 
 - **Trigger system for the Payload for Ultrahigh Energy Observations (PUEO) balloon-borne neutrino detector**
 [https://arxiv.org/abs/2607.05285]
@@ -135,29 +163,4 @@
 - **Little Red Dots as Intermediate Mass, Super-Eddington Engines: Insights from Type IIn Supernovae and The 1837-1856 Great Eruption of $η$ Carinae**
 [https://arxiv.org/abs/2606.30711]
   + Harley Katz (6th author, Senior Member)
-
-- **CARMApy: An Open-Source Python Framework for Simulating Microphysical Clouds in Planetary Atmospheres**
-[https://arxiv.org/abs/2606.30438]
-  + Wolf Cukier (1th author, Graduate Student)
-  + Diana Powell (2th author, Assistant Professor)
-  + Dominic Samra (5th author, Postdoctoral Scholar)
-  + Vighnesh Nagpal (6th author, Graduate Student)
-
-- **Sloshing Motions in Abell 3571 Revealed by XRISM/Resolve Velocity Mapping**
-[https://arxiv.org/abs/2606.30413]
-  + Hannah McCall (5th author, Graduate Student)
-  + Irina Zhuravleva (6th author, Assistant Professor)
-  + Annie Heinrich (11th author, Graduate Student)
-  + Daniele Rogantini (12th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Kinematics of Weak Cool-Core Cluster A3571 Observed with XRISM: Low Cooling Rate Balanced by Low Heating Rate**
-[https://arxiv.org/abs/2606.29988]
-  + Hannah McCall (1th author, Graduate Student)
-  + Irina Zhuravleva (2th author, Assistant Professor)
-  + Annie Heinrich (4th author, Graduate Student)
-  + Daniele Rogantini (10th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Improving the Precision of Line-by-Line Radial Velocities: A Data-Driven Iterative Algorithm for Spectral Line Selection**
-[https://arxiv.org/abs/2606.29552]
-  + Lily Zhao (5th author, Sagan Fellow)
 
