@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul  8 00:35:17 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jul  9 00:33:18 CDT 2026)
+
+- **Euclid Quick Data Release (Q1). Searching for radio-selected \Euclid-dark galaxies in the EDF-N**
+[https://arxiv.org/abs/2607.07296]
+  + LianTao Wang? (10th author, Senior Member)
+  + Agustin Lapi? (18th author, Associate Fellow)
+
+- **Primordial Physics in the Nonlinear Universe: Towards particle constraints using the Weak lensing, Thermal SZ, and X-ray fields**
+[https://arxiv.org/abs/2607.06692]
+  + Dhayaa Anbajagane (1th author, Graduate Student)
+
+- **Particle Cosmology: 1980-2000**
+[https://arxiv.org/abs/2607.06811]
+  + Edward Kolb (1th author, Senior Member)
 
 - **CMB Lensing Reconstruction Using Two Years of Temperature Data from the SPT-3G Summer Survey**
 [https://arxiv.org/abs/2607.05784]
@@ -32,16 +45,16 @@
 
 - **Trigger system for the Payload for Ultrahigh Energy Observations (PUEO) balloon-borne neutrino detector**
 [https://arxiv.org/abs/2607.05285]
-  + Cosmin Deaconu? (23th author, Senior Researcher)
-  + Anna Kofman? (32th author, Associate Fellow)
-  + Scott Mackey? (40th author, Graduate Student)
-  + Zachary Martin? (41th author, Graduate Student)
-  + Keith McBride? (42th author, Associate Fellow)
-  + Eric Oberla? (48th author, Senior Researcher)
-  + Rachel Scrandis? (53th author, Graduate Student)
-  + Abigail Vieregg? (59th author, David N. Schramm Director and Senior Member)
-  + Christoph Welling? (62th author, KICP Fellow)
-  + Philipp Windischhofer? (63th author, Associate Fellow)
+  + Cosmin Deaconu? (24th author, Senior Researcher)
+  + Anna Kofman? (33th author, Associate Fellow)
+  + Scott Mackey? (41th author, Graduate Student)
+  + Zachary Martin? (42th author, Graduate Student)
+  + Keith McBride? (43th author, Associate Fellow)
+  + Eric Oberla? (49th author, Senior Researcher)
+  + Rachel Scrandis? (54th author, Graduate Student)
+  + Abigail Vieregg? (60th author, David N. Schramm Director and Senior Member)
+  + Christoph Welling? (63th author, KICP Fellow)
+  + Philipp Windischhofer? (64th author, Associate Fellow)
 
 - **In-Band Scattering and Absorption of Infrared Blocking Foam Filters for Millimeter-wave Cameras**
 [https://arxiv.org/abs/2607.05003]
@@ -118,49 +131,4 @@
 - **Dark matter energy exchange in stars orbiting supermassive black holes**
 [https://arxiv.org/abs/2607.00840]
   + Sandra Robles (5th author, Associate Fellow)
-
-- **Joint inference of weak lensing convergence map and cosmology with diffusion models**
-[https://arxiv.org/abs/2606.31988]
-  + Chihway Chang (2th author, Senior Member)
-
-- **An overview of stray light findings and interpretation during on-sky commissioning of LSSTCam**
-[https://arxiv.org/abs/2606.31945]
-  + Alex Drlica-Wagner (2th author, Senior Member)
-  + Aashay Pai (6th author, Graduate Student)
-
-- **Investigation and Mitigation of a Prominent Off-Axis Stray Light Path in Rubin Observatory Commissioning**
-[https://arxiv.org/abs/2606.31939]
-  + Alex Drlica-Wagner (1th author, Senior Member)
-  + Aashay Pai (10th author, Graduate Student)
-
-- **Mechanical Studies of an Additional Light Baffle for the LSST Camera**
-[https://arxiv.org/abs/2606.31898]
-  + Alex Drlica-Wagner (4th author, Senior Member)
-  + Aashay Pai (7th author, Graduate Student)
-
-- **In Situ Measurements of the Reflectances of the LSSTCam Optics and Assessing the Impact of Optical Ghosts**
-[https://arxiv.org/abs/2606.31826]
-  + Aashay Pai (1th author, Graduate Student)
-  + Alex Drlica-Wagner (2th author, Senior Member)
-
-- **Modeling of the diffuse background produced by the Vera C. Rubin Observatory M2 baffle scattered light**
-[https://arxiv.org/abs/2606.31793]
-  + Aashay Pai (4th author, Graduate Student)
-
-- **JWST Medium-Resolution Infrared Spectroscopy of SN 2022acko: Tracing Molecule Formation in the Nebular Phase**
-[https://arxiv.org/abs/2606.31176]
-  + Suyash Kumar? (21th author, Graduate Student)
-  + LianTao Wang? (30th author, Senior Member)
-
-- **Deep Learning for Astrophysics: An Open Textbook from the NASA Cosmic Origins AI/ML Science and Technology Interest Group**
-[https://arxiv.org/abs/2606.30855]
-  + Georgios Valogiannis (22th author, Associate Fellow)
-
-- **JWST spectroscopy of galaxies at $z>10$: Damped Ly$α$ absorbers reveal efficient star formation and hidden redshift biases**
-[https://arxiv.org/abs/2606.30787]
-  + Harley Katz (14th author, Senior Member)
-
-- **Little Red Dots as Intermediate Mass, Super-Eddington Engines: Insights from Type IIn Supernovae and The 1837-1856 Great Eruption of $η$ Carinae**
-[https://arxiv.org/abs/2606.30711]
-  + Harley Katz (6th author, Senior Member)
 
