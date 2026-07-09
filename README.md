@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jul  9 00:33:18 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jul  9 01:25:51 CDT 2026)
 
 - **Euclid Quick Data Release (Q1). Searching for radio-selected \Euclid-dark galaxies in the EDF-N**
 [https://arxiv.org/abs/2607.07296]
