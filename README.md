@@ -1,6 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jul  9 01:25:51 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Jul 10 00:27:28 CDT 2026)
+
+- **Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models**
+[https://arxiv.org/abs/2607.08486]
+  + Dominic Samra (18th author, Postdoctoral Scholar)
+
+- **On-sky dark hole diggin' with implicit Electric Field Conjugation on MagAO-X**
+[https://arxiv.org/abs/2607.08146]
+  + Juliang Li? (12th author, Postdoctoral Scholar)
+  + Jianyu Long? (13th author, Graduate Student)
+
+- **The Southern-sky MWA Rapid Two-metre (SMART) pulsar survey--IV. Survey update and an atlas of 205 non-recycled southern pulsars**
+[https://arxiv.org/abs/2607.08106]
+  + Chin Yi Tan? (5th author, Graduate Student)
+
+- **Boötes III is a Tidally Disrupting Ultra-Faint Dwarf Galaxy on an Eccentric Polar Orbit**
+[https://arxiv.org/abs/2607.07803]
+  + Alexander Ji (12th author, Senior Member)
+  + Guilherme Limberg (15th author, KICP Fellow)
+
+- **Infrared-enhanced Photometric Redshifts for the Dark Energy Survey Y6 Gold catalogue**
+[https://arxiv.org/abs/2607.07771]
+  + Alex Drlica-Wagner? (6th author, Senior Member)
 
 - **Euclid Quick Data Release (Q1). Searching for radio-selected \Euclid-dark galaxies in the EDF-N**
 [https://arxiv.org/abs/2607.07296]
@@ -92,43 +114,4 @@
 - **S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups**
 [https://arxiv.org/abs/2607.02706]
   + Alex Alarcon Gonzalez? (9th author, CASE Associate)
-
-- **Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in 5 year data from the SPT-3G Main Survey**
-[https://arxiv.org/abs/2607.01175]
-  + Lindsey Bleem? (1th author, Senior Associate)
-  + Kayla Kornoelje? (3th author, Graduate Student)
-  + Joshua Sobrin? (5th author, Associate Fellow)
-  + Adam Anderson? (8th author, Senior Associate)
-  + Melanie Archipley? (11th author, Associate Fellow)
-  + Amy Bender? (17th author, Senior Associate)
-  + Bradford A. Benson? (18th author, Associate Professor)
-  + John Carlstrom? (27th author, Senior Member)
-  + Chihway Chang? (31th author, Senior Member)
-  + Paul Chichura? (32th author, Graduate Student)
-  + Thomas Crawford? (37th author, Senior Researcher)
-  + Karia Dibert? (44th author, Graduate Student)
-  + Kyra Fichman? (54th author, Graduate Student)
-  + Michael D. Gladders? (64th author, Professor)
-  + John Hood? (75th author, Associate Fellow)
-  + Alexander Hryciuk? (76th author, Graduate Student)
-  + Tanisha Jhaveri? (78th author, Graduate Student)
-  + Stephen Kent? (79th author, CASE Associate)
-  + Yunyang Li? (88th author, KICP Fellow)
-  + Emily Martsen? (96th author, Graduate Student)
-
-- **Distinct spin properties and astrophysical origin of low mass binary black holes in gravitational wave data**
-[https://arxiv.org/abs/2607.00565]
-  + Thomas Callister (4th author, KICP and Schmidt Fellow)
-
-- **The Rubin Observatory Target-of-Opportunity System in the First Year of Operations**
-[https://arxiv.org/abs/2607.00217]
-  + Alex Drlica-Wagner (13th author, Senior Member)
-
-- **How can we finally see the first light? Status and perspective in the search for Population III stars**
-[https://arxiv.org/abs/2607.00167]
-  + Harley Katz (5th author, Senior Member)
-
-- **Dark matter energy exchange in stars orbiting supermassive black holes**
-[https://arxiv.org/abs/2607.00840]
-  + Sandra Robles (5th author, Associate Fellow)
 
