@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jul 11 00:25:09 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sat Jul 11 23:46:02 CDT 2026)
 
 - **Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models**
 [https://arxiv.org/abs/2607.08486]
