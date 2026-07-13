@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jul 12 00:41:17 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Jul 12 23:53:02 CDT 2026)
+
+- **Chromatic Effects Across the Roman Focal Plane: Implications for Supernova Photometry and Measurements of Cosmological Parameters**
+[https://arxiv.org/abs/2607.08886]
+  + Richard Kessler (4th author, Senior Researcher)
+
+- **mitigating the overcooling problem with sink-based bursty star formation in a high-z dwarf galaxy**
+[https://arxiv.org/abs/2607.08846]
+  + Harley Katz (7th author, Senior Member)
+
+- **Hybrid Simulations of Proton Acceleration at Oblique High-$β$ Shocks**
+[https://arxiv.org/abs/2607.08835]
+  + Yevhen Kylivnyk (1th author, Graduate Student)
+  + Damiano Caprioli (2th author, Associate Professor)
+
+- **The type Ia supernova 2023vjh: a peculiar 1991bg-like SN with unusually faint light curves**
+[https://arxiv.org/abs/2607.08821]
+  + Huangyu Xiao? (34th author, Associate Fellow)
 
 - **Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models**
 [https://arxiv.org/abs/2607.08486]
