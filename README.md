@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jul 12 23:53:02 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jul 13 00:51:37 CDT 2026)
 
 - **Chromatic Effects Across the Roman Focal Plane: Implications for Supernova Photometry and Measurements of Cosmological Parameters**
 [https://arxiv.org/abs/2607.08886]
