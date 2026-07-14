@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 13 23:21:30 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jul 14 00:12:58 CDT 2026)
 
 - **Can third- and fourth-order multipoles plus radial variation of iso-density ellipses explain the observed flux ratios in B1422$+$231? YES, and a lesson learned from a TNG100 lensing galaxy sample**
 [https://arxiv.org/abs/2607.11559]
