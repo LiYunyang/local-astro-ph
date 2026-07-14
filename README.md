@@ -1,6 +1,29 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 13 00:51:37 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jul 13 23:21:30 CDT 2026)
+
+- **Can third- and fourth-order multipoles plus radial variation of iso-density ellipses explain the observed flux ratios in B1422$+$231? YES, and a lesson learned from a TNG100 lensing galaxy sample**
+[https://arxiv.org/abs/2607.11559]
+  + Anowar Shajib (5th author, KICP and Einstein Fellow)
+
+- **The white dwarf population of open clusters and their tidal tails. Tracers of contamination and stellar interactions**
+[https://arxiv.org/abs/2607.11299]
+  + David Miller (3th author, Senior Member)
+
+- **Magnetic field configuration favoring X-class solar flares: violation of Joy's and Hale's laws**
+[https://arxiv.org/abs/2607.10980]
+  + Michael Zhang? (3th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Diffhalos: A Generative Model of Cosmological Lightcones of Dark Matter Halos**
+[https://arxiv.org/abs/2607.10419]
+  + Georgios Zacharegkas (1th author, Associate Fellow)
+  + Andrew Hearin (2th author, Senior Associate)
+
+- **Robust Photometry for Roman High-Latitude Imaging Survey Cosmology Using Roman and Rubin Imaging**
+[https://arxiv.org/abs/2607.09849]
+  + Chun-Hao To (1th author, Associate Fellow)
+  + Chihway Chang (3th author, Senior Member)
+  + Andrew Hearin (16th author, Senior Associate)
 
 - **Chromatic Effects Across the Roman Focal Plane: Implications for Supernova Photometry and Measurements of Cosmological Parameters**
 [https://arxiv.org/abs/2607.08886]
@@ -81,54 +104,4 @@
   + Abigail Vieregg? (88th author, David N. Schramm Director and Senior Member)
   + Matthew Young? (93th author, Associate Fellow)
   + Jessica Zebrowski? (94th author, KICP and Einstein Fellow)
-
-- **Trigger system for the Payload for Ultrahigh Energy Observations (PUEO) balloon-borne neutrino detector**
-[https://arxiv.org/abs/2607.05285]
-  + Cosmin Deaconu? (24th author, Senior Researcher)
-  + Anna Kofman? (33th author, Associate Fellow)
-  + Scott Mackey? (41th author, Graduate Student)
-  + Zachary Martin? (42th author, Graduate Student)
-  + Keith McBride? (43th author, Associate Fellow)
-  + Eric Oberla? (49th author, Senior Researcher)
-  + Rachel Scrandis? (54th author, Graduate Student)
-  + Abigail Vieregg? (60th author, David N. Schramm Director and Senior Member)
-  + Christoph Welling? (63th author, KICP Fellow)
-  + Philipp Windischhofer? (64th author, Associate Fellow)
-
-- **In-Band Scattering and Absorption of Infrared Blocking Foam Filters for Millimeter-wave Cameras**
-[https://arxiv.org/abs/2607.05003]
-  + Alex Thomas (1th author, Graduate Student)
-  + Shreya  Sutariya (3th author, Graduate Student)
-  + Erin Healy (9th author, KICP Fellow)
-  + Claire  Lessler (10th author, Graduate Student)
-  + Aashrita Mangu (11th author, Associate Fellow)
-  + Jeffrey McMahon (12th author, Senior Member)
-
-- **A new model of quasar mass evolution**
-[https://arxiv.org/abs/2607.04705]
-  + Michael Zhang? (2th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **A 3D-Printed Millimeter-Wave Inline Waveguide-to-Coplanar-Waveguide Transition to Enable Dense Spectrometer Arrays for Intensity Mapping Surveys**
-[https://arxiv.org/abs/2607.04258]
-  + Austin Stover (1th author, Graduate Student)
-  + Juliang Li (2th author, Postdoctoral Scholar)
-  + Morgana Iacocca (4th author, Graduate Student)
-  + Audrey Scott (5th author, Graduate Student)
-  + Jessica Zebrowski (6th author, KICP and Einstein Fellow)
-
-- **Euclid: Measuring the intrinsic alignment of galaxies around cosmic voids in the \Euclid Flagship simulation\**
-[https://arxiv.org/abs/2607.03312]
-  + Alberto Castellano Mora? (94th author, Associate Fellow)
-
-- **A Square Kilometre Array Pulsar Census**
-[https://arxiv.org/abs/2607.03090]
-  + Chin Yi Tan? (4th author, Graduate Student)
-
-- **Kinetic temperature of massive star-forming molecular clumps measured with formaldehyde VI. The photodissociation region M17SW**
-[https://arxiv.org/abs/2607.03084]
-  + Juliang Li? (19th author, Postdoctoral Scholar)
-
-- **S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups**
-[https://arxiv.org/abs/2607.02706]
-  + Alex Alarcon Gonzalez? (9th author, CASE Associate)
 
