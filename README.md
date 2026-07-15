@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 14 23:21:17 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jul 15 00:13:48 CDT 2026)
 
 - **Investigating the Periodic X-ray Behaviour in the Eclipsing AGN NGC 6814**
 [https://arxiv.org/abs/2607.12904]
