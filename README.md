@@ -1,6 +1,11 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 14 00:12:58 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jul 14 23:21:17 CDT 2026)
+
+- **Investigating the Periodic X-ray Behaviour in the Eclipsing AGN NGC 6814**
+[https://arxiv.org/abs/2607.12904]
+  + Alex Alarcon Gonzalez? (3th author, CASE Associate)
+  + Daniele Rogantini? (5th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **Can third- and fourth-order multipoles plus radial variation of iso-density ellipses explain the observed flux ratios in B1422$+$231? YES, and a lesson learned from a TNG100 lensing galaxy sample**
 [https://arxiv.org/abs/2607.11559]
@@ -76,32 +81,4 @@
 - **Particle Cosmology: 1980-2000**
 [https://arxiv.org/abs/2607.06811]
   + Edward Kolb (1th author, Senior Member)
-
-- **CMB Lensing Reconstruction Using Two Years of Temperature Data from the SPT-3G Summer Survey**
-[https://arxiv.org/abs/2607.05784]
-  + Yunyang Li? (4th author, KICP Fellow)
-  + Adam Anderson? (6th author, Senior Associate)
-  + Melanie Archipley? (8th author, Associate Fellow)
-  + Amy Bender? (12th author, Senior Associate)
-  + Bradford A. Benson? (13th author, Associate Professor)
-  + Lindsey Bleem? (15th author, Senior Associate)
-  + John Carlstrom? (20th author, Senior Member)
-  + Chihway Chang? (22th author, Senior Member)
-  + Paul Chichura? (23th author, Graduate Student)
-  + Thomas Crawford? (27th author, Senior Researcher)
-  + Karia Dibert? (30th author, Graduate Student)
-  + Kyra Fichman? (37th author, Graduate Student)
-  + John Hood? (48th author, Associate Fellow)
-  + Alexander Hryciuk? (49th author, Graduate Student)
-  + Tanisha Jhaveri? (51th author, Graduate Student)
-  + Kayla Kornoelje? (55th author, Graduate Student)
-  + Emily Martsen? (62th author, Graduate Student)
-  + Tyler Natoli? (67th author, Senior Researcher)
-  + Wei Quan? (74th author, Associate Fellow)
-  + Alexandra Rahlin? (76th author, Research Assistant Professor)
-  + Aidan Simpson? (81th author, Graduate Student)
-  + Joshua Sobrin? (82th author, Associate Fellow)
-  + Abigail Vieregg? (88th author, David N. Schramm Director and Senior Member)
-  + Matthew Young? (93th author, Associate Fellow)
-  + Jessica Zebrowski? (94th author, KICP and Einstein Fellow)
 
