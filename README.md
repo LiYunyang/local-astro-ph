@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul 15 00:13:48 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jul 15 23:30:57 CDT 2026)
+
+- **Dark Energy and Neutrino Flavor from the Weak Axion**
+[https://arxiv.org/abs/2607.13128]
+  + Carlos Wagner (2th author, Senior Member)
 
 - **Investigating the Periodic X-ray Behaviour in the Eclipsing AGN NGC 6814**
 [https://arxiv.org/abs/2607.12904]
@@ -68,17 +72,4 @@
 - **Infrared-enhanced Photometric Redshifts for the Dark Energy Survey Y6 Gold catalogue**
 [https://arxiv.org/abs/2607.07771]
   + Alex Drlica-Wagner? (6th author, Senior Member)
-
-- **Euclid Quick Data Release (Q1). Searching for radio-selected \Euclid-dark galaxies in the EDF-N**
-[https://arxiv.org/abs/2607.07296]
-  + LianTao Wang? (10th author, Senior Member)
-  + Agustin Lapi? (18th author, Associate Fellow)
-
-- **Primordial Physics in the Nonlinear Universe: Towards particle constraints using the Weak lensing, Thermal SZ, and X-ray fields**
-[https://arxiv.org/abs/2607.06692]
-  + Dhayaa Anbajagane (1th author, Graduate Student)
-
-- **Particle Cosmology: 1980-2000**
-[https://arxiv.org/abs/2607.06811]
-  + Edward Kolb (1th author, Senior Member)
 
