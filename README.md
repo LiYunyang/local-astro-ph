@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul 15 23:30:57 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jul 16 00:23:54 CDT 2026)
 
 - **Dark Energy and Neutrino Flavor from the Weak Axion**
 [https://arxiv.org/abs/2607.13128]
