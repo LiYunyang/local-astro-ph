@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jul 16 00:23:54 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jul 16 23:33:50 CDT 2026)
+
+- **Helium escaping from the atmosphere of a nearby rocky exoplanet orbiting in a habitable zone**
+[https://arxiv.org/abs/2607.14326]
+  + Michael Zhang (14th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **Dark Energy and Neutrino Flavor from the Weak Axion**
 [https://arxiv.org/abs/2607.13128]
@@ -50,26 +54,4 @@
 - **The type Ia supernova 2023vjh: a peculiar 1991bg-like SN with unusually faint light curves**
 [https://arxiv.org/abs/2607.08821]
   + Huangyu Xiao? (34th author, Associate Fellow)
-
-- **Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models**
-[https://arxiv.org/abs/2607.08486]
-  + Dominic Samra (18th author, Postdoctoral Scholar)
-
-- **On-sky dark hole diggin' with implicit Electric Field Conjugation on MagAO-X**
-[https://arxiv.org/abs/2607.08146]
-  + Juliang Li? (12th author, Postdoctoral Scholar)
-  + Jianyu Long? (13th author, Graduate Student)
-
-- **The Southern-sky MWA Rapid Two-metre (SMART) pulsar survey--IV. Survey update and an atlas of 205 non-recycled southern pulsars**
-[https://arxiv.org/abs/2607.08106]
-  + Chin Yi Tan? (5th author, Graduate Student)
-
-- **Boötes III is a Tidally Disrupting Ultra-Faint Dwarf Galaxy on an Eccentric Polar Orbit**
-[https://arxiv.org/abs/2607.07803]
-  + Alexander Ji (12th author, Senior Member)
-  + Guilherme Limberg (15th author, KICP Fellow)
-
-- **Infrared-enhanced Photometric Redshifts for the Dark Energy Survey Y6 Gold catalogue**
-[https://arxiv.org/abs/2607.07771]
-  + Alex Drlica-Wagner? (6th author, Senior Member)
 
