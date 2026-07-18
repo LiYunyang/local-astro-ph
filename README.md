@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Jul 17 00:25:44 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Jul 17 23:19:22 CDT 2026)
 
 - **Helium escaping from the atmosphere of a nearby rocky exoplanet orbiting in a habitable zone**
 [https://arxiv.org/abs/2607.14326]
