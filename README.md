@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jul 19 23:58:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jul 20 00:52:31 CDT 2026)
 
 - **Dynamics and geometry of the inner sub-parsec-scale jet in 3C 279 observed with the Event Horizon Telescope**
 [https://arxiv.org/abs/2607.16104]
