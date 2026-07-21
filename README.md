@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 20 00:52:31 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jul 20 23:40:18 CDT 2026)
+
+- **Comparing explicit likelihood and likelihood-free simulation-based inference for weak lensing cosmic shear**
+[https://arxiv.org/abs/2607.17942]
+  + Marco Gatti (3th author, KICP Fellow)
+
+- **Escaped White Dwarf Candidates from Open Clusters**
+[https://arxiv.org/abs/2607.16815]
+  + David Miller (2th author, Senior Member)
 
 - **Dynamics and geometry of the inner sub-parsec-scale jet in 3C 279 observed with the Event Horizon Telescope**
 [https://arxiv.org/abs/2607.16104]
@@ -31,27 +39,4 @@
 [https://arxiv.org/abs/2607.12904]
   + Alex Alarcon Gonzalez? (3th author, CASE Associate)
   + Daniele Rogantini? (5th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Can third- and fourth-order multipoles plus radial variation of iso-density ellipses explain the observed flux ratios in B1422$+$231? YES, and a lesson learned from a TNG100 lensing galaxy sample**
-[https://arxiv.org/abs/2607.11559]
-  + Anowar Shajib (5th author, KICP and Einstein Fellow)
-
-- **The white dwarf population of open clusters and their tidal tails. Tracers of contamination and stellar interactions**
-[https://arxiv.org/abs/2607.11299]
-  + David Miller (3th author, Senior Member)
-
-- **Magnetic field configuration favoring X-class solar flares: violation of Joy's and Hale's laws**
-[https://arxiv.org/abs/2607.10980]
-  + Michael Zhang? (3th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Diffhalos: A Generative Model of Cosmological Lightcones of Dark Matter Halos**
-[https://arxiv.org/abs/2607.10419]
-  + Georgios Zacharegkas (1th author, Associate Fellow)
-  + Andrew Hearin (2th author, Senior Associate)
-
-- **Robust Photometry for Roman High-Latitude Imaging Survey Cosmology Using Roman and Rubin Imaging**
-[https://arxiv.org/abs/2607.09849]
-  + Chun-Hao To (1th author, Associate Fellow)
-  + Chihway Chang (3th author, Senior Member)
-  + Andrew Hearin (16th author, Senior Associate)
 
