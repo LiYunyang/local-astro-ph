@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 20 23:40:18 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jul 21 00:34:38 CDT 2026)
 
 - **Comparing explicit likelihood and likelihood-free simulation-based inference for weak lensing cosmic shear**
 [https://arxiv.org/abs/2607.17942]
