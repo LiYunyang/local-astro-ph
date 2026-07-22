@@ -1,6 +1,30 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 21 00:34:38 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jul 21 23:40:34 CDT 2026)
+
+- **Euclid: Inferring star-formation history via cross-correlations of photometric clustering and shear with the cosmic infrared background**
+[https://arxiv.org/abs/2607.19290]
+  + Alberto Castellano Mora? (91th author, Associate Fellow)
+
+- **The XMM-Newton Line Emission Analysis Program (X-LEAP) III: Earth's Magnetospheric X-ray Emission Revealed by 22-Year XMM-Newton Observations**
+[https://arxiv.org/abs/2607.18743]
+  + Zhijie Qu (2th author, Postdoctoral Scholar)
+
+- **GUEST: Gravitational Universe Exploration with Satellite Tracking. A passive satellite laser-ranging mission for the dark gravitational Universe**
+[https://arxiv.org/abs/2607.18390]
+  + Joshua Foster (28th author, Associate Fellow)
+
+- **Star formation powers optical line emission from the CGM**
+[https://arxiv.org/abs/2607.18385]
+  + Zhijie Qu (3th author, Postdoctoral Scholar)
+
+- **Late-infall-induced formation of giant planets, multi-generational planetesimals, and disk substructures**
+[https://arxiv.org/abs/2607.18370]
+  + Tommy Chi Ho Lau (2th author, Postdoctoral Scholar)
+
+- **Dark matter searches with a 13 meV threshold superconducting sensor array**
+[https://arxiv.org/abs/2607.19319]
+  + Lanqing Yuan (2th author, Graduate Student)
 
 - **Comparing explicit likelihood and likelihood-free simulation-based inference for weak lensing cosmic shear**
 [https://arxiv.org/abs/2607.17942]
@@ -34,9 +58,4 @@
 - **Dark Energy and Neutrino Flavor from the Weak Axion**
 [https://arxiv.org/abs/2607.13128]
   + Carlos Wagner (2th author, Senior Member)
-
-- **Investigating the Periodic X-ray Behaviour in the Eclipsing AGN NGC 6814**
-[https://arxiv.org/abs/2607.12904]
-  + Alex Alarcon Gonzalez? (3th author, CASE Associate)
-  + Daniele Rogantini? (5th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
