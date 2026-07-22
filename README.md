@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 21 23:40:34 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jul 22 00:32:59 CDT 2026)
 
 - **Euclid: Inferring star-formation history via cross-correlations of photometric clustering and shear with the cosmic infrared background**
 [https://arxiv.org/abs/2607.19290]
