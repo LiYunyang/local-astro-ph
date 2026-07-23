@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul 22 00:32:59 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jul 22 23:44:42 CDT 2026)
 
 - **Euclid: Inferring star-formation history via cross-correlations of photometric clustering and shear with the cosmic infrared background**
 [https://arxiv.org/abs/2607.19290]
@@ -54,8 +54,4 @@
 - **Helium escaping from the atmosphere of a nearby rocky exoplanet orbiting in a habitable zone**
 [https://arxiv.org/abs/2607.14326]
   + Michael Zhang (14th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Dark Energy and Neutrino Flavor from the Weak Axion**
-[https://arxiv.org/abs/2607.13128]
-  + Carlos Wagner (2th author, Senior Member)
 
