@@ -1,6 +1,17 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jul 23 00:38:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jul 23 23:41:47 CDT 2026)
+
+- **PROVIDENCE: a ground station for space observation**
+[https://arxiv.org/abs/2607.21304]
+  + Mckenzie Ferrari? (12th author, Graduate Student)
+
+- **The High-Energy Light Isotope eXperiment (HELIX) Instrument**
+[https://arxiv.org/abs/2607.20774]
+  + Duncan Fuehne? (9th author, Graduate Student)
+  + Keith McBride? (16th author, Associate Fellow)
+  + Kenichi Sakai? (24th author, Research Scientist)
+  + Scott Wakely? (28th author, Senior Member)
 
 - **Euclid: Inferring star-formation history via cross-correlations of photometric clustering and shear with the cosmic infrared background**
 [https://arxiv.org/abs/2607.19290]
@@ -50,8 +61,4 @@
 - **The S-PLUS Fifth Data-Release: Over 4500 square degrees of the Southern Sky and a multicolor view of the Hydra and Antlia galaxy clusters**
 [https://arxiv.org/abs/2607.15891]
   + Guilherme Limberg (35th author, KICP Fellow)
-
-- **Helium escaping from the atmosphere of a nearby rocky exoplanet orbiting in a habitable zone**
-[https://arxiv.org/abs/2607.14326]
-  + Michael Zhang (14th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
 
