@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Jul 25 00:27:17 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sat Jul 25 23:50:54 CDT 2026)
 
 - **PROVIDENCE: a ground station for space observation**
 [https://arxiv.org/abs/2607.21304]
