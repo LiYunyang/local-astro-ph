@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 27 00:01:42 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jul 27 01:03:26 CDT 2026)
 
 - **Payne4GAIN: NLTE Corrections for Red Giants in Milky Way Mapper using H-Band Neural Network Emulators**
 [https://arxiv.org/abs/2607.22499]
