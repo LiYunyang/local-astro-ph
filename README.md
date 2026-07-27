@@ -1,6 +1,12 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Jul 26 00:44:26 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jul 27 00:01:42 CDT 2026)
+
+- **Payne4GAIN: NLTE Corrections for Red Giants in Milky Way Mapper using H-Band Neural Network Emulators**
+[https://arxiv.org/abs/2607.22499]
+  + Pierre Thibodeaux (1th author, Graduate Student)
+  + Alexander Ji (2th author, Senior Member)
+  + Guilherme Limberg (10th author, KICP Fellow)
 
 - **PROVIDENCE: a ground station for space observation**
 [https://arxiv.org/abs/2607.21304]
@@ -44,21 +50,4 @@
 - **Escaped White Dwarf Candidates from Open Clusters**
 [https://arxiv.org/abs/2607.16815]
   + David Miller (2th author, Senior Member)
-
-- **Dynamics and geometry of the inner sub-parsec-scale jet in 3C 279 observed with the Event Horizon Telescope**
-[https://arxiv.org/abs/2607.16104]
-  + Bradford A. Benson (31th author, Associate Professor)
-  + John Carlstrom (44th author, Senior Member)
-  + Paul Chichura (54th author, Graduate Student)
-  + Thomas Crawford (58th author, Senior Researcher)
-
-- **OpenCosmo: Community Portal and Analysis Framework for Flagship Cosmological Simulations**
-[https://arxiv.org/abs/2607.16059]
-  + Katrin Heitmann (7th author, Senior Associate)
-  + Salman Habib (8th author, Senior Associate)
-  + Andrew Hearin (12th author, Senior Associate)
-
-- **The S-PLUS Fifth Data-Release: Over 4500 square degrees of the Southern Sky and a multicolor view of the Hydra and Antlia galaxy clusters**
-[https://arxiv.org/abs/2607.15891]
-  + Guilherme Limberg (35th author, KICP Fellow)
 
