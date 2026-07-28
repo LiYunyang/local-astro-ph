@@ -1,6 +1,20 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 27 01:03:26 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Jul 27 23:35:58 CDT 2026)
+
+- **The beamformed trigger of RNO-G: its design and in-field performance**
+[https://arxiv.org/abs/2607.24470]
+  + Shrihan Agarwal? (2th author, Graduate Student)
+  + Nathaniel Alden? (4th author, Graduate Student)
+  + Cosmin Deaconu? (20th author, Senior Researcher)
+  + Eric Oberla? (53th author, Senior Researcher)
+  + Abigail Vieregg? (71th author, David N. Schramm Director and Senior Member)
+  + Christoph Welling? (75th author, KICP Fellow)
+  + Philipp Windischhofer? (77th author, Associate Fellow)
+
+- **BOSS-CLAM: Utilizing a Constrained Linear Absorption Model to Infer Stellar Parameters from BOSS Spectra**
+[https://arxiv.org/abs/2607.22822]
+  + Alexander Ji (3th author, Senior Member)
 
 - **Payne4GAIN: NLTE Corrections for Red Giants in Milky Way Mapper using H-Band Neural Network Emulators**
 [https://arxiv.org/abs/2607.22499]
@@ -42,12 +56,4 @@
 - **Dark matter searches with a 13 meV threshold superconducting sensor array**
 [https://arxiv.org/abs/2607.19319]
   + Lanqing Yuan (2th author, Graduate Student)
-
-- **Comparing explicit likelihood and likelihood-free simulation-based inference for weak lensing cosmic shear**
-[https://arxiv.org/abs/2607.17942]
-  + Marco Gatti (3th author, KICP Fellow)
-
-- **Escaped White Dwarf Candidates from Open Clusters**
-[https://arxiv.org/abs/2607.16815]
-  + David Miller (2th author, Senior Member)
 
