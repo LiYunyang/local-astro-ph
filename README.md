@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Jul 27 23:35:58 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jul 28 00:29:22 CDT 2026)
 
 - **The beamformed trigger of RNO-G: its design and in-field performance**
 [https://arxiv.org/abs/2607.24470]
