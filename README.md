@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 28 23:39:56 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jul 29 00:35:40 CDT 2026)
 
 - **A Deep Look at the Ultra-Faint Milky Way Satellite Virgo III with Rubin Observatory Data Preview 2**
 [https://arxiv.org/abs/2607.25044]
