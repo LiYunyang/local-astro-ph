@@ -1,6 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Jul 28 00:29:22 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Jul 28 23:39:56 CDT 2026)
+
+- **A Deep Look at the Ultra-Faint Milky Way Satellite Virgo III with Rubin Observatory Data Preview 2**
+[https://arxiv.org/abs/2607.25044]
+  + Aashay Pai (1th author, Graduate Student)
+  + Alex Drlica-Wagner (2th author, Senior Member)
+  + Chin Yi Tan (5th author, Graduate Student)
+
+- **Simulation of combined radio and radar signals at the Radar Echo Telescope for Cosmic Rays**
+[https://arxiv.org/abs/2607.24955]
+  + Cosmin Deaconu? (9th author, Senior Researcher)
+
+- **Investigating the Observational Progenitor Mass Gap in the White Dwarf Initial-Final Mass Relation. I. Cluster Census and Characterization of the First White Dwarfs in the Gap**
+[https://arxiv.org/abs/2607.24941]
+  + David Miller (1th author, Senior Member)
+
+- **Primordial Physics in the Nonlinear Universe: Revealing the oscillating halo bias from cosmological collider models**
+[https://arxiv.org/abs/2607.24939]
+  + Dhayaa Anbajagane (1th author, Graduate Student)
+
+- **Correlated signals of ultralight scalar dark matter in pulsar timing**
+[https://arxiv.org/abs/2607.24912]
+  + Joshua Foster (1th author, Associate Fellow)
 
 - **The beamformed trigger of RNO-G: its design and in-field performance**
 [https://arxiv.org/abs/2607.24470]
@@ -32,28 +54,4 @@
   + Keith McBride? (16th author, Associate Fellow)
   + Kenichi Sakai? (24th author, Research Scientist)
   + Scott Wakely? (28th author, Senior Member)
-
-- **Euclid: Inferring star-formation history via cross-correlations of photometric clustering and shear with the cosmic infrared background**
-[https://arxiv.org/abs/2607.19290]
-  + Alberto Castellano Mora? (91th author, Associate Fellow)
-
-- **The XMM-Newton Line Emission Analysis Program (X-LEAP) III: Earth's Magnetospheric X-ray Emission Revealed by 22-Year XMM-Newton Observations**
-[https://arxiv.org/abs/2607.18743]
-  + Zhijie Qu (2th author, Postdoctoral Scholar)
-
-- **GUEST: Gravitational Universe Exploration with Satellite Tracking. A passive satellite laser-ranging mission for the dark gravitational Universe**
-[https://arxiv.org/abs/2607.18390]
-  + Joshua Foster (28th author, Associate Fellow)
-
-- **Star formation powers optical line emission from the CGM**
-[https://arxiv.org/abs/2607.18385]
-  + Zhijie Qu (3th author, Postdoctoral Scholar)
-
-- **Late-infall-induced formation of giant planets, multi-generational planetesimals, and disk substructures**
-[https://arxiv.org/abs/2607.18370]
-  + Tommy Chi Ho Lau (2th author, Postdoctoral Scholar)
-
-- **Dark matter searches with a 13 meV threshold superconducting sensor array**
-[https://arxiv.org/abs/2607.19319]
-  + Lanqing Yuan (2th author, Graduate Student)
 
