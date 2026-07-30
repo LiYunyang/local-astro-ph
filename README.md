@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Jul 29 00:35:40 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Jul 29 23:26:17 CDT 2026)
+
+- **The Twentieth Data Release of the Sloan Digital Sky Survey: First All-Sky BOSS Spectra, eROSITA-SDSS-V Mapper Coordinated Observations, and a Preview of the Local Volume Mapper**
+[https://arxiv.org/abs/2607.26149]
+  + Hillary Andales (7th author, Graduate Student)
 
 - **A Deep Look at the Ultra-Faint Milky Way Satellite Virgo III with Rubin Observatory Data Preview 2**
 [https://arxiv.org/abs/2607.25044]
