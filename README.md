@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Jul 30 00:22:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Jul 30 23:52:02 CDT 2026)
+
+- **Dark Matter Constraints from Small-Scale Cosmic Structure**
+[https://arxiv.org/abs/2607.28564]
+  + Alex Drlica-Wagner (3th author, Senior Member)
+
+- **Gravitational Waves as a Source of Large-Scale White Noise: New Constraints**
+[https://arxiv.org/abs/2607.27338]
+  + Albert Stebbins (2th author, Senior Associate)
 
 - **The Twentieth Data Release of the Sloan Digital Sky Survey: First All-Sky BOSS Spectra, eROSITA-SDSS-V Mapper Coordinated Observations, and a Preview of the Local Volume Mapper**
 [https://arxiv.org/abs/2607.26149]
@@ -47,15 +55,4 @@
   + Pierre Thibodeaux (1th author, Graduate Student)
   + Alexander Ji (2th author, Senior Member)
   + Guilherme Limberg (10th author, KICP Fellow)
-
-- **PROVIDENCE: a ground station for space observation**
-[https://arxiv.org/abs/2607.21304]
-  + Mckenzie Ferrari? (12th author, Graduate Student)
-
-- **The High-Energy Light Isotope eXperiment (HELIX) Instrument**
-[https://arxiv.org/abs/2607.20774]
-  + Duncan Fuehne? (9th author, Graduate Student)
-  + Keith McBride? (16th author, Associate Fellow)
-  + Kenichi Sakai? (24th author, Research Scientist)
-  + Scott Wakely? (28th author, Senior Member)
 
