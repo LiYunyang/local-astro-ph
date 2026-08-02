@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug  1 00:39:42 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sat Aug  1 23:47:14 CDT 2026)
 
 - **Dark Matter Constraints from Small-Scale Cosmic Structure**
 [https://arxiv.org/abs/2607.28564]
