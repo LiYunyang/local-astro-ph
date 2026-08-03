@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug  2 00:40:12 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Aug  2 23:56:24 CDT 2026)
+
+- **Peering through the dip: IXPE unveils the extended scattering environment of GX 13+1**
+[https://arxiv.org/abs/2607.28714]
+  + Daniele Rogantini (11th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
 - **Dark Matter Constraints from Small-Scale Cosmic Structure**
 [https://arxiv.org/abs/2607.28564]
@@ -49,10 +53,4 @@
 - **BOSS-CLAM: Utilizing a Constrained Linear Absorption Model to Infer Stellar Parameters from BOSS Spectra**
 [https://arxiv.org/abs/2607.22822]
   + Alexander Ji (3th author, Senior Member)
-
-- **Payne4GAIN: NLTE Corrections for Red Giants in Milky Way Mapper using H-Band Neural Network Emulators**
-[https://arxiv.org/abs/2607.22499]
-  + Pierre Thibodeaux (1th author, Graduate Student)
-  + Alexander Ji (2th author, Senior Member)
-  + Guilherme Limberg (10th author, KICP Fellow)
 
