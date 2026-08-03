@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug  2 23:56:24 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Aug  3 00:55:57 CDT 2026)
 
 - **Peering through the dip: IXPE unveils the extended scattering environment of GX 13+1**
 [https://arxiv.org/abs/2607.28714]
