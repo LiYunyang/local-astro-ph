@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Aug  3 23:37:25 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Aug  4 00:30:16 CDT 2026)
 
 - **Discovery of the Distant, Ultra-Faint Milky Way Satellite Aquarius IV with the Vera C. Rubin Observatory Early Data Preview 2**
 [https://arxiv.org/abs/2608.02601]
