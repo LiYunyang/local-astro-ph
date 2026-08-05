@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug  4 00:30:16 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Aug  4 23:36:52 CDT 2026)
 
 - **Discovery of the Distant, Ultra-Faint Milky Way Satellite Aquarius IV with the Vera C. Rubin Observatory Early Data Preview 2**
 [https://arxiv.org/abs/2608.02601]
@@ -75,26 +75,4 @@
 - **The Twentieth Data Release of the Sloan Digital Sky Survey: First All-Sky BOSS Spectra, eROSITA-SDSS-V Mapper Coordinated Observations, and a Preview of the Local Volume Mapper**
 [https://arxiv.org/abs/2607.26149]
   + Hillary Andales (7th author, Graduate Student)
-
-- **A Deep Look at the Ultra-Faint Milky Way Satellite Virgo III with Rubin Observatory Data Preview 2**
-[https://arxiv.org/abs/2607.25044]
-  + Aashay Pai (1th author, Graduate Student)
-  + Alex Drlica-Wagner (2th author, Senior Member)
-  + Chin Yi Tan (5th author, Graduate Student)
-
-- **Simulation of combined radio and radar signals at the Radar Echo Telescope for Cosmic Rays**
-[https://arxiv.org/abs/2607.24955]
-  + Cosmin Deaconu? (9th author, Senior Researcher)
-
-- **Investigating the Observational Progenitor Mass Gap in the White Dwarf Initial-Final Mass Relation. I. Cluster Census and Characterization of the First White Dwarfs in the Gap**
-[https://arxiv.org/abs/2607.24941]
-  + David Miller (1th author, Senior Member)
-
-- **Primordial Physics in the Nonlinear Universe: Revealing the oscillating halo bias from cosmological collider models**
-[https://arxiv.org/abs/2607.24939]
-  + Dhayaa Anbajagane (1th author, Graduate Student)
-
-- **Correlated signals of ultralight scalar dark matter in pulsar timing**
-[https://arxiv.org/abs/2607.24912]
-  + Joshua Foster (1th author, Associate Fellow)
 
