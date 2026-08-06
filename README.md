@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug  5 00:29:07 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Aug  5 21:14:47 CDT 2026)
+
+- **A waveguide spectrometer for high-resolution millimeter-wave imaging**
+[https://arxiv.org/abs/2608.05129]
+  + Karia Dibert (5th author, Graduate Student)
+
+- **Dissecting the Nuclear Structure of NGC 5548 with XRISM. I. Physical Properties of the Highly Ionized Outflows**
+[https://arxiv.org/abs/2608.05098]
+  + Daniele Rogantini (22th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**
+[https://arxiv.org/abs/2608.05054]
+  + Juliang Li? (2th author, Postdoctoral Scholar)
+
+- **Type I X-Ray Burst Models With Rotation**
+[https://arxiv.org/abs/2608.04617]
+  + David Martin (1th author, Graduate Student)
+
+- **Life 2.0: A Scalable Distributed Space-Telescope Array for Biosignature Spectroscopy**
+[https://arxiv.org/abs/2608.04342]
+  + Rafael Luque (17th author, Postdoctoral Scholar)
 
 - **Discovery of the Distant, Ultra-Faint Milky Way Satellite Aquarius IV with the Vera C. Rubin Observatory Early Data Preview 2**
 [https://arxiv.org/abs/2608.02601]
@@ -71,8 +91,4 @@
 - **Gravitational Waves as a Source of Large-Scale White Noise: New Constraints**
 [https://arxiv.org/abs/2607.27338]
   + Albert Stebbins (2th author, Senior Associate)
-
-- **The Twentieth Data Release of the Sloan Digital Sky Survey: First All-Sky BOSS Spectra, eROSITA-SDSS-V Mapper Coordinated Observations, and a Preview of the Local Volume Mapper**
-[https://arxiv.org/abs/2607.26149]
-  + Hillary Andales (7th author, Graduate Student)
 
