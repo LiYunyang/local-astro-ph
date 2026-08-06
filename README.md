@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug  5 21:14:47 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Aug  5 22:38:29 CDT 2026)
 
 - **A waveguide spectrometer for high-resolution millimeter-wave imaging**
 [https://arxiv.org/abs/2608.05129]
