@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Aug  7 21:11:21 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Aug  7 22:03:22 CDT 2026)
 
 - **SPT-3G D1: Foreground-Robust Lensing Templates for Primordial Gravitational Wave Searches**
 [https://arxiv.org/abs/2608.06343]
