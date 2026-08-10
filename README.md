@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug  9 21:13:02 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Aug  9 22:14:57 CDT 2026)
 
 - **HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars**
 [https://arxiv.org/abs/2608.07470]
