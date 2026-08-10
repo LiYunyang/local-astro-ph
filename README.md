@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug  8 22:07:55 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Aug  9 21:13:02 CDT 2026)
+
+- **HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars**
+[https://arxiv.org/abs/2608.07470]
+  + Daniel Gilman (6th author, Associate Fellow)
+
+- **Sensitivity of Next-Generation CMB Surveys to Neutrinos and Other Light Relics**
+[https://arxiv.org/abs/2608.07453]
+  + Sara  Simon (34th author, Senior Associate)
 
 - **SPT-3G D1: Foreground-Robust Lensing Templates for Primordial Gravitational Wave Searches**
 [https://arxiv.org/abs/2608.06343]
@@ -120,8 +128,4 @@
   + Sanah Bhimani (5th author, Postdoctoral Scholar)
   + Erin Healy (6th author, KICP Fellow)
   + Jeffrey McMahon (7th author, Senior Member)
-
-- **Peering through the dip: IXPE unveils the extended scattering environment of GX 13+1**
-[https://arxiv.org/abs/2607.28714]
-  + Daniele Rogantini (11th author, Margaret Burbidge Prize Postdoctoral Fellow)
 
