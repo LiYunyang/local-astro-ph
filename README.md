@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 11 21:13:23 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Aug 11 22:18:14 CDT 2026)
 
 - **Lunar Reflective Interferometry**
 [https://arxiv.org/abs/2608.10284]
