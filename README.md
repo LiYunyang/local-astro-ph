@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 12 21:13:35 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Aug 12 22:19:10 CDT 2026)
 
 - **A Pair of Warm Saturn-mass Planets near the 2:1 Mean Motion Resonance around TOI-3850**
 [https://arxiv.org/abs/2608.11328]
