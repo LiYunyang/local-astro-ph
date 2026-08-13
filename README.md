@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 11 22:18:14 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Aug 12 21:13:35 CDT 2026)
+
+- **A Pair of Warm Saturn-mass Planets near the 2:1 Mean Motion Resonance around TOI-3850**
+[https://arxiv.org/abs/2608.11328]
+  + Jacob L. Bean (11th author, Professor)
+  + Ritvik Basant (14th author, Graduate Student)
+  + Tanya Das (15th author, Postdoctoral Scholar)
+
+- **Deconstructing Sunlight - A Community Enterprise**
+[https://arxiv.org/abs/2608.11253]
+  + Jeffery Harvey? (1th author, Senior Associate)
 
 - **Lunar Reflective Interferometry**
 [https://arxiv.org/abs/2608.10284]
@@ -108,24 +118,4 @@
 - **The Quantum Mechanics of Rare Events: From Quantum Walks to Stochastic Inflation**
 [https://arxiv.org/abs/2608.06319]
   + Akhil Premkumar (3th author, Associate Fellow)
-
-- **A waveguide spectrometer for high-resolution millimeter-wave imaging**
-[https://arxiv.org/abs/2608.05129]
-  + Karia Dibert (5th author, Graduate Student)
-
-- **Dissecting the Nuclear Structure of NGC 5548 with XRISM. I. Physical Properties of the Highly Ionized Outflows**
-[https://arxiv.org/abs/2608.05098]
-  + Daniele Rogantini (22th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**
-[https://arxiv.org/abs/2608.05054]
-  + Juliang Li? (2th author, Postdoctoral Scholar)
-
-- **Type I X-Ray Burst Models With Rotation**
-[https://arxiv.org/abs/2608.04617]
-  + David Martin (1th author, Graduate Student)
-
-- **Life 2.0: A Scalable Distributed Space-Telescope Array for Biosignature Spectroscopy**
-[https://arxiv.org/abs/2608.04342]
-  + Rafael Luque (17th author, Postdoctoral Scholar)
 
