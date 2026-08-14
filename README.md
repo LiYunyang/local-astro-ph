@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 12 22:19:10 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Aug 13 21:13:28 CDT 2026)
+
+- **Strict Limits on Helium Absorption from LHS 1140 b from Four JWST NIRISS Transits**
+[https://arxiv.org/abs/2608.13470]
+  + Michael Radica (1th author, Postdoctoral Scholar)
+
+- **X-ray Flaring and Variability in NGC 1275, the Heart of the Perseus Cluster**
+[https://arxiv.org/abs/2608.13281]
+  + Irina Zhuravleva (9th author, Assistant Professor)
+
+- **Laser-micromachined silicon-platelet feedhorns for large-scale submillimeter and millimeter-wave focal planes**
+[https://arxiv.org/abs/2608.12577]
+  + Sara  Simon (10th author, Senior Associate)
 
 - **A Pair of Warm Saturn-mass Planets near the 2:1 Mean Motion Resonance around TOI-3850**
 [https://arxiv.org/abs/2608.11328]
@@ -77,45 +89,4 @@
 - **Sensitivity of Next-Generation CMB Surveys to Neutrinos and Other Light Relics**
 [https://arxiv.org/abs/2608.07453]
   + Sara  Simon (34th author, Senior Associate)
-
-- **SPT-3G D1: Foreground-Robust Lensing Templates for Primordial Gravitational Wave Searches**
-[https://arxiv.org/abs/2608.06343]
-  + Yuuki Omori? (3th author, Senior Researcher)
-  + Adam Anderson? (5th author, Senior Associate)
-  + Melanie Archipley? (7th author, Associate Fellow)
-  + Amy Bender? (12th author, Senior Associate)
-  + Bradford A. Benson? (13th author, Associate Professor)
-  + Lindsey Bleem? (15th author, Senior Associate)
-  + John Carlstrom? (20th author, Senior Member)
-  + Chihway Chang? (22th author, Senior Member)
-  + Paul Chichura? (23th author, Graduate Student)
-  + Thomas Crawford? (27th author, Senior Researcher)
-  + Karia Dibert? (30th author, Graduate Student)
-  + Kyra Fichman? (37th author, Graduate Student)
-  + John Hood? (49th author, Associate Fellow)
-  + Alexander Hryciuk? (50th author, Graduate Student)
-  + Tanisha Jhaveri? (52th author, Graduate Student)
-  + Kayla Kornoelje? (56th author, Graduate Student)
-  + Yunyang Li? (59th author, KICP Fellow)
-  + Emily Martsen? (65th author, Graduate Student)
-  + Tyler Natoli? (69th author, Senior Researcher)
-  + Wei Quan? (75th author, Associate Fellow)
-  + Alexandra Rahlin? (78th author, Research Assistant Professor)
-  + Aidan Simpson? (83th author, Graduate Student)
-  + Joshua Sobrin? (84th author, Associate Fellow)
-  + Abigail Vieregg? (90th author, David N. Schramm Director and Senior Member)
-  + Matthew Young? (94th author, Associate Fellow)
-  + Jessica Zebrowski? (95th author, KICP and Einstein Fellow)
-
-- **Optical Counterparts of MeerKLASS L-band and UHF-band surveys**
-[https://arxiv.org/abs/2608.05923]
-  + Sugata Paul? (6th author, Graduate Student)
-
-- **Kinematically Resolving the Fe K Complex in Her X-1: The Accretion Disk and Ionized Wind Across X-ray Eclipses**
-[https://arxiv.org/abs/2608.05719]
-  + Daniele Rogantini (11th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **The Quantum Mechanics of Rare Events: From Quantum Walks to Stochastic Inflation**
-[https://arxiv.org/abs/2608.06319]
-  + Akhil Premkumar (3th author, Associate Fellow)
 
