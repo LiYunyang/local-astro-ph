@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug 15 21:01:14 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sat Aug 15 21:48:52 CDT 2026)
 
 - **Strict Limits on Helium Absorption from LHS 1140 b from Four JWST NIRISS Transits**
 [https://arxiv.org/abs/2608.13470]
