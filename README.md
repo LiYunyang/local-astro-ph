@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug 15 21:48:52 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Aug 16 21:00:11 CDT 2026)
+
+- **XRISM reveals sloshing-driven gas motions in the core of Abell 2029**
+[https://arxiv.org/abs/2608.14415]
+  + Irina Zhuravleva (15th author, Assistant Professor)
 
 - **Strict Limits on Helium Absorption from LHS 1140 b from Four JWST NIRISS Transits**
 [https://arxiv.org/abs/2608.13470]
@@ -81,12 +85,4 @@
 [https://arxiv.org/abs/2608.05269]
   + Gordan Krnjaic (2th author, Senior Member)
   + Huangyu Xiao (4th author, Associate Fellow)
-
-- **HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars**
-[https://arxiv.org/abs/2608.07470]
-  + Daniel Gilman (6th author, Associate Fellow)
-
-- **Sensitivity of Next-Generation CMB Surveys to Neutrinos and Other Light Relics**
-[https://arxiv.org/abs/2608.07453]
-  + Sara  Simon (34th author, Senior Associate)
 
