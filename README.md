@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug 16 21:48:52 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Aug 17 20:58:21 CDT 2026)
 
 - **XRISM reveals sloshing-driven gas motions in the core of Abell 2029**
 [https://arxiv.org/abs/2608.14415]
