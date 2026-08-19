@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 18 20:59:16 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Aug 18 21:48:20 CDT 2026)
 
 - **Investigating The Effects of Early Dark Energy on Large-scale Structure Within the EDENS Suite**
 [https://arxiv.org/abs/2608.17212]
