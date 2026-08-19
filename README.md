@@ -1,10 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Aug 17 21:48:02 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Aug 18 20:59:16 CDT 2026)
+
+- **Investigating The Effects of Early Dark Energy on Large-scale Structure Within the EDENS Suite**
+[https://arxiv.org/abs/2608.17212]
+  + Katrin Heitmann (3th author, Senior Associate)
+
+- **Atmospheric Reconnaissance of TRAPPIST-1 f with JWST NIRISS SOSS: No Evidence for the Transit Light Source Effect**
+[https://arxiv.org/abs/2608.17207]
+  + Michael Radica (5th author, Postdoctoral Scholar)
+
+- **The Low-Mass Baryon Cycle in QUEST Dwarf Galaxies I: Sample definition and first results**
+[https://arxiv.org/abs/2608.15782]
+  + Ava Polzin (1th author, Graduate Student)
+  + Hsiao-Wen Chen (2th author, Senior Member)
+  + Zhijie Qu (3th author, Postdoctoral Scholar)
+
+- **Panchromatic JWST Observations and Models of the Dim Type Iax Supernova 2024vjm at 200 days**
+[https://arxiv.org/abs/2608.15040]
+  + Suyash Kumar? (26th author, Graduate Student)
 
 - **XRISM reveals sloshing-driven gas motions in the core of Abell 2029**
 [https://arxiv.org/abs/2608.14415]
-  + Irina Zhuravleva (15th author, Assistant Professor)
+  + Irina Zhuravleva (16th author, Assistant Professor)
 
 - **Strict Limits on Helium Absorption from LHS 1140 b from Four JWST NIRISS Transits**
 [https://arxiv.org/abs/2608.13470]
@@ -27,62 +45,4 @@
 - **Deconstructing Sunlight - A Community Enterprise**
 [https://arxiv.org/abs/2608.11253]
   + Jeffery Harvey? (1th author, Senior Associate)
-
-- **Lunar Reflective Interferometry**
-[https://arxiv.org/abs/2608.10284]
-  + Cosmin Deaconu (10th author, Senior Researcher)
-  + Eric Oberla (13th author, Senior Researcher)
-
-- **The Last Crossing in Excursion-Set Theory of Cosmic Reionization**
-[https://arxiv.org/abs/2608.10066]
-  + Hanjue Zhu (1th author, Graduate Student)
-
-- **NASA ASTRA Initiative White Paper: Space-Based Mission for Ultrahigh Energy Particles**
-[https://arxiv.org/abs/2608.09835]
-  + Keith McBride (7th author, Associate Fellow)
-
-- **An emerging baryon cycle in a galaxy 500 million years after the Big Bang**
-[https://arxiv.org/abs/2608.09813]
-  + Zhijie Qu (4th author, Postdoctoral Scholar)
-
-- **Not R Kurvature: Beating Large-Scale White Noise**
-[https://arxiv.org/abs/2608.09709]
-  + Wayne Hu (1th author, Senior Member)
-
-- **Diagnosing the Fe line complex of the intracluster medium by XRISM high-resolution spectroscopy**
-[https://arxiv.org/abs/2608.08094]
-  + Irina Zhuravleva? (19th author, Assistant Professor)
-
-- **Spec-S5: A Next-Generation All-Sky Spectroscopic Facility Enabling Large-Scale Surveys for Cosmology and Astrophysics**
-[https://arxiv.org/abs/2608.07927]
-  + Alex Drlica-Wagner (6th author, Senior Member)
-
-- **Overview and status of BICEP Array's BA4-90/150 CMB polarimeter**
-[https://arxiv.org/abs/2608.07817]
-  + James Cornelison? (14th author, Associate Fellow)
-  + Scott Mackey? (49th author, Graduate Student)
-  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (83th author, KICP Fellow)
-
-- **Inflationary Axion Isocurvature in the CMB across All Ultralight Masses**
-[https://arxiv.org/abs/2608.07803]
-  + Rayne Liu (1th author, Graduate Student)
-  + Wayne Hu (2th author, Senior Member)
-
-- **X-Ray Observation of Type II Supernova 2024ggi**
-[https://arxiv.org/abs/2608.07692]
-  + Vikram Dwarkadas (2th author, Research Professor)
-
-- **GLOW II: A Census of Oxygen in Low-Mass Galaxies**
-[https://arxiv.org/abs/2608.07665]
-  + Andrey Kravtsov (3th author, Senior Member)
-
-- **Constraints on magnetic monopoles from X-ray observations of neutron stars**
-[https://arxiv.org/abs/2608.07652]
-  + Edward Kolb (3th author, Senior Member)
-
-- **Baryogenesis via the CKM Matrix with Minimal Flavor Violation**
-[https://arxiv.org/abs/2608.05269]
-  + Gordan Krnjaic (2th author, Senior Member)
-  + Huangyu Xiao (4th author, Associate Fellow)
 
