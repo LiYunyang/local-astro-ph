@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 19 20:58:54 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Aug 19 21:48:15 CDT 2026)
 
 - **Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes**
 [https://arxiv.org/abs/2608.19100]
