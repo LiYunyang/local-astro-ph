@@ -1,6 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 18 21:48:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Aug 19 20:58:54 CDT 2026)
+
+- **Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes**
+[https://arxiv.org/abs/2608.19100]
+  + Vighnesh Nagpal (1th author, Graduate Student)
+  + Maria Steinrueck (2th author, 51 Pegasi b Fellow)
+  + Diana Powell (3th author, Assistant Professor)
+  + Dominic Samra (5th author, Postdoctoral Scholar)
+  + Wolf Cukier (6th author, Graduate Student)
+
+- **Physical Optics Analysis of Polarization Effects in SO LAT Reflectors**
+[https://arxiv.org/abs/2608.18998]
+  + Patricio Gallardo (2th author, KICP Fellow)
+
+- **An invariant energy release hierarchy in a repeating fast radio burst**
+[https://arxiv.org/abs/2608.18455]
+  + Yunyang Li? (3th author, KICP Fellow)
+
+- **The Atacama Cosmology Telescope: Passband Measurements with an Analysis of Systematic Errors**
+[https://arxiv.org/abs/2608.18348]
+  + Rahul Datta (2th author, Research Scientist)
+  + Jeffrey McMahon (11th author, Senior Member)
+  + Alex Thomas (14th author, Graduate Student)
 
 - **Investigating The Effects of Early Dark Energy on Large-scale Structure Within the EDENS Suite**
 [https://arxiv.org/abs/2608.17212]
@@ -35,14 +57,4 @@
 - **Laser-micromachined silicon-platelet feedhorns for large-scale submillimeter and millimeter-wave focal planes**
 [https://arxiv.org/abs/2608.12577]
   + Sara  Simon (10th author, Senior Associate)
-
-- **A Pair of Warm Saturn-mass Planets near the 2:1 Mean Motion Resonance around TOI-3850**
-[https://arxiv.org/abs/2608.11328]
-  + Jacob L. Bean (11th author, Professor)
-  + Ritvik Basant (14th author, Graduate Student)
-  + Tanya Das (15th author, Postdoctoral Scholar)
-
-- **Deconstructing Sunlight - A Community Enterprise**
-[https://arxiv.org/abs/2608.11253]
-  + Jeffery Harvey? (1th author, Senior Associate)
 
