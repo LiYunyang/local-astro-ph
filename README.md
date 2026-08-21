@@ -1,6 +1,62 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 19 21:48:15 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Aug 20 21:01:34 CDT 2026)
+
+- **SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope**
+[https://arxiv.org/abs/2608.20236]
+  + Tyler Natoli? (1th author, Senior Researcher)
+  + Hrushikesha  Athreya? (3th author, Graduate Student)
+  + Amy Bender? (9th author, Senior Associate)
+  + Bradford A. Benson? (10th author, Associate Professor)
+  + Lindsey Bleem? (11th author, Senior Associate)
+  + John Carlstrom? (12th author, Senior Member)
+  + Chihway Chang? (14th author, Senior Member)
+  + James Cornelison? (17th author, Associate Fellow)
+  + Thomas Crawford? (18th author, Senior Researcher)
+  + Rahul Datta? (19th author, Research Scientist)
+  + Karia Dibert? (20th author, Graduate Student)
+  + Kyra Fichman? (23th author, Graduate Student)
+  + Patricio Gallardo? (26th author, KICP Fellow)
+  + Alexander Hryciuk? (33th author, Graduate Student)
+  + Anna Kofman? (40th author, Associate Fellow)
+  + Aashrita Mangu? (44th author, Associate Fellow)
+  + Emily Martsen? (45th author, Graduate Student)
+  + Jeffrey McMahon? (46th author, Senior Member)
+  + Alexandra Rahlin? (54th author, Research Assistant Professor)
+  + Sara  Simon? (59th author, Senior Associate)
+  + Joshua Sobrin? (61th author, Associate Fellow)
+  + Abigail Vieregg? (68th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (74th author, KICP Fellow)
+
+- **The SPT-3G+ receiver design**
+[https://arxiv.org/abs/2608.20235]
+  + Hrushikesha  Athreya? (1th author, Graduate Student)
+  + Amy Bender? (8th author, Senior Associate)
+  + Bradford A. Benson? (9th author, Associate Professor)
+  + Lindsey Bleem? (10th author, Senior Associate)
+  + John Carlstrom? (11th author, Senior Member)
+  + Chihway Chang? (13th author, Senior Member)
+  + James Cornelison? (16th author, Associate Fellow)
+  + Rahul Datta? (17th author, Research Scientist)
+  + Karia Dibert? (18th author, Graduate Student)
+  + Kyra Fichman? (21th author, Graduate Student)
+  + Patricio Gallardo? (24th author, KICP Fellow)
+  + Alexander Hryciuk? (31th author, Graduate Student)
+  + Anna Kofman? (38th author, Associate Fellow)
+  + Aashrita Mangu? (42th author, Associate Fellow)
+  + Emily Martsen? (43th author, Graduate Student)
+  + Jeffrey McMahon? (44th author, Senior Member)
+  + Tyler Natoli? (47th author, Senior Researcher)
+  + Alexandra Rahlin? (53th author, Research Assistant Professor)
+  + Sara  Simon? (58th author, Senior Associate)
+  + Joshua Sobrin? (60th author, Associate Fellow)
+  + Abigail Vieregg? (67th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (73th author, KICP Fellow)
+
+- **The Challenge of Observing Patchy Reionization with CMB Optical-Depth Fluctuations**
+[https://arxiv.org/abs/2608.19307]
+  + Hanjue Zhu (2th author, Graduate Student)
+  + Nickolay Gnedin (3th author, Senior Member)
 
 - **Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes**
 [https://arxiv.org/abs/2608.19100]
@@ -45,16 +101,4 @@
 - **XRISM reveals sloshing-driven gas motions in the core of Abell 2029**
 [https://arxiv.org/abs/2608.14415]
   + Irina Zhuravleva (16th author, Assistant Professor)
-
-- **Strict Limits on Helium Absorption from LHS 1140 b from Four JWST NIRISS Transits**
-[https://arxiv.org/abs/2608.13470]
-  + Michael Radica (1th author, Postdoctoral Scholar)
-
-- **X-ray Flaring and Variability in NGC 1275, the Heart of the Perseus Cluster**
-[https://arxiv.org/abs/2608.13281]
-  + Irina Zhuravleva (9th author, Assistant Professor)
-
-- **Laser-micromachined silicon-platelet feedhorns for large-scale submillimeter and millimeter-wave focal planes**
-[https://arxiv.org/abs/2608.12577]
-  + Sara  Simon (10th author, Senior Associate)
 
