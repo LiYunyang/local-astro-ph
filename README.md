@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Aug 21 20:58:13 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Aug 21 21:47:38 CDT 2026)
 
 - **SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope**
 [https://arxiv.org/abs/2608.20236]
