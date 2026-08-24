@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Aug 22 21:50:33 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Aug 23 21:01:32 CDT 2026)
+
+- **Accounting for Transit Timing Detectability: Biases in Planetary Radius and Orbital Period**
+[https://arxiv.org/abs/2608.20646]
+  + Daniel Fabrycky (2th author, Professor)
+
+- **Characterizing the temporal evolution of Biermann-battery-driven magnetic reconnection in laser-ablated plasmas**
+[https://arxiv.org/abs/2608.19591]
+  + Kenichi Sakai? (20th author, Research Scientist)
+
+- **TeV-scale leptogenesis in a parity symmetric neutrino mass model**
+[https://arxiv.org/abs/2608.19367]
+  + Keisuke Harigaya (1th author, Senior Member)
 
 - **SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope**
 [https://arxiv.org/abs/2608.20236]
@@ -97,8 +109,4 @@
 - **Panchromatic JWST Observations and Models of the Dim Type Iax Supernova 2024vjm at 200 days**
 [https://arxiv.org/abs/2608.15040]
   + Suyash Kumar? (26th author, Graduate Student)
-
-- **XRISM reveals sloshing-driven gas motions in the core of Abell 2029**
-[https://arxiv.org/abs/2608.14415]
-  + Irina Zhuravleva (16th author, Assistant Professor)
 
