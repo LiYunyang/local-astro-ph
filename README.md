@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug 23 21:51:03 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Aug 24 20:59:39 CDT 2026)
 
 - **Accounting for Transit Timing Detectability: Biases in Planetary Radius and Orbital Period**
 [https://arxiv.org/abs/2608.20646]
