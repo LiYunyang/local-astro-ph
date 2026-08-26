@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Aug 24 21:48:35 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Aug 25 21:02:24 CDT 2026)
+
+- **Strong Lensing Cosmology with Population-level Calibrated Neural Ratio Estimation**
+[https://arxiv.org/abs/2608.23534]
+  + Brian Nord (2th author, Senior Associate)
+
+- **Particle Dark Matter in the 1980s and 1990s**
+[https://arxiv.org/abs/2608.22087]
+  + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
+
+- **When the stars don't align: Investigating inconsistencies in binary black hole formation across population synthesis codes**
+[https://arxiv.org/abs/2608.21609]
+  + Daniel E. Holz (7th author, Professor)
 
 - **Accounting for Transit Timing Detectability: Biases in Planetary Radius and Orbital Period**
 [https://arxiv.org/abs/2608.20646]
@@ -99,14 +111,4 @@
 - **Atmospheric Reconnaissance of TRAPPIST-1 f with JWST NIRISS SOSS: No Evidence for the Transit Light Source Effect**
 [https://arxiv.org/abs/2608.17207]
   + Michael Radica (5th author, Postdoctoral Scholar)
-
-- **The Low-Mass Baryon Cycle in QUEST Dwarf Galaxies I: Sample definition and first results**
-[https://arxiv.org/abs/2608.15782]
-  + Ava Polzin (1th author, Graduate Student)
-  + Hsiao-Wen Chen (2th author, Senior Member)
-  + Zhijie Qu (3th author, Postdoctoral Scholar)
-
-- **Panchromatic JWST Observations and Models of the Dim Type Iax Supernova 2024vjm at 200 days**
-[https://arxiv.org/abs/2608.15040]
-  + Suyash Kumar? (26th author, Graduate Student)
 
