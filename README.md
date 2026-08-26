@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 25 21:02:24 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Aug 25 21:52:21 CDT 2026)
+
+- **A high-isolation wideband channelizer for MKID readouts: a custom HLS implementation on RFSoC**
+[https://arxiv.org/abs/2608.24459]
+  + David Martin (2th author, Graduate Student)
+
+- **CHIANTE I: Obliquity Measurements of Four High-Priority Ariel Targets in Binaries**
+[https://arxiv.org/abs/2608.23662]
+  + Lily Zhao (5th author, Sagan Fellow)
 
 - **Strong Lensing Cosmology with Population-level Calibrated Neural Ratio Estimation**
 [https://arxiv.org/abs/2608.23534]
@@ -103,12 +111,4 @@
   + Rahul Datta (2th author, Research Scientist)
   + Jeffrey McMahon (11th author, Senior Member)
   + Alex Thomas (14th author, Graduate Student)
-
-- **Investigating The Effects of Early Dark Energy on Large-scale Structure Within the EDENS Suite**
-[https://arxiv.org/abs/2608.17212]
-  + Katrin Heitmann (3th author, Senior Associate)
-
-- **Atmospheric Reconnaissance of TRAPPIST-1 f with JWST NIRISS SOSS: No Evidence for the Transit Light Source Effect**
-[https://arxiv.org/abs/2608.17207]
-  + Michael Radica (5th author, Postdoctoral Scholar)
 
