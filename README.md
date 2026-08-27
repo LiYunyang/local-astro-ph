@@ -1,6 +1,52 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Aug 25 21:52:21 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Aug 26 22:09:12 CDT 2026)
+
+- **Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet**
+[https://arxiv.org/abs/2608.25035]
+  + Daniel Fabrycky (4th author, Professor)
+
+- **Quantifying the systematic impact of differential beam response on the BICEP CMB polarization data from 2016 through 2024**
+[https://arxiv.org/abs/2608.25016]
+  + James Cornelison? (14th author, Associate Fellow)
+  + Scott Mackey? (48th author, Graduate Student)
+  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (83th author, KICP Fellow)
+
+- **Status of BICEP Array and Integration of the 220/270 GHz Receiver**
+[https://arxiv.org/abs/2608.25015]
+  + James Cornelison? (15th author, Associate Fellow)
+  + Scott Mackey? (50th author, Graduate Student)
+  + Abigail Vieregg? (78th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (84th author, KICP Fellow)
+
+- **Optics and broadband anti-reflection coatings for the BA4-90/150 receiver**
+[https://arxiv.org/abs/2608.25014]
+  + James Cornelison? (14th author, Associate Fellow)
+  + Scott Mackey? (49th author, Graduate Student)
+  + Abigail Vieregg? (78th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (84th author, KICP Fellow)
+
+- **Advanced Time-Division Multiplexed Readout Chain for the BICEP Array 90/150 GHz Receiver**
+[https://arxiv.org/abs/2608.25013]
+  + James Cornelison? (13th author, Associate Fellow)
+  + Scott Mackey? (52th author, Graduate Student)
+  + Abigail Vieregg? (83th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (89th author, KICP Fellow)
+
+- **Optical characterization of the BICEP array 150 and 220/270GHz CMB polarimeters in the 2026 season**
+[https://arxiv.org/abs/2608.25012]
+  + James Cornelison? (14th author, Associate Fellow)
+  + Scott Mackey? (48th author, Graduate Student)
+  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (83th author, KICP Fellow)
+
+- **Aliased noise characterization and mitigation in BICEP Array 150, 220 and 270 GHz time-division multiplexed detectors**
+[https://arxiv.org/abs/2608.25011]
+  + James Cornelison? (14th author, Associate Fellow)
+  + Scott Mackey? (48th author, Graduate Student)
+  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (83th author, KICP Fellow)
 
 - **A high-isolation wideband channelizer for MKID readouts: a custom HLS implementation on RFSoC**
 [https://arxiv.org/abs/2608.24459]
@@ -89,26 +135,4 @@
 [https://arxiv.org/abs/2608.19307]
   + Hanjue Zhu (2th author, Graduate Student)
   + Nickolay Gnedin (3th author, Senior Member)
-
-- **Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes**
-[https://arxiv.org/abs/2608.19100]
-  + Vighnesh Nagpal (1th author, Graduate Student)
-  + Maria Steinrueck (2th author, 51 Pegasi b Fellow)
-  + Diana Powell (3th author, Assistant Professor)
-  + Dominic Samra (5th author, Postdoctoral Scholar)
-  + Wolf Cukier (6th author, Graduate Student)
-
-- **Physical Optics Analysis of Polarization Effects in SO LAT Reflectors**
-[https://arxiv.org/abs/2608.18998]
-  + Patricio Gallardo (2th author, KICP Fellow)
-
-- **An invariant energy release hierarchy in a repeating fast radio burst**
-[https://arxiv.org/abs/2608.18455]
-  + Yunyang Li? (3th author, KICP Fellow)
-
-- **The Atacama Cosmology Telescope: Passband Measurements with an Analysis of Systematic Errors**
-[https://arxiv.org/abs/2608.18348]
-  + Rahul Datta (2th author, Research Scientist)
-  + Jeffrey McMahon (11th author, Senior Member)
-  + Alex Thomas (14th author, Graduate Student)
 
