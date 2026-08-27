@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 26 22:09:12 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Aug 26 23:16:33 CDT 2026)
 
 - **Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet**
 [https://arxiv.org/abs/2608.25035]
