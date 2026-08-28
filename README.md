@@ -1,6 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Aug 26 23:16:33 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Aug 27 23:12:57 CDT 2026)
+
+- **The MegaWave Radio Surveyor**
+[https://arxiv.org/abs/2608.26322]
+  + Leslie Rogers (37th author, Associate Professor)
+
+- **Engineering of titanium transition edge sensor wafers for the BA4-90/150 receiver of BICEP Array**
+[https://arxiv.org/abs/2608.26202]
+  + James Cornelison? (14th author, Associate Fellow)
+  + Scott Mackey? (49th author, Graduate Student)
+  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (83th author, KICP Fellow)
+
+- **Getting Warmer: IceCube Nears Freeze Out**
+[https://arxiv.org/abs/2608.26258]
+  + Gordan Krnjaic (2th author, Senior Member)
 
 - **Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet**
 [https://arxiv.org/abs/2608.25035]
@@ -79,60 +94,4 @@
 - **TeV-scale leptogenesis in a parity symmetric neutrino mass model**
 [https://arxiv.org/abs/2608.19367]
   + Keisuke Harigaya (1th author, Senior Member)
-
-- **SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope**
-[https://arxiv.org/abs/2608.20236]
-  + Tyler Natoli? (1th author, Senior Researcher)
-  + Hrushikesha  Athreya? (3th author, Graduate Student)
-  + Amy Bender? (9th author, Senior Associate)
-  + Bradford A. Benson? (10th author, Associate Professor)
-  + Lindsey Bleem? (11th author, Senior Associate)
-  + John Carlstrom? (12th author, Senior Member)
-  + Chihway Chang? (14th author, Senior Member)
-  + James Cornelison? (17th author, Associate Fellow)
-  + Thomas Crawford? (18th author, Senior Researcher)
-  + Rahul Datta? (19th author, Research Scientist)
-  + Karia Dibert? (20th author, Graduate Student)
-  + Kyra Fichman? (23th author, Graduate Student)
-  + Patricio Gallardo? (26th author, KICP Fellow)
-  + Alexander Hryciuk? (33th author, Graduate Student)
-  + Anna Kofman? (40th author, Associate Fellow)
-  + Aashrita Mangu? (44th author, Associate Fellow)
-  + Emily Martsen? (45th author, Graduate Student)
-  + Jeffrey McMahon? (46th author, Senior Member)
-  + Alexandra Rahlin? (54th author, Research Assistant Professor)
-  + Sara  Simon? (59th author, Senior Associate)
-  + Joshua Sobrin? (61th author, Associate Fellow)
-  + Abigail Vieregg? (68th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (74th author, KICP Fellow)
-
-- **The SPT-3G+ receiver design**
-[https://arxiv.org/abs/2608.20235]
-  + Hrushikesha  Athreya? (1th author, Graduate Student)
-  + Amy Bender? (8th author, Senior Associate)
-  + Bradford A. Benson? (9th author, Associate Professor)
-  + Lindsey Bleem? (10th author, Senior Associate)
-  + John Carlstrom? (11th author, Senior Member)
-  + Chihway Chang? (13th author, Senior Member)
-  + James Cornelison? (16th author, Associate Fellow)
-  + Rahul Datta? (17th author, Research Scientist)
-  + Karia Dibert? (18th author, Graduate Student)
-  + Kyra Fichman? (21th author, Graduate Student)
-  + Patricio Gallardo? (24th author, KICP Fellow)
-  + Alexander Hryciuk? (31th author, Graduate Student)
-  + Anna Kofman? (38th author, Associate Fellow)
-  + Aashrita Mangu? (42th author, Associate Fellow)
-  + Emily Martsen? (43th author, Graduate Student)
-  + Jeffrey McMahon? (44th author, Senior Member)
-  + Tyler Natoli? (47th author, Senior Researcher)
-  + Alexandra Rahlin? (53th author, Research Assistant Professor)
-  + Sara  Simon? (58th author, Senior Associate)
-  + Joshua Sobrin? (60th author, Associate Fellow)
-  + Abigail Vieregg? (67th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (73th author, KICP Fellow)
-
-- **The Challenge of Observing Patchy Reionization with CMB Optical-Depth Fluctuations**
-[https://arxiv.org/abs/2608.19307]
-  + Hanjue Zhu (2th author, Graduate Student)
-  + Nickolay Gnedin (3th author, Senior Member)
 
