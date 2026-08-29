@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Aug 28 00:14:40 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Aug 28 20:32:39 CDT 2026)
 
 - **The MegaWave Radio Surveyor**
 [https://arxiv.org/abs/2608.26322]
