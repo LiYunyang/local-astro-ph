@@ -1,6 +1,33 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug 30 20:44:27 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Aug 30 21:42:10 CDT 2026)
+
+- **Exploring the sensitivity of in-ice radio detectors to cosmic ray mass composition**
+[https://arxiv.org/abs/2608.28536]
+  + Nathaniel Alden (1th author, Graduate Student)
+  + Cosmin Deaconu (3th author, Senior Researcher)
+  + Abigail Vieregg (4th author, David N. Schramm Director and Senior Member)
+  + Philipp Windischhofer (5th author, Associate Fellow)
+
+- **Relativistic outflows power a quasi-periodic eruption: constraints on energetics, mass loss, and emission mechanisms**
+[https://arxiv.org/abs/2608.28507]
+  + Daniele Rogantini (18th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **PIFFLE: Characterizing the Foreground Contributions from 4 Decades in Halo Mass to the FRB20230907D Dispersion Measure**
+[https://arxiv.org/abs/2608.28374]
+  + Sunil Simha (3th author, Associate Fellow)
+
+- **Low-energy antinuclei measurements for background-free indirect dark matter searches and PBH signatures**
+[https://arxiv.org/abs/2608.27787]
+  + Keith McBride (8th author, Associate Fellow)
+
+- **Dust and PAHs in late-stage galaxy evolution: Imprints of TP-AGB dust injection, grain growth and AGN feedback in high-z quiescent galaxies with JWST and ALMA**
+[https://arxiv.org/abs/2608.27571]
+  + Agustin Lapi? (6th author, Associate Fellow)
+
+- **TDCOSMO. XXVII. JWST-based Lens Models and H$_0$ Measurement of WFI2033, HE0435, and PG1115**
+[https://arxiv.org/abs/2608.27566]
+  + Anowar Shajib? (9th author, KICP and Einstein Fellow)
 
 - **The MegaWave Radio Surveyor**
 [https://arxiv.org/abs/2608.26322]
@@ -30,10 +57,10 @@
 
 - **Status of BICEP Array and Integration of the 220/270 GHz Receiver**
 [https://arxiv.org/abs/2608.25015]
-  + James Cornelison? (15th author, Associate Fellow)
-  + Scott Mackey? (50th author, Graduate Student)
-  + Abigail Vieregg? (78th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (84th author, KICP Fellow)
+  + James Cornelison? (14th author, Associate Fellow)
+  + Scott Mackey? (49th author, Graduate Student)
+  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (83th author, KICP Fellow)
 
 - **Optics and broadband anti-reflection coatings for the BA4-90/150 receiver**
 [https://arxiv.org/abs/2608.25014]
@@ -82,16 +109,4 @@
 - **When the stars don't align: Investigating inconsistencies in binary black hole formation across population synthesis codes**
 [https://arxiv.org/abs/2608.21609]
   + Daniel E. Holz (7th author, Professor)
-
-- **Accounting for Transit Timing Detectability: Biases in Planetary Radius and Orbital Period**
-[https://arxiv.org/abs/2608.20646]
-  + Daniel Fabrycky (2th author, Professor)
-
-- **Characterizing the temporal evolution of Biermann-battery-driven magnetic reconnection in laser-ablated plasmas**
-[https://arxiv.org/abs/2608.19591]
-  + Kenichi Sakai? (20th author, Research Scientist)
-
-- **TeV-scale leptogenesis in a parity symmetric neutrino mass model**
-[https://arxiv.org/abs/2608.19367]
-  + Keisuke Harigaya (1th author, Senior Member)
 
