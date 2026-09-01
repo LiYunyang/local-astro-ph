@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Aug 30 21:42:10 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Aug 31 20:47:51 CDT 2026)
 
 - **Exploring the sensitivity of in-ice radio detectors to cosmic ray mass composition**
 [https://arxiv.org/abs/2608.28536]
