@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep  1 20:45:41 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Sep  1 21:55:31 CDT 2026)
+
+- **The Physical Conditions of Low-Mass Galaxies at z=3.5-7.0 from JWST Spectroscopy: The Behaviour of Spectral Line Ratios with Burstiness**
+[https://arxiv.org/abs/2609.01205]
+  + Harley Katz (8th author, Senior Member)
+
+- **TDCOSMO XXVIII. The Hubble constant from the quadruply lensed quasar J1537$-$3010 with precise time delays**
+[https://arxiv.org/abs/2609.00179]
+  + Elizabeth Buckley-Geer? (8th author, Senior Associate)
+
+- **Lynx2030 Science Analysis Group: Final Report**
+[https://arxiv.org/abs/2609.00033]
+  + Daniele Rogantini (42th author, Margaret Burbidge Prize Postdoctoral Fellow)
+  + Irina Zhuravleva (54th author, Assistant Professor)
 
 - **SPT-3G D1: Quadratic-Estimator CMB Lensing Reconstruction and Cosmology**
 [https://arxiv.org/abs/2608.31136]
@@ -123,12 +136,4 @@
   + Scott Mackey? (48th author, Graduate Student)
   + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
   + Cyndia Yu? (83th author, KICP Fellow)
-
-- **A high-isolation wideband channelizer for MKID readouts: a custom HLS implementation on RFSoC**
-[https://arxiv.org/abs/2608.24459]
-  + David Martin (2th author, Graduate Student)
-
-- **CHIANTE I: Obliquity Measurements of Four High-Priority Ariel Targets in Binaries**
-[https://arxiv.org/abs/2608.23662]
-  + Lily Zhao (5th author, Sagan Fellow)
 
