@@ -1,6 +1,40 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Aug 31 21:42:26 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Sep  1 20:45:41 CDT 2026)
+
+- **SPT-3G D1: Quadratic-Estimator CMB Lensing Reconstruction and Cosmology**
+[https://arxiv.org/abs/2608.31136]
+  + Yuuki Omori? (1th author, Senior Researcher)
+  + Wei Quan? (7th author, Associate Fellow)
+  + Adam Anderson? (9th author, Senior Associate)
+  + Melanie Archipley? (11th author, Associate Fellow)
+  + Amy Bender? (15th author, Senior Associate)
+  + Bradford A. Benson? (16th author, Associate Professor)
+  + Lindsey Bleem? (17th author, Senior Associate)
+  + John Carlstrom? (22th author, Senior Member)
+  + Chihway Chang? (24th author, Senior Member)
+  + Paul Chichura? (25th author, Graduate Student)
+  + Thomas Crawford? (29th author, Senior Researcher)
+  + Karia Dibert? (31th author, Graduate Student)
+  + Kyra Fichman? (38th author, Graduate Student)
+  + John Hood? (50th author, Associate Fellow)
+  + Alexander Hryciuk? (51th author, Graduate Student)
+  + Tanisha Jhaveri? (53th author, Graduate Student)
+  + Kayla Kornoelje? (57th author, Graduate Student)
+  + Yunyang Li? (60th author, KICP Fellow)
+  + Emily Martsen? (66th author, Graduate Student)
+  + Tyler Natoli? (70th author, Senior Researcher)
+  + Alexandra Rahlin? (78th author, Research Assistant Professor)
+  + Aidan Simpson? (83th author, Graduate Student)
+  + Joshua Sobrin? (84th author, Associate Fellow)
+  + Abigail Vieregg? (90th author, David N. Schramm Director and Senior Member)
+  + Matthew Young? (94th author, Associate Fellow)
+  + Jessica Zebrowski? (95th author, KICP and Einstein Fellow)
+
+- **AXIS Could Have Accessed Dark Matter Decays**
+[https://arxiv.org/abs/2608.28738]
+  + Joshua Foster (1th author, Associate Fellow)
+  + Gordan Krnjaic (3th author, Senior Member)
 
 - **Exploring the sensitivity of in-ice radio detectors to cosmic ray mass composition**
 [https://arxiv.org/abs/2608.28536]
@@ -97,16 +131,4 @@
 - **CHIANTE I: Obliquity Measurements of Four High-Priority Ariel Targets in Binaries**
 [https://arxiv.org/abs/2608.23662]
   + Lily Zhao (5th author, Sagan Fellow)
-
-- **Strong Lensing Cosmology with Population-level Calibrated Neural Ratio Estimation**
-[https://arxiv.org/abs/2608.23534]
-  + Brian Nord (2th author, Senior Associate)
-
-- **Particle Dark Matter in the 1980s and 1990s**
-[https://arxiv.org/abs/2608.22087]
-  + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
-
-- **When the stars don't align: Investigating inconsistencies in binary black hole formation across population synthesis codes**
-[https://arxiv.org/abs/2608.21609]
-  + Daniel E. Holz (7th author, Professor)
 
