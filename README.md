@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep  2 20:45:35 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep  2 22:45:37 CDT 2026)
+
+- **CHARA/SPICA: The six-telescope visible combiner and near-infrared fringe tracker for the CHARA Array**
+[https://arxiv.org/abs/2609.02406]
+  + Joann Jones? (29th author, Graduate Student)
+
+- **BICEP/Keck XXII: Analysis of the South Pole Atmosphere for CMB Observations**
+[https://arxiv.org/abs/2609.02090]
+  + James Cornelison? (15th author, Associate Fellow)
+  + Scott Mackey? (52th author, Graduate Student)
+  + Abigail Vieregg? (85th author, David N. Schramm Director and Senior Member)
+  + Cyndia Yu? (92th author, KICP Fellow)
+
+- **Mass constraints for the K2-223 system planets: An ultra-short-period sub-Earth, a short-period super-Earth, and a tentative long-period giant planet**
+[https://arxiv.org/abs/2609.01721]
+  + Rafael Luque (8th author, Postdoctoral Scholar)
+
+- **Measuring Small-scale Turbulence in Supernova Remnants with Jitter Radiation**
+[https://arxiv.org/abs/2609.01715]
+  + Emily Simon (1th author, Graduate Student)
+  + Damiano Caprioli (2th author, Associate Professor)
 
 - **The Physical Conditions of Low-Mass Galaxies at z=3.5-7.0 from JWST Spectroscopy: The Behaviour of Spectral Line Ratios with Burstiness**
 [https://arxiv.org/abs/2609.01205]
@@ -90,50 +110,4 @@
 - **Getting Warmer: IceCube Nears Freeze Out**
 [https://arxiv.org/abs/2608.26258]
   + Gordan Krnjaic (2th author, Senior Member)
-
-- **Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet**
-[https://arxiv.org/abs/2608.25035]
-  + Daniel Fabrycky (4th author, Professor)
-
-- **Quantifying the systematic impact of differential beam response on the BICEP CMB polarization data from 2016 through 2024**
-[https://arxiv.org/abs/2608.25016]
-  + James Cornelison? (14th author, Associate Fellow)
-  + Scott Mackey? (48th author, Graduate Student)
-  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (83th author, KICP Fellow)
-
-- **Status of BICEP Array and Integration of the 220/270 GHz Receiver**
-[https://arxiv.org/abs/2608.25015]
-  + James Cornelison? (14th author, Associate Fellow)
-  + Scott Mackey? (49th author, Graduate Student)
-  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (83th author, KICP Fellow)
-
-- **Optics and broadband anti-reflection coatings for the BA4-90/150 receiver**
-[https://arxiv.org/abs/2608.25014]
-  + James Cornelison? (14th author, Associate Fellow)
-  + Scott Mackey? (49th author, Graduate Student)
-  + Abigail Vieregg? (78th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (84th author, KICP Fellow)
-
-- **Advanced Time-Division Multiplexed Readout Chain for the BICEP Array 90/150 GHz Receiver**
-[https://arxiv.org/abs/2608.25013]
-  + James Cornelison? (13th author, Associate Fellow)
-  + Scott Mackey? (52th author, Graduate Student)
-  + Abigail Vieregg? (83th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (89th author, KICP Fellow)
-
-- **Optical characterization of the BICEP array 150 and 220/270GHz CMB polarimeters in the 2026 season**
-[https://arxiv.org/abs/2608.25012]
-  + James Cornelison? (14th author, Associate Fellow)
-  + Scott Mackey? (48th author, Graduate Student)
-  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (83th author, KICP Fellow)
-
-- **Aliased noise characterization and mitigation in BICEP Array 150, 220 and 270 GHz time-division multiplexed detectors**
-[https://arxiv.org/abs/2608.25011]
-  + James Cornelison? (14th author, Associate Fellow)
-  + Scott Mackey? (48th author, Graduate Student)
-  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (83th author, KICP Fellow)
 
