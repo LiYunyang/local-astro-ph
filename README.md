@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep  1 21:55:31 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep  2 20:45:35 CDT 2026)
 
 - **The Physical Conditions of Low-Mass Galaxies at z=3.5-7.0 from JWST Spectroscopy: The Behaviour of Spectral Line Ratios with Burstiness**
 [https://arxiv.org/abs/2609.01205]
