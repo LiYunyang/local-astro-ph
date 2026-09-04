@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep  2 22:45:37 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Sep  3 20:37:20 CDT 2026)
 
 - **CHARA/SPICA: The six-telescope visible combiner and near-infrared fringe tracker for the CHARA Array**
 [https://arxiv.org/abs/2609.02406]
