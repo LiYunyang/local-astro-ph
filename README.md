@@ -1,6 +1,24 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Sep  3 20:37:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Sep  3 21:40:18 CDT 2026)
+
+- **TDCOSMO XXIX: JWST/NIRSpec IFU Spatially Resolved Kinematics of Three Time-delay Lenses**
+[https://arxiv.org/abs/2609.03089]
+  + Anowar Shajib (3th author, KICP and Einstein Fellow)
+
+- **New and Updated Rossiter-McLaughlin Measurements for Three Hot Jupiter-Hosting M Dwarfs**
+[https://arxiv.org/abs/2609.03031]
+  + Ritvik Basant (6th author, Graduate Student)
+  + Jacob L. Bean (7th author, Professor)
+  + Tanya Das (8th author, Postdoctoral Scholar)
+
+- **JWST MIRI reveals a potential atmosphere on the ultra-hot rocky planet TOI-431b**
+[https://arxiv.org/abs/2609.03029]
+  + Rafael Luque (4th author, Postdoctoral Scholar)
+  + Qiao Xue (6th author, Graduate Student)
+  + Michael Zhang (7th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Jacob L. Bean (8th author, Professor)
+  + Madison Brady (9th author, Graduate Student)
 
 - **CHARA/SPICA: The six-telescope visible combiner and near-infrared fringe tracker for the CHARA Array**
 [https://arxiv.org/abs/2609.02406]
@@ -95,19 +113,4 @@
 - **TDCOSMO. XXVII. JWST-based Lens Models and H$_0$ Measurement of WFI2033, HE0435, and PG1115**
 [https://arxiv.org/abs/2608.27566]
   + Anowar Shajib? (9th author, KICP and Einstein Fellow)
-
-- **The MegaWave Radio Surveyor**
-[https://arxiv.org/abs/2608.26322]
-  + Leslie Rogers (37th author, Associate Professor)
-
-- **Engineering of titanium transition edge sensor wafers for the BA4-90/150 receiver of BICEP Array**
-[https://arxiv.org/abs/2608.26202]
-  + James Cornelison? (14th author, Associate Fellow)
-  + Scott Mackey? (49th author, Graduate Student)
-  + Abigail Vieregg? (77th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (83th author, KICP Fellow)
-
-- **Getting Warmer: IceCube Nears Freeze Out**
-[https://arxiv.org/abs/2608.26258]
-  + Gordan Krnjaic (2th author, Senior Member)
 
