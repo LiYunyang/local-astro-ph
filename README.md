@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Sep  4 20:36:14 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Sep  4 21:39:06 CDT 2026)
 
 - **TDCOSMO XXIX: JWST/NIRSpec IFU Spatially Resolved Kinematics of Three Time-delay Lenses**
 [https://arxiv.org/abs/2609.03089]
