@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Sep  6 20:44:50 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Sep  6 21:42:31 CDT 2026)
+
+- **Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**
+[https://arxiv.org/abs/2609.05321]
+  + Joshua A. Frieman? (21th author, Chair)
+
+- **What is new in NuRadioMC: Multilayer Analytic Raytracer**
+[https://arxiv.org/abs/2609.05240]
+  + Christoph Welling (16th author, KICP Fellow)
+  + Philipp Windischhofer (17th author, Associate Fellow)
+
+- **Euclid. A two-point correlation approach to diagnosing star-related systematics in the Euclid spectroscopic survey**
+[https://arxiv.org/abs/2609.05155]
+  + Alberto Castellano Mora? (97th author, Associate Fellow)
 
 - **TDCOSMO XXIX: JWST/NIRSpec IFU Spatially Resolved Kinematics of Three Time-delay Lenses**
 [https://arxiv.org/abs/2609.03089]
@@ -86,31 +99,4 @@
 [https://arxiv.org/abs/2608.28738]
   + Joshua Foster (1th author, Associate Fellow)
   + Gordan Krnjaic (3th author, Senior Member)
-
-- **Exploring the sensitivity of in-ice radio detectors to cosmic ray mass composition**
-[https://arxiv.org/abs/2608.28536]
-  + Nathaniel Alden (1th author, Graduate Student)
-  + Cosmin Deaconu (3th author, Senior Researcher)
-  + Abigail Vieregg (4th author, David N. Schramm Director and Senior Member)
-  + Philipp Windischhofer (5th author, Associate Fellow)
-
-- **Relativistic outflows power a quasi-periodic eruption: constraints on energetics, mass loss, and emission mechanisms**
-[https://arxiv.org/abs/2608.28507]
-  + Daniele Rogantini (18th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **PIFFLE: Characterizing the Foreground Contributions from 4 Decades in Halo Mass to the FRB20230907D Dispersion Measure**
-[https://arxiv.org/abs/2608.28374]
-  + Sunil Simha (3th author, Associate Fellow)
-
-- **Low-energy antinuclei measurements for background-free indirect dark matter searches and PBH signatures**
-[https://arxiv.org/abs/2608.27787]
-  + Keith McBride (8th author, Associate Fellow)
-
-- **Dust and PAHs in late-stage galaxy evolution: Imprints of TP-AGB dust injection, grain growth and AGN feedback in high-z quiescent galaxies with JWST and ALMA**
-[https://arxiv.org/abs/2608.27571]
-  + Agustin Lapi? (6th author, Associate Fellow)
-
-- **TDCOSMO. XXVII. JWST-based Lens Models and H$_0$ Measurement of WFI2033, HE0435, and PG1115**
-[https://arxiv.org/abs/2608.27566]
-  + Anowar Shajib? (9th author, KICP and Einstein Fellow)
 
