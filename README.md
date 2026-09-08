@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Sep  6 21:42:31 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Sep  7 20:41:19 CDT 2026)
 
 - **Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**
 [https://arxiv.org/abs/2609.05321]
