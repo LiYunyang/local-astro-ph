@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep  9 20:39:39 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep  9 21:41:01 CDT 2026)
+
+- **TDCOSMO XXX: Spatially resolved kinematics of the deflectors in time-delay lens systems B1608+656 and SDSSJ1206+4332 from JWST-NIRSpec observation**
+[https://arxiv.org/abs/2609.09411]
+  + Anowar Shajib (3th author, KICP and Einstein Fellow)
+
+- **The future of high-resolution UV spectroscopy: Science with a UV Échelle spectrograph on the Habitable Worlds Observatory, or a dedicated mission**
+[https://arxiv.org/abs/2609.09329]
+  + Hsiao-Wen Chen (9th author, Senior Member)
 
 - **Optical Depths from the Thermal Sunyaev-Zel'dovich Effect with ACT DR6 and DESI DR1 Spectroscopic Galaxies and Optically-Selected Clusters**
 [https://arxiv.org/abs/2609.08939]
@@ -68,17 +76,4 @@
 [https://arxiv.org/abs/2609.01715]
   + Emily Simon (1th author, Graduate Student)
   + Damiano Caprioli (2th author, Associate Professor)
-
-- **The Physical Conditions of Low-Mass Galaxies at z=3.5-7.0 from JWST Spectroscopy: The Behaviour of Spectral Line Ratios with Burstiness**
-[https://arxiv.org/abs/2609.01205]
-  + Harley Katz (8th author, Senior Member)
-
-- **TDCOSMO XXVIII. The Hubble constant from the quadruply lensed quasar J1537$-$3010 with precise time delays**
-[https://arxiv.org/abs/2609.00179]
-  + Elizabeth Buckley-Geer? (8th author, Senior Associate)
-
-- **Lynx2030 Science Analysis Group: Final Report**
-[https://arxiv.org/abs/2609.00033]
-  + Daniele Rogantini (42th author, Margaret Burbidge Prize Postdoctoral Fellow)
-  + Irina Zhuravleva (54th author, Assistant Professor)
 
