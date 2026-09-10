@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep  8 21:40:56 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep  9 20:39:39 CDT 2026)
+
+- **Optical Depths from the Thermal Sunyaev-Zel'dovich Effect with ACT DR6 and DESI DR1 Spectroscopic Galaxies and Optically-Selected Clusters**
+[https://arxiv.org/abs/2609.08939]
+  + Patricio Gallardo? (9th author, KICP Fellow)
+
+- **LEGGOS: Direct abundances of N, O, Ne, S, and Ar in five lensed galaxies at Cosmic Noon**
+[https://arxiv.org/abs/2609.07851]
+  + Michael D. Gladders (13th author, Professor)
+
+- **LEGGOS: A Shocking Lack of Evidence for Shocks at sub-kiloparsec Scales at 2 < z < 4**
+[https://arxiv.org/abs/2609.07850]
+  + Michael D. Gladders (8th author, Professor)
+
+- **Little Red Dot Cosmology: A Matter-Era Baryon Acoustic Oscillations Probe of $Λ$CDM**
+[https://arxiv.org/abs/2609.06926]
+  + Jessica Zebrowski (1th author, KICP and Einstein Fellow)
 
 - **Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**
 [https://arxiv.org/abs/2609.05321]
@@ -65,38 +81,4 @@
 [https://arxiv.org/abs/2609.00033]
   + Daniele Rogantini (42th author, Margaret Burbidge Prize Postdoctoral Fellow)
   + Irina Zhuravleva (54th author, Assistant Professor)
-
-- **SPT-3G D1: Quadratic-Estimator CMB Lensing Reconstruction and Cosmology**
-[https://arxiv.org/abs/2608.31136]
-  + Yuuki Omori? (1th author, Senior Researcher)
-  + Wei Quan? (7th author, Associate Fellow)
-  + Adam Anderson? (9th author, Senior Associate)
-  + Melanie Archipley? (11th author, Associate Fellow)
-  + Amy Bender? (15th author, Senior Associate)
-  + Bradford A. Benson? (16th author, Associate Professor)
-  + Lindsey Bleem? (17th author, Senior Associate)
-  + John Carlstrom? (22th author, Senior Member)
-  + Chihway Chang? (24th author, Senior Member)
-  + Paul Chichura? (25th author, Graduate Student)
-  + Thomas Crawford? (29th author, Senior Researcher)
-  + Karia Dibert? (31th author, Graduate Student)
-  + Kyra Fichman? (38th author, Graduate Student)
-  + John Hood? (50th author, Associate Fellow)
-  + Alexander Hryciuk? (51th author, Graduate Student)
-  + Tanisha Jhaveri? (53th author, Graduate Student)
-  + Kayla Kornoelje? (57th author, Graduate Student)
-  + Yunyang Li? (60th author, KICP Fellow)
-  + Emily Martsen? (66th author, Graduate Student)
-  + Tyler Natoli? (70th author, Senior Researcher)
-  + Alexandra Rahlin? (78th author, Research Assistant Professor)
-  + Aidan Simpson? (83th author, Graduate Student)
-  + Joshua Sobrin? (84th author, Associate Fellow)
-  + Abigail Vieregg? (90th author, David N. Schramm Director and Senior Member)
-  + Matthew Young? (94th author, Associate Fellow)
-  + Jessica Zebrowski? (95th author, KICP and Einstein Fellow)
-
-- **AXIS Could Have Accessed Dark Matter Decays**
-[https://arxiv.org/abs/2608.28738]
-  + Joshua Foster (1th author, Associate Fellow)
-  + Gordan Krnjaic (3th author, Senior Member)
 
