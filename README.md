@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep  9 21:41:01 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Sep 10 20:39:08 CDT 2026)
 
 - **TDCOSMO XXX: Spatially resolved kinematics of the deflectors in time-delay lens systems B1608+656 and SDSSJ1206+4332 from JWST-NIRSpec observation**
 [https://arxiv.org/abs/2609.09411]
