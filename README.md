@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Sep 10 20:39:08 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Sep 10 21:41:26 CDT 2026)
+
+- **Impact of LSST systematics on stellar-stream density fluctuations for dark matter**
+[https://arxiv.org/abs/2609.10897]
+  + Alex Drlica-Wagner (3th author, Senior Member)
+
+- **XRISM observations of the Perseus cluster along two arms: Chaotic ICM motions probed by resonant scattering**
+[https://arxiv.org/abs/2609.10845]
+  + Annie Heinrich (1th author, Graduate Student)
+  + Irina Zhuravleva (2th author, Assistant Professor)
+
+- **Re-examining the sensitivity of JWST to decaying axion dark matter**
+[https://arxiv.org/abs/2609.10674]
+  + Joshua Foster (4th author, Associate Fellow)
 
 - **TDCOSMO XXX: Spatially resolved kinematics of the deflectors in time-delay lens systems B1608+656 and SDSSJ1206+4332 from JWST-NIRSpec observation**
 [https://arxiv.org/abs/2609.09411]
@@ -56,24 +69,4 @@
   + Michael Zhang (7th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
   + Jacob L. Bean (8th author, Professor)
   + Madison Brady (9th author, Graduate Student)
-
-- **CHARA/SPICA: The six-telescope visible combiner and near-infrared fringe tracker for the CHARA Array**
-[https://arxiv.org/abs/2609.02406]
-  + Joann Jones? (29th author, Graduate Student)
-
-- **BICEP/Keck XXII: Analysis of the South Pole Atmosphere for CMB Observations**
-[https://arxiv.org/abs/2609.02090]
-  + James Cornelison? (15th author, Associate Fellow)
-  + Scott Mackey? (52th author, Graduate Student)
-  + Abigail Vieregg? (85th author, David N. Schramm Director and Senior Member)
-  + Cyndia Yu? (92th author, KICP Fellow)
-
-- **Mass constraints for the K2-223 system planets: An ultra-short-period sub-Earth, a short-period super-Earth, and a tentative long-period giant planet**
-[https://arxiv.org/abs/2609.01721]
-  + Rafael Luque (8th author, Postdoctoral Scholar)
-
-- **Measuring Small-scale Turbulence in Supernova Remnants with Jitter Radiation**
-[https://arxiv.org/abs/2609.01715]
-  + Emily Simon (1th author, Graduate Student)
-  + Damiano Caprioli (2th author, Associate Professor)
 
