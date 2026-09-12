@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Sep 10 21:41:26 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Sep 11 20:36:07 CDT 2026)
 
 - **Impact of LSST systematics on stellar-stream density fluctuations for dark matter**
 [https://arxiv.org/abs/2609.10897]
