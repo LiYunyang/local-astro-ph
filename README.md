@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Sep 13 20:46:48 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Sep 13 21:45:10 CDT 2026)
 
 - **The atomic C/O ratio of KELT-9b**
 [https://arxiv.org/abs/2609.13051]
