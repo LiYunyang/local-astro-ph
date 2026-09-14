@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Sep 12 21:40:50 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Sep 13 20:46:48 CDT 2026)
+
+- **The atomic C/O ratio of KELT-9b**
+[https://arxiv.org/abs/2609.13051]
+  + Jacob L. Bean (3th author, Professor)
+
+- **Resolved SED Modeling with JWST and ALMA: The Role of Stellar Mass Surface Density in Regulating Star Formation in Cosmic Noon Galaxies**
+[https://arxiv.org/abs/2609.12059]
+  + Juliang Li? (4th author, Postdoctoral Scholar)
 
 - **Impact of LSST systematics on stellar-stream density fluctuations for dark matter**
 [https://arxiv.org/abs/2609.10897]
@@ -51,22 +59,4 @@
 - **Euclid. A two-point correlation approach to diagnosing star-related systematics in the Euclid spectroscopic survey**
 [https://arxiv.org/abs/2609.05155]
   + Alberto Castellano Mora? (97th author, Associate Fellow)
-
-- **TDCOSMO XXIX: JWST/NIRSpec IFU Spatially Resolved Kinematics of Three Time-delay Lenses**
-[https://arxiv.org/abs/2609.03089]
-  + Anowar Shajib (3th author, KICP and Einstein Fellow)
-
-- **New and Updated Rossiter-McLaughlin Measurements for Three Hot Jupiter-Hosting M Dwarfs**
-[https://arxiv.org/abs/2609.03031]
-  + Ritvik Basant (6th author, Graduate Student)
-  + Jacob L. Bean (7th author, Professor)
-  + Tanya Das (8th author, Postdoctoral Scholar)
-
-- **JWST MIRI reveals a potential atmosphere on the ultra-hot rocky planet TOI-431b**
-[https://arxiv.org/abs/2609.03029]
-  + Rafael Luque (4th author, Postdoctoral Scholar)
-  + Qiao Xue (6th author, Graduate Student)
-  + Michael Zhang (7th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Jacob L. Bean (8th author, Professor)
-  + Madison Brady (9th author, Graduate Student)
 
