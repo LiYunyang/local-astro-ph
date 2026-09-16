@@ -1,6 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 14 21:42:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Sep 15 20:41:42 CDT 2026)
+
+- **Rubin Observatory Reveals a Dust-Shrouded Halo Globular Cluster in Ophiuchus**
+[https://arxiv.org/abs/2609.15872]
+  + Aashay Pai (1th author, Graduate Student)
+  + Alex Drlica-Wagner (4th author, Senior Member)
+  + Chin Yi Tan (7th author, Graduate Student)
+
+- **Multi-chromatic observations of classical Cepheids using the CHARA Array interferometer: Surface brightness-colour relation, projection factor, and limb-darkening**
+[https://arxiv.org/abs/2609.15804]
+  + Joann Jones? (20th author, Graduate Student)
+
+- **Exploring the dynamics of the Coma galaxy cluster by mapping its X-ray emission line profiles with XRISM**
+[https://arxiv.org/abs/2609.14264]
+  + Irina Zhuravleva (19th author, Assistant Professor)
+
+- **Chemo-dynamical Analysis of a CNO-Enhanced Ultra Metal-poor Star ($\rm[Fe/H] < -4$): Insights into Early Enrichment by Faint Population III Supernova**
+[https://arxiv.org/abs/2609.13373]
+  + Guilherme Limberg (1th author, KICP Fellow)
+  + Alexander Ji (3th author, Senior Member)
+  + Harley Katz (9th author, Senior Member)
+  + Pierre Thibodeaux (10th author, Graduate Student)
+  + Anirudh Chiti (11th author, Brinson Prize Fellow)
 
 - **The atomic C/O ratio of KELT-9b**
 [https://arxiv.org/abs/2609.13051]
@@ -46,17 +68,4 @@
 - **Little Red Dot Cosmology: A Matter-Era Baryon Acoustic Oscillations Probe of $Λ$CDM**
 [https://arxiv.org/abs/2609.06926]
   + Jessica Zebrowski (1th author, KICP and Einstein Fellow)
-
-- **Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology**
-[https://arxiv.org/abs/2609.05321]
-  + Joshua A. Frieman? (21th author, Chair)
-
-- **What is new in NuRadioMC: Multilayer Analytic Raytracer**
-[https://arxiv.org/abs/2609.05240]
-  + Christoph Welling (16th author, KICP Fellow)
-  + Philipp Windischhofer (17th author, Associate Fellow)
-
-- **Euclid. A two-point correlation approach to diagnosing star-related systematics in the Euclid spectroscopic survey**
-[https://arxiv.org/abs/2609.05155]
-  + Alberto Castellano Mora? (97th author, Associate Fellow)
 
