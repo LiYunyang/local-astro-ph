@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 15 20:41:42 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Sep 15 21:42:00 CDT 2026)
+
+- **The asymmetric limbs of HD 209458 b observed with JWST NIRCam F322W2/F444W**
+[https://arxiv.org/abs/2609.16834]
+  + Michael Radica (9th author, Postdoctoral Scholar)
+
+- **Inhomogeneous Cloud Coverage and Altitude-Dependent Heat Transport on the Hot-Jupiter NGTS-10 Ab from its Optical-to-Infrared Phase Curve**
+[https://arxiv.org/abs/2609.16115]
+  + Jacob L. Bean (11th author, Professor)
 
 - **Rubin Observatory Reveals a Dust-Shrouded Halo Globular Cluster in Ophiuchus**
 [https://arxiv.org/abs/2609.15872]
@@ -52,20 +60,4 @@
 - **The future of high-resolution UV spectroscopy: Science with a UV Échelle spectrograph on the Habitable Worlds Observatory, or a dedicated mission**
 [https://arxiv.org/abs/2609.09329]
   + Hsiao-Wen Chen (9th author, Senior Member)
-
-- **Optical Depths from the Thermal Sunyaev-Zel'dovich Effect with ACT DR6 and DESI DR1 Spectroscopic Galaxies and Optically-Selected Clusters**
-[https://arxiv.org/abs/2609.08939]
-  + Patricio Gallardo? (9th author, KICP Fellow)
-
-- **LEGGOS: Direct abundances of N, O, Ne, S, and Ar in five lensed galaxies at Cosmic Noon**
-[https://arxiv.org/abs/2609.07851]
-  + Michael D. Gladders (13th author, Professor)
-
-- **LEGGOS: A Shocking Lack of Evidence for Shocks at sub-kiloparsec Scales at 2 < z < 4**
-[https://arxiv.org/abs/2609.07850]
-  + Michael D. Gladders (8th author, Professor)
-
-- **Little Red Dot Cosmology: A Matter-Era Baryon Acoustic Oscillations Probe of $Λ$CDM**
-[https://arxiv.org/abs/2609.06926]
-  + Jessica Zebrowski (1th author, KICP and Einstein Fellow)
 
