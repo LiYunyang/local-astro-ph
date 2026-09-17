@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 15 21:42:00 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep 16 20:42:27 CDT 2026)
 
 - **The asymmetric limbs of HD 209458 b observed with JWST NIRCam F322W2/F444W**
 [https://arxiv.org/abs/2609.16834]
