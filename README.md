@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 16 20:42:27 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep 16 21:42:00 CDT 2026)
+
+- **A dense, metal-rich absorber driven by a heavily dust-obscured galaxy: The direct evidence of CGM enrichment at $z\sim7$**
+[https://arxiv.org/abs/2609.17680]
+  + Ava Polzin (20th author, Graduate Student)
 
 - **The asymmetric limbs of HD 209458 b observed with JWST NIRCam F322W2/F444W**
 [https://arxiv.org/abs/2609.16834]
@@ -52,12 +56,4 @@
 - **Re-examining the sensitivity of JWST to decaying axion dark matter**
 [https://arxiv.org/abs/2609.10674]
   + Joshua Foster (4th author, Associate Fellow)
-
-- **TDCOSMO XXX: Spatially resolved kinematics of the deflectors in time-delay lens systems B1608+656 and SDSSJ1206+4332 from JWST-NIRSpec observation**
-[https://arxiv.org/abs/2609.09411]
-  + Anowar Shajib (3th author, KICP and Einstein Fellow)
-
-- **The future of high-resolution UV spectroscopy: Science with a UV Échelle spectrograph on the Habitable Worlds Observatory, or a dedicated mission**
-[https://arxiv.org/abs/2609.09329]
-  + Hsiao-Wen Chen (9th author, Senior Member)
 
