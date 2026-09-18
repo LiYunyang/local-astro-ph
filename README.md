@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Sep 17 20:41:35 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Sep 17 21:42:26 CDT 2026)
+
+- **Euclid: Galaxy cluster detection through the weak lensing effect - algorithm assessment and selection**
+[https://arxiv.org/abs/2609.20571]
+  + Alex Alarcon Gonzalez? (25th author, CASE Associate)
+
+- **Precise and Accurate Mass and Radius Measurements of Thirty Galactic Metal-Poor Stars in Detached Eclipsing Binaries**
+[https://arxiv.org/abs/2609.19248]
+  + David Martin (7th author, Graduate Student)
+
+- **Particle Physics Driven by Quantum Technology - Quantum Simulations and Quantum Sensing**
+[https://arxiv.org/abs/2609.20500]
+  + Marcela Carena (2th author, Senior Member)
 
 - **A dense, metal-rich absorber driven by a heavily dust-obscured galaxy: The direct evidence of CGM enrichment at $z\sim7$**
 [https://arxiv.org/abs/2609.17680]
@@ -43,17 +55,4 @@
 - **Resolved SED Modeling with JWST and ALMA: The Role of Stellar Mass Surface Density in Regulating Star Formation in Cosmic Noon Galaxies**
 [https://arxiv.org/abs/2609.12059]
   + Juliang Li? (4th author, Postdoctoral Scholar)
-
-- **Impact of LSST systematics on stellar-stream density fluctuations for dark matter**
-[https://arxiv.org/abs/2609.10897]
-  + Alex Drlica-Wagner (3th author, Senior Member)
-
-- **XRISM observations of the Perseus cluster along two arms: Chaotic ICM motions probed by resonant scattering**
-[https://arxiv.org/abs/2609.10845]
-  + Annie Heinrich (1th author, Graduate Student)
-  + Irina Zhuravleva (2th author, Assistant Professor)
-
-- **Re-examining the sensitivity of JWST to decaying axion dark matter**
-[https://arxiv.org/abs/2609.10674]
-  + Joshua Foster (4th author, Associate Fellow)
 
