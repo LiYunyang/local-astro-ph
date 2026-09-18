@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 16 21:42:00 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Sep 17 20:41:35 CDT 2026)
 
 - **A dense, metal-rich absorber driven by a heavily dust-obscured galaxy: The direct evidence of CGM enrichment at $z\sim7$**
 [https://arxiv.org/abs/2609.17680]
