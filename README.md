@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Sep 19 21:41:28 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Sep 20 20:47:07 CDT 2026)
 
 - **Euclid: Galaxy cluster detection through the weak lensing effect - algorithm assessment and selection**
 [https://arxiv.org/abs/2609.20571]
