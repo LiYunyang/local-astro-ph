@@ -1,6 +1,33 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Sep 20 20:47:07 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Sep 20 21:46:02 CDT 2026)
+
+- **Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**
+[https://arxiv.org/abs/2609.22071]
+  + Alex Drlica-Wagner (14th author, Senior Member)
+  + Anirudh Chiti (20th author, Brinson Prize Fellow)
+
+- **Euclid: Quick Data Release (Q1) -- Optical hotspots in powerful radio galaxies**
+[https://arxiv.org/abs/2609.21930]
+  + Alberto Castellano Mora? (97th author, Associate Fellow)
+
+- **JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H**
+[https://arxiv.org/abs/2609.21810]
+  + Diana Powell (11th author, Assistant Professor)
+  + Wolf Cukier (15th author, Graduate Student)
+  + Dominic Samra (21th author, Postdoctoral Scholar)
+  + Maria Steinrueck (23th author, 51 Pegasi b Fellow)
+
+- **From IFS Maps to 3D Structure I: Constraining Geometry in the Circumgalactic Medium**
+[https://arxiv.org/abs/2609.20929]
+  + Zhijie Qu (3th author, Postdoctoral Scholar)
+  + Hsiao-Wen Chen (5th author, Senior Member)
+
+- **Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum**
+[https://arxiv.org/abs/2609.20923]
+  + Michael Radica (2th author, Postdoctoral Scholar)
+  + Michael Zhang (3th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Jacob L. Bean (5th author, Professor)
 
 - **Euclid: Galaxy cluster detection through the weak lensing effect - algorithm assessment and selection**
 [https://arxiv.org/abs/2609.20571]
@@ -47,12 +74,4 @@
   + Harley Katz (9th author, Senior Member)
   + Pierre Thibodeaux (10th author, Graduate Student)
   + Anirudh Chiti (11th author, Brinson Prize Fellow)
-
-- **The atomic C/O ratio of KELT-9b**
-[https://arxiv.org/abs/2609.13051]
-  + Jacob L. Bean (3th author, Professor)
-
-- **Resolved SED Modeling with JWST and ALMA: The Role of Stellar Mass Surface Density in Regulating Star Formation in Cosmic Noon Galaxies**
-[https://arxiv.org/abs/2609.12059]
-  + Juliang Li? (4th author, Postdoctoral Scholar)
 
