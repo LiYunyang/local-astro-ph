@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 21 20:41:26 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Sep 21 21:42:27 CDT 2026)
 
 - **Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**
 [https://arxiv.org/abs/2609.22071]
