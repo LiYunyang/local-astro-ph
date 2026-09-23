@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 22 20:40:51 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Sep 22 21:42:36 CDT 2026)
+
+- **Einstein Probe discovery of the magnetar EP J223759.5+531421**
+[https://arxiv.org/abs/2609.25990]
+  + Yunyang Li? (26th author, KICP Fellow)
+
+- **A Simple Dark Matter Model to Explain the LZ Event and Galactic Center Excess**
+[https://arxiv.org/abs/2609.26570]
+  + Gordan Krnjaic (3th author, Senior Member)
+
+- **Cosmic Birefringence and Axiogenesis**
+[https://arxiv.org/abs/2609.25202]
+  + Keisuke Harigaya (3th author, Senior Member)
 
 - **Importance of the Resonant Cosmic-Ray Streaming Instability Upstream of Collisionless Shocks**
 [https://arxiv.org/abs/2609.22480]
@@ -59,12 +71,4 @@
 - **A dense, metal-rich absorber driven by a heavily dust-obscured galaxy: The direct evidence of CGM enrichment at $z\sim7$**
 [https://arxiv.org/abs/2609.17680]
   + Ava Polzin (20th author, Graduate Student)
-
-- **The asymmetric limbs of HD 209458 b observed with JWST NIRCam F322W2/F444W**
-[https://arxiv.org/abs/2609.16834]
-  + Michael Radica (9th author, Postdoctoral Scholar)
-
-- **Inhomogeneous Cloud Coverage and Altitude-Dependent Heat Transport on the Hot-Jupiter NGTS-10 Ab from its Optical-to-Infrared Phase Curve**
-[https://arxiv.org/abs/2609.16115]
-  + Jacob L. Bean (11th author, Professor)
 
