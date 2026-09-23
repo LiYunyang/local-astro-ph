@@ -1,6 +1,21 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 21 21:42:27 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Sep 22 20:40:51 CDT 2026)
+
+- **Importance of the Resonant Cosmic-Ray Streaming Instability Upstream of Collisionless Shocks**
+[https://arxiv.org/abs/2609.22480]
+  + Bricker Ostler (1th author, Graduate Student)
+  + Benedikt Schroer (2th author, Postdoctoral Scholar)
+  + Damiano Caprioli (3th author, Associate Professor)
+
+- **Model-Independent Measurement of Baryon Gas Fractions through Galaxy-Galaxy Lensing and the Kinematic Sunyaev-Zel'dovich Effect**
+[https://arxiv.org/abs/2609.22466]
+  + Rayne Liu? (1th author, Graduate Student)
+
+- **Resonant Gravitational Production of Chiral Dark Photons**
+[https://arxiv.org/abs/2609.22423]
+  + Leah Jenks (1th author, KICP Fellow)
+  + Edward Kolb (3th author, Senior Member)
 
 - **Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**
 [https://arxiv.org/abs/2609.22071]
@@ -52,26 +67,4 @@
 - **Inhomogeneous Cloud Coverage and Altitude-Dependent Heat Transport on the Hot-Jupiter NGTS-10 Ab from its Optical-to-Infrared Phase Curve**
 [https://arxiv.org/abs/2609.16115]
   + Jacob L. Bean (11th author, Professor)
-
-- **Rubin Observatory Reveals a Dust-Shrouded Halo Globular Cluster in Ophiuchus**
-[https://arxiv.org/abs/2609.15872]
-  + Aashay Pai (1th author, Graduate Student)
-  + Alex Drlica-Wagner (4th author, Senior Member)
-  + Chin Yi Tan (7th author, Graduate Student)
-
-- **Multi-chromatic observations of classical Cepheids using the CHARA Array interferometer: Surface brightness-colour relation, projection factor, and limb-darkening**
-[https://arxiv.org/abs/2609.15804]
-  + Joann Jones? (20th author, Graduate Student)
-
-- **Exploring the dynamics of the Coma galaxy cluster by mapping its X-ray emission line profiles with XRISM**
-[https://arxiv.org/abs/2609.14264]
-  + Irina Zhuravleva (19th author, Assistant Professor)
-
-- **Chemo-dynamical Analysis of a CNO-Enhanced Ultra Metal-poor Star ($\rm[Fe/H] < -4$): Insights into Early Enrichment by Faint Population III Supernova**
-[https://arxiv.org/abs/2609.13373]
-  + Guilherme Limberg (1th author, KICP Fellow)
-  + Alexander Ji (3th author, Senior Member)
-  + Harley Katz (9th author, Senior Member)
-  + Pierre Thibodeaux (10th author, Graduate Student)
-  + Anirudh Chiti (11th author, Brinson Prize Fellow)
 
