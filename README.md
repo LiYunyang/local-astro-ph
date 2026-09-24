@@ -1,6 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 23 20:42:50 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep 23 21:43:09 CDT 2026)
+
+- **Performance-portable GPU acceleration of the hybrid particle-in-cell code dHybridR**
+[https://arxiv.org/abs/2609.28422]
+  + Bricker Ostler (1th author, Graduate Student)
+  + Miha Cernetic (2th author, Postdoctoral Scholar)
+  + Damiano Caprioli (3th author, Associate Professor)
+
+- **A Search For Stellar-mass Black Holes Via Astrometric Microlensing II: 2012-2015 Keck Candidates**
+[https://arxiv.org/abs/2609.28420]
+  + Shrihan Agarwal (11th author, Graduate Student)
+
+- **The Simons Observatory: Commissioning of the Mid-Frequency Small Aperture Telescopes**
+[https://arxiv.org/abs/2609.26938]
+  + Sanah Bhimani (19th author, Postdoctoral Scholar)
+  + Aashrita Mangu (61th author, Associate Fellow)
+  + Sara  Simon (80th author, Senior Associate)
+  + Alex Thomas (86th author, Graduate Student)
+
+- **Revealing the Shiny Nature of Lava Worlds: Small Planet Phase Curves with TESS**
+[https://arxiv.org/abs/2609.26874]
+  + Michael Zhang (2th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Qiao Xue (4th author, Graduate Student)
 
 - **Einstein Probe discovery of the magnetar EP J223759.5+531421**
 [https://arxiv.org/abs/2609.25990]
@@ -67,8 +89,4 @@
 - **Particle Physics Driven by Quantum Technology - Quantum Simulations and Quantum Sensing**
 [https://arxiv.org/abs/2609.20500]
   + Marcela Carena (2th author, Senior Member)
-
-- **A dense, metal-rich absorber driven by a heavily dust-obscured galaxy: The direct evidence of CGM enrichment at $z\sim7$**
-[https://arxiv.org/abs/2609.17680]
-  + Ava Polzin (20th author, Graduate Student)
 
