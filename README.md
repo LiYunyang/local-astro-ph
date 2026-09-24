@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 22 21:42:36 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep 23 20:42:50 CDT 2026)
 
 - **Einstein Probe discovery of the magnetar EP J223759.5+531421**
 [https://arxiv.org/abs/2609.25990]
