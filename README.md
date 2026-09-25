@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 23 21:43:09 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Sep 24 20:41:05 CDT 2026)
 
 - **Performance-portable GPU acceleration of the hybrid particle-in-cell code dHybridR**
 [https://arxiv.org/abs/2609.28422]
