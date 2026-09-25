@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Sep 24 20:41:05 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Sep 24 21:41:33 CDT 2026)
+
+- **Exoplanet Detection Techniques: Radial Velocity**
+[https://arxiv.org/abs/2609.29378]
+  + Rafael Luque (1th author, Postdoctoral Scholar)
+
+- **PSFSim: PhySics First Simulations for the Point Spread Function of the Roman Space Telescope**
+[https://arxiv.org/abs/2609.28821]
+  + Chun-Hao To (5th author, Associate Fellow)
+
+- **Tomography analysis of the intermediate-luminosity Type Iax SN 2024pxl**
+[https://arxiv.org/abs/2609.28712]
+  + Sunil Simha (78th author, Associate Fellow)
+
+- **Probing the Metallicity Dependence of Fast Radio Burst Progenitors with CHIME/FRB Outrigger Dwarf Host Galaxies**
+[https://arxiv.org/abs/2609.28629]
+  + Sunil Simha? (25th author, Associate Fellow)
 
 - **Performance-portable GPU acceleration of the hybrid particle-in-cell code dHybridR**
 [https://arxiv.org/abs/2609.28422]
@@ -77,16 +93,4 @@
   + Michael Radica (2th author, Postdoctoral Scholar)
   + Michael Zhang (3th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
   + Jacob L. Bean (5th author, Professor)
-
-- **Euclid: Galaxy cluster detection through the weak lensing effect - algorithm assessment and selection**
-[https://arxiv.org/abs/2609.20571]
-  + Alex Alarcon Gonzalez? (25th author, CASE Associate)
-
-- **Precise and Accurate Mass and Radius Measurements of Thirty Galactic Metal-Poor Stars in Detached Eclipsing Binaries**
-[https://arxiv.org/abs/2609.19248]
-  + David Martin (7th author, Graduate Student)
-
-- **Particle Physics Driven by Quantum Technology - Quantum Simulations and Quantum Sensing**
-[https://arxiv.org/abs/2609.20500]
-  + Marcela Carena (2th author, Senior Member)
 
