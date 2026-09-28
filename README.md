@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Sep 27 20:52:08 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Sep 27 21:53:08 CDT 2026)
+
+- **Evidence for the Typhon Stellar Stream as the Remnant of a Recently-disrupted Dwarf Galaxy**
+[https://arxiv.org/abs/2609.30615]
+  + Guilherme Limberg (2th author, KICP Fellow)
+
+- **The JWST Proto-PAH project: Aromatic backbones with extensive aliphatic substitution account for both the aromatic and aliphatic emission**
+[https://arxiv.org/abs/2609.30598]
+  + Juliang Li? (13th author, Postdoctoral Scholar)
+
+- **The JWST Proto-PAH project. Computational modeling of the emission carriers**
+[https://arxiv.org/abs/2609.30574]
+  + Juliang Li? (10th author, Postdoctoral Scholar)
 
 - **Exoplanet Detection Techniques: Radial Velocity**
 [https://arxiv.org/abs/2609.29378]
@@ -66,31 +78,4 @@
 [https://arxiv.org/abs/2609.22423]
   + Leah Jenks (1th author, KICP Fellow)
   + Edward Kolb (3th author, Senior Member)
-
-- **Discovery, Characterization, and Potential Origins of a Stream in the Stellar Halo of Nearby LMC-Mass Galaxy NGC 55**
-[https://arxiv.org/abs/2609.22071]
-  + Alex Drlica-Wagner (14th author, Senior Member)
-  + Anirudh Chiti (20th author, Brinson Prize Fellow)
-
-- **Euclid: Quick Data Release (Q1) -- Optical hotspots in powerful radio galaxies**
-[https://arxiv.org/abs/2609.21930]
-  + Alberto Castellano Mora? (97th author, Associate Fellow)
-
-- **JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H**
-[https://arxiv.org/abs/2609.21810]
-  + Diana Powell (11th author, Assistant Professor)
-  + Wolf Cukier (15th author, Graduate Student)
-  + Dominic Samra (21th author, Postdoctoral Scholar)
-  + Maria Steinrueck (23th author, 51 Pegasi b Fellow)
-
-- **From IFS Maps to 3D Structure I: Constraining Geometry in the Circumgalactic Medium**
-[https://arxiv.org/abs/2609.20929]
-  + Zhijie Qu (3th author, Postdoctoral Scholar)
-  + Hsiao-Wen Chen (5th author, Senior Member)
-
-- **Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum**
-[https://arxiv.org/abs/2609.20923]
-  + Michael Radica (2th author, Postdoctoral Scholar)
-  + Michael Zhang (3th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Jacob L. Bean (5th author, Professor)
 
