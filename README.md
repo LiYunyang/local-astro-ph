@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Sep 26 21:46:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Sep 27 20:52:08 CDT 2026)
 
 - **Exoplanet Detection Techniques: Radial Velocity**
 [https://arxiv.org/abs/2609.29378]
