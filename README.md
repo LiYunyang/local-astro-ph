@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 28 20:48:32 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Sep 28 21:44:54 CDT 2026)
 
 - **Evidence for the Typhon Stellar Stream as the Remnant of a Recently-disrupted Dwarf Galaxy**
 [https://arxiv.org/abs/2609.30615]
