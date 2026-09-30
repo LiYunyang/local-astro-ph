@@ -1,6 +1,31 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Sep 28 21:44:54 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Sep 29 20:50:56 CDT 2026)
+
+- **ViCTORIA project: A pilot study of the M49 region in the Virgo cluster in polarisation**
+[https://arxiv.org/abs/2609.35330]
+  + Hannah McCall? (10th author, Graduate Student)
+
+- **Trigonometric Parallaxes of Maser Sources toward the Far Side of the Milky Way**
+[https://arxiv.org/abs/2609.34219]
+  + Juliang Li? (4th author, Postdoctoral Scholar)
+
+- **Large-Scale Spiral Structure of the Milky Way Traced by Young Classical Cepheids**
+[https://arxiv.org/abs/2609.34208]
+  + Yunyang Li? (4th author, KICP Fellow)
+  + Juliang Li? (5th author, Postdoctoral Scholar)
+
+- **The AURORA Survey: Determining the Production Mechanism for OI $\mathbf{λ8449}$ Emission in Star-forming Galaxies at Cosmic Noon**
+[https://arxiv.org/abs/2609.32045]
+  + Harley Katz (8th author, Senior Member)
+
+- **SLICE: Unveiling the Multi-Component Merging Core of SPT-CLJ1150-2805 Through Strong-Lensing Mass Modelling**
+[https://arxiv.org/abs/2609.31944]
+  + Michael D. Gladders (17th author, Professor)
+
+- **Medium effects on neutron star modified and direct Urca cooling rates**
+[https://arxiv.org/abs/2609.34338]
+  + Bei Zhou? (1th author, Associate Fellow)
 
 - **Evidence for the Typhon Stellar Stream as the Remnant of a Recently-disrupted Dwarf Galaxy**
 [https://arxiv.org/abs/2609.30615]
@@ -63,19 +88,4 @@
 - **Cosmic Birefringence and Axiogenesis**
 [https://arxiv.org/abs/2609.25202]
   + Keisuke Harigaya (3th author, Senior Member)
-
-- **Importance of the Resonant Cosmic-Ray Streaming Instability Upstream of Collisionless Shocks**
-[https://arxiv.org/abs/2609.22480]
-  + Bricker Ostler (1th author, Graduate Student)
-  + Benedikt Schroer (2th author, Postdoctoral Scholar)
-  + Damiano Caprioli (3th author, Associate Professor)
-
-- **Model-Independent Measurement of Baryon Gas Fractions through Galaxy-Galaxy Lensing and the Kinematic Sunyaev-Zel'dovich Effect**
-[https://arxiv.org/abs/2609.22466]
-  + Rayne Liu? (1th author, Graduate Student)
-
-- **Resonant Gravitational Production of Chiral Dark Photons**
-[https://arxiv.org/abs/2609.22423]
-  + Leah Jenks (1th author, KICP Fellow)
-  + Edward Kolb (3th author, Senior Member)
 
