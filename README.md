@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 29 20:50:56 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Sep 29 21:49:09 CDT 2026)
 
 - **ViCTORIA project: A pilot study of the M49 region in the Virgo cluster in polarisation**
 [https://arxiv.org/abs/2609.35330]
