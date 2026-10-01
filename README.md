@@ -1,6 +1,30 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 30 20:55:42 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep 30 21:55:13 CDT 2026)
+
+- **Sub-kiloparsec Test of the Kennicutt-Schmidt Relation in a Strongly Lensed Dusty Star-Forming Galaxy at z~2.78**
+[https://arxiv.org/abs/2609.40233]
+  + Alex Alarcon Gonzalez? (8th author, CASE Associate)
+
+- **Improved Constraints on Cosmic Microwave Background Circular Polarization with CLASS**
+[https://arxiv.org/abs/2609.40125]
+  + Yunyang Li (3th author, KICP Fellow)
+  + Rahul Datta (12th author, Research Scientist)
+  + Jeffrey McMahon (20th author, Senior Member)
+
+- **An LSST-DESC Precursor Project: Hyper Suprime-Cam Year 1 $3\times2$pt in Harmonic Space**
+[https://arxiv.org/abs/2609.39603]
+  + Chihway Chang? (7th author, Senior Member)
+
+- **The Simons Observatory: Design and Initial Performance of the Detector Readout System for the Large-Aperture Telescope**
+[https://arxiv.org/abs/2609.39100]
+  + Erin Healy (18th author, KICP Fellow)
+  + Anna Kofman (22th author, Associate Fellow)
+  + Aashrita Mangu (25th author, Associate Fellow)
+
+- **Interpreting the High-Recoil LUX-ZEPLIN Event with Bino-/Singlino-like and Higgsino Dark Matter**
+[https://arxiv.org/abs/2609.40234]
+  + Carlos Wagner (3th author, Senior Member)
 
 - **The ALPINE-CRISTAL-JWST Survey: Investigating the role of interstellar dust, gas and stars in high-z galaxies at kpc-scales**
 [https://arxiv.org/abs/2609.37358]
@@ -86,26 +110,4 @@
 - **Probing the Metallicity Dependence of Fast Radio Burst Progenitors with CHIME/FRB Outrigger Dwarf Host Galaxies**
 [https://arxiv.org/abs/2609.28629]
   + Sunil Simha? (25th author, Associate Fellow)
-
-- **Performance-portable GPU acceleration of the hybrid particle-in-cell code dHybridR**
-[https://arxiv.org/abs/2609.28422]
-  + Bricker Ostler (1th author, Graduate Student)
-  + Miha Cernetic (2th author, Postdoctoral Scholar)
-  + Damiano Caprioli (3th author, Associate Professor)
-
-- **A Search For Stellar-mass Black Holes Via Astrometric Microlensing II: 2012-2015 Keck Candidates**
-[https://arxiv.org/abs/2609.28420]
-  + Shrihan Agarwal (11th author, Graduate Student)
-
-- **The Simons Observatory: Commissioning of the Mid-Frequency Small Aperture Telescopes**
-[https://arxiv.org/abs/2609.26938]
-  + Sanah Bhimani (19th author, Postdoctoral Scholar)
-  + Aashrita Mangu (61th author, Associate Fellow)
-  + Sara  Simon (80th author, Senior Associate)
-  + Alex Thomas (86th author, Graduate Student)
-
-- **Revealing the Shiny Nature of Lava Worlds: Small Planet Phase Curves with TESS**
-[https://arxiv.org/abs/2609.26874]
-  + Michael Zhang (2th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
-  + Qiao Xue (4th author, Graduate Student)
 
