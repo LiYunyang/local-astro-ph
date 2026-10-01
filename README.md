@@ -1,6 +1,38 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Sep 29 21:49:09 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Sep 30 20:55:42 CDT 2026)
+
+- **The ALPINE-CRISTAL-JWST Survey: Investigating the role of interstellar dust, gas and stars in high-z galaxies at kpc-scales**
+[https://arxiv.org/abs/2609.37358]
+  + Juliang Li? (28th author, Postdoctoral Scholar)
+
+- **A halo-based intrinsic-alignment model for simulation-based inference**
+[https://arxiv.org/abs/2609.37254]
+  + Marco Gatti? (1th author, KICP Fellow)
+
+- **MEGATRON: Dwarf Galaxy Quenching in the Epoch of Reionization**
+[https://arxiv.org/abs/2609.37188]
+  + Harley Katz (4th author, Senior Member)
+
+- **Probing Baryons with the Kinematic Sunyae Zel'dovich Effect and Machine Learning Derived Peculiar Velocities using DESI DR2 and ACT DR6**
+[https://arxiv.org/abs/2609.36355]
+  + Patricio Gallardo (3th author, KICP Fellow)
+
+- **MEGATRON: The Physical Origins of Steep UV Slopes at High Redshift**
+[https://arxiv.org/abs/2609.36124]
+  + Harley Katz (1th author, Senior Member)
+
+- **Beyond what's observed: hierarchical inference of Gaia astrometric compact-object binaries**
+[https://arxiv.org/abs/2609.35999]
+  + Amanda Farah (4th author, Graduate Student)
+
+- **JWST lensed quasar dark matter survey V: Hints of self-interacting dark matter from 29 quadruply imaged quasars**
+[https://arxiv.org/abs/2609.35974]
+  + Daniel Gilman? (1th author, Associate Fellow)
+
+- **Black Hole Quasinormal Mode Resonances and Reconnections in Coupled Systems**
+[https://arxiv.org/abs/2609.35971]
+  + Leah Jenks (1th author, KICP Fellow)
 
 - **ViCTORIA project: A pilot study of the M49 region in the Virgo cluster in polarisation**
 [https://arxiv.org/abs/2609.35330]
@@ -76,16 +108,4 @@
 [https://arxiv.org/abs/2609.26874]
   + Michael Zhang (2th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
   + Qiao Xue (4th author, Graduate Student)
-
-- **Einstein Probe discovery of the magnetar EP J223759.5+531421**
-[https://arxiv.org/abs/2609.25990]
-  + Yunyang Li? (26th author, KICP Fellow)
-
-- **A Simple Dark Matter Model to Explain the LZ Event and Galactic Center Excess**
-[https://arxiv.org/abs/2609.26570]
-  + Gordan Krnjaic (3th author, Senior Member)
-
-- **Cosmic Birefringence and Axiogenesis**
-[https://arxiv.org/abs/2609.25202]
-  + Keisuke Harigaya (3th author, Senior Member)
 
