@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Oct  1 20:48:58 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Oct  1 21:46:25 CDT 2026)
+
+- **Galaxy Protoclusters as Drivers of Cosmic Reionization: II. Te-Based Metallicities of Lyman-α Emitters**
+[https://arxiv.org/abs/2610.01811]
+  + Wayne Hu? (6th author, Senior Member)
+
+- **Primordial Black Hole and Gravitational Wave by Peaked Cosmic Perturbations from Axion Curvaton**
+[https://arxiv.org/abs/2610.00457]
+  + Keisuke Harigaya (1th author, Senior Member)
 
 - **Sub-kiloparsec Test of the Kennicutt-Schmidt Relation in a Strongly Lensed Dusty Star-Forming Galaxy at z~2.78**
 [https://arxiv.org/abs/2609.40233]
@@ -94,20 +102,4 @@
 - **The JWST Proto-PAH project. Computational modeling of the emission carriers**
 [https://arxiv.org/abs/2609.30574]
   + Juliang Li? (10th author, Postdoctoral Scholar)
-
-- **Exoplanet Detection Techniques: Radial Velocity**
-[https://arxiv.org/abs/2609.29378]
-  + Rafael Luque (1th author, Postdoctoral Scholar)
-
-- **PSFSim: PhySics First Simulations for the Point Spread Function of the Roman Space Telescope**
-[https://arxiv.org/abs/2609.28821]
-  + Chun-Hao To (5th author, Associate Fellow)
-
-- **Tomography analysis of the intermediate-luminosity Type Iax SN 2024pxl**
-[https://arxiv.org/abs/2609.28712]
-  + Sunil Simha (78th author, Associate Fellow)
-
-- **Probing the Metallicity Dependence of Fast Radio Burst Progenitors with CHIME/FRB Outrigger Dwarf Host Galaxies**
-[https://arxiv.org/abs/2609.28629]
-  + Sunil Simha? (25th author, Associate Fellow)
 
