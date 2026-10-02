@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Sep 30 21:55:13 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Oct  1 20:48:58 CDT 2026)
 
 - **Sub-kiloparsec Test of the Kennicutt-Schmidt Relation in a Strongly Lensed Dusty Star-Forming Galaxy at z~2.78**
 [https://arxiv.org/abs/2609.40233]
