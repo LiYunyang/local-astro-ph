@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Oct  1 21:46:25 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Oct  2 20:45:26 CDT 2026)
 
 - **Galaxy Protoclusters as Drivers of Cosmic Reionization: II. Te-Based Metallicities of Lyman-α Emitters**
 [https://arxiv.org/abs/2610.01811]
