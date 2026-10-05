@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct  4 20:55:37 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Oct  4 21:56:49 CDT 2026)
+
+- **Baryonic Imprints on DM Halos: the concentration-mass relation and its dependence on 28 model parameters in the CAMELS suite**
+[https://arxiv.org/abs/2610.03544]
+  + Dhayaa Anbajagane (2th author, Graduate Student)
+
+- **Dark Energy Survey Year 6 Results: fast and interpretable posterior predictive checks for correlated cosmic probes**
+[https://arxiv.org/abs/2610.03447]
+  + Tanvi Karwal? (9th author, KICP Fellow)
+  + Dhayaa Anbajagane? (11th author, Graduate Student)
+  + Chihway Chang? (16th author, Senior Member)
+  + Scott Dodelson? (20th author, Senior Associate)
+  + Giulia Giannini? (21th author, Associate Fellow)
+  + Chun-Hao To? (36th author, Associate Fellow)
 
 - **Galaxy Protoclusters as Drivers of Cosmic Reionization: II. Te-Based Metallicities of Lyman-α Emitters**
 [https://arxiv.org/abs/2610.01811]
@@ -90,16 +103,4 @@
 - **Medium effects on neutron star modified and direct Urca cooling rates**
 [https://arxiv.org/abs/2609.34338]
   + Bei Zhou? (1th author, Associate Fellow)
-
-- **Evidence for the Typhon Stellar Stream as the Remnant of a Recently-disrupted Dwarf Galaxy**
-[https://arxiv.org/abs/2609.30615]
-  + Guilherme Limberg (2th author, KICP Fellow)
-
-- **The JWST Proto-PAH project: Aromatic backbones with extensive aliphatic substitution account for both the aromatic and aliphatic emission**
-[https://arxiv.org/abs/2609.30598]
-  + Juliang Li? (13th author, Postdoctoral Scholar)
-
-- **The JWST Proto-PAH project. Computational modeling of the emission carriers**
-[https://arxiv.org/abs/2609.30574]
-  + Juliang Li? (10th author, Postdoctoral Scholar)
 
