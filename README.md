@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct  4 21:56:49 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Oct  5 20:47:22 CDT 2026)
 
 - **Baryonic Imprints on DM Halos: the concentration-mass relation and its dependence on 28 model parameters in the CAMELS suite**
 [https://arxiv.org/abs/2610.03544]
