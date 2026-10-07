@@ -1,6 +1,33 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct  6 20:53:55 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Oct  6 21:53:21 CDT 2026)
+
+- **Very Long Baseline Interferometry with the SKA Observatory**
+[https://arxiv.org/abs/2610.07743]
+  + Juliang Li? (69th author, Postdoctoral Scholar)
+  + Yunyang Li? (70th author, KICP Fellow)
+  + Yunyang Li? (71th author, KICP Fellow)
+
+- **A spatially resolved view of Fast Radio Burst host metallicities with Integral-field Spectroscopy**
+[https://arxiv.org/abs/2610.07325]
+  + Sunil Simha (1th author, Associate Fellow)
+  + Hsiao-Wen Chen (2th author, Senior Member)
+
+- **Spectroscopic Confirmation of the Milky Way Satellites Boötes V and Leo Minor I and the LMC Satellite DELVE 2: Three Small Ultra-Faint Dwarf Galaxies**
+[https://arxiv.org/abs/2610.07182]
+  + Alexander Ji? (8th author, Senior Member)
+  + Alex Drlica-Wagner? (9th author, Senior Member)
+  + Guilherme Limberg? (11th author, KICP Fellow)
+  + Chin Yi Tan? (23th author, Graduate Student)
+
+- **Enhancing the Interpretability of Radial Velocity Analysis Using Leave-one-out Cross-validation**
+[https://arxiv.org/abs/2610.07181]
+  + Ritvik Basant (2th author, Graduate Student)
+  + Rafael Luque (3th author, Postdoctoral Scholar)
+
+- **Gravitational Waves and Nambu-Goldstone Bosons from Infrared-Finite Cosmic Strings**
+[https://arxiv.org/abs/2610.08254]
+  + Keisuke Harigaya (3th author, Senior Member)
 
 - **Forming Molecular Hydrogen in a Galaxy Halo Through Star Formation Wind Interactions**
 [https://arxiv.org/abs/2610.06662]
@@ -54,36 +81,4 @@
 - **Interpreting the High-Recoil LUX-ZEPLIN Event with Bino-/Singlino-like and Higgsino Dark Matter**
 [https://arxiv.org/abs/2609.40234]
   + Carlos Wagner (3th author, Senior Member)
-
-- **The ALPINE-CRISTAL-JWST Survey: Investigating the role of interstellar dust, gas and stars in high-z galaxies at kpc-scales**
-[https://arxiv.org/abs/2609.37358]
-  + Juliang Li? (28th author, Postdoctoral Scholar)
-
-- **A halo-based intrinsic-alignment model for simulation-based inference**
-[https://arxiv.org/abs/2609.37254]
-  + Marco Gatti? (1th author, KICP Fellow)
-
-- **MEGATRON: Dwarf Galaxy Quenching in the Epoch of Reionization**
-[https://arxiv.org/abs/2609.37188]
-  + Harley Katz (4th author, Senior Member)
-
-- **Probing Baryons with the Kinematic Sunyae Zel'dovich Effect and Machine Learning Derived Peculiar Velocities using DESI DR2 and ACT DR6**
-[https://arxiv.org/abs/2609.36355]
-  + Patricio Gallardo (3th author, KICP Fellow)
-
-- **MEGATRON: The Physical Origins of Steep UV Slopes at High Redshift**
-[https://arxiv.org/abs/2609.36124]
-  + Harley Katz (1th author, Senior Member)
-
-- **Beyond what's observed: hierarchical inference of Gaia astrometric compact-object binaries**
-[https://arxiv.org/abs/2609.35999]
-  + Amanda Farah (4th author, Graduate Student)
-
-- **JWST lensed quasar dark matter survey V: Hints of self-interacting dark matter from 29 quadruply imaged quasars**
-[https://arxiv.org/abs/2609.35974]
-  + Daniel Gilman? (1th author, Associate Fellow)
-
-- **Black Hole Quasinormal Mode Resonances and Reconnections in Coupled Systems**
-[https://arxiv.org/abs/2609.35971]
-  + Leah Jenks (1th author, KICP Fellow)
 
