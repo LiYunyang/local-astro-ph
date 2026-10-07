@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct  5 21:48:29 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Oct  6 20:53:55 CDT 2026)
+
+- **Forming Molecular Hydrogen in a Galaxy Halo Through Star Formation Wind Interactions**
+[https://arxiv.org/abs/2610.06662]
+  + Hsiao-Wen Chen (7th author, Senior Member)
+
+- **Baryonic Imprints on DM Halos: characterizing the full concentration-mass probability distribution with CAMELS**
+[https://arxiv.org/abs/2610.03946]
+  + Dhayaa Anbajagane (2th author, Graduate Student)
 
 - **Baryonic Imprints on DM Halos: the concentration-mass relation and its dependence on 28 model parameters in the CAMELS suite**
 [https://arxiv.org/abs/2610.03544]
@@ -78,29 +86,4 @@
 - **Black Hole Quasinormal Mode Resonances and Reconnections in Coupled Systems**
 [https://arxiv.org/abs/2609.35971]
   + Leah Jenks (1th author, KICP Fellow)
-
-- **ViCTORIA project: A pilot study of the M49 region in the Virgo cluster in polarisation**
-[https://arxiv.org/abs/2609.35330]
-  + Hannah McCall? (10th author, Graduate Student)
-
-- **Trigonometric Parallaxes of Maser Sources toward the Far Side of the Milky Way**
-[https://arxiv.org/abs/2609.34219]
-  + Juliang Li? (4th author, Postdoctoral Scholar)
-
-- **Large-Scale Spiral Structure of the Milky Way Traced by Young Classical Cepheids**
-[https://arxiv.org/abs/2609.34208]
-  + Yunyang Li? (4th author, KICP Fellow)
-  + Juliang Li? (5th author, Postdoctoral Scholar)
-
-- **The AURORA Survey: Determining the Production Mechanism for OI $\mathbf{λ8449}$ Emission in Star-forming Galaxies at Cosmic Noon**
-[https://arxiv.org/abs/2609.32045]
-  + Harley Katz (8th author, Senior Member)
-
-- **SLICE: Unveiling the Multi-Component Merging Core of SPT-CLJ1150-2805 Through Strong-Lensing Mass Modelling**
-[https://arxiv.org/abs/2609.31944]
-  + Michael D. Gladders (17th author, Professor)
-
-- **Medium effects on neutron star modified and direct Urca cooling rates**
-[https://arxiv.org/abs/2609.34338]
-  + Bei Zhou? (1th author, Associate Fellow)
 
