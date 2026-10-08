@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct  6 21:53:21 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Oct  7 20:54:04 CDT 2026)
 
 - **Very Long Baseline Interferometry with the SKA Observatory**
 [https://arxiv.org/abs/2610.07743]
