@@ -1,6 +1,44 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct  7 20:54:04 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Oct  7 21:51:36 CDT 2026)
+
+- **A relativistic inflow candidate in a quasar at cosmic noon**
+[https://arxiv.org/abs/2610.10267]
+  + Daniele Rogantini (15th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **Euclid Quick Data Release (Q1). Exploring the complexity of quenching processes across time, environment, and mass through recently quenched galaxies**
+[https://arxiv.org/abs/2610.08999]
+  + LianTao Wang? (18th author, Senior Member)
+
+- **Measuring the Clustering of tSZ-Selected Galaxy Clusters with SPT-3G**
+[https://arxiv.org/abs/2610.08947]
+  + Emily Martsen? (1th author, Graduate Student)
+  + Dhayaa Anbajagane? (2th author, Graduate Student)
+  + Lindsey Bleem? (3th author, Senior Associate)
+  + Bradford A. Benson? (4th author, Associate Professor)
+  + Adam Anderson? (6th author, Senior Associate)
+  + Melanie Archipley? (8th author, Associate Fellow)
+  + Amy Bender? (13th author, Senior Associate)
+  + John Carlstrom? (19th author, Senior Member)
+  + Chihway Chang? (21th author, Senior Member)
+  + Paul Chichura? (22th author, Graduate Student)
+  + Thomas Crawford? (26th author, Senior Researcher)
+  + Karia Dibert? (29th author, Graduate Student)
+  + Kyra Fichman? (36th author, Graduate Student)
+  + John Hood? (50th author, Associate Fellow)
+  + Alexander Hryciuk? (51th author, Graduate Student)
+  + Tanisha Jhaveri? (53th author, Graduate Student)
+  + Kayla Kornoelje? (58th author, Graduate Student)
+  + Yunyang Li? (62th author, KICP Fellow)
+  + Tyler Natoli? (72th author, Senior Researcher)
+  + Yuuki Omori? (73th author, Senior Researcher)
+  + Wei Quan? (79th author, Associate Fellow)
+  + Alexandra Rahlin? (81th author, Research Assistant Professor)
+  + Aidan Simpson? (86th author, Graduate Student)
+  + Joshua Sobrin? (87th author, Associate Fellow)
+  + Abigail Vieregg? (93th author, David N. Schramm Director and Senior Member)
+  + Matthew Young? (98th author, Associate Fellow)
+  + Jessica Zebrowski? (99th author, KICP and Einstein Fellow)
 
 - **Very Long Baseline Interferometry with the SKA Observatory**
 [https://arxiv.org/abs/2610.07743]
@@ -57,28 +95,4 @@
 - **Primordial Black Hole and Gravitational Wave by Peaked Cosmic Perturbations from Axion Curvaton**
 [https://arxiv.org/abs/2610.00457]
   + Keisuke Harigaya (1th author, Senior Member)
-
-- **Sub-kiloparsec Test of the Kennicutt-Schmidt Relation in a Strongly Lensed Dusty Star-Forming Galaxy at z~2.78**
-[https://arxiv.org/abs/2609.40233]
-  + Alex Alarcon Gonzalez? (8th author, CASE Associate)
-
-- **Improved Constraints on Cosmic Microwave Background Circular Polarization with CLASS**
-[https://arxiv.org/abs/2609.40125]
-  + Yunyang Li (3th author, KICP Fellow)
-  + Rahul Datta (12th author, Research Scientist)
-  + Jeffrey McMahon (20th author, Senior Member)
-
-- **An LSST-DESC Precursor Project: Hyper Suprime-Cam Year 1 $3\times2$pt in Harmonic Space**
-[https://arxiv.org/abs/2609.39603]
-  + Chihway Chang? (7th author, Senior Member)
-
-- **The Simons Observatory: Design and Initial Performance of the Detector Readout System for the Large-Aperture Telescope**
-[https://arxiv.org/abs/2609.39100]
-  + Erin Healy (18th author, KICP Fellow)
-  + Anna Kofman (22th author, Associate Fellow)
-  + Aashrita Mangu (25th author, Associate Fellow)
-
-- **Interpreting the High-Recoil LUX-ZEPLIN Event with Bino-/Singlino-like and Higgsino Dark Matter**
-[https://arxiv.org/abs/2609.40234]
-  + Carlos Wagner (3th author, Senior Member)
 
