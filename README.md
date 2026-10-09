@@ -1,6 +1,17 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Oct  8 20:55:46 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Oct  8 21:53:50 CDT 2026)
+
+- **Microwave Loss in Low-Temperature ICPCVD Silicon Nitride: Dependence on Precursor Ratio and RF Substrate Bias**
+[https://arxiv.org/abs/2610.10767]
+  + Hrushikesha  Athreya? (1th author, Graduate Student)
+  + James Cornelison? (2th author, Associate Fellow)
+  + Chihway Chang? (5th author, Senior Member)
+  + Jessica Zebrowski? (8th author, KICP and Einstein Fellow)
+
+- **Atypical White Dwarfs in Open Clusters**
+[https://arxiv.org/abs/2610.10699]
+  + David Miller (1th author, Senior Member)
 
 - **A relativistic inflow candidate in a quasar at cosmic noon**
 [https://arxiv.org/abs/2610.10267]
@@ -87,12 +98,4 @@
   + Scott Dodelson? (20th author, Senior Associate)
   + Giulia Giannini? (21th author, Associate Fellow)
   + Chun-Hao To? (36th author, Associate Fellow)
-
-- **Galaxy Protoclusters as Drivers of Cosmic Reionization: II. Te-Based Metallicities of Lyman-α Emitters**
-[https://arxiv.org/abs/2610.01811]
-  + Wayne Hu? (6th author, Senior Member)
-
-- **Primordial Black Hole and Gravitational Wave by Peaked Cosmic Perturbations from Axion Curvaton**
-[https://arxiv.org/abs/2610.00457]
-  + Keisuke Harigaya (1th author, Senior Member)
 
