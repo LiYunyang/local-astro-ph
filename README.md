@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct  7 21:51:36 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Oct  8 20:55:46 CDT 2026)
 
 - **A relativistic inflow candidate in a quasar at cosmic noon**
 [https://arxiv.org/abs/2610.10267]
