@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct 10 20:54:49 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sat Oct 10 21:55:01 CDT 2026)
 
 - **Microwave Loss in Low-Temperature ICPCVD Silicon Nitride: Dependence on Precursor Ratio and RF Substrate Bias**
 [https://arxiv.org/abs/2610.10767]
