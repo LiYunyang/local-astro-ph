@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct 11 21:01:42 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Oct 11 22:02:46 CDT 2026)
+
+- **A strategy for astrometric quasar selection with Gaia DR3 and its application to discover new luminous $z>2$ quasars**
+[https://arxiv.org/abs/2610.13742]
+  + Juliang Li? (1th author, Postdoctoral Scholar)
+
+- **A Relationship Between Fast Radio Burst Dispersion Measure and Host Galaxy Inclination**
+[https://arxiv.org/abs/2610.13062]
+  + Sunil Simha (3th author, Associate Fellow)
+
+- **Direct detection constraints on EFT operators for inelastic dark matter**
+[https://arxiv.org/abs/2610.12889]
+  + Alex Thomas? (2th author, Graduate Student)
 
 - **Microwave Loss in Low-Temperature ICPCVD Silicon Nitride: Dependence on Precursor Ratio and RF Substrate Bias**
 [https://arxiv.org/abs/2610.10767]
@@ -85,17 +97,4 @@
 - **Baryonic Imprints on DM Halos: characterizing the full concentration-mass probability distribution with CAMELS**
 [https://arxiv.org/abs/2610.03946]
   + Dhayaa Anbajagane (2th author, Graduate Student)
-
-- **Baryonic Imprints on DM Halos: the concentration-mass relation and its dependence on 28 model parameters in the CAMELS suite**
-[https://arxiv.org/abs/2610.03544]
-  + Dhayaa Anbajagane (2th author, Graduate Student)
-
-- **Dark Energy Survey Year 6 Results: fast and interpretable posterior predictive checks for correlated cosmic probes**
-[https://arxiv.org/abs/2610.03447]
-  + Tanvi Karwal? (9th author, KICP Fellow)
-  + Dhayaa Anbajagane? (11th author, Graduate Student)
-  + Chihway Chang? (16th author, Senior Member)
-  + Scott Dodelson? (20th author, Senior Associate)
-  + Giulia Giannini? (21th author, Associate Fellow)
-  + Chun-Hao To? (36th author, Associate Fellow)
 
