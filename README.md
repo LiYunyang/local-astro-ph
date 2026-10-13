@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 12 20:57:42 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Oct 12 21:58:33 CDT 2026)
 
 - **A strategy for astrometric quasar selection with Gaia DR3 and its application to discover new luminous $z>2$ quasars**
 [https://arxiv.org/abs/2610.13742]
