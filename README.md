@@ -1,6 +1,58 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 13 21:42:12 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Oct 14 20:40:40 CDT 2026)
+
+- **Star spots mimic the proposed abundance signatures of planet formation**
+[https://arxiv.org/abs/2610.18509]
+  + Lily Zhao (5th author, Sagan Fellow)
+
+- **EDGE-INFERNO: The chemical signatures of assembly history in reionization fossils**
+[https://arxiv.org/abs/2610.18473]
+  + Alexander Ji (3th author, Senior Member)
+
+- **The EBLM project - XX. Absolute dynamical masses of five low-mass eclipsing binaries, and an evaluation of mass estimation methods**
+[https://arxiv.org/abs/2610.18339]
+  + David Martin (9th author, Graduate Student)
+
+- **The EBLM Project - XIX. The absence of radius inflation in a homogeneous analysis of 66 Northern low-mass eclipsing binaries**
+[https://arxiv.org/abs/2610.18338]
+  + David Martin (3th author, Graduate Student)
+
+- **An upper limit on Galactic OB+black hole binaries from SDSS-V**
+[https://arxiv.org/abs/2610.17253]
+  + Amanda Farah? (7th author, Graduate Student)
+
+- **A census of Dark Energy Survey Year 3 redMaPPer galaxy clusters in a high exposure eROSITA All Sky Survey region**
+[https://arxiv.org/abs/2610.16742]
+  + Joshua A. Frieman? (36th author, Chair)
+  + Marco Gatti? (38th author, KICP Fellow)
+  + Chun-Hao To? (62th author, Associate Fellow)
+
+- **The Simons Observatory: Frequency-resolved beam calibration for the SO SATs with POLOCALC**
+[https://arxiv.org/abs/2610.15913]
+  + Sara  Simon (28th author, Senior Associate)
+
+- **The $R$-Process Alliance: On J0010$-$1735, an Accreted, Chemically Unusual, Metal-poor Star with $R$-process Enhancement**
+[https://arxiv.org/abs/2610.14987]
+  + Alexander Ji (10th author, Senior Member)
+
+- **TDCOSMO 2026: new insights on the Hubble tension from strong lensing time delays**
+[https://arxiv.org/abs/2610.14881]
+  + Joshua A. Frieman (7th author, Chair)
+  + Anowar Shajib (21th author, KICP and Einstein Fellow)
+
+- **TDCOSMO 2026: A 3% measurement of the Hubble constant from strong lensing and stellar kinematics**
+[https://arxiv.org/abs/2610.14781]
+  + Joshua A. Frieman (7th author, Chair)
+  + Anowar Shajib (21th author, KICP and Einstein Fellow)
+
+- **A first view of interstellar Fe-bearing dust grains with XRISM**
+[https://arxiv.org/abs/2610.14172]
+  + Daniele Rogantini? (5th author, Margaret Burbidge Prize Postdoctoral Fellow)
+
+- **A Spectroscopic Census of Cluster White Dwarfs from DESI, LAMOST, and SDSS**
+[https://arxiv.org/abs/2610.14166]
+  + David Miller (1th author, Senior Member)
 
 - **A strategy for astrometric quasar selection with Gaia DR3 and its application to discover new luminous $z>2$ quasars**
 [https://arxiv.org/abs/2610.13742]
@@ -89,12 +141,4 @@
 - **Gravitational Waves and Nambu-Goldstone Bosons from Infrared-Finite Cosmic Strings**
 [https://arxiv.org/abs/2610.08254]
   + Keisuke Harigaya (3th author, Senior Member)
-
-- **Forming Molecular Hydrogen in a Galaxy Halo Through Star Formation Wind Interactions**
-[https://arxiv.org/abs/2610.06662]
-  + Hsiao-Wen Chen (7th author, Senior Member)
-
-- **Baryonic Imprints on DM Halos: characterizing the full concentration-mass probability distribution with CAMELS**
-[https://arxiv.org/abs/2610.03946]
-  + Dhayaa Anbajagane (2th author, Graduate Student)
 
