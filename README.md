@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 14 20:40:40 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Oct 14 21:43:20 CDT 2026)
 
 - **Star spots mimic the proposed abundance signatures of planet formation**
 [https://arxiv.org/abs/2610.18509]
@@ -114,31 +114,4 @@
   + Abigail Vieregg? (93th author, David N. Schramm Director and Senior Member)
   + Matthew Young? (98th author, Associate Fellow)
   + Jessica Zebrowski? (99th author, KICP and Einstein Fellow)
-
-- **Very Long Baseline Interferometry with the SKA Observatory**
-[https://arxiv.org/abs/2610.07743]
-  + Juliang Li? (69th author, Postdoctoral Scholar)
-  + Yunyang Li? (70th author, KICP Fellow)
-  + Yunyang Li? (71th author, KICP Fellow)
-
-- **A spatially resolved view of Fast Radio Burst host metallicities with Integral-field Spectroscopy**
-[https://arxiv.org/abs/2610.07325]
-  + Sunil Simha (1th author, Associate Fellow)
-  + Hsiao-Wen Chen (2th author, Senior Member)
-
-- **Spectroscopic Confirmation of the Milky Way Satellites Boötes V and Leo Minor I and the LMC Satellite DELVE 2: Three Small Ultra-Faint Dwarf Galaxies**
-[https://arxiv.org/abs/2610.07182]
-  + Alexander Ji? (8th author, Senior Member)
-  + Alex Drlica-Wagner? (9th author, Senior Member)
-  + Guilherme Limberg? (11th author, KICP Fellow)
-  + Chin Yi Tan? (23th author, Graduate Student)
-
-- **Enhancing the Interpretability of Radial Velocity Analysis Using Leave-one-out Cross-validation**
-[https://arxiv.org/abs/2610.07181]
-  + Ritvik Basant (2th author, Graduate Student)
-  + Rafael Luque (3th author, Postdoctoral Scholar)
-
-- **Gravitational Waves and Nambu-Goldstone Bosons from Infrared-Finite Cosmic Strings**
-[https://arxiv.org/abs/2610.08254]
-  + Keisuke Harigaya (3th author, Senior Member)
 
