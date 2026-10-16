@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 14 21:43:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Oct 15 20:39:56 CDT 2026)
 
 - **Star spots mimic the proposed abundance signatures of planet formation**
 [https://arxiv.org/abs/2610.18509]
