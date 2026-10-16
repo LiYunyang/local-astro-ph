@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Oct 15 20:39:56 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Oct 15 21:42:38 CDT 2026)
+
+- **A first look at the protoplanet WISPIT 2 b with VLTI/GRAVITY+**
+[https://arxiv.org/abs/2610.21629]
+  + Amanda Farah? (25th author, Graduate Student)
+
+- **EPRV Asteroseismology of the K dwarfs GJ 570 A and GJ 783 A with ESPRESSO. Empirical mode-amplitude scaling in tension with 3D convection simulations**
+[https://arxiv.org/abs/2610.20985]
+  + Yunyang Li? (3th author, KICP Fellow)
+
+- **Optimization of multi-resolution observation strategies for cosmic microwave background experiments**
+[https://arxiv.org/abs/2610.20929]
+  + Sara  Simon (1th author, Senior Associate)
 
 - **Star spots mimic the proposed abundance signatures of planet formation**
 [https://arxiv.org/abs/2610.18509]
@@ -76,42 +88,4 @@
 - **Atypical White Dwarfs in Open Clusters**
 [https://arxiv.org/abs/2610.10699]
   + David Miller (1th author, Senior Member)
-
-- **A relativistic inflow candidate in a quasar at cosmic noon**
-[https://arxiv.org/abs/2610.10267]
-  + Daniele Rogantini (15th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **Euclid Quick Data Release (Q1). Exploring the complexity of quenching processes across time, environment, and mass through recently quenched galaxies**
-[https://arxiv.org/abs/2610.08999]
-  + LianTao Wang? (18th author, Senior Member)
-
-- **Measuring the Clustering of tSZ-Selected Galaxy Clusters with SPT-3G**
-[https://arxiv.org/abs/2610.08947]
-  + Emily Martsen? (1th author, Graduate Student)
-  + Dhayaa Anbajagane? (2th author, Graduate Student)
-  + Lindsey Bleem? (3th author, Senior Associate)
-  + Bradford A. Benson? (4th author, Associate Professor)
-  + Adam Anderson? (6th author, Senior Associate)
-  + Melanie Archipley? (8th author, Associate Fellow)
-  + Amy Bender? (13th author, Senior Associate)
-  + John Carlstrom? (19th author, Senior Member)
-  + Chihway Chang? (21th author, Senior Member)
-  + Paul Chichura? (22th author, Graduate Student)
-  + Thomas Crawford? (26th author, Senior Researcher)
-  + Karia Dibert? (29th author, Graduate Student)
-  + Kyra Fichman? (36th author, Graduate Student)
-  + John Hood? (50th author, Associate Fellow)
-  + Alexander Hryciuk? (51th author, Graduate Student)
-  + Tanisha Jhaveri? (53th author, Graduate Student)
-  + Kayla Kornoelje? (58th author, Graduate Student)
-  + Yunyang Li? (62th author, KICP Fellow)
-  + Tyler Natoli? (72th author, Senior Researcher)
-  + Yuuki Omori? (73th author, Senior Researcher)
-  + Wei Quan? (79th author, Associate Fellow)
-  + Alexandra Rahlin? (81th author, Research Assistant Professor)
-  + Aidan Simpson? (86th author, Graduate Student)
-  + Joshua Sobrin? (87th author, Associate Fellow)
-  + Abigail Vieregg? (93th author, David N. Schramm Director and Senior Member)
-  + Matthew Young? (98th author, Associate Fellow)
-  + Jessica Zebrowski? (99th author, KICP and Einstein Fellow)
 
