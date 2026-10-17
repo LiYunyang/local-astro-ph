@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Oct 16 20:38:09 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Oct 16 21:40:54 CDT 2026)
 
 - **A first look at the protoplanet WISPIT 2 b with VLTI/GRAVITY+**
 [https://arxiv.org/abs/2610.21629]
