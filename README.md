@@ -1,6 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct 18 20:46:22 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Oct 18 21:45:59 CDT 2026)
+
+- **Flashing with colours: Photometric indicators of an early interaction in type II supernovae**
+[https://arxiv.org/abs/2610.23852]
+  + Huangyu Xiao? (20th author, Associate Fellow)
+
+- **$\texttt{GASTRO-BH}$: Effects of a Central Black Hole in GSE-like Dwarf-galaxy Mergers Around Milky Way-like Hosts**
+[https://arxiv.org/abs/2610.22860]
+  + Guilherme Limberg (3th author, KICP Fellow)
+
+- **The Occurrence of Circumbinary Planets Around TESS M-dwarf Eclipsing Binaries**
+[https://arxiv.org/abs/2610.22625]
+  + David Martin (3th author, Graduate Student)
+
+- **Combining Rubin and Roman photometry and its implications for photometric redshift estimation**
+[https://arxiv.org/abs/2610.22547]
+  + Chun-Hao To (3th author, Associate Fellow)
+  + Andrew Hearin (5th author, Senior Associate)
+  + Chihway Chang (7th author, Senior Member)
+
+- **Long-Lived Charge Trap Characterization for Rare-Event Searches with Skipper-CCDs**
+[https://arxiv.org/abs/2610.22418]
+  + Ana Martina Botti (2th author, Associate Fellow)
 
 - **A first look at the protoplanet WISPIT 2 b with VLTI/GRAVITY+**
 [https://arxiv.org/abs/2610.21629]
@@ -77,15 +99,4 @@
 - **Direct detection constraints on EFT operators for inelastic dark matter**
 [https://arxiv.org/abs/2610.12889]
   + Alex Thomas? (2th author, Graduate Student)
-
-- **Microwave Loss in Low-Temperature ICPCVD Silicon Nitride: Dependence on Precursor Ratio and RF Substrate Bias**
-[https://arxiv.org/abs/2610.10767]
-  + Hrushikesha  Athreya? (1th author, Graduate Student)
-  + James Cornelison? (2th author, Associate Fellow)
-  + Chihway Chang? (5th author, Senior Member)
-  + Jessica Zebrowski? (8th author, KICP and Einstein Fellow)
-
-- **Atypical White Dwarfs in Open Clusters**
-[https://arxiv.org/abs/2610.10699]
-  + David Miller (1th author, Senior Member)
 
