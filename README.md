@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 19 20:42:26 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Oct 19 21:43:55 CDT 2026)
 
 - **Flashing with colours: Photometric indicators of an early interaction in type II supernovae**
 [https://arxiv.org/abs/2610.23852]
