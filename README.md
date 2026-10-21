@@ -1,6 +1,35 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 19 21:43:55 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Oct 20 20:43:53 CDT 2026)
+
+- **Forecasting the Resolvability of Stellar Velocity Dispersions in Ultra-faint Dwarf Galaxies**
+[https://arxiv.org/abs/2610.24563]
+  + Pierre Thibodeaux (1th author, Graduate Student)
+  + Alex Drlica-Wagner (2th author, Senior Member)
+  + Alexander Ji (3th author, Senior Member)
+  + Chin Yi Tan (4th author, Graduate Student)
+
+- **Granulation in Color: The Chromatic Stellar Flicker of LTT-9779 and WASP-121**
+[https://arxiv.org/abs/2610.24550]
+  + Rafael Luque (4th author, Postdoctoral Scholar)
+
+- **A DECADE of Giants: A catalog of 42,000 optically identified galaxy clusters from 13,000 $\mathrm{deg}^2$ of the sky**
+[https://arxiv.org/abs/2610.24104]
+  + Dhayaa Anbajagane? (1th author, Graduate Student)
+  + Chun-Hao To? (2th author, Associate Fellow)
+  + Chihway Chang? (4th author, Senior Member)
+  + Alex Drlica-Wagner? (5th author, Senior Member)
+  + Marco Gatti? (15th author, KICP Fellow)
+  + Chin Yi Tan? (41th author, Graduate Student)
+
+- **Multimessenger Probes of Primordial Black Holes with Gravitational Wave and 21 cm Observations**
+[https://arxiv.org/abs/2610.24067]
+  + Leah Jenks (1th author, KICP Fellow)
+
+- **Extending SOMPZ beyond Spectroscopic Coverage for Roman Weak Lensing**
+[https://arxiv.org/abs/2610.24066]
+  + Chun-Hao To (2th author, Associate Fellow)
+  + Chihway Chang (5th author, Senior Member)
 
 - **Flashing with colours: Photometric indicators of an early interaction in type II supernovae**
 [https://arxiv.org/abs/2610.23852]
@@ -87,16 +116,4 @@
 - **A Spectroscopic Census of Cluster White Dwarfs from DESI, LAMOST, and SDSS**
 [https://arxiv.org/abs/2610.14166]
   + David Miller (1th author, Senior Member)
-
-- **A strategy for astrometric quasar selection with Gaia DR3 and its application to discover new luminous $z>2$ quasars**
-[https://arxiv.org/abs/2610.13742]
-  + Juliang Li? (1th author, Postdoctoral Scholar)
-
-- **A Relationship Between Fast Radio Burst Dispersion Measure and Host Galaxy Inclination**
-[https://arxiv.org/abs/2610.13062]
-  + Sunil Simha (3th author, Associate Fellow)
-
-- **Direct detection constraints on EFT operators for inelastic dark matter**
-[https://arxiv.org/abs/2610.12889]
-  + Alex Thomas? (2th author, Graduate Student)
 
