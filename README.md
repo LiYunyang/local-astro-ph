@@ -1,6 +1,51 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 20 20:43:53 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Oct 20 21:44:38 CDT 2026)
+
+- **Constraints on Millimeter-wave Extragalactic Transient Populations from 4 Years of SPT-3G data**
+[https://arxiv.org/abs/2610.28633]
+  + Dhayaa Anbajagane? (3th author, Graduate Student)
+  + Adam Anderson? (5th author, Senior Associate)
+  + Melanie Archipley? (7th author, Associate Fellow)
+  + Amy Bender? (11th author, Senior Associate)
+  + Bradford A. Benson? (12th author, Associate Professor)
+  + Lindsey Bleem? (14th author, Senior Associate)
+  + John Carlstrom? (19th author, Senior Member)
+  + Chihway Chang? (21th author, Senior Member)
+  + Paul Chichura? (22th author, Graduate Student)
+  + Thomas Crawford? (26th author, Senior Researcher)
+  + Karia Dibert? (29th author, Graduate Student)
+  + Kyra Fichman? (37th author, Graduate Student)
+  + John Hood? (49th author, Associate Fellow)
+  + Alexander Hryciuk? (50th author, Graduate Student)
+  + Tanisha Jhaveri? (52th author, Graduate Student)
+  + Kayla Kornoelje? (56th author, Graduate Student)
+  + Yunyang Li? (60th author, KICP Fellow)
+  + Emily Martsen? (66th author, Graduate Student)
+  + Tyler Natoli? (71th author, Senior Researcher)
+  + Yuuki Omori? (72th author, Senior Researcher)
+  + Wei Quan? (78th author, Associate Fellow)
+  + Alexandra Rahlin? (80th author, Research Assistant Professor)
+  + Aidan Simpson? (85th author, Graduate Student)
+  + Joshua Sobrin? (86th author, Associate Fellow)
+  + Abigail Vieregg? (92th author, David N. Schramm Director and Senior Member)
+  + Matthew Young? (97th author, Associate Fellow)
+  + Jessica Zebrowski? (98th author, KICP and Einstein Fellow)
+
+- **The "Rubin 2036: Opportunities for Discovery" Workshop: A Community Roadmap for the Future of the Vera C. Rubin Observatory After the LSST**
+[https://arxiv.org/abs/2610.28482]
+  + Lindsey Bleem (6th author, Senior Associate)
+  + Anirudh Chiti (14th author, Brinson Prize Fellow)
+  + Alex Drlica-Wagner (22th author, Senior Member)
+  + Chun-Hao To (69th author, Associate Fellow)
+
+- **P-ONE-1: the first detector line of the Pacific Ocean Neutrino Experiment**
+[https://arxiv.org/abs/2610.27415]
+  + Alexandra Rahlin? (75th author, Research Assistant Professor)
+
+- **A Natural Dark Matter-Dark Energy Interaction from Axion-Monopole Dynamics**
+[https://arxiv.org/abs/2610.27059]
+  + Huangyu Xiao (4th author, Associate Fellow)
 
 - **Forecasting the Resolvability of Stellar Velocity Dispersions in Ultra-faint Dwarf Galaxies**
 [https://arxiv.org/abs/2610.24563]
@@ -64,56 +109,4 @@
 - **Optimization of multi-resolution observation strategies for cosmic microwave background experiments**
 [https://arxiv.org/abs/2610.20929]
   + Sara  Simon (1th author, Senior Associate)
-
-- **Star spots mimic the proposed abundance signatures of planet formation**
-[https://arxiv.org/abs/2610.18509]
-  + Lily Zhao (5th author, Sagan Fellow)
-
-- **EDGE-INFERNO: The chemical signatures of assembly history in reionization fossils**
-[https://arxiv.org/abs/2610.18473]
-  + Alexander Ji (3th author, Senior Member)
-
-- **The EBLM project - XX. Absolute dynamical masses of five low-mass eclipsing binaries, and an evaluation of mass estimation methods**
-[https://arxiv.org/abs/2610.18339]
-  + David Martin (9th author, Graduate Student)
-
-- **The EBLM Project - XIX. The absence of radius inflation in a homogeneous analysis of 66 Northern low-mass eclipsing binaries**
-[https://arxiv.org/abs/2610.18338]
-  + David Martin (3th author, Graduate Student)
-
-- **An upper limit on Galactic OB+black hole binaries from SDSS-V**
-[https://arxiv.org/abs/2610.17253]
-  + Amanda Farah? (7th author, Graduate Student)
-
-- **A census of Dark Energy Survey Year 3 redMaPPer galaxy clusters in a high exposure eROSITA All Sky Survey region**
-[https://arxiv.org/abs/2610.16742]
-  + Joshua A. Frieman? (36th author, Chair)
-  + Marco Gatti? (38th author, KICP Fellow)
-  + Chun-Hao To? (62th author, Associate Fellow)
-
-- **The Simons Observatory: Frequency-resolved beam calibration for the SO SATs with POLOCALC**
-[https://arxiv.org/abs/2610.15913]
-  + Sara  Simon (28th author, Senior Associate)
-
-- **The $R$-Process Alliance: On J0010$-$1735, an Accreted, Chemically Unusual, Metal-poor Star with $R$-process Enhancement**
-[https://arxiv.org/abs/2610.14987]
-  + Alexander Ji (10th author, Senior Member)
-
-- **TDCOSMO 2026: new insights on the Hubble tension from strong lensing time delays**
-[https://arxiv.org/abs/2610.14881]
-  + Joshua A. Frieman (7th author, Chair)
-  + Anowar Shajib (21th author, KICP and Einstein Fellow)
-
-- **TDCOSMO 2026: A 3% measurement of the Hubble constant from strong lensing and stellar kinematics**
-[https://arxiv.org/abs/2610.14781]
-  + Joshua A. Frieman (7th author, Chair)
-  + Anowar Shajib (21th author, KICP and Einstein Fellow)
-
-- **A first view of interstellar Fe-bearing dust grains with XRISM**
-[https://arxiv.org/abs/2610.14172]
-  + Daniele Rogantini? (5th author, Margaret Burbidge Prize Postdoctoral Fellow)
-
-- **A Spectroscopic Census of Cluster White Dwarfs from DESI, LAMOST, and SDSS**
-[https://arxiv.org/abs/2610.14166]
-  + David Miller (1th author, Senior Member)
 
