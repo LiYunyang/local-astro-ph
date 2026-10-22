@@ -1,6 +1,39 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 21 20:42:42 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Oct 21 21:44:41 CDT 2026)
+
+- **PBR sensitivity to boosted dark matter explanation for the KM3-230213A event**
+[https://arxiv.org/abs/2610.29942]
+  + George Filippatos? (40th author, Associate Fellow)
+  + Stephan Meyer? (69th author, Senior Member)
+  + Angela Olinto? (78th author, Senior Member)
+
+- **Cosmic Ray Observations using Coincident Scintillator and Radio Signals with the Beamforming Elevated Array for COsmic Neutrinos (BEACON)**
+[https://arxiv.org/abs/2610.29923]
+  + Zachary Martin (1th author, Graduate Student)
+  + Cosmin Deaconu (9th author, Senior Researcher)
+  + Eric Oberla (16th author, Senior Researcher)
+  + Abigail Vieregg (19th author, David N. Schramm Director and Senior Member)
+
+- **Euclid Quick Data Release (Q1). The metallicity of the intracluster light**
+[https://arxiv.org/abs/2610.29686]
+  + Alex Alarcon Gonzalez? (20th author, CASE Associate)
+
+- **Euclid Quick Data Release (Q1). A systematic study of the intracluster light fraction at 0.2 < z < 1.5**
+[https://arxiv.org/abs/2610.29684]
+  + Alex Alarcon Gonzalez? (10th author, CASE Associate)
+
+- **Euclid Quick Data Release (Q1). The shape of cluster haloes revealed by intracluster light**
+[https://arxiv.org/abs/2610.29683]
+  + Alex Alarcon Gonzalez? (16th author, CASE Associate)
+
+- **Euclid Quick Data Release (Q1). Data processing for intracluster light measurements**
+[https://arxiv.org/abs/2610.29682]
+  + Alex Alarcon Gonzalez? (10th author, CASE Associate)
+
+- **Unveiling the correlation between the UV 2175 Å dust attenuation bump, PAH emission, and gas-phase metallicity at cosmic noon**
+[https://arxiv.org/abs/2610.28743]
+  + Francisco Rodriguez Montero? (7th author, KICP Fellow)
 
 - **Constraints on Millimeter-wave Extragalactic Transient Populations from 4 Years of SPT-3G data**
 [https://arxiv.org/abs/2610.28633]
