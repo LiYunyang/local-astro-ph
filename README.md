@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 20 21:44:38 CDT 2026)
+## Latest Astro-ph Papers (Generated on Wed Oct 21 20:42:42 CDT 2026)
 
 - **Constraints on Millimeter-wave Extragalactic Transient Populations from 4 Years of SPT-3G data**
 [https://arxiv.org/abs/2610.28633]
