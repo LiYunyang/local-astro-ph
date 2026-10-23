@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Oct 22 20:45:14 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Oct 22 21:45:29 CDT 2026)
+
+- **Search for Ultra-Relativistic Magnetic Monopoles with LHAASO-KM2A**
+[https://arxiv.org/abs/2610.30968]
+  + Hsiao-Wen Chen? (18th author, Senior Member)
+
+- **The coupled impacts of atmospheric dynamics and cloud microphysics on hot Jupiter atmospheres. I. An application to WASP-43b**
+[https://arxiv.org/abs/2610.30243]
+  + Diana Powell (9th author, Assistant Professor)
 
 - **PBR sensitivity to boosted dark matter explanation for the KM3-230213A event**
 [https://arxiv.org/abs/2610.29942]
@@ -130,16 +138,4 @@
 - **Long-Lived Charge Trap Characterization for Rare-Event Searches with Skipper-CCDs**
 [https://arxiv.org/abs/2610.22418]
   + Ana Martina Botti (2th author, Associate Fellow)
-
-- **A first look at the protoplanet WISPIT 2 b with VLTI/GRAVITY+**
-[https://arxiv.org/abs/2610.21629]
-  + Amanda Farah? (25th author, Graduate Student)
-
-- **EPRV Asteroseismology of the K dwarfs GJ 570 A and GJ 783 A with ESPRESSO. Empirical mode-amplitude scaling in tension with 3D convection simulations**
-[https://arxiv.org/abs/2610.20985]
-  + Yunyang Li? (3th author, KICP Fellow)
-
-- **Optimization of multi-resolution observation strategies for cosmic microwave background experiments**
-[https://arxiv.org/abs/2610.20929]
-  + Sara  Simon (1th author, Senior Associate)
 
