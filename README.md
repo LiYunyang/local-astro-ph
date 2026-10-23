@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Oct 21 21:44:41 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Oct 22 20:45:14 CDT 2026)
 
 - **PBR sensitivity to boosted dark matter explanation for the KM3-230213A event**
 [https://arxiv.org/abs/2610.29942]
