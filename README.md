@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Fri Oct 23 20:42:01 CDT 2026)
+## Latest Astro-ph Papers (Generated on Fri Oct 23 21:42:53 CDT 2026)
 
 - **Search for Ultra-Relativistic Magnetic Monopoles with LHAASO-KM2A**
 [https://arxiv.org/abs/2610.30968]
