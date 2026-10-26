@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct 25 20:47:16 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Oct 25 21:49:20 CDT 2026)
+
+- **Semi-Analytic Predictions for Strong-Lensing Perturbers in Cold and Self-Interacting Dark Matter**
+[https://arxiv.org/abs/2610.31881]
+  + Daniel Gilman (5th author, Associate Fellow)
 
 - **Search for Ultra-Relativistic Magnetic Monopoles with LHAASO-KM2A**
 [https://arxiv.org/abs/2610.30968]
@@ -116,26 +120,4 @@
 [https://arxiv.org/abs/2610.24066]
   + Chun-Hao To (2th author, Associate Fellow)
   + Chihway Chang (5th author, Senior Member)
-
-- **Flashing with colours: Photometric indicators of an early interaction in type II supernovae**
-[https://arxiv.org/abs/2610.23852]
-  + Huangyu Xiao? (20th author, Associate Fellow)
-
-- **$\texttt{GASTRO-BH}$: Effects of a Central Black Hole in GSE-like Dwarf-galaxy Mergers Around Milky Way-like Hosts**
-[https://arxiv.org/abs/2610.22860]
-  + Guilherme Limberg (3th author, KICP Fellow)
-
-- **The Occurrence of Circumbinary Planets Around TESS M-dwarf Eclipsing Binaries**
-[https://arxiv.org/abs/2610.22625]
-  + David Martin (3th author, Graduate Student)
-
-- **Combining Rubin and Roman photometry and its implications for photometric redshift estimation**
-[https://arxiv.org/abs/2610.22547]
-  + Chun-Hao To (3th author, Associate Fellow)
-  + Andrew Hearin (5th author, Senior Associate)
-  + Chihway Chang (7th author, Senior Member)
-
-- **Long-Lived Charge Trap Characterization for Rare-Event Searches with Skipper-CCDs**
-[https://arxiv.org/abs/2610.22418]
-  + Ana Martina Botti (2th author, Associate Fellow)
 
