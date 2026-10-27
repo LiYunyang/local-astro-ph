@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Oct 25 21:49:20 CDT 2026)
+## Latest Astro-ph Papers (Generated on Mon Oct 26 20:48:10 CDT 2026)
 
 - **Semi-Analytic Predictions for Strong-Lensing Perturbers in Cold and Self-Interacting Dark Matter**
 [https://arxiv.org/abs/2610.31881]
