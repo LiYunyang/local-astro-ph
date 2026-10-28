@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Oct 27 20:32:25 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Oct 27 21:35:52 CDT 2026)
+
+- **The Cosmic Ultraviolet Baryon Survey X: Density and Pressure Profiles of Clumpy Circumgalactic Gas at $z=0.4-0.7$**
+[https://arxiv.org/abs/2610.36088]
+  + Suyash Kumar (1th author, Graduate Student)
+  + Hsiao-Wen Chen (2th author, Senior Member)
+  + Zhijie Qu (4th author, Postdoctoral Scholar)
+
+- **The SIRMOS mission concept: a space-based near-IR spectroscopic survey of 100 million galaxies in the Euclid Wide Survey footprint**
+[https://arxiv.org/abs/2610.35945]
+  + Andrew Hearin (28th author, Senior Associate)
 
 - **Mapping the Milky Way with SDSS-V: Galactic Genesis Selection Function and Mock Catalog**
 [https://arxiv.org/abs/2610.35713]
@@ -80,49 +90,4 @@
 - **Unveiling the correlation between the UV 2175 Å dust attenuation bump, PAH emission, and gas-phase metallicity at cosmic noon**
 [https://arxiv.org/abs/2610.28743]
   + Francisco Rodriguez Montero? (7th author, KICP Fellow)
-
-- **Constraints on Millimeter-wave Extragalactic Transient Populations from 4 Years of SPT-3G data**
-[https://arxiv.org/abs/2610.28633]
-  + Dhayaa Anbajagane? (3th author, Graduate Student)
-  + Adam Anderson? (5th author, Senior Associate)
-  + Melanie Archipley? (7th author, Associate Fellow)
-  + Amy Bender? (11th author, Senior Associate)
-  + Bradford A. Benson? (12th author, Associate Professor)
-  + Lindsey Bleem? (14th author, Senior Associate)
-  + John Carlstrom? (19th author, Senior Member)
-  + Chihway Chang? (21th author, Senior Member)
-  + Paul Chichura? (22th author, Graduate Student)
-  + Thomas Crawford? (26th author, Senior Researcher)
-  + Karia Dibert? (29th author, Graduate Student)
-  + Kyra Fichman? (37th author, Graduate Student)
-  + John Hood? (49th author, Associate Fellow)
-  + Alexander Hryciuk? (50th author, Graduate Student)
-  + Tanisha Jhaveri? (52th author, Graduate Student)
-  + Kayla Kornoelje? (56th author, Graduate Student)
-  + Yunyang Li? (60th author, KICP Fellow)
-  + Emily Martsen? (66th author, Graduate Student)
-  + Tyler Natoli? (71th author, Senior Researcher)
-  + Yuuki Omori? (72th author, Senior Researcher)
-  + Wei Quan? (78th author, Associate Fellow)
-  + Alexandra Rahlin? (80th author, Research Assistant Professor)
-  + Aidan Simpson? (85th author, Graduate Student)
-  + Joshua Sobrin? (86th author, Associate Fellow)
-  + Abigail Vieregg? (92th author, David N. Schramm Director and Senior Member)
-  + Matthew Young? (97th author, Associate Fellow)
-  + Jessica Zebrowski? (98th author, KICP and Einstein Fellow)
-
-- **The "Rubin 2036: Opportunities for Discovery" Workshop: A Community Roadmap for the Future of the Vera C. Rubin Observatory After the LSST**
-[https://arxiv.org/abs/2610.28482]
-  + Lindsey Bleem (6th author, Senior Associate)
-  + Anirudh Chiti (14th author, Brinson Prize Fellow)
-  + Alex Drlica-Wagner (22th author, Senior Member)
-  + Chun-Hao To (69th author, Associate Fellow)
-
-- **P-ONE-1: the first detector line of the Pacific Ocean Neutrino Experiment**
-[https://arxiv.org/abs/2610.27415]
-  + Alexandra Rahlin? (75th author, Research Assistant Professor)
-
-- **A Natural Dark Matter-Dark Energy Interaction from Axion-Monopole Dynamics**
-[https://arxiv.org/abs/2610.27059]
-  + Huangyu Xiao (4th author, Associate Fellow)
 
