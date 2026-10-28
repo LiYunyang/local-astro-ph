@@ -1,6 +1,40 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Oct 26 21:45:56 CDT 2026)
+## Latest Astro-ph Papers (Generated on Tue Oct 27 20:32:25 CDT 2026)
+
+- **Mapping the Milky Way with SDSS-V: Galactic Genesis Selection Function and Mock Catalog**
+[https://arxiv.org/abs/2610.35713]
+  + Alexander Ji (5th author, Senior Member)
+
+- **The design and flight of the Payload for Ultrahigh Energy Observations (PUEO)**
+[https://arxiv.org/abs/2610.35675]
+  + Shrihan Agarwal? (3th author, Graduate Student)
+  + Cosmin Deaconu? (27th author, Senior Researcher)
+  + Anna Kofman? (36th author, Associate Fellow)
+  + Scott Mackey? (44th author, Graduate Student)
+  + Zachary Martin? (45th author, Graduate Student)
+  + Keith McBride? (46th author, Associate Fellow)
+  + Eric Oberla? (53th author, Senior Researcher)
+  + Rachel Scrandis? (57th author, Graduate Student)
+  + Abigail Vieregg? (63th author, David N. Schramm Director and Senior Member)
+  + Christoph Welling? (66th author, KICP Fellow)
+  + Philipp Windischhofer? (67th author, Associate Fellow)
+
+- **Radio view of the Peanut cluster: merger-induced stripping and a radio halo shortly after pericentric passage**
+[https://arxiv.org/abs/2610.34667]
+  + Irina Zhuravleva? (14th author, Assistant Professor)
+
+- **Core-Collapse Supernovae from Single and Binary-Stripped Massive Stars - I. Explodability and Nucleosynthesis**
+[https://arxiv.org/abs/2610.33954]
+  + Alexander Ji? (5th author, Senior Member)
+
+- **Experimental Evidence for Reflected Ions and Ion Temperature Anisotropy in a Forming Supercritical Magnetized Collisionless Shock**
+[https://arxiv.org/abs/2610.34058]
+  + Kenichi Sakai? (64th author, Research Scientist)
+
+- **Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest**
+[https://arxiv.org/abs/2610.34057]
+  + Kenichi Sakai? (64th author, Research Scientist)
 
 - **Semi-Analytic Predictions for Strong-Lensing Perturbers in Cold and Self-Interacting Dark Matter**
 [https://arxiv.org/abs/2610.31881]
@@ -91,33 +125,4 @@
 - **A Natural Dark Matter-Dark Energy Interaction from Axion-Monopole Dynamics**
 [https://arxiv.org/abs/2610.27059]
   + Huangyu Xiao (4th author, Associate Fellow)
-
-- **Forecasting the Resolvability of Stellar Velocity Dispersions in Ultra-faint Dwarf Galaxies**
-[https://arxiv.org/abs/2610.24563]
-  + Pierre Thibodeaux (1th author, Graduate Student)
-  + Alex Drlica-Wagner (2th author, Senior Member)
-  + Alexander Ji (3th author, Senior Member)
-  + Chin Yi Tan (4th author, Graduate Student)
-
-- **Granulation in Color: The Chromatic Stellar Flicker of LTT-9779 and WASP-121**
-[https://arxiv.org/abs/2610.24550]
-  + Rafael Luque (4th author, Postdoctoral Scholar)
-
-- **A DECADE of Giants: A catalog of 42,000 optically identified galaxy clusters from 13,000 $\mathrm{deg}^2$ of the sky**
-[https://arxiv.org/abs/2610.24104]
-  + Dhayaa Anbajagane? (1th author, Graduate Student)
-  + Chun-Hao To? (2th author, Associate Fellow)
-  + Chihway Chang? (4th author, Senior Member)
-  + Alex Drlica-Wagner? (5th author, Senior Member)
-  + Marco Gatti? (15th author, KICP Fellow)
-  + Chin Yi Tan? (41th author, Graduate Student)
-
-- **Multimessenger Probes of Primordial Black Holes with Gravitational Wave and 21 cm Observations**
-[https://arxiv.org/abs/2610.24067]
-  + Leah Jenks (1th author, KICP Fellow)
-
-- **Extending SOMPZ beyond Spectroscopic Coverage for Roman Weak Lensing**
-[https://arxiv.org/abs/2610.24066]
-  + Chun-Hao To (2th author, Associate Fellow)
-  + Chihway Chang (5th author, Senior Member)
 
