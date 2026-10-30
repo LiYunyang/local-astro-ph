@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Oct 29 20:32:28 CDT 2026)
+## Latest Astro-ph Papers (Generated on Thu Oct 29 21:36:24 CDT 2026)
 
 - **The Cosmic Ultraviolet Baryon Survey X: Density and Pressure Profiles of Clumpy Circumgalactic Gas at $z=0.4-0.7$**
 [https://arxiv.org/abs/2610.36088]
