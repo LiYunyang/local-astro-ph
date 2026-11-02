@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Oct 31 21:33:45 CDT 2026)
+## Latest Astro-ph Papers (Generated on Sun Nov  1 19:31:43 CST 2026)
 
 - **Dust growth in the early Universe: insight from the NewCluster spin-off simulation**
 [https://arxiv.org/abs/2610.39683]
