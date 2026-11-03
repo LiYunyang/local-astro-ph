@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov  1 20:34:08 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Nov  2 19:31:42 CST 2026)
+
+- **Cosmology with post-EoR 21 cm Intensity Mapping surveys: power spectrum measurements in the last decade**
+[https://arxiv.org/abs/2610.41940]
+  + Albert Stebbins (3th author, Senior Associate)
+
+- **Identifying a High-confidence Candidate of Stellar Coronal Mass Ejection on an M~dwarf**
+[https://arxiv.org/abs/2610.41452]
+  + LianTao Wang? (5th author, Senior Member)
+
+- **Hints of self-interacting dark matter from strong gravitational lensing**
+[https://arxiv.org/abs/2610.40766]
+  + Daniel Gilman (1th author, Associate Fellow)
 
 - **Dust growth in the early Universe: insight from the NewCluster spin-off simulation**
 [https://arxiv.org/abs/2610.39683]
@@ -66,12 +78,4 @@
 - **Semi-Analytic Predictions for Strong-Lensing Perturbers in Cold and Self-Interacting Dark Matter**
 [https://arxiv.org/abs/2610.31881]
   + Daniel Gilman (5th author, Associate Fellow)
-
-- **Search for Ultra-Relativistic Magnetic Monopoles with LHAASO-KM2A**
-[https://arxiv.org/abs/2610.30968]
-  + Hsiao-Wen Chen? (18th author, Senior Member)
-
-- **The coupled impacts of atmospheric dynamics and cloud microphysics on hot Jupiter atmospheres. I. An application to WASP-43b**
-[https://arxiv.org/abs/2610.30243]
-  + Diana Powell (9th author, Assistant Professor)
 
