@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov  2 19:31:42 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Nov  2 20:34:00 CST 2026)
 
 - **Cosmology with post-EoR 21 cm Intensity Mapping surveys: power spectrum measurements in the last decade**
 [https://arxiv.org/abs/2610.41940]
