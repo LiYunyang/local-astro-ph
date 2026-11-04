@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov  2 20:34:00 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Nov  3 19:31:40 CST 2026)
+
+- **Baryonic feedback and intrinsic alignments in profile: a frequentist view of DES Y3 cosmic shear**
+[https://arxiv.org/abs/2611.03537]
+  + Tanvi Karwal (3th author, KICP Fellow)
+
+- **Solar Wind Turbulence Spectra and Correlation Scale from 4 to 50 $r_\odot$: STEREO and PUNCH Observations**
+[https://arxiv.org/abs/2611.03328]
+  + Donald Lamb? (16th author, Senior Associate)
+
+- **Planet-gap-induced ice lines form observable dust rings in protoplanetary disks**
+[https://arxiv.org/abs/2611.02485]
+  + Tommy Chi Ho Lau (2th author, Postdoctoral Scholar)
+
+- **A multiprobe $Λ$CDM consistency analysis with gravitational-wave standard sirens**
+[https://arxiv.org/abs/2611.00415]
+  + Chihway Chang? (13th author, Senior Member)
 
 - **Cosmology with post-EoR 21 cm Intensity Mapping surveys: power spectrum measurements in the last decade**
 [https://arxiv.org/abs/2610.41940]
@@ -74,8 +90,4 @@
 - **Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest**
 [https://arxiv.org/abs/2610.34057]
   + Kenichi Sakai? (64th author, Research Scientist)
-
-- **Semi-Analytic Predictions for Strong-Lensing Perturbers in Cold and Self-Interacting Dark Matter**
-[https://arxiv.org/abs/2610.31881]
-  + Daniel Gilman (5th author, Associate Fellow)
 
