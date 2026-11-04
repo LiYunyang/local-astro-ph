@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov  3 19:31:40 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Nov  3 20:34:19 CST 2026)
 
 - **Baryonic feedback and intrinsic alignments in profile: a frequentist view of DES Y3 cosmic shear**
 [https://arxiv.org/abs/2611.03537]
