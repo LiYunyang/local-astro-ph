@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov  4 19:31:43 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Nov  4 20:33:57 CST 2026)
 
 - **Response to "Late Time Dynamical Dark Energy and the CMB-Distance Ladder Tension"**
 [https://arxiv.org/abs/2611.05199]
