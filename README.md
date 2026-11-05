@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov  3 20:34:19 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Nov  4 19:31:43 CST 2026)
+
+- **Response to "Late Time Dynamical Dark Energy and the CMB-Distance Ladder Tension"**
+[https://arxiv.org/abs/2611.05199]
+  + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
+
+- **Stress-Testing Small-Scale Cosmological Inference With Empirical Galaxy--Halo Connection Models**
+[https://arxiv.org/abs/2611.04419]
+  + Andrew Hearin (4th author, Senior Associate)
 
 - **Baryonic feedback and intrinsic alignments in profile: a frequentist view of DES Y3 cosmic shear**
 [https://arxiv.org/abs/2611.03537]
@@ -56,38 +64,4 @@
 - **The SIRMOS mission concept: a space-based near-IR spectroscopic survey of 100 million galaxies in the Euclid Wide Survey footprint**
 [https://arxiv.org/abs/2610.35945]
   + Andrew Hearin (28th author, Senior Associate)
-
-- **Mapping the Milky Way with SDSS-V: Galactic Genesis Selection Function and Mock Catalog**
-[https://arxiv.org/abs/2610.35713]
-  + Alexander Ji (5th author, Senior Member)
-
-- **The design and flight of the Payload for Ultrahigh Energy Observations (PUEO)**
-[https://arxiv.org/abs/2610.35675]
-  + Shrihan Agarwal? (3th author, Graduate Student)
-  + Cosmin Deaconu? (27th author, Senior Researcher)
-  + Anna Kofman? (36th author, Associate Fellow)
-  + Scott Mackey? (44th author, Graduate Student)
-  + Zachary Martin? (45th author, Graduate Student)
-  + Keith McBride? (46th author, Associate Fellow)
-  + Eric Oberla? (53th author, Senior Researcher)
-  + Rachel Scrandis? (57th author, Graduate Student)
-  + Abigail Vieregg? (63th author, David N. Schramm Director and Senior Member)
-  + Christoph Welling? (66th author, KICP Fellow)
-  + Philipp Windischhofer? (67th author, Associate Fellow)
-
-- **Radio view of the Peanut cluster: merger-induced stripping and a radio halo shortly after pericentric passage**
-[https://arxiv.org/abs/2610.34667]
-  + Irina Zhuravleva? (14th author, Assistant Professor)
-
-- **Core-Collapse Supernovae from Single and Binary-Stripped Massive Stars - I. Explodability and Nucleosynthesis**
-[https://arxiv.org/abs/2610.33954]
-  + Alexander Ji? (5th author, Senior Member)
-
-- **Experimental Evidence for Reflected Ions and Ion Temperature Anisotropy in a Forming Supercritical Magnetized Collisionless Shock**
-[https://arxiv.org/abs/2610.34058]
-  + Kenichi Sakai? (64th author, Research Scientist)
-
-- **Identification of rippling interface between laser-ablated plasma and ambient uniform plasma at rest**
-[https://arxiv.org/abs/2610.34057]
-  + Kenichi Sakai? (64th author, Research Scientist)
 
