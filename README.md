@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov  5 19:32:32 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Nov  5 20:34:23 CST 2026)
 
 - **Euclid: Survey mask effects on clustering of galaxy clusters**
 [https://arxiv.org/abs/2611.06304]
