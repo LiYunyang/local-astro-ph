@@ -1,6 +1,22 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov  4 20:33:57 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Nov  5 19:32:32 CST 2026)
+
+- **Euclid: Survey mask effects on clustering of galaxy clusters**
+[https://arxiv.org/abs/2611.06304]
+  + Alberto Castellano Mora? (87th author, Associate Fellow)
+
+- **DESI DR2 Results III: The Mass of the Milky Way**
+[https://arxiv.org/abs/2611.05518]
+  + Stephen Kent? (59th author, CASE Associate)
+
+- **CosmoVerse Data Challenge: How Tip of the Red Giant Branch Analysis Choices Shape the Inferred Hubble Constant**
+[https://arxiv.org/abs/2611.05468]
+  + Kayla Owens (4th author, Graduate Student)
+
+- **The Cosmology of Hawking Axions**
+[https://arxiv.org/abs/2611.05747]
+  + Gordan Krnjaic (2th author, Senior Member)
 
 - **Response to "Late Time Dynamical Dark Energy and the CMB-Distance Ladder Tension"**
 [https://arxiv.org/abs/2611.05199]
@@ -54,14 +70,4 @@
 [https://arxiv.org/abs/2610.37752]
   + Joann Jones (1th author, Graduate Student)
   + Scott Dodelson (3th author, Senior Associate)
-
-- **The Cosmic Ultraviolet Baryon Survey X: Density and Pressure Profiles of Clumpy Circumgalactic Gas at $z=0.4-0.7$**
-[https://arxiv.org/abs/2610.36088]
-  + Suyash Kumar (1th author, Graduate Student)
-  + Hsiao-Wen Chen (2th author, Senior Member)
-  + Zhijie Qu (4th author, Postdoctoral Scholar)
-
-- **The SIRMOS mission concept: a space-based near-IR spectroscopic survey of 100 million galaxies in the Euclid Wide Survey footprint**
-[https://arxiv.org/abs/2610.35945]
-  + Andrew Hearin (28th author, Senior Associate)
 
