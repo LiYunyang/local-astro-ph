@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov  5 20:34:23 CST 2026)
+## Latest Astro-ph Papers (Generated on Fri Nov  6 19:31:34 CST 2026)
+
+- **High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array**
+[https://arxiv.org/abs/2611.07363]
+  + LianTao Wang? (24th author, Senior Member)
+
+- **Dust Survival in Lensed Quiescent Galaxies at $z>1$ Depends on How They Quench**
+[https://arxiv.org/abs/2611.07237]
+  + Michael D. Gladders (4th author, Professor)
+
+- **Why a Multi-Cycle Treasury Program is Essential to Maximize JWST's Scientific Contributions to Galaxy Formation**
+[https://arxiv.org/abs/2611.07027]
+  + Harley Katz (18th author, Senior Member)
+
+- **Black Hole Seeds and Little Red Dots: Connecting Formation and Growth with a JWST Multi-Cycle Treasury Program**
+[https://arxiv.org/abs/2611.07006]
+  + Harley Katz (3th author, Senior Member)
+
+- **First broadband search for fixed-polarization dark photon dark matter with GigaBREAD**
+[https://arxiv.org/abs/2611.07426]
+  + David Miller (6th author, Senior Member)
 
 - **Euclid: Survey mask effects on clustering of galaxy clusters**
 [https://arxiv.org/abs/2611.06304]
@@ -53,21 +73,4 @@
 - **Hints of self-interacting dark matter from strong gravitational lensing**
 [https://arxiv.org/abs/2610.40766]
   + Daniel Gilman (1th author, Associate Fellow)
-
-- **Dust growth in the early Universe: insight from the NewCluster spin-off simulation**
-[https://arxiv.org/abs/2610.39683]
-  + Francisco Rodriguez Montero (3th author, KICP Fellow)
-
-- **Towards constraining cosmology with HI--galaxy cross-correlations from MeerKLASS**
-[https://arxiv.org/abs/2610.38733]
-  + Yunyang Li? (13th author, KICP Fellow)
-
-- **Shock detection in meshless finite mass hydrodynamic schemes**
-[https://arxiv.org/abs/2610.38700]
-  + Damiano Caprioli (4th author, Associate Professor)
-
-- **Disentangling constraints on $S_8$ from the high and low redshift CMB**
-[https://arxiv.org/abs/2610.37752]
-  + Joann Jones (1th author, Graduate Student)
-  + Scott Dodelson (3th author, Senior Associate)
 
