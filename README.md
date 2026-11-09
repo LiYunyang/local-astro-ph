@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov  8 19:31:43 CST 2026)
+## Latest Astro-ph Papers (Generated on Sun Nov  8 20:34:00 CST 2026)
 
 - **High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array**
 [https://arxiv.org/abs/2611.07363]
