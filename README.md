@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov  8 20:34:00 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Nov  9 19:31:40 CST 2026)
+
+- **Lessons from double-plane lenses for galaxy profiles, the Hubble tension, and the mass-sheet degeneracy**
+[https://arxiv.org/abs/2611.09856]
+  + Daniel Gilman (10th author, Associate Fellow)
 
 - **High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array**
 [https://arxiv.org/abs/2611.07363]
@@ -61,16 +65,4 @@
 - **A multiprobe $Λ$CDM consistency analysis with gravitational-wave standard sirens**
 [https://arxiv.org/abs/2611.00415]
   + Chihway Chang? (13th author, Senior Member)
-
-- **Cosmology with post-EoR 21 cm Intensity Mapping surveys: power spectrum measurements in the last decade**
-[https://arxiv.org/abs/2610.41940]
-  + Albert Stebbins (3th author, Senior Associate)
-
-- **Identifying a High-confidence Candidate of Stellar Coronal Mass Ejection on an M~dwarf**
-[https://arxiv.org/abs/2610.41452]
-  + LianTao Wang? (5th author, Senior Member)
-
-- **Hints of self-interacting dark matter from strong gravitational lensing**
-[https://arxiv.org/abs/2610.40766]
-  + Daniel Gilman (1th author, Associate Fellow)
 
