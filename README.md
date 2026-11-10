@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov  9 19:31:40 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Nov  9 20:33:34 CST 2026)
 
 - **Lessons from double-plane lenses for galaxy profiles, the Hubble tension, and the mass-sheet degeneracy**
 [https://arxiv.org/abs/2611.09856]
