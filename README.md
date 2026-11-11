@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 10 19:31:42 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Nov 10 20:33:57 CST 2026)
 
 - **AGN Feedback Turbulence in Cool-core Clusters: Evidence from XRISM**
 [https://arxiv.org/abs/2611.12845]
