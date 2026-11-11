@@ -1,6 +1,28 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov  9 20:33:34 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Nov 10 19:31:42 CST 2026)
+
+- **AGN Feedback Turbulence in Cool-core Clusters: Evidence from XRISM**
+[https://arxiv.org/abs/2611.12845]
+  + Irina Zhuravleva (3th author, Assistant Professor)
+  + Hannah McCall (4th author, Graduate Student)
+  + Annie Heinrich (5th author, Graduate Student)
+
+- **The Cool Circumgalactic Echo of the Stellar-to-Halo Mass Relatio**
+[https://arxiv.org/abs/2611.12734]
+  + Zhijie Qu (7th author, Postdoctoral Scholar)
+
+- **A DOLPHOT/Euclid Study of the Resolved, Faint Outer Milky Way Globular Cluster AM-1**
+[https://arxiv.org/abs/2611.10127]
+  + Abigail Lee (5th author, Graduate Student)
+
+- **What observations are needed to advance our theoretical understanding of galaxy formation at high redshift?**
+[https://arxiv.org/abs/2611.10102]
+  + Harley Katz? (1th author, Senior Member)
+  + Agustin Lapi? (56th author, Associate Fellow)
+  + Ava Polzin? (72th author, Graduate Student)
+  + Francisco Rodriguez Montero? (78th author, KICP Fellow)
+  + Roy Zhao? (100th author, Graduate Student)
 
 - **Lessons from double-plane lenses for galaxy profiles, the Hubble tension, and the mass-sheet degeneracy**
 [https://arxiv.org/abs/2611.09856]
@@ -49,20 +71,4 @@
 - **Stress-Testing Small-Scale Cosmological Inference With Empirical Galaxy--Halo Connection Models**
 [https://arxiv.org/abs/2611.04419]
   + Andrew Hearin (4th author, Senior Associate)
-
-- **Baryonic feedback and intrinsic alignments in profile: a frequentist view of DES Y3 cosmic shear**
-[https://arxiv.org/abs/2611.03537]
-  + Tanvi Karwal (3th author, KICP Fellow)
-
-- **Solar Wind Turbulence Spectra and Correlation Scale from 4 to 50 $r_\odot$: STEREO and PUNCH Observations**
-[https://arxiv.org/abs/2611.03328]
-  + Donald Lamb? (16th author, Senior Associate)
-
-- **Planet-gap-induced ice lines form observable dust rings in protoplanetary disks**
-[https://arxiv.org/abs/2611.02485]
-  + Tommy Chi Ho Lau (2th author, Postdoctoral Scholar)
-
-- **A multiprobe $Λ$CDM consistency analysis with gravitational-wave standard sirens**
-[https://arxiv.org/abs/2611.00415]
-  + Chihway Chang? (13th author, Senior Member)
 
