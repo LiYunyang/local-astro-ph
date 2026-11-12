@@ -1,6 +1,26 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 10 20:33:57 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Nov 11 19:32:09 CST 2026)
+
+- **Analysis Methodology of the Search for Ultrahigh Energy Neutrinos in 10.6 Years of Askaryan Radio Array Data**
+[https://arxiv.org/abs/2611.14354]
+  + Nathaniel Alden? (2th author, Graduate Student)
+  + Cosmin Deaconu? (17th author, Senior Researcher)
+  + Eric Oberla? (42th author, Senior Researcher)
+  + Abigail Vieregg? (56th author, David N. Schramm Director and Senior Member)
+  + Philipp Windischhofer? (60th author, Associate Fellow)
+
+- **New Constraints on the Ultrahigh Energy Neutrino Flux from the First Array-Wide Search with the Askaryan Radio Array**
+[https://arxiv.org/abs/2611.14350]
+  + Nathaniel Alden? (2th author, Graduate Student)
+  + Cosmin Deaconu? (17th author, Senior Researcher)
+  + Eric Oberla? (42th author, Senior Researcher)
+  + Abigail Vieregg? (56th author, David N. Schramm Director and Senior Member)
+  + Philipp Windischhofer? (60th author, Associate Fellow)
+
+- **DustER: Dust Extinction with Photometric Red Galaxies**
+[https://arxiv.org/abs/2611.14280]
+  + Chun-Hao To (4th author, Associate Fellow)
 
 - **AGN Feedback Turbulence in Cool-core Clusters: Evidence from XRISM**
 [https://arxiv.org/abs/2611.12845]
@@ -63,12 +83,4 @@
 - **The Cosmology of Hawking Axions**
 [https://arxiv.org/abs/2611.05747]
   + Gordan Krnjaic (2th author, Senior Member)
-
-- **Response to "Late Time Dynamical Dark Energy and the CMB-Distance Ladder Tension"**
-[https://arxiv.org/abs/2611.05199]
-  + Michael S. Turner (1th author, Bruce V. and Diana M. Rauner Distinguished Service Professor Emeritus)
-
-- **Stress-Testing Small-Scale Cosmological Inference With Empirical Galaxy--Halo Connection Models**
-[https://arxiv.org/abs/2611.04419]
-  + Andrew Hearin (4th author, Senior Associate)
 
