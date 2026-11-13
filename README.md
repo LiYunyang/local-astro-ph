@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 12 19:31:29 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Nov 12 20:34:17 CST 2026)
 
 - **Analysis Methodology of the Search for Ultrahigh Energy Neutrinos in 10.6 Years of Askaryan Radio Array Data**
 [https://arxiv.org/abs/2611.14354]
