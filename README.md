@@ -1,6 +1,48 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 12 20:34:17 CST 2026)
+## Latest Astro-ph Papers (Generated on Fri Nov 13 19:31:59 CST 2026)
+
+- **The ultraviolet continuum slopes of galaxies at $\mathbf{z \gtrsim 12}$ selected from ${\mathbf{0.6 \, deg}^2}$ of JWST imaging**
+[https://arxiv.org/abs/2611.17208]
+  + Ian Holst? (14th author, Graduate Student)
+
+- **Stellar-Field-Driven Induction Heating Unlikely To Cause Significant Heating in Giant Exoplanets**
+[https://arxiv.org/abs/2611.16949]
+  + Madison Brady (1th author, Graduate Student)
+
+- **Euclid Data Release 1 (DR1): Spacecraft performance in the L2 environment**
+[https://arxiv.org/abs/2611.16548]
+  + Alberto Castellano Mora? (30th author, Associate Fellow)
+
+- **Euclid Data Release 1 (DR1): Calibration strategy and observations**
+[https://arxiv.org/abs/2611.16546]
+  + Alberto Castellano Mora? (67th author, Associate Fellow)
+
+- **What the X-ray Emission from Young Supernovae Can Tell Us About Their Progenitors**
+[https://arxiv.org/abs/2611.16216]
+  + Vikram Dwarkadas (1th author, Research Professor)
+
+- **Euclid: Data Release 1 (DR1) -- Bayesian 3D shape inference of star-forming galaxy populations**
+[https://arxiv.org/abs/2611.16109]
+  + Alberto Castellano Mora? (95th author, Associate Fellow)
+
+- **Dynamical stability of double planets in compact multiplanetary systems**
+[https://arxiv.org/abs/2611.16091]
+  + Wolf Cukier (1th author, Graduate Student)
+
+- **Anatomy of LyC Escape in MEGATRON: Connecting Feedback Physics to Demographics, Leakage Timescales, and Explorations of ISM Density as a Tracer of Escape Fraction**
+[https://arxiv.org/abs/2611.15931]
+  + Harley Katz (2th author, Senior Member)
+
+- **Swept by the Galactic Tide: How Galactic Tides and Stellar Encounters Drive the Evolution of Wide Binaries and Their Giant Planets**
+[https://arxiv.org/abs/2611.15913]
+  + Vighnesh Nagpal (1th author, Graduate Student)
+  + Diana Powell (7th author, Assistant Professor)
+
+- **Development of millikelvin scintillation photodetectors with CUPID**
+[https://arxiv.org/abs/2611.15593]
+  + Chihway Chang? (43th author, Senior Member)
+  + Hsiao-Wen Chen? (47th author, Senior Member)
 
 - **Analysis Methodology of the Search for Ultrahigh Energy Neutrinos in 10.6 Years of Askaryan Radio Array Data**
 [https://arxiv.org/abs/2611.14354]
@@ -67,20 +109,4 @@
 - **First broadband search for fixed-polarization dark photon dark matter with GigaBREAD**
 [https://arxiv.org/abs/2611.07426]
   + David Miller (6th author, Senior Member)
-
-- **Euclid: Survey mask effects on clustering of galaxy clusters**
-[https://arxiv.org/abs/2611.06304]
-  + Alberto Castellano Mora? (87th author, Associate Fellow)
-
-- **DESI DR2 Results III: The Mass of the Milky Way**
-[https://arxiv.org/abs/2611.05518]
-  + Stephen Kent? (59th author, CASE Associate)
-
-- **CosmoVerse Data Challenge: How Tip of the Red Giant Branch Analysis Choices Shape the Inferred Hubble Constant**
-[https://arxiv.org/abs/2611.05468]
-  + Kayla Owens (4th author, Graduate Student)
-
-- **The Cosmology of Hawking Axions**
-[https://arxiv.org/abs/2611.05747]
-  + Gordan Krnjaic (2th author, Senior Member)
 
