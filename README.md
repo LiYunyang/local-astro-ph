@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sat Nov 14 19:31:30 CST 2026)
+## Latest Astro-ph Papers (Generated on Sat Nov 14 20:33:31 CST 2026)
 
 - **The ultraviolet continuum slopes of galaxies at $\mathbf{z \gtrsim 12}$ selected from ${\mathbf{0.6 \, deg}^2}$ of JWST imaging**
 [https://arxiv.org/abs/2611.17208]
