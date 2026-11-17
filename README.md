@@ -1,6 +1,10 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov 15 20:35:20 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Nov 16 19:32:05 CST 2026)
+
+- **Cubic Galileon Gravity on Nonlinear Scales with \texttt{Hi-COLA} for LSST Year 1**
+[https://arxiv.org/abs/2611.18211]
+  + Katrin Heitmann? (6th author, Senior Associate)
 
 - **The ultraviolet continuum slopes of galaxies at $\mathbf{z \gtrsim 12}$ selected from ${\mathbf{0.6 \, deg}^2}$ of JWST imaging**
 [https://arxiv.org/abs/2611.17208]
@@ -89,24 +93,4 @@
 - **Lessons from double-plane lenses for galaxy profiles, the Hubble tension, and the mass-sheet degeneracy**
 [https://arxiv.org/abs/2611.09856]
   + Daniel Gilman (10th author, Associate Fellow)
-
-- **High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array**
-[https://arxiv.org/abs/2611.07363]
-  + LianTao Wang? (24th author, Senior Member)
-
-- **Dust Survival in Lensed Quiescent Galaxies at $z>1$ Depends on How They Quench**
-[https://arxiv.org/abs/2611.07237]
-  + Michael D. Gladders (4th author, Professor)
-
-- **Why a Multi-Cycle Treasury Program is Essential to Maximize JWST's Scientific Contributions to Galaxy Formation**
-[https://arxiv.org/abs/2611.07027]
-  + Harley Katz (18th author, Senior Member)
-
-- **Black Hole Seeds and Little Red Dots: Connecting Formation and Growth with a JWST Multi-Cycle Treasury Program**
-[https://arxiv.org/abs/2611.07006]
-  + Harley Katz (3th author, Senior Member)
-
-- **First broadband search for fixed-polarization dark photon dark matter with GigaBREAD**
-[https://arxiv.org/abs/2611.07426]
-  + David Miller (6th author, Senior Member)
 
