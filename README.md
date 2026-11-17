@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 16 19:32:05 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Nov 16 20:34:15 CST 2026)
 
 - **Cubic Galileon Gravity on Nonlinear Scales with \texttt{Hi-COLA} for LSST Year 1**
 [https://arxiv.org/abs/2611.18211]
