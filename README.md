@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 17 19:31:41 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Nov 17 20:33:39 CST 2026)
 
 - **Quantifying the Dominance and Emergence of Brightest Cluster Galaxies in SPT and Planck Clusters: A Novel Application of the Gini Index**
 [https://arxiv.org/abs/2611.18929]
