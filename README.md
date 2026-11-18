@@ -1,6 +1,44 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 16 20:34:15 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Nov 17 19:31:41 CST 2026)
+
+- **Quantifying the Dominance and Emergence of Brightest Cluster Galaxies in SPT and Planck Clusters: A Novel Application of the Gini Index**
+[https://arxiv.org/abs/2611.18929]
+  + Michael D. Gladders (4th author, Professor)
+  + Lindsey Bleem (7th author, Senior Associate)
+
+- **Searching for Anisotropic Cosmic Birefringence with SPT-3G**
+[https://arxiv.org/abs/2611.18876]
+  + Dhayaa Anbajagane? (3th author, Graduate Student)
+  + Adam Anderson? (5th author, Senior Associate)
+  + Melanie Archipley? (7th author, Associate Fellow)
+  + Amy Bender? (12th author, Senior Associate)
+  + Bradford A. Benson? (13th author, Associate Professor)
+  + Lindsey Bleem? (15th author, Senior Associate)
+  + John Carlstrom? (20th author, Senior Member)
+  + Chihway Chang? (22th author, Senior Member)
+  + Paul Chichura? (23th author, Graduate Student)
+  + Thomas Crawford? (26th author, Senior Researcher)
+  + Karia Dibert? (29th author, Graduate Student)
+  + Kyra Fichman? (36th author, Graduate Student)
+  + John Hood? (48th author, Associate Fellow)
+  + Alexander Hryciuk? (49th author, Graduate Student)
+  + Tanisha Jhaveri? (51th author, Graduate Student)
+  + Kayla Kornoelje? (55th author, Graduate Student)
+  + Yunyang Li? (58th author, KICP Fellow)
+  + Emily Martsen? (64th author, Graduate Student)
+  + Tyler Natoli? (69th author, Senior Researcher)
+  + Wei Quan? (75th author, Associate Fellow)
+  + Alexandra Rahlin? (76th author, Research Assistant Professor)
+  + Aidan Simpson? (81th author, Graduate Student)
+  + Joshua Sobrin? (82th author, Associate Fellow)
+  + Abigail Vieregg? (89th author, David N. Schramm Director and Senior Member)
+  + Matthew Young? (94th author, Associate Fellow)
+  + Jessica Zebrowski? (95th author, KICP and Einstein Fellow)
+
+- **Black Hole Superradiance and the Gravitational Auger Effect**
+[https://arxiv.org/abs/2611.18833]
+  + Joshua Foster (1th author, Associate Fellow)
 
 - **Cubic Galileon Gravity on Nonlinear Scales with \texttt{Hi-COLA} for LSST Year 1**
 [https://arxiv.org/abs/2611.18211]
@@ -74,7 +112,7 @@
   + Hannah McCall (4th author, Graduate Student)
   + Annie Heinrich (5th author, Graduate Student)
 
-- **The Cool Circumgalactic Echo of the Stellar-to-Halo Mass Relatio**
+- **The Cool Circumgalactic Echo of the Stellar-to-Halo Mass Relation**
 [https://arxiv.org/abs/2611.12734]
   + Zhijie Qu (7th author, Postdoctoral Scholar)
 
@@ -89,8 +127,4 @@
   + Ava Polzin? (72th author, Graduate Student)
   + Francisco Rodriguez Montero? (78th author, KICP Fellow)
   + Roy Zhao? (100th author, Graduate Student)
-
-- **Lessons from double-plane lenses for galaxy profiles, the Hubble tension, and the mass-sheet degeneracy**
-[https://arxiv.org/abs/2611.09856]
-  + Daniel Gilman (10th author, Associate Fellow)
 
