@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 17 20:33:39 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Nov 18 19:31:51 CST 2026)
+
+- **Euclid: Quick Data Release (Q1) -- The evolution of the radio-loud AGN fraction-stellar mass relation to $z\sim3$ in the Euclid Deep Field North**
+[https://arxiv.org/abs/2611.22887]
+  + LianTao Wang? (3th author, Senior Member)
+
+- **Diverse Stellar Components Resolved by JWST in the Massive Galaxy SPT0311-58**
+[https://arxiv.org/abs/2611.21761]
+  + Melanie Archipley (6th author, Associate Fellow)
 
 - **Quantifying the Dominance and Emergence of Brightest Cluster Galaxies in SPT and Planck Clusters: A Novel Application of the Gini Index**
 [https://arxiv.org/abs/2611.18929]
@@ -105,26 +113,4 @@
 - **DustER: Dust Extinction with Photometric Red Galaxies**
 [https://arxiv.org/abs/2611.14280]
   + Chun-Hao To (4th author, Associate Fellow)
-
-- **AGN Feedback Turbulence in Cool-core Clusters: Evidence from XRISM**
-[https://arxiv.org/abs/2611.12845]
-  + Irina Zhuravleva (3th author, Assistant Professor)
-  + Hannah McCall (4th author, Graduate Student)
-  + Annie Heinrich (5th author, Graduate Student)
-
-- **The Cool Circumgalactic Echo of the Stellar-to-Halo Mass Relation**
-[https://arxiv.org/abs/2611.12734]
-  + Zhijie Qu (7th author, Postdoctoral Scholar)
-
-- **A DOLPHOT/Euclid Study of the Resolved, Faint Outer Milky Way Globular Cluster AM-1**
-[https://arxiv.org/abs/2611.10127]
-  + Abigail Lee (5th author, Graduate Student)
-
-- **What observations are needed to advance our theoretical understanding of galaxy formation at high redshift?**
-[https://arxiv.org/abs/2611.10102]
-  + Harley Katz? (1th author, Senior Member)
-  + Agustin Lapi? (56th author, Associate Fellow)
-  + Ava Polzin? (72th author, Graduate Student)
-  + Francisco Rodriguez Montero? (78th author, KICP Fellow)
-  + Roy Zhao? (100th author, Graduate Student)
 
