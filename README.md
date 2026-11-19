@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 18 19:31:51 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Nov 18 20:33:55 CST 2026)
 
 - **Euclid: Quick Data Release (Q1) -- The evolution of the radio-loud AGN fraction-stellar mass relation to $z\sim3$ in the Euclid Deep Field North**
 [https://arxiv.org/abs/2611.22887]
