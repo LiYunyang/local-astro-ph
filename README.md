@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 19 19:31:52 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Nov 19 20:33:49 CST 2026)
 
 - **Orbital parameters for 50 million stars observed by Gaia and spectroscopic surveys**
 [https://arxiv.org/abs/2611.23411]
