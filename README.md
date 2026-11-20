@@ -1,6 +1,14 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 18 20:33:55 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Nov 19 19:31:52 CST 2026)
+
+- **Orbital parameters for 50 million stars observed by Gaia and spectroscopic surveys**
+[https://arxiv.org/abs/2611.23411]
+  + Guilherme Limberg (6th author, KICP Fellow)
+
+- **The Price of Discovery: Cost-Optimized Detectors for the GUT-Scale QCD Axion**
+[https://arxiv.org/abs/2611.23374]
+  + Joshua Foster (2th author, Associate Fellow)
 
 - **Euclid: Quick Data Release (Q1) -- The evolution of the radio-loud AGN fraction-stellar mass relation to $z\sim3$ in the Euclid Deep Field North**
 [https://arxiv.org/abs/2611.22887]
@@ -93,24 +101,4 @@
 [https://arxiv.org/abs/2611.15593]
   + Chihway Chang? (43th author, Senior Member)
   + Hsiao-Wen Chen? (47th author, Senior Member)
-
-- **Analysis Methodology of the Search for Ultrahigh Energy Neutrinos in 10.6 Years of Askaryan Radio Array Data**
-[https://arxiv.org/abs/2611.14354]
-  + Nathaniel Alden? (2th author, Graduate Student)
-  + Cosmin Deaconu? (17th author, Senior Researcher)
-  + Eric Oberla? (42th author, Senior Researcher)
-  + Abigail Vieregg? (56th author, David N. Schramm Director and Senior Member)
-  + Philipp Windischhofer? (60th author, Associate Fellow)
-
-- **New Constraints on the Ultrahigh Energy Neutrino Flux from the First Array-Wide Search with the Askaryan Radio Array**
-[https://arxiv.org/abs/2611.14350]
-  + Nathaniel Alden? (2th author, Graduate Student)
-  + Cosmin Deaconu? (17th author, Senior Researcher)
-  + Eric Oberla? (42th author, Senior Researcher)
-  + Abigail Vieregg? (56th author, David N. Schramm Director and Senior Member)
-  + Philipp Windischhofer? (60th author, Associate Fellow)
-
-- **DustER: Dust Extinction with Photometric Red Galaxies**
-[https://arxiv.org/abs/2611.14280]
-  + Chun-Hao To (4th author, Associate Fellow)
 
