@@ -1,6 +1,18 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 19 20:33:49 CST 2026)
+## Latest Astro-ph Papers (Generated on Fri Nov 20 19:31:34 CST 2026)
+
+- **Square Kilometre Array Science Data Challenge 3b: EoR inference**
+[https://arxiv.org/abs/2611.25823]
+  + Yunyang Li? (95th author, KICP Fellow)
+
+- **Model-Based Low-Order Wavefront Sensing and Control with a Fully Physical Digital Twin on MagAO-X**
+[https://arxiv.org/abs/2611.25423]
+  + Jianyu Long? (13th author, Graduate Student)
+
+- **Where Did the Angular Momentum Go? WASP-12 b May Have Circularized on a Retrograde Orbit**
+[https://arxiv.org/abs/2611.25203]
+  + Rafael Luque (19th author, Postdoctoral Scholar)
 
 - **Orbital parameters for 50 million stars observed by Gaia and spectroscopic surveys**
 [https://arxiv.org/abs/2611.23411]
@@ -59,46 +71,4 @@
 - **Cubic Galileon Gravity on Nonlinear Scales with \texttt{Hi-COLA} for LSST Year 1**
 [https://arxiv.org/abs/2611.18211]
   + Katrin Heitmann? (6th author, Senior Associate)
-
-- **The ultraviolet continuum slopes of galaxies at $\mathbf{z \gtrsim 12}$ selected from ${\mathbf{0.6 \, deg}^2}$ of JWST imaging**
-[https://arxiv.org/abs/2611.17208]
-  + Ian Holst? (14th author, Graduate Student)
-
-- **Stellar-Field-Driven Induction Heating Unlikely To Cause Significant Heating in Giant Exoplanets**
-[https://arxiv.org/abs/2611.16949]
-  + Madison Brady (1th author, Graduate Student)
-
-- **Euclid Data Release 1 (DR1): Spacecraft performance in the L2 environment**
-[https://arxiv.org/abs/2611.16548]
-  + Alberto Castellano Mora? (30th author, Associate Fellow)
-
-- **Euclid Data Release 1 (DR1): Calibration strategy and observations**
-[https://arxiv.org/abs/2611.16546]
-  + Alberto Castellano Mora? (67th author, Associate Fellow)
-
-- **What the X-ray Emission from Young Supernovae Can Tell Us About Their Progenitors**
-[https://arxiv.org/abs/2611.16216]
-  + Vikram Dwarkadas (1th author, Research Professor)
-
-- **Euclid: Data Release 1 (DR1) -- Bayesian 3D shape inference of star-forming galaxy populations**
-[https://arxiv.org/abs/2611.16109]
-  + Alberto Castellano Mora? (95th author, Associate Fellow)
-
-- **Dynamical stability of double planets in compact multiplanetary systems**
-[https://arxiv.org/abs/2611.16091]
-  + Wolf Cukier (1th author, Graduate Student)
-
-- **Anatomy of LyC Escape in MEGATRON: Connecting Feedback Physics to Demographics, Leakage Timescales, and Explorations of ISM Density as a Tracer of Escape Fraction**
-[https://arxiv.org/abs/2611.15931]
-  + Harley Katz (2th author, Senior Member)
-
-- **Swept by the Galactic Tide: How Galactic Tides and Stellar Encounters Drive the Evolution of Wide Binaries and Their Giant Planets**
-[https://arxiv.org/abs/2611.15913]
-  + Vighnesh Nagpal (1th author, Graduate Student)
-  + Diana Powell (7th author, Assistant Professor)
-
-- **Development of millikelvin scintillation photodetectors with CUPID**
-[https://arxiv.org/abs/2611.15593]
-  + Chihway Chang? (43th author, Senior Member)
-  + Hsiao-Wen Chen? (47th author, Senior Member)
 
