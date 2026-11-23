@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov 22 19:31:21 CST 2026)
+## Latest Astro-ph Papers (Generated on Sun Nov 22 20:35:52 CST 2026)
 
 - **Square Kilometre Array Science Data Challenge 3b: EoR inference**
 [https://arxiv.org/abs/2611.25823]
