@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Mon Nov 23 19:31:35 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Nov 23 20:35:03 CST 2026)
 
 - **The First Adolescent Super-Earth-Sized Multi-Planet System Around an M Dwarf: TOI-2079**
 [https://arxiv.org/abs/2611.27522]
