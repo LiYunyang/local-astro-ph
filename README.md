@@ -1,6 +1,19 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Sun Nov 22 20:35:52 CST 2026)
+## Latest Astro-ph Papers (Generated on Mon Nov 23 19:31:35 CST 2026)
+
+- **The First Adolescent Super-Earth-Sized Multi-Planet System Around an M Dwarf: TOI-2079**
+[https://arxiv.org/abs/2611.27522]
+  + Rafael Luque? (42th author, Postdoctoral Scholar)
+
+- **Charge Exchange Illuminates Turbulent Cold-Hot Interfaces**
+[https://arxiv.org/abs/2611.26684]
+  + Zhijie Qu (5th author, Postdoctoral Scholar)
+
+- **PLATON 7: An ultra-fast exoplanet atmospheric retrieval code**
+[https://arxiv.org/abs/2611.26680]
+  + Michael Zhang (1th author, Inaugural E. Margaret Burbidge Prize Postdoctoral Fellow)
+  + Jacob L. Bean (7th author, Professor)
 
 - **Square Kilometre Array Science Data Challenge 3b: EoR inference**
 [https://arxiv.org/abs/2611.25823]
@@ -67,8 +80,4 @@
 - **Black Hole Superradiance and the Gravitational Auger Effect**
 [https://arxiv.org/abs/2611.18833]
   + Joshua Foster (1th author, Associate Fellow)
-
-- **Cubic Galileon Gravity on Nonlinear Scales with \texttt{Hi-COLA} for LSST Year 1**
-[https://arxiv.org/abs/2611.18211]
-  + Katrin Heitmann? (6th author, Senior Associate)
 
