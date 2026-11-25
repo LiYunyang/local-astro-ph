@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 24 19:31:35 CST 2026)
+## Latest Astro-ph Papers (Generated on Tue Nov 24 20:35:14 CST 2026)
 
 - **The Sensitivity of Gamma-Ray Searches for Dark Matter Annihilation in Milky Way Dwarf Galaxies: the LSST Era and Beyond**
 [https://arxiv.org/abs/2611.31130]
