@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 25 19:31:51 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Nov 25 20:34:42 CST 2026)
 
 - **From Historical Schedules to On-Sky Control: Autonomous Scheduling on the 4-m Blanco Telescope**
 [https://arxiv.org/abs/2611.32963]
