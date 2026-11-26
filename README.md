@@ -1,6 +1,16 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Tue Nov 24 20:35:14 CST 2026)
+## Latest Astro-ph Papers (Generated on Wed Nov 25 19:31:51 CST 2026)
+
+- **From Historical Schedules to On-Sky Control: Autonomous Scheduling on the 4-m Blanco Telescope**
+[https://arxiv.org/abs/2611.32963]
+  + Paul Chichura (2th author, Graduate Student)
+  + Alex Drlica-Wagner (3th author, Senior Member)
+  + Aleksandra  Ciprijanovic (6th author, CASE Associate)
+
+- **A homogeneous mass campaign of transiting sub-Neptunes around FGK stars**
+[https://arxiv.org/abs/2611.32356]
+  + Rafael Luque (2th author, Postdoctoral Scholar)
 
 - **The Sensitivity of Gamma-Ray Searches for Dark Matter Annihilation in Milky Way Dwarf Galaxies: the LSST Era and Beyond**
 [https://arxiv.org/abs/2611.31130]
@@ -59,12 +69,4 @@
 - **The Price of Discovery: Cost-Optimized Detectors for the GUT-Scale QCD Axion**
 [https://arxiv.org/abs/2611.23374]
   + Joshua Foster (2th author, Associate Fellow)
-
-- **Euclid: Quick Data Release (Q1) -- The evolution of the radio-loud AGN fraction-stellar mass relation to $z\sim3$ in the Euclid Deep Field North**
-[https://arxiv.org/abs/2611.22887]
-  + LianTao Wang? (3th author, Senior Member)
-
-- **Diverse Stellar Components Resolved by JWST in the Massive Galaxy SPT0311-58**
-[https://arxiv.org/abs/2611.21761]
-  + Melanie Archipley (6th author, Associate Fellow)
 
