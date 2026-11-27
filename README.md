@@ -1,6 +1,6 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Thu Nov 26 19:31:35 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Nov 26 20:34:41 CST 2026)
 
 - **No Cluster Left Behind I: Joint Mass Calibration for Dark Energy Survey and South Pole Telescope Clusters**
 [https://arxiv.org/abs/2611.33522]
