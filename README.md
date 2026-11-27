@@ -1,6 +1,23 @@
 # KICP/A&A astro-ph listing
 
-## Latest Astro-ph Papers (Generated on Wed Nov 25 20:34:42 CST 2026)
+## Latest Astro-ph Papers (Generated on Thu Nov 26 19:31:35 CST 2026)
+
+- **No Cluster Left Behind I: Joint Mass Calibration for Dark Energy Survey and South Pole Telescope Clusters**
+[https://arxiv.org/abs/2611.33522]
+  + Lindsey Bleem? (6th author, Senior Associate)
+  + Marco Gatti? (8th author, KICP Fellow)
+
+- **NuSrcAgent: An AI Agent for High-Energy Neutrino Source Searches**
+[https://arxiv.org/abs/2611.33324]
+  + Bei Zhou (1th author, Associate Fellow)
+
+- **Constraining Intergalactic Dust with Supernova Color Evolution: Current Constraints from DES and Forecasts for LSST and Roman**
+[https://arxiv.org/abs/2611.33276]
+  + Richard Kessler (6th author, Senior Researcher)
+
+- **Low-latency gravitational wave alert infrastructure and new data products for multi-messenger astronomy during LIGO-Virgo-KAGRA's fourth observing run**
+[https://arxiv.org/abs/2611.33434]
+  + Colm Talbot (45th author, Associate Fellow)
 
 - **From Historical Schedules to On-Sky Control: Autonomous Scheduling on the 4-m Blanco Telescope**
 [https://arxiv.org/abs/2611.32963]
@@ -61,12 +78,4 @@
 - **Where Did the Angular Momentum Go? WASP-12 b May Have Circularized on a Retrograde Orbit**
 [https://arxiv.org/abs/2611.25203]
   + Rafael Luque (19th author, Postdoctoral Scholar)
-
-- **Orbital parameters for 50 million stars observed by Gaia and spectroscopic surveys**
-[https://arxiv.org/abs/2611.23411]
-  + Guilherme Limberg (6th author, KICP Fellow)
-
-- **The Price of Discovery: Cost-Optimized Detectors for the GUT-Scale QCD Axion**
-[https://arxiv.org/abs/2611.23374]
-  + Joshua Foster (2th author, Associate Fellow)
 
